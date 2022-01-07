@@ -9,3 +9,5 @@ Initial web engineering and learning log.
 - [2022-01-07T11:13] feat(css): add custom CSS scrollbar styling for webkit browsers
 
 - [2022-01-07T12:06] feat(css): add smooth hover transitions and button active states
+
+- [2022-01-07T13:02] fix(js): handle fetch network error with user-friendly alert message
