@@ -15,3 +15,5 @@ Initial web engineering and learning log.
 - [2022-03-01T10:23] feat(css): create custom card drop-shadow utilities and rounded borders
 
 - [2022-03-01T11:59] feat(html): scaffold basic semantic layout structure with header and footer
+
+- [2022-03-01T12:43] feat(react): fetch asynchronous API data inside useEffect lifecycle hook
