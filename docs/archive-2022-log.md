@@ -17,3 +17,5 @@ Initial web engineering and learning log.
 - [2022-03-01T11:59] feat(html): scaffold basic semantic layout structure with header and footer
 
 - [2022-03-01T12:43] feat(react): fetch asynchronous API data inside useEffect lifecycle hook
+
+- [2022-03-01T13:50] feat(js): implement local storage caching for form draft input
