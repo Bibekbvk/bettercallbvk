@@ -19,3 +19,5 @@ Initial web engineering and learning log.
 - [2022-03-01T12:43] feat(react): fetch asynchronous API data inside useEffect lifecycle hook
 
 - [2022-03-01T13:50] feat(js): implement local storage caching for form draft input
+
+- [2022-03-02T10:33] feat(css): create reusable button component utility classes
