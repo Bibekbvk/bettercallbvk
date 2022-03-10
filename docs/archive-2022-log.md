@@ -25,3 +25,5 @@ Initial web engineering and learning log.
 - [2022-03-10T09:55] refactor(utils): extract date formatting helper into separate utils file
 
 - [2022-03-10T10:43] feat(css): implement mobile media query breakpoints for tablet and phone
+
+- [2022-03-10T11:56] feat(auth): implement user registration route with bcrypt password hashing
