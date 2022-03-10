@@ -27,3 +27,5 @@ Initial web engineering and learning log.
 - [2022-03-10T10:43] feat(css): implement mobile media query breakpoints for tablet and phone
 
 - [2022-03-10T11:56] feat(auth): implement user registration route with bcrypt password hashing
+
+- [2022-03-10T13:21] feat(js): implement debounced scroll-to-top floating button
