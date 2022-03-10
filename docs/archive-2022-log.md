@@ -31,3 +31,5 @@ Initial web engineering and learning log.
 - [2022-03-10T13:21] feat(js): implement debounced scroll-to-top floating button
 
 - [2022-03-10T15:15] feat(db): define Product and ContactMessage schemas with timestamps
+
+- [2022-03-10T16:32] feat(react): create reusable Button, Card, and Badge components
