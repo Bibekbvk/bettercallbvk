@@ -23,3 +23,5 @@ Initial web engineering and learning log.
 - [2022-03-02T10:33] feat(css): create reusable button component utility classes
 
 - [2022-03-10T09:55] refactor(utils): extract date formatting helper into separate utils file
+
+- [2022-03-10T10:43] feat(css): implement mobile media query breakpoints for tablet and phone
