@@ -41,3 +41,5 @@ Initial web engineering and learning log.
 - [2022-03-11T13:29] feat(react): scaffold multi-page navigation using React Router DOM
 
 - [2022-03-11T15:21] chore(deps): install axios, react-icons, and express dependencies
+
+- [2022-03-11T16:21] feat(css): implement responsive flexbox navigation bar
