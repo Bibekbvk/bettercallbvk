@@ -35,3 +35,5 @@ Initial web engineering and learning log.
 - [2022-03-10T16:32] feat(react): create reusable Button, Card, and Badge components
 
 - [2022-03-11T10:25] fix(images): add width and height attributes to prevent layout shift
+
+- [2022-03-11T12:16] feat(auth): generate signed JWT token on successful credential verification
