@@ -47,3 +47,5 @@ Initial web engineering and learning log.
 - [2022-03-15T09:52] feat(js): implement dark mode theme toggle using localStorage persistence
 
 - [2022-03-15T11:07] feat(js): build interactive image modal lightbox with next/prev buttons
+
+- [2022-03-15T12:44] feat(js): add accordion FAQ toggle with smooth height transition
