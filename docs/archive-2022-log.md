@@ -53,3 +53,5 @@ Initial web engineering and learning log.
 - [2022-03-15T13:50] feat(db): setup MongoDB connection using Mongoose ODM client
 
 - [2022-03-15T15:13] refactor(clean): remove unused CSS classes and console.log debugging statements
+
+- [2022-03-15T16:38] feat(js): implement mobile navigation hamburger menu toggle
