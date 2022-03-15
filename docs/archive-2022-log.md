@@ -49,3 +49,5 @@ Initial web engineering and learning log.
 - [2022-03-15T11:07] feat(js): build interactive image modal lightbox with next/prev buttons
 
 - [2022-03-15T12:44] feat(js): add accordion FAQ toggle with smooth height transition
+
+- [2022-03-15T13:50] feat(db): setup MongoDB connection using Mongoose ODM client
