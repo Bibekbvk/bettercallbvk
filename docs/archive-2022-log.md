@@ -55,3 +55,5 @@ Initial web engineering and learning log.
 - [2022-03-15T15:13] refactor(clean): remove unused CSS classes and console.log debugging statements
 
 - [2022-03-15T16:38] feat(js): implement mobile navigation hamburger menu toggle
+
+- [2022-03-15T17:27] feat(react): manage dynamic list state using useState hook
