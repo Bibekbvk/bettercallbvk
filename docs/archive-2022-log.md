@@ -45,3 +45,5 @@ Initial web engineering and learning log.
 - [2022-03-11T16:21] feat(css): implement responsive flexbox navigation bar
 
 - [2022-03-15T09:52] feat(js): implement dark mode theme toggle using localStorage persistence
+
+- [2022-03-15T11:07] feat(js): build interactive image modal lightbox with next/prev buttons
