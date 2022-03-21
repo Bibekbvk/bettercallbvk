@@ -57,3 +57,5 @@ Initial web engineering and learning log.
 - [2022-03-15T16:38] feat(js): implement mobile navigation hamburger menu toggle
 
 - [2022-03-15T17:27] feat(react): manage dynamic list state using useState hook
+
+- [2022-03-21T10:45] fix(nav): close mobile drawer automatically when route changes
