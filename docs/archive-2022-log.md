@@ -59,3 +59,5 @@ Initial web engineering and learning log.
 - [2022-03-15T17:27] feat(react): manage dynamic list state using useState hook
 
 - [2022-03-21T10:45] fix(nav): close mobile drawer automatically when route changes
+
+- [2022-03-21T11:43] feat(api): create GET and POST endpoints for contact message inbox
