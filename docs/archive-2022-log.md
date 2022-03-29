@@ -63,3 +63,5 @@ Initial web engineering and learning log.
 - [2022-03-21T11:43] feat(api): create GET and POST endpoints for contact message inbox
 
 - [2022-03-29T09:33] fix(react): prevent unnecessary re-renders with useCallback
+
+- [2022-03-29T11:07] fix(auth): fix token expiration check on protected page reload
