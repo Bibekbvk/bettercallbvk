@@ -73,3 +73,5 @@ Initial web engineering and learning log.
 - [2022-04-07T12:36] feat(js): fetch public repository list via GitHub REST API with fetch()
 
 - [2022-04-07T14:14] docs(api): document REST API endpoints and query parameters in README
+
+- [2022-04-07T15:27] fix(layout): resolve mobile horizontal scroll overflow issue
