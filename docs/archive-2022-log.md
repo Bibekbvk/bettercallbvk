@@ -67,3 +67,5 @@ Initial web engineering and learning log.
 - [2022-03-29T11:07] fix(auth): fix token expiration check on protected page reload
 
 - [2022-04-07T10:26] feat(api): implement CORS headers middleware for frontend domain access
+
+- [2022-04-07T11:09] feat(react): implement simple modal dialog with React portal
