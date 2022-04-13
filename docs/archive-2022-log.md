@@ -79,3 +79,5 @@ Initial web engineering and learning log.
 - [2022-04-13T10:54] fix(api): return proper 404 status code when queried item does not exist
 
 - [2022-04-13T12:23] feat(js): add client-side form validation for contact message form
+
+- [2022-04-13T13:46] feat(html): add meta viewport tag for responsive mobile rendering
