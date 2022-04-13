@@ -75,3 +75,5 @@ Initial web engineering and learning log.
 - [2022-04-07T14:14] docs(api): document REST API endpoints and query parameters in README
 
 - [2022-04-07T15:27] fix(layout): resolve mobile horizontal scroll overflow issue
+
+- [2022-04-13T10:54] fix(api): return proper 404 status code when queried item does not exist
