@@ -83,3 +83,5 @@ Initial web engineering and learning log.
 - [2022-04-13T13:46] feat(html): add meta viewport tag for responsive mobile rendering
 
 - [2022-04-13T15:18] feat(js): add live search filter on project card elements
+
+- [2022-04-13T16:54] fix(css): fix button label vertical alignment in Safari browser
