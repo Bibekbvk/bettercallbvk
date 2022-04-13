@@ -81,3 +81,5 @@ Initial web engineering and learning log.
 - [2022-04-13T12:23] feat(js): add client-side form validation for contact message form
 
 - [2022-04-13T13:46] feat(html): add meta viewport tag for responsive mobile rendering
+
+- [2022-04-13T15:18] feat(js): add live search filter on project card elements
