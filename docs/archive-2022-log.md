@@ -87,3 +87,5 @@ Initial web engineering and learning log.
 - [2022-04-13T16:54] fix(css): fix button label vertical alignment in Safari browser
 
 - [2022-04-15T10:38] fix(react): add missing key prop to mapped list items
+
+- [2022-04-15T12:06] feat(react): create custom useWindowDimensions hook for responsive UI
