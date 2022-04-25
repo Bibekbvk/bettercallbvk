@@ -93,3 +93,5 @@ Initial web engineering and learning log.
 - [2022-04-25T11:11] feat(js): build simple countdown timer component with setInterval
 
 - [2022-04-25T12:54] feat(react): implement controlled input components with validation feedback
+
+- [2022-04-25T13:39] chore(git): configure .gitignore for node_modules and .env files
