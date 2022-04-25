@@ -89,3 +89,5 @@ Initial web engineering and learning log.
 - [2022-04-15T10:38] fix(react): add missing key prop to mapped list items
 
 - [2022-04-15T12:06] feat(react): create custom useWindowDimensions hook for responsive UI
+
+- [2022-04-25T11:11] feat(js): build simple countdown timer component with setInterval
