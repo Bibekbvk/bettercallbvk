@@ -95,3 +95,5 @@ Initial web engineering and learning log.
 - [2022-04-25T12:54] feat(react): implement controlled input components with validation feedback
 
 - [2022-04-25T13:39] chore(git): configure .gitignore for node_modules and .env files
+
+- [2022-04-25T14:45] feat(react): add conditional rendering for loading spinners and empty states
