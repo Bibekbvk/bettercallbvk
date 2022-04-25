@@ -91,3 +91,5 @@ Initial web engineering and learning log.
 - [2022-04-15T12:06] feat(react): create custom useWindowDimensions hook for responsive UI
 
 - [2022-04-25T11:11] feat(js): build simple countdown timer component with setInterval
+
+- [2022-04-25T12:54] feat(react): implement controlled input components with validation feedback
