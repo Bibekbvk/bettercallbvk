@@ -97,3 +97,5 @@ Initial web engineering and learning log.
 - [2022-04-25T13:39] chore(git): configure .gitignore for node_modules and .env files
 
 - [2022-04-25T14:45] feat(react): add conditional rendering for loading spinners and empty states
+
+- [2022-04-27T09:51] feat(api): add input validation middleware for incoming request payloads
