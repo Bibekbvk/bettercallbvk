@@ -99,3 +99,5 @@ Initial web engineering and learning log.
 - [2022-04-25T14:45] feat(react): add conditional rendering for loading spinners and empty states
 
 - [2022-04-27T09:51] feat(api): add input validation middleware for incoming request payloads
+
+- [2022-04-27T11:44] feat(react): add cart item count badge and state lifting
