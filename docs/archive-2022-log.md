@@ -101,3 +101,5 @@ Initial web engineering and learning log.
 - [2022-04-27T09:51] feat(api): add input validation middleware for incoming request payloads
 
 - [2022-04-27T11:44] feat(react): add cart item count badge and state lifting
+
+- [2022-04-27T13:31] feat(server): scaffold Express.js web server with JSON body parser
