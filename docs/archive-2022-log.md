@@ -109,3 +109,5 @@ Initial web engineering and learning log.
 - [2022-05-05T12:36] chore(lint): setup ESLint and Prettier formatting rules
 
 - [2022-05-05T13:12] feat(css): add CSS grid layout for project showcase cards
+
+- [2022-05-05T14:20] docs(readme): write comprehensive setup instructions and demo preview link
