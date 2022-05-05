@@ -113,3 +113,5 @@ Initial web engineering and learning log.
 - [2022-05-05T14:20] docs(readme): write comprehensive setup instructions and demo preview link
 
 - [2022-05-05T16:00] fix(js): prevent form page reload on enter key submission
+
+- [2022-05-05T17:41] chore(react): initialize React project boilerplate and file structure
