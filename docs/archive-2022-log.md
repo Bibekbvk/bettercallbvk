@@ -105,3 +105,5 @@ Initial web engineering and learning log.
 - [2022-04-27T13:31] feat(server): scaffold Express.js web server with JSON body parser
 
 - [2022-05-05T11:06] feat(auth): add authorization middleware to protect private API routes
+
+- [2022-05-05T12:36] chore(lint): setup ESLint and Prettier formatting rules
