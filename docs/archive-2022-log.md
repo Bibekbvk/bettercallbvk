@@ -115,3 +115,5 @@ Initial web engineering and learning log.
 - [2022-05-05T16:00] fix(js): prevent form page reload on enter key submission
 
 - [2022-05-05T17:41] chore(react): initialize React project boilerplate and file structure
+
+- [2022-05-10T10:58] fix(react): add missing key prop to mapped list items
