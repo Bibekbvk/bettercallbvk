@@ -123,3 +123,5 @@ Initial web engineering and learning log.
 - [2022-05-10T13:51] feat(react): create custom useWindowDimensions hook for responsive UI
 
 - [2022-05-10T15:21] feat(html): add meta viewport tag for responsive mobile rendering
+
+- [2022-05-10T15:59] feat(js): implement debounced scroll-to-top floating button
