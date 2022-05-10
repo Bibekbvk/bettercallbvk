@@ -119,3 +119,5 @@ Initial web engineering and learning log.
 - [2022-05-10T10:58] fix(react): add missing key prop to mapped list items
 
 - [2022-05-10T12:53] feat(api): implement CORS headers middleware for frontend domain access
+
+- [2022-05-10T13:51] feat(react): create custom useWindowDimensions hook for responsive UI
