@@ -125,3 +125,5 @@ Initial web engineering and learning log.
 - [2022-05-10T15:21] feat(html): add meta viewport tag for responsive mobile rendering
 
 - [2022-05-10T15:59] feat(js): implement debounced scroll-to-top floating button
+
+- [2022-05-13T11:23] feat(css): create custom card drop-shadow utilities and rounded borders
