@@ -129,3 +129,5 @@ Initial web engineering and learning log.
 - [2022-05-13T11:23] feat(css): create custom card drop-shadow utilities and rounded borders
 
 - [2022-05-13T12:55] feat(react): add cart item count badge and state lifting
+
+- [2022-05-13T14:24] docs(api): document REST API endpoints and query parameters in README
