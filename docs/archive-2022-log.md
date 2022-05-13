@@ -127,3 +127,5 @@ Initial web engineering and learning log.
 - [2022-05-10T15:59] feat(js): implement debounced scroll-to-top floating button
 
 - [2022-05-13T11:23] feat(css): create custom card drop-shadow utilities and rounded borders
+
+- [2022-05-13T12:55] feat(react): add cart item count badge and state lifting
