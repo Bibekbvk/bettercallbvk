@@ -139,3 +139,5 @@ Initial web engineering and learning log.
 - [2022-05-17T12:44] feat(react): scaffold multi-page navigation using React Router DOM
 
 - [2022-05-17T13:32] feat(js): implement dark mode theme toggle using localStorage persistence
+
+- [2022-05-17T14:30] refactor(clean): remove unused CSS classes and console.log debugging statements
