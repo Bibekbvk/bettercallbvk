@@ -143,3 +143,5 @@ Initial web engineering and learning log.
 - [2022-05-17T14:30] refactor(clean): remove unused CSS classes and console.log debugging statements
 
 - [2022-05-17T15:46] fix(css): fix button label vertical alignment in Safari browser
+
+- [2022-05-17T17:19] fix(nav): close mobile drawer automatically when route changes
