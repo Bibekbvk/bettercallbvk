@@ -135,3 +135,5 @@ Initial web engineering and learning log.
 - [2022-05-17T11:00] fix(js): prevent form page reload on enter key submission
 
 - [2022-05-17T12:01] feat(css): create reusable button component utility classes
+
+- [2022-05-17T12:44] feat(react): scaffold multi-page navigation using React Router DOM
