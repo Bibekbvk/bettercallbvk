@@ -131,3 +131,5 @@ Initial web engineering and learning log.
 - [2022-05-13T12:55] feat(react): add cart item count badge and state lifting
 
 - [2022-05-13T14:24] docs(api): document REST API endpoints and query parameters in README
+
+- [2022-05-17T11:00] fix(js): prevent form page reload on enter key submission
