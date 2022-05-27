@@ -145,3 +145,5 @@ Initial web engineering and learning log.
 - [2022-05-17T15:46] fix(css): fix button label vertical alignment in Safari browser
 
 - [2022-05-17T17:19] fix(nav): close mobile drawer automatically when route changes
+
+- [2022-05-27T10:55] feat(js): fetch public repository list via GitHub REST API with fetch()
