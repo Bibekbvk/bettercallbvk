@@ -147,3 +147,5 @@ Initial web engineering and learning log.
 - [2022-05-17T17:19] fix(nav): close mobile drawer automatically when route changes
 
 - [2022-05-27T10:55] feat(js): fetch public repository list via GitHub REST API with fetch()
+
+- [2022-05-27T12:37] feat(css): implement typography hierarchy with custom Google Web Fonts
