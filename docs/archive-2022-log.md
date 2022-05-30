@@ -155,3 +155,5 @@ Initial web engineering and learning log.
 - [2022-05-30T12:39] feat(auth): add authorization middleware to protect private API routes
 
 - [2022-05-30T14:29] fix(api): return proper 404 status code when queried item does not exist
+
+- [2022-05-30T15:48] feat(css): add smooth hover transitions and button active states
