@@ -149,3 +149,5 @@ Initial web engineering and learning log.
 - [2022-05-27T10:55] feat(js): fetch public repository list via GitHub REST API with fetch()
 
 - [2022-05-27T12:37] feat(css): implement typography hierarchy with custom Google Web Fonts
+
+- [2022-05-30T10:46] feat(js): add live search filter on project card elements
