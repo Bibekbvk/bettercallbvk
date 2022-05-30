@@ -151,3 +151,5 @@ Initial web engineering and learning log.
 - [2022-05-27T12:37] feat(css): implement typography hierarchy with custom Google Web Fonts
 
 - [2022-05-30T10:46] feat(js): add live search filter on project card elements
+
+- [2022-05-30T12:39] feat(auth): add authorization middleware to protect private API routes
