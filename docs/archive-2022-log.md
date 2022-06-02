@@ -167,3 +167,5 @@ Initial web engineering and learning log.
 - [2022-06-02T14:17] docs(readme): write comprehensive setup instructions and demo preview link
 
 - [2022-06-02T15:09] chore(react): initialize React project boilerplate and file structure
+
+- [2022-06-02T15:59] fix(js): handle fetch network error with user-friendly alert message
