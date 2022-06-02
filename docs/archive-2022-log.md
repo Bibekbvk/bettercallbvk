@@ -161,3 +161,5 @@ Initial web engineering and learning log.
 - [2022-05-30T17:21] feat(css): implement mobile media query breakpoints for tablet and phone
 
 - [2022-06-02T11:14] feat(css): add CSS grid layout for project showcase cards
+
+- [2022-06-02T12:27] fix(layout): resolve mobile horizontal scroll overflow issue
