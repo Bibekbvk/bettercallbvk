@@ -173,3 +173,5 @@ Initial web engineering and learning log.
 - [2022-06-02T17:13] feat(react): add conditional rendering for loading spinners and empty states
 
 - [2022-06-03T10:17] feat(auth): implement user registration route with bcrypt password hashing
+
+- [2022-06-03T11:10] fix(images): add width and height attributes to prevent layout shift
