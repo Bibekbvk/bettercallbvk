@@ -175,3 +175,5 @@ Initial web engineering and learning log.
 - [2022-06-03T10:17] feat(auth): implement user registration route with bcrypt password hashing
 
 - [2022-06-03T11:10] fix(images): add width and height attributes to prevent layout shift
+
+- [2022-06-03T12:34] feat(auth): generate signed JWT token on successful credential verification
