@@ -183,3 +183,5 @@ Initial web engineering and learning log.
 - [2022-06-03T16:13] chore(lint): setup ESLint and Prettier formatting rules
 
 - [2022-06-03T17:42] feat(js): build interactive image modal lightbox with next/prev buttons
+
+- [2022-06-03T19:19] feat(css): implement responsive flexbox navigation bar
