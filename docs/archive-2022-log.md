@@ -171,3 +171,5 @@ Initial web engineering and learning log.
 - [2022-06-02T15:59] fix(js): handle fetch network error with user-friendly alert message
 
 - [2022-06-02T17:13] feat(react): add conditional rendering for loading spinners and empty states
+
+- [2022-06-03T10:17] feat(auth): implement user registration route with bcrypt password hashing
