@@ -181,3 +181,5 @@ Initial web engineering and learning log.
 - [2022-06-03T14:25] feat(db): define Product and ContactMessage schemas with timestamps
 
 - [2022-06-03T16:13] chore(lint): setup ESLint and Prettier formatting rules
+
+- [2022-06-03T17:42] feat(js): build interactive image modal lightbox with next/prev buttons
