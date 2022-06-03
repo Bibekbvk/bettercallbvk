@@ -179,3 +179,5 @@ Initial web engineering and learning log.
 - [2022-06-03T12:34] feat(auth): generate signed JWT token on successful credential verification
 
 - [2022-06-03T14:25] feat(db): define Product and ContactMessage schemas with timestamps
+
+- [2022-06-03T16:13] chore(lint): setup ESLint and Prettier formatting rules
