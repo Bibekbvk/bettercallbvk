@@ -177,3 +177,5 @@ Initial web engineering and learning log.
 - [2022-06-03T11:10] fix(images): add width and height attributes to prevent layout shift
 
 - [2022-06-03T12:34] feat(auth): generate signed JWT token on successful credential verification
+
+- [2022-06-03T14:25] feat(db): define Product and ContactMessage schemas with timestamps
