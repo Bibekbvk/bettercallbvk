@@ -191,3 +191,5 @@ Initial web engineering and learning log.
 - [2022-06-06T11:55] chore(git): configure .gitignore for node_modules and .env files
 
 - [2022-06-06T12:51] feat(js): implement local storage caching for form draft input
+
+- [2022-06-06T14:02] feat(html): scaffold basic semantic layout structure with header and footer
