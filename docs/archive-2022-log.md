@@ -189,3 +189,5 @@ Initial web engineering and learning log.
 - [2022-06-06T10:58] feat(api): add input validation middleware for incoming request payloads
 
 - [2022-06-06T11:55] chore(git): configure .gitignore for node_modules and .env files
+
+- [2022-06-06T12:51] feat(js): implement local storage caching for form draft input
