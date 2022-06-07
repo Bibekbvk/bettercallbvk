@@ -197,3 +197,5 @@ Initial web engineering and learning log.
 - [2022-06-07T10:10] feat(react): manage dynamic list state using useState hook
 
 - [2022-06-07T12:04] chore(deps): install axios, react-icons, and express dependencies
+
+- [2022-06-07T13:24] feat(react): fetch asynchronous API data inside useEffect lifecycle hook
