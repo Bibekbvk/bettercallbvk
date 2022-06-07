@@ -193,3 +193,5 @@ Initial web engineering and learning log.
 - [2022-06-06T12:51] feat(js): implement local storage caching for form draft input
 
 - [2022-06-06T14:02] feat(html): scaffold basic semantic layout structure with header and footer
+
+- [2022-06-07T10:10] feat(react): manage dynamic list state using useState hook
