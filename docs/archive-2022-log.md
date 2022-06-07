@@ -205,3 +205,5 @@ Initial web engineering and learning log.
 - [2022-06-07T16:00] feat(css): add custom CSS scrollbar styling for webkit browsers
 
 - [2022-06-07T17:46] feat(js): add accordion FAQ toggle with smooth height transition
+
+- [2022-06-07T19:24] refactor(utils): extract date formatting helper into separate utils file
