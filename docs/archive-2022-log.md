@@ -201,3 +201,5 @@ Initial web engineering and learning log.
 - [2022-06-07T13:24] feat(react): fetch asynchronous API data inside useEffect lifecycle hook
 
 - [2022-06-07T15:01] fix(auth): fix token expiration check on protected page reload
+
+- [2022-06-07T16:00] feat(css): add custom CSS scrollbar styling for webkit browsers
