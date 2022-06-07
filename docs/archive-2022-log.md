@@ -195,3 +195,5 @@ Initial web engineering and learning log.
 - [2022-06-06T14:02] feat(html): scaffold basic semantic layout structure with header and footer
 
 - [2022-06-07T10:10] feat(react): manage dynamic list state using useState hook
+
+- [2022-06-07T12:04] chore(deps): install axios, react-icons, and express dependencies
