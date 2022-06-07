@@ -199,3 +199,5 @@ Initial web engineering and learning log.
 - [2022-06-07T12:04] chore(deps): install axios, react-icons, and express dependencies
 
 - [2022-06-07T13:24] feat(react): fetch asynchronous API data inside useEffect lifecycle hook
+
+- [2022-06-07T15:01] fix(auth): fix token expiration check on protected page reload
