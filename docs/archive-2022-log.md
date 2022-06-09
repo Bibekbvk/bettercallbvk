@@ -207,3 +207,5 @@ Initial web engineering and learning log.
 - [2022-06-07T17:46] feat(js): add accordion FAQ toggle with smooth height transition
 
 - [2022-06-07T19:24] refactor(utils): extract date formatting helper into separate utils file
+
+- [2022-06-09T10:23] feat(react): implement simple modal dialog with React portal
