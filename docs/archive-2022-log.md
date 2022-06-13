@@ -211,3 +211,5 @@ Initial web engineering and learning log.
 - [2022-06-09T10:23] feat(react): implement simple modal dialog with React portal
 
 - [2022-06-13T10:32] feat(react): implement controlled input components with validation feedback
+
+- [2022-06-13T11:17] feat(js): add client-side form validation for contact message form
