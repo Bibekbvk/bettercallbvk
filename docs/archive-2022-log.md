@@ -217,3 +217,5 @@ Initial web engineering and learning log.
 - [2022-06-13T11:55] feat(js): build simple countdown timer component with setInterval
 
 - [2022-06-13T12:58] feat(server): scaffold Express.js web server with JSON body parser
+
+- [2022-06-13T13:37] fix(react): prevent unnecessary re-renders with useCallback
