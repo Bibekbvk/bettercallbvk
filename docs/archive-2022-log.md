@@ -221,3 +221,5 @@ Initial web engineering and learning log.
 - [2022-06-13T13:37] fix(react): prevent unnecessary re-renders with useCallback
 
 - [2022-06-14T10:38] feat(js): implement mobile navigation hamburger menu toggle
+
+- [2022-06-14T11:34] feat(db): setup MongoDB connection using Mongoose ODM client
