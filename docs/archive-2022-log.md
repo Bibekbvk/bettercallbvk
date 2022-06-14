@@ -223,3 +223,5 @@ Initial web engineering and learning log.
 - [2022-06-14T10:38] feat(js): implement mobile navigation hamburger menu toggle
 
 - [2022-06-14T11:34] feat(db): setup MongoDB connection using Mongoose ODM client
+
+- [2022-06-14T13:07] feat(api): create GET and POST endpoints for contact message inbox
