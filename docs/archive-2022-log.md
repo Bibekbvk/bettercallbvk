@@ -225,3 +225,5 @@ Initial web engineering and learning log.
 - [2022-06-14T11:34] feat(db): setup MongoDB connection using Mongoose ODM client
 
 - [2022-06-14T13:07] feat(api): create GET and POST endpoints for contact message inbox
+
+- [2022-06-14T14:45] feat(react): create reusable Button, Card, and Badge components
