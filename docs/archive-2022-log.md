@@ -219,3 +219,5 @@ Initial web engineering and learning log.
 - [2022-06-13T12:58] feat(server): scaffold Express.js web server with JSON body parser
 
 - [2022-06-13T13:37] fix(react): prevent unnecessary re-renders with useCallback
+
+- [2022-06-14T10:38] feat(js): implement mobile navigation hamburger menu toggle
