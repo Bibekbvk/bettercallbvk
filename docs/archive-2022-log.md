@@ -227,3 +227,5 @@ Initial web engineering and learning log.
 - [2022-06-14T13:07] feat(api): create GET and POST endpoints for contact message inbox
 
 - [2022-06-14T14:45] feat(react): create reusable Button, Card, and Badge components
+
+- [2022-06-14T16:25] feat(db): define Product and ContactMessage schemas with timestamps
