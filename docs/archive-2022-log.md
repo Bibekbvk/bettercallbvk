@@ -233,3 +233,5 @@ Initial web engineering and learning log.
 - [2022-06-14T17:17] fix(react): add missing key prop to mapped list items
 
 - [2022-06-17T11:27] feat(html): add meta viewport tag for responsive mobile rendering
+
+- [2022-06-17T12:37] fix(images): add width and height attributes to prevent layout shift
