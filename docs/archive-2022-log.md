@@ -235,3 +235,5 @@ Initial web engineering and learning log.
 - [2022-06-17T11:27] feat(html): add meta viewport tag for responsive mobile rendering
 
 - [2022-06-17T12:37] fix(images): add width and height attributes to prevent layout shift
+
+- [2022-06-17T13:28] feat(react): create reusable Button, Card, and Badge components
