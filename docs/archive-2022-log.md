@@ -231,3 +231,5 @@ Initial web engineering and learning log.
 - [2022-06-14T16:25] feat(db): define Product and ContactMessage schemas with timestamps
 
 - [2022-06-14T17:17] fix(react): add missing key prop to mapped list items
+
+- [2022-06-17T11:27] feat(html): add meta viewport tag for responsive mobile rendering
