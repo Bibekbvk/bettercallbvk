@@ -239,3 +239,5 @@ Initial web engineering and learning log.
 - [2022-06-17T13:28] feat(react): create reusable Button, Card, and Badge components
 
 - [2022-06-17T14:19] feat(react): scaffold multi-page navigation using React Router DOM
+
+- [2022-06-17T15:12] chore(lint): setup ESLint and Prettier formatting rules
