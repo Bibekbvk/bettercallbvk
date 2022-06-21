@@ -241,3 +241,5 @@ Initial web engineering and learning log.
 - [2022-06-17T14:19] feat(react): scaffold multi-page navigation using React Router DOM
 
 - [2022-06-17T15:12] chore(lint): setup ESLint and Prettier formatting rules
+
+- [2022-06-21T11:16] feat(css): implement mobile media query breakpoints for tablet and phone
