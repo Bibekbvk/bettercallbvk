@@ -245,3 +245,5 @@ Initial web engineering and learning log.
 - [2022-06-21T11:16] feat(css): implement mobile media query breakpoints for tablet and phone
 
 - [2022-06-21T12:41] feat(html): scaffold basic semantic layout structure with header and footer
+
+- [2022-06-21T13:34] refactor(clean): remove unused CSS classes and console.log debugging statements
