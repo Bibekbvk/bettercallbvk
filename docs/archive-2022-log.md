@@ -259,3 +259,5 @@ Initial web engineering and learning log.
 - [2022-06-22T15:30] feat(css): create reusable button component utility classes
 
 - [2022-06-22T16:40] feat(api): implement CORS headers middleware for frontend domain access
+
+- [2022-06-22T18:02] feat(db): setup MongoDB connection using Mongoose ODM client
