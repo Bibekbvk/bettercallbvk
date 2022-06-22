@@ -253,3 +253,5 @@ Initial web engineering and learning log.
 - [2022-06-22T11:32] fix(auth): fix token expiration check on protected page reload
 
 - [2022-06-22T13:04] fix(js): prevent form page reload on enter key submission
+
+- [2022-06-22T13:50] docs(readme): write comprehensive setup instructions and demo preview link
