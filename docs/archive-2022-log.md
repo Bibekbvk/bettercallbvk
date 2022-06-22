@@ -257,3 +257,5 @@ Initial web engineering and learning log.
 - [2022-06-22T13:50] docs(readme): write comprehensive setup instructions and demo preview link
 
 - [2022-06-22T15:30] feat(css): create reusable button component utility classes
+
+- [2022-06-22T16:40] feat(api): implement CORS headers middleware for frontend domain access
