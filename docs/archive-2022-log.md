@@ -249,3 +249,5 @@ Initial web engineering and learning log.
 - [2022-06-21T13:34] refactor(clean): remove unused CSS classes and console.log debugging statements
 
 - [2022-06-22T10:04] fix(nav): close mobile drawer automatically when route changes
+
+- [2022-06-22T11:32] fix(auth): fix token expiration check on protected page reload
