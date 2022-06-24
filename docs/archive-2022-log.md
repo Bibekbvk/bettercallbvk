@@ -261,3 +261,5 @@ Initial web engineering and learning log.
 - [2022-06-22T16:40] feat(api): implement CORS headers middleware for frontend domain access
 
 - [2022-06-22T18:02] feat(db): setup MongoDB connection using Mongoose ODM client
+
+- [2022-06-24T10:11] feat(auth): generate signed JWT token on successful credential verification
