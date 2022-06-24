@@ -263,3 +263,5 @@ Initial web engineering and learning log.
 - [2022-06-22T18:02] feat(db): setup MongoDB connection using Mongoose ODM client
 
 - [2022-06-24T10:11] feat(auth): generate signed JWT token on successful credential verification
+
+- [2022-06-24T10:46] feat(js): implement debounced scroll-to-top floating button
