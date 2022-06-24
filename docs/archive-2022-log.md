@@ -265,3 +265,5 @@ Initial web engineering and learning log.
 - [2022-06-24T10:11] feat(auth): generate signed JWT token on successful credential verification
 
 - [2022-06-24T10:46] feat(js): implement debounced scroll-to-top floating button
+
+- [2022-06-24T11:32] feat(js): build interactive image modal lightbox with next/prev buttons
