@@ -269,3 +269,5 @@ Initial web engineering and learning log.
 - [2022-06-24T11:32] feat(js): build interactive image modal lightbox with next/prev buttons
 
 - [2022-06-27T10:51] feat(js): add accordion FAQ toggle with smooth height transition
+
+- [2022-06-27T12:11] feat(css): add custom CSS scrollbar styling for webkit browsers
