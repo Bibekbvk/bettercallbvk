@@ -267,3 +267,5 @@ Initial web engineering and learning log.
 - [2022-06-24T10:46] feat(js): implement debounced scroll-to-top floating button
 
 - [2022-06-24T11:32] feat(js): build interactive image modal lightbox with next/prev buttons
+
+- [2022-06-27T10:51] feat(js): add accordion FAQ toggle with smooth height transition
