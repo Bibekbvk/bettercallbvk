@@ -279,3 +279,5 @@ Initial web engineering and learning log.
 - [2022-06-30T12:02] fix(js): handle fetch network error with user-friendly alert message
 
 - [2022-06-30T13:18] feat(js): implement dark mode theme toggle using localStorage persistence
+
+- [2022-06-30T14:36] feat(api): add input validation middleware for incoming request payloads
