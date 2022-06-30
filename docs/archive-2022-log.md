@@ -275,3 +275,5 @@ Initial web engineering and learning log.
 - [2022-06-27T13:54] feat(css): add smooth hover transitions and button active states
 
 - [2022-06-30T10:24] feat(react): manage dynamic list state using useState hook
+
+- [2022-06-30T12:02] fix(js): handle fetch network error with user-friendly alert message
