@@ -287,3 +287,5 @@ Initial web engineering and learning log.
 - [2022-07-01T11:19] feat(server): scaffold Express.js web server with JSON body parser
 
 - [2022-07-01T12:37] chore(react): initialize React project boilerplate and file structure
+
+- [2022-07-01T13:18] feat(react): fetch asynchronous API data inside useEffect lifecycle hook
