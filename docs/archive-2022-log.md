@@ -285,3 +285,5 @@ Initial web engineering and learning log.
 - [2022-06-30T16:24] feat(auth): add authorization middleware to protect private API routes
 
 - [2022-07-01T11:19] feat(server): scaffold Express.js web server with JSON body parser
+
+- [2022-07-01T12:37] chore(react): initialize React project boilerplate and file structure
