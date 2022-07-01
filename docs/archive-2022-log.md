@@ -283,3 +283,5 @@ Initial web engineering and learning log.
 - [2022-06-30T14:36] feat(api): add input validation middleware for incoming request payloads
 
 - [2022-06-30T16:24] feat(auth): add authorization middleware to protect private API routes
+
+- [2022-07-01T11:19] feat(server): scaffold Express.js web server with JSON body parser
