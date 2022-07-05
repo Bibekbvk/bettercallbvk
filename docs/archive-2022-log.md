@@ -293,3 +293,5 @@ Initial web engineering and learning log.
 - [2022-07-05T10:50] chore(deps): install axios, react-icons, and express dependencies
 
 - [2022-07-05T12:23] feat(api): create GET and POST endpoints for contact message inbox
+
+- [2022-07-05T13:13] feat(js): implement local storage caching for form draft input
