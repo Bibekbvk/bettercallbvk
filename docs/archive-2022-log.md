@@ -289,3 +289,5 @@ Initial web engineering and learning log.
 - [2022-07-01T12:37] chore(react): initialize React project boilerplate and file structure
 
 - [2022-07-01T13:18] feat(react): fetch asynchronous API data inside useEffect lifecycle hook
+
+- [2022-07-05T10:50] chore(deps): install axios, react-icons, and express dependencies
