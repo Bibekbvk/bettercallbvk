@@ -299,3 +299,5 @@ Initial web engineering and learning log.
 - [2022-07-05T14:44] feat(css): create custom card drop-shadow utilities and rounded borders
 
 - [2022-07-05T15:19] feat(css): add CSS grid layout for project showcase cards
+
+- [2022-07-05T16:19] feat(css): implement typography hierarchy with custom Google Web Fonts
