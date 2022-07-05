@@ -291,3 +291,5 @@ Initial web engineering and learning log.
 - [2022-07-01T13:18] feat(react): fetch asynchronous API data inside useEffect lifecycle hook
 
 - [2022-07-05T10:50] chore(deps): install axios, react-icons, and express dependencies
+
+- [2022-07-05T12:23] feat(api): create GET and POST endpoints for contact message inbox
