@@ -309,3 +309,5 @@ Initial web engineering and learning log.
 - [2022-07-08T10:36] fix(api): return proper 404 status code when queried item does not exist
 
 - [2022-07-08T11:57] feat(js): fetch public repository list via GitHub REST API with fetch()
+
+- [2022-07-08T12:42] feat(react): add cart item count badge and state lifting
