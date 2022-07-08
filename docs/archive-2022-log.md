@@ -303,3 +303,5 @@ Initial web engineering and learning log.
 - [2022-07-05T16:19] feat(css): implement typography hierarchy with custom Google Web Fonts
 
 - [2022-07-05T17:10] refactor(utils): extract date formatting helper into separate utils file
+
+- [2022-07-08T09:50] feat(react): implement controlled input components with validation feedback
