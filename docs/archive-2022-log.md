@@ -307,3 +307,5 @@ Initial web engineering and learning log.
 - [2022-07-08T09:50] feat(react): implement controlled input components with validation feedback
 
 - [2022-07-08T10:36] fix(api): return proper 404 status code when queried item does not exist
+
+- [2022-07-08T11:57] feat(js): fetch public repository list via GitHub REST API with fetch()
