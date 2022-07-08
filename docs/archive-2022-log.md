@@ -305,3 +305,5 @@ Initial web engineering and learning log.
 - [2022-07-05T17:10] refactor(utils): extract date formatting helper into separate utils file
 
 - [2022-07-08T09:50] feat(react): implement controlled input components with validation feedback
+
+- [2022-07-08T10:36] fix(api): return proper 404 status code when queried item does not exist
