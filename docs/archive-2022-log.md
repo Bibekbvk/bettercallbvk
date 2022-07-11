@@ -321,3 +321,5 @@ Initial web engineering and learning log.
 - [2022-07-11T13:21] feat(auth): implement user registration route with bcrypt password hashing
 
 - [2022-07-11T14:08] feat(react): implement simple modal dialog with React portal
+
+- [2022-07-11T15:10] feat(react): create custom useWindowDimensions hook for responsive UI
