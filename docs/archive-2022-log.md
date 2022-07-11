@@ -317,3 +317,5 @@ Initial web engineering and learning log.
 - [2022-07-11T11:31] fix(css): fix button label vertical alignment in Safari browser
 
 - [2022-07-11T12:35] feat(js): implement mobile navigation hamburger menu toggle
+
+- [2022-07-11T13:21] feat(auth): implement user registration route with bcrypt password hashing
