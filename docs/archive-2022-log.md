@@ -315,3 +315,5 @@ Initial web engineering and learning log.
 - [2022-07-11T09:36] feat(react): add conditional rendering for loading spinners and empty states
 
 - [2022-07-11T11:31] fix(css): fix button label vertical alignment in Safari browser
+
+- [2022-07-11T12:35] feat(js): implement mobile navigation hamburger menu toggle
