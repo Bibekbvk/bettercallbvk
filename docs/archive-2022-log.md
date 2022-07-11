@@ -313,3 +313,5 @@ Initial web engineering and learning log.
 - [2022-07-08T12:42] feat(react): add cart item count badge and state lifting
 
 - [2022-07-11T09:36] feat(react): add conditional rendering for loading spinners and empty states
+
+- [2022-07-11T11:31] fix(css): fix button label vertical alignment in Safari browser
