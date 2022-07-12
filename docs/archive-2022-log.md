@@ -335,3 +335,5 @@ Initial web engineering and learning log.
 - [2022-07-12T14:14] feat(js): build simple countdown timer component with setInterval
 
 - [2022-07-12T15:43] feat(js): add live search filter on project card elements
+
+- [2022-07-12T16:34] docs(api): document REST API endpoints and query parameters in README
