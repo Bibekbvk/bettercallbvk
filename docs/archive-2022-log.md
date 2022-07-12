@@ -323,3 +323,5 @@ Initial web engineering and learning log.
 - [2022-07-11T14:08] feat(react): implement simple modal dialog with React portal
 
 - [2022-07-11T15:10] feat(react): create custom useWindowDimensions hook for responsive UI
+
+- [2022-07-12T09:46] feat(js): add client-side form validation for contact message form
