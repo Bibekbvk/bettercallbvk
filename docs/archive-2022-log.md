@@ -325,3 +325,5 @@ Initial web engineering and learning log.
 - [2022-07-11T15:10] feat(react): create custom useWindowDimensions hook for responsive UI
 
 - [2022-07-12T09:46] feat(js): add client-side form validation for contact message form
+
+- [2022-07-12T10:49] fix(react): prevent unnecessary re-renders with useCallback
