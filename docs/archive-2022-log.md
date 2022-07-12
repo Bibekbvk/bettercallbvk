@@ -331,3 +331,5 @@ Initial web engineering and learning log.
 - [2022-07-12T12:20] fix(layout): resolve mobile horizontal scroll overflow issue
 
 - [2022-07-12T12:56] feat(css): implement responsive flexbox navigation bar
+
+- [2022-07-12T14:14] feat(js): build simple countdown timer component with setInterval
