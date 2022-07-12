@@ -327,3 +327,5 @@ Initial web engineering and learning log.
 - [2022-07-12T09:46] feat(js): add client-side form validation for contact message form
 
 - [2022-07-12T10:49] fix(react): prevent unnecessary re-renders with useCallback
+
+- [2022-07-12T12:20] fix(layout): resolve mobile horizontal scroll overflow issue
