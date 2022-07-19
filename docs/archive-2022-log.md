@@ -337,3 +337,5 @@ Initial web engineering and learning log.
 - [2022-07-12T15:43] feat(js): add live search filter on project card elements
 
 - [2022-07-12T16:34] docs(api): document REST API endpoints and query parameters in README
+
+- [2022-07-19T09:59] chore(git): configure .gitignore for node_modules and .env files
