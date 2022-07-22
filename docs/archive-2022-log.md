@@ -349,3 +349,5 @@ Initial web engineering and learning log.
 - [2022-07-22T13:21] feat(js): add live search filter on project card elements
 
 - [2022-07-22T14:26] feat(react): scaffold multi-page navigation using React Router DOM
+
+- [2022-07-22T16:17] feat(auth): generate signed JWT token on successful credential verification
