@@ -347,3 +347,5 @@ Initial web engineering and learning log.
 - [2022-07-22T11:57] feat(api): implement CORS headers middleware for frontend domain access
 
 - [2022-07-22T13:21] feat(js): add live search filter on project card elements
+
+- [2022-07-22T14:26] feat(react): scaffold multi-page navigation using React Router DOM
