@@ -343,3 +343,5 @@ Initial web engineering and learning log.
 - [2022-07-19T10:45] feat(js): build simple countdown timer component with setInterval
 
 - [2022-07-22T10:52] feat(css): create reusable button component utility classes
+
+- [2022-07-22T11:57] feat(api): implement CORS headers middleware for frontend domain access
