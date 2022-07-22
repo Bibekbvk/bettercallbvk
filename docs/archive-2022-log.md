@@ -345,3 +345,5 @@ Initial web engineering and learning log.
 - [2022-07-22T10:52] feat(css): create reusable button component utility classes
 
 - [2022-07-22T11:57] feat(api): implement CORS headers middleware for frontend domain access
+
+- [2022-07-22T13:21] feat(js): add live search filter on project card elements
