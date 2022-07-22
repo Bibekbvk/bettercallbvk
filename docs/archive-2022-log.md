@@ -353,3 +353,5 @@ Initial web engineering and learning log.
 - [2022-07-22T16:17] feat(auth): generate signed JWT token on successful credential verification
 
 - [2022-07-22T17:59] fix(react): add missing key prop to mapped list items
+
+- [2022-07-22T19:20] fix(layout): resolve mobile horizontal scroll overflow issue
