@@ -355,3 +355,5 @@ Initial web engineering and learning log.
 - [2022-07-22T17:59] fix(react): add missing key prop to mapped list items
 
 - [2022-07-22T19:20] fix(layout): resolve mobile horizontal scroll overflow issue
+
+- [2022-07-22T20:11] feat(js): fetch public repository list via GitHub REST API with fetch()
