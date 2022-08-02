@@ -365,3 +365,5 @@ Initial web engineering and learning log.
 - [2022-08-02T13:04] feat(react): implement simple modal dialog with React portal
 
 - [2022-08-02T14:39] feat(css): create custom card drop-shadow utilities and rounded borders
+
+- [2022-08-02T15:23] feat(db): setup MongoDB connection using Mongoose ODM client
