@@ -359,3 +359,5 @@ Initial web engineering and learning log.
 - [2022-07-22T20:11] feat(js): fetch public repository list via GitHub REST API with fetch()
 
 - [2022-08-02T10:23] feat(react): add conditional rendering for loading spinners and empty states
+
+- [2022-08-02T12:07] feat(css): add custom CSS scrollbar styling for webkit browsers
