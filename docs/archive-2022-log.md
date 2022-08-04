@@ -371,3 +371,5 @@ Initial web engineering and learning log.
 - [2022-08-04T09:38] feat(js): implement dark mode theme toggle using localStorage persistence
 
 - [2022-08-04T10:46] feat(react): fetch asynchronous API data inside useEffect lifecycle hook
+
+- [2022-08-04T11:26] feat(react): create custom useWindowDimensions hook for responsive UI
