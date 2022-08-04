@@ -373,3 +373,5 @@ Initial web engineering and learning log.
 - [2022-08-04T10:46] feat(react): fetch asynchronous API data inside useEffect lifecycle hook
 
 - [2022-08-04T11:26] feat(react): create custom useWindowDimensions hook for responsive UI
+
+- [2022-08-04T12:51] feat(css): implement mobile media query breakpoints for tablet and phone
