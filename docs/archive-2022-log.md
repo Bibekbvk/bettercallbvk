@@ -367,3 +367,5 @@ Initial web engineering and learning log.
 - [2022-08-02T14:39] feat(css): create custom card drop-shadow utilities and rounded borders
 
 - [2022-08-02T15:23] feat(db): setup MongoDB connection using Mongoose ODM client
+
+- [2022-08-04T09:38] feat(js): implement dark mode theme toggle using localStorage persistence
