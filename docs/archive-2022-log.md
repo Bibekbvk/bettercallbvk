@@ -369,3 +369,5 @@ Initial web engineering and learning log.
 - [2022-08-02T15:23] feat(db): setup MongoDB connection using Mongoose ODM client
 
 - [2022-08-04T09:38] feat(js): implement dark mode theme toggle using localStorage persistence
+
+- [2022-08-04T10:46] feat(react): fetch asynchronous API data inside useEffect lifecycle hook
