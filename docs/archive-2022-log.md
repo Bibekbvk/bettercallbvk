@@ -375,3 +375,5 @@ Initial web engineering and learning log.
 - [2022-08-04T11:26] feat(react): create custom useWindowDimensions hook for responsive UI
 
 - [2022-08-04T12:51] feat(css): implement mobile media query breakpoints for tablet and phone
+
+- [2022-08-05T10:50] feat(auth): add authorization middleware to protect private API routes
