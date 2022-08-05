@@ -379,3 +379,5 @@ Initial web engineering and learning log.
 - [2022-08-05T10:50] feat(auth): add authorization middleware to protect private API routes
 
 - [2022-08-05T12:29] feat(react): implement controlled input components with validation feedback
+
+- [2022-08-05T13:57] chore(deps): install axios, react-icons, and express dependencies
