@@ -377,3 +377,5 @@ Initial web engineering and learning log.
 - [2022-08-04T12:51] feat(css): implement mobile media query breakpoints for tablet and phone
 
 - [2022-08-05T10:50] feat(auth): add authorization middleware to protect private API routes
+
+- [2022-08-05T12:29] feat(react): implement controlled input components with validation feedback
