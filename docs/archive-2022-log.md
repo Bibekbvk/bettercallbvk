@@ -383,3 +383,5 @@ Initial web engineering and learning log.
 - [2022-08-05T13:57] chore(deps): install axios, react-icons, and express dependencies
 
 - [2022-08-05T15:23] fix(auth): fix token expiration check on protected page reload
+
+- [2022-08-10T10:38] fix(js): prevent form page reload on enter key submission
