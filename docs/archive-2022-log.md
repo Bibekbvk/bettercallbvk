@@ -387,3 +387,5 @@ Initial web engineering and learning log.
 - [2022-08-10T10:38] fix(js): prevent form page reload on enter key submission
 
 - [2022-08-10T11:32] chore(git): configure .gitignore for node_modules and .env files
+
+- [2022-08-10T12:17] feat(js): implement debounced scroll-to-top floating button
