@@ -389,3 +389,5 @@ Initial web engineering and learning log.
 - [2022-08-10T11:32] chore(git): configure .gitignore for node_modules and .env files
 
 - [2022-08-10T12:17] feat(js): implement debounced scroll-to-top floating button
+
+- [2022-08-10T13:02] chore(react): initialize React project boilerplate and file structure
