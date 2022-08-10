@@ -395,3 +395,5 @@ Initial web engineering and learning log.
 - [2022-08-10T14:03] feat(js): add client-side form validation for contact message form
 
 - [2022-08-10T15:46] feat(auth): implement user registration route with bcrypt password hashing
+
+- [2022-08-10T17:11] fix(images): add width and height attributes to prevent layout shift
