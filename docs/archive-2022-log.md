@@ -393,3 +393,5 @@ Initial web engineering and learning log.
 - [2022-08-10T13:02] chore(react): initialize React project boilerplate and file structure
 
 - [2022-08-10T14:03] feat(js): add client-side form validation for contact message form
+
+- [2022-08-10T15:46] feat(auth): implement user registration route with bcrypt password hashing
