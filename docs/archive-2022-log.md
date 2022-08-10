@@ -391,3 +391,5 @@ Initial web engineering and learning log.
 - [2022-08-10T12:17] feat(js): implement debounced scroll-to-top floating button
 
 - [2022-08-10T13:02] chore(react): initialize React project boilerplate and file structure
+
+- [2022-08-10T14:03] feat(js): add client-side form validation for contact message form
