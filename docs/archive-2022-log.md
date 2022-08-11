@@ -397,3 +397,5 @@ Initial web engineering and learning log.
 - [2022-08-10T15:46] feat(auth): implement user registration route with bcrypt password hashing
 
 - [2022-08-10T17:11] fix(images): add width and height attributes to prevent layout shift
+
+- [2022-08-11T10:09] feat(api): create GET and POST endpoints for contact message inbox
