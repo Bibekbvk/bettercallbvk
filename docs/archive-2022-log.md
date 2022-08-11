@@ -401,3 +401,5 @@ Initial web engineering and learning log.
 - [2022-08-11T10:09] feat(api): create GET and POST endpoints for contact message inbox
 
 - [2022-08-11T11:39] feat(html): add meta viewport tag for responsive mobile rendering
+
+- [2022-08-11T12:44] feat(css): add CSS grid layout for project showcase cards
