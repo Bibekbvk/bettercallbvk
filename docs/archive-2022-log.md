@@ -409,3 +409,5 @@ Initial web engineering and learning log.
 - [2022-08-12T10:30] feat(api): add input validation middleware for incoming request payloads
 
 - [2022-08-12T12:23] feat(js): implement mobile navigation hamburger menu toggle
+
+- [2022-08-12T13:05] docs(readme): write comprehensive setup instructions and demo preview link
