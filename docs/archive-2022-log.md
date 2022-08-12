@@ -411,3 +411,5 @@ Initial web engineering and learning log.
 - [2022-08-12T12:23] feat(js): implement mobile navigation hamburger menu toggle
 
 - [2022-08-12T13:05] docs(readme): write comprehensive setup instructions and demo preview link
+
+- [2022-08-12T14:02] feat(css): add smooth hover transitions and button active states
