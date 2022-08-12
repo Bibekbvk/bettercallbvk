@@ -405,3 +405,5 @@ Initial web engineering and learning log.
 - [2022-08-11T12:44] feat(css): add CSS grid layout for project showcase cards
 
 - [2022-08-12T09:41] refactor(utils): extract date formatting helper into separate utils file
+
+- [2022-08-12T10:30] feat(api): add input validation middleware for incoming request payloads
