@@ -403,3 +403,5 @@ Initial web engineering and learning log.
 - [2022-08-11T11:39] feat(html): add meta viewport tag for responsive mobile rendering
 
 - [2022-08-11T12:44] feat(css): add CSS grid layout for project showcase cards
+
+- [2022-08-12T09:41] refactor(utils): extract date formatting helper into separate utils file
