@@ -407,3 +407,5 @@ Initial web engineering and learning log.
 - [2022-08-12T09:41] refactor(utils): extract date formatting helper into separate utils file
 
 - [2022-08-12T10:30] feat(api): add input validation middleware for incoming request payloads
+
+- [2022-08-12T12:23] feat(js): implement mobile navigation hamburger menu toggle
