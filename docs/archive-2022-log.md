@@ -419,3 +419,5 @@ Initial web engineering and learning log.
 - [2022-08-17T10:59] fix(nav): close mobile drawer automatically when route changes
 
 - [2022-08-17T11:54] fix(api): return proper 404 status code when queried item does not exist
+
+- [2022-08-17T13:13] feat(db): define Product and ContactMessage schemas with timestamps
