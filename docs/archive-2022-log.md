@@ -415,3 +415,5 @@ Initial web engineering and learning log.
 - [2022-08-12T14:02] feat(css): add smooth hover transitions and button active states
 
 - [2022-08-12T14:38] feat(server): scaffold Express.js web server with JSON body parser
+
+- [2022-08-17T10:59] fix(nav): close mobile drawer automatically when route changes
