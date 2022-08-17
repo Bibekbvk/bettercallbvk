@@ -423,3 +423,5 @@ Initial web engineering and learning log.
 - [2022-08-17T13:13] feat(db): define Product and ContactMessage schemas with timestamps
 
 - [2022-08-17T14:54] feat(css): implement typography hierarchy with custom Google Web Fonts
+
+- [2022-08-17T16:02] feat(js): implement local storage caching for form draft input
