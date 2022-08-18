@@ -429,3 +429,5 @@ Initial web engineering and learning log.
 - [2022-08-18T09:46] feat(react): create reusable Button, Card, and Badge components
 
 - [2022-08-18T10:55] refactor(clean): remove unused CSS classes and console.log debugging statements
+
+- [2022-08-18T11:45] fix(css): fix button label vertical alignment in Safari browser
