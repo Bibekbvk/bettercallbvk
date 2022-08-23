@@ -433,3 +433,5 @@ Initial web engineering and learning log.
 - [2022-08-18T11:45] fix(css): fix button label vertical alignment in Safari browser
 
 - [2022-08-23T10:12] feat(react): add cart item count badge and state lifting
+
+- [2022-08-23T11:21] fix(react): prevent unnecessary re-renders with useCallback
