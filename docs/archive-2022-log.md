@@ -435,3 +435,5 @@ Initial web engineering and learning log.
 - [2022-08-23T10:12] feat(react): add cart item count badge and state lifting
 
 - [2022-08-23T11:21] fix(react): prevent unnecessary re-renders with useCallback
+
+- [2022-08-23T12:04] fix(js): handle fetch network error with user-friendly alert message
