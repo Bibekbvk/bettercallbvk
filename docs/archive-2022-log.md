@@ -431,3 +431,5 @@ Initial web engineering and learning log.
 - [2022-08-18T10:55] refactor(clean): remove unused CSS classes and console.log debugging statements
 
 - [2022-08-18T11:45] fix(css): fix button label vertical alignment in Safari browser
+
+- [2022-08-23T10:12] feat(react): add cart item count badge and state lifting
