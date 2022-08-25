@@ -441,3 +441,5 @@ Initial web engineering and learning log.
 - [2022-08-25T10:50] feat(html): scaffold basic semantic layout structure with header and footer
 
 - [2022-08-25T12:28] feat(js): build interactive image modal lightbox with next/prev buttons
+
+- [2022-08-25T14:08] feat(react): manage dynamic list state using useState hook
