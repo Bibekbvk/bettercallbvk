@@ -443,3 +443,5 @@ Initial web engineering and learning log.
 - [2022-08-25T12:28] feat(js): build interactive image modal lightbox with next/prev buttons
 
 - [2022-08-25T14:08] feat(react): manage dynamic list state using useState hook
+
+- [2022-08-29T10:33] feat(js): add accordion FAQ toggle with smooth height transition
