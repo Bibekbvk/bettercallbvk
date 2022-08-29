@@ -445,3 +445,5 @@ Initial web engineering and learning log.
 - [2022-08-25T14:08] feat(react): manage dynamic list state using useState hook
 
 - [2022-08-29T10:33] feat(js): add accordion FAQ toggle with smooth height transition
+
+- [2022-08-29T11:29] docs(api): document REST API endpoints and query parameters in README
