@@ -447,3 +447,5 @@ Initial web engineering and learning log.
 - [2022-08-29T10:33] feat(js): add accordion FAQ toggle with smooth height transition
 
 - [2022-08-29T11:29] docs(api): document REST API endpoints and query parameters in README
+
+- [2022-08-29T12:24] chore(lint): setup ESLint and Prettier formatting rules
