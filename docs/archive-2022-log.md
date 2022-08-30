@@ -455,3 +455,5 @@ Initial web engineering and learning log.
 - [2022-08-30T09:59] feat(js): fetch public repository list via GitHub REST API with fetch()
 
 - [2022-08-30T11:26] feat(react): implement controlled input components with validation feedback
+
+- [2022-08-30T12:30] feat(auth): implement user registration route with bcrypt password hashing
