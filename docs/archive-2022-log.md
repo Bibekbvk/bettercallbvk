@@ -453,3 +453,5 @@ Initial web engineering and learning log.
 - [2022-08-29T13:12] feat(css): implement responsive flexbox navigation bar
 
 - [2022-08-30T09:59] feat(js): fetch public repository list via GitHub REST API with fetch()
+
+- [2022-08-30T11:26] feat(react): implement controlled input components with validation feedback
