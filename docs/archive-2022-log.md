@@ -451,3 +451,5 @@ Initial web engineering and learning log.
 - [2022-08-29T12:24] chore(lint): setup ESLint and Prettier formatting rules
 
 - [2022-08-29T13:12] feat(css): implement responsive flexbox navigation bar
+
+- [2022-08-30T09:59] feat(js): fetch public repository list via GitHub REST API with fetch()
