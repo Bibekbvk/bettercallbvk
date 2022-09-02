@@ -457,3 +457,5 @@ Initial web engineering and learning log.
 - [2022-08-30T11:26] feat(react): implement controlled input components with validation feedback
 
 - [2022-08-30T12:30] feat(auth): implement user registration route with bcrypt password hashing
+
+- [2022-09-02T10:51] fix(react): add missing key prop to mapped list items
