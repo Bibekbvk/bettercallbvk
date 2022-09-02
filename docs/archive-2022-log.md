@@ -461,3 +461,5 @@ Initial web engineering and learning log.
 - [2022-09-02T10:51] fix(react): add missing key prop to mapped list items
 
 - [2022-09-02T11:27] feat(server): scaffold Express.js web server with JSON body parser
+
+- [2022-09-02T12:02] feat(css): add smooth hover transitions and button active states
