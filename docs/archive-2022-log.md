@@ -459,3 +459,5 @@ Initial web engineering and learning log.
 - [2022-08-30T12:30] feat(auth): implement user registration route with bcrypt password hashing
 
 - [2022-09-02T10:51] fix(react): add missing key prop to mapped list items
+
+- [2022-09-02T11:27] feat(server): scaffold Express.js web server with JSON body parser
