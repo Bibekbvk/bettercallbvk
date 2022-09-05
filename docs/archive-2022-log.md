@@ -471,3 +471,5 @@ Initial web engineering and learning log.
 - [2022-09-05T10:37] feat(api): create GET and POST endpoints for contact message inbox
 
 - [2022-09-05T12:05] feat(auth): add authorization middleware to protect private API routes
+
+- [2022-09-05T12:47] fix(images): add width and height attributes to prevent layout shift
