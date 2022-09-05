@@ -475,3 +475,5 @@ Initial web engineering and learning log.
 - [2022-09-05T12:47] fix(images): add width and height attributes to prevent layout shift
 
 - [2022-09-05T13:57] feat(db): setup MongoDB connection using Mongoose ODM client
+
+- [2022-09-05T14:37] fix(auth): fix token expiration check on protected page reload
