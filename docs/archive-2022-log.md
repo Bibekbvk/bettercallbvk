@@ -469,3 +469,5 @@ Initial web engineering and learning log.
 - [2022-09-02T14:39] feat(html): scaffold basic semantic layout structure with header and footer
 
 - [2022-09-05T10:37] feat(api): create GET and POST endpoints for contact message inbox
+
+- [2022-09-05T12:05] feat(auth): add authorization middleware to protect private API routes
