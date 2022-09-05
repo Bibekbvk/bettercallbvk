@@ -467,3 +467,5 @@ Initial web engineering and learning log.
 - [2022-09-02T13:25] fix(nav): close mobile drawer automatically when route changes
 
 - [2022-09-02T14:39] feat(html): scaffold basic semantic layout structure with header and footer
+
+- [2022-09-05T10:37] feat(api): create GET and POST endpoints for contact message inbox
