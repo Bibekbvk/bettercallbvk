@@ -473,3 +473,5 @@ Initial web engineering and learning log.
 - [2022-09-05T12:05] feat(auth): add authorization middleware to protect private API routes
 
 - [2022-09-05T12:47] fix(images): add width and height attributes to prevent layout shift
+
+- [2022-09-05T13:57] feat(db): setup MongoDB connection using Mongoose ODM client
