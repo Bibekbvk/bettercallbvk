@@ -481,3 +481,5 @@ Initial web engineering and learning log.
 - [2022-09-15T10:22] feat(js): implement mobile navigation hamburger menu toggle
 
 - [2022-09-15T11:44] feat(css): add CSS grid layout for project showcase cards
+
+- [2022-09-15T12:29] fix(css): fix button label vertical alignment in Safari browser
