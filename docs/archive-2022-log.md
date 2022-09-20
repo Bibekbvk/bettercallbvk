@@ -485,3 +485,5 @@ Initial web engineering and learning log.
 - [2022-09-15T12:29] fix(css): fix button label vertical alignment in Safari browser
 
 - [2022-09-20T10:34] feat(js): add accordion FAQ toggle with smooth height transition
+
+- [2022-09-20T11:59] feat(api): add input validation middleware for incoming request payloads
