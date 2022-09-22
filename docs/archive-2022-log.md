@@ -501,3 +501,5 @@ Initial web engineering and learning log.
 - [2022-09-22T14:59] feat(db): define Product and ContactMessage schemas with timestamps
 
 - [2022-09-22T16:31] refactor(clean): remove unused CSS classes and console.log debugging statements
+
+- [2022-09-22T17:35] feat(css): create custom card drop-shadow utilities and rounded borders
