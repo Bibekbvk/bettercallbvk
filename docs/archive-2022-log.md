@@ -497,3 +497,5 @@ Initial web engineering and learning log.
 - [2022-09-22T12:28] fix(js): prevent form page reload on enter key submission
 
 - [2022-09-22T13:43] feat(react): add cart item count badge and state lifting
+
+- [2022-09-22T14:59] feat(db): define Product and ContactMessage schemas with timestamps
