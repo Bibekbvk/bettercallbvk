@@ -499,3 +499,5 @@ Initial web engineering and learning log.
 - [2022-09-22T13:43] feat(react): add cart item count badge and state lifting
 
 - [2022-09-22T14:59] feat(db): define Product and ContactMessage schemas with timestamps
+
+- [2022-09-22T16:31] refactor(clean): remove unused CSS classes and console.log debugging statements
