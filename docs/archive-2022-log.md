@@ -493,3 +493,5 @@ Initial web engineering and learning log.
 - [2022-09-22T10:25] fix(react): prevent unnecessary re-renders with useCallback
 
 - [2022-09-22T11:16] feat(css): add custom CSS scrollbar styling for webkit browsers
+
+- [2022-09-22T12:28] fix(js): prevent form page reload on enter key submission
