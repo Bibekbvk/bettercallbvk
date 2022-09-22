@@ -491,3 +491,5 @@ Initial web engineering and learning log.
 - [2022-09-20T13:49] feat(react): create reusable Button, Card, and Badge components
 
 - [2022-09-22T10:25] fix(react): prevent unnecessary re-renders with useCallback
+
+- [2022-09-22T11:16] feat(css): add custom CSS scrollbar styling for webkit browsers
