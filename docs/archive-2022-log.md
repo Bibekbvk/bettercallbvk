@@ -507,3 +507,5 @@ Initial web engineering and learning log.
 - [2022-09-26T09:47] feat(css): create reusable button component utility classes
 
 - [2022-09-26T11:36] feat(react): create custom useWindowDimensions hook for responsive UI
+
+- [2022-09-26T12:30] chore(react): initialize React project boilerplate and file structure
