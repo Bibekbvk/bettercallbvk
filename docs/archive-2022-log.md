@@ -513,3 +513,5 @@ Initial web engineering and learning log.
 - [2022-09-26T13:26] feat(css): implement responsive flexbox navigation bar
 
 - [2022-09-26T15:00] feat(auth): generate signed JWT token on successful credential verification
+
+- [2022-09-26T16:27] feat(js): add live search filter on project card elements
