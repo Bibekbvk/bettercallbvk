@@ -509,3 +509,5 @@ Initial web engineering and learning log.
 - [2022-09-26T11:36] feat(react): create custom useWindowDimensions hook for responsive UI
 
 - [2022-09-26T12:30] chore(react): initialize React project boilerplate and file structure
+
+- [2022-09-26T13:26] feat(css): implement responsive flexbox navigation bar
