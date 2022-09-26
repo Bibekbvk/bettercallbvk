@@ -511,3 +511,5 @@ Initial web engineering and learning log.
 - [2022-09-26T12:30] chore(react): initialize React project boilerplate and file structure
 
 - [2022-09-26T13:26] feat(css): implement responsive flexbox navigation bar
+
+- [2022-09-26T15:00] feat(auth): generate signed JWT token on successful credential verification
