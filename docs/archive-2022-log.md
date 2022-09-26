@@ -503,3 +503,5 @@ Initial web engineering and learning log.
 - [2022-09-22T16:31] refactor(clean): remove unused CSS classes and console.log debugging statements
 
 - [2022-09-22T17:35] feat(css): create custom card drop-shadow utilities and rounded borders
+
+- [2022-09-26T09:47] feat(css): create reusable button component utility classes
