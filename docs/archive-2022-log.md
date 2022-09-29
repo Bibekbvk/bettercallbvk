@@ -517,3 +517,5 @@ Initial web engineering and learning log.
 - [2022-09-26T16:27] feat(js): add live search filter on project card elements
 
 - [2022-09-29T10:15] fix(layout): resolve mobile horizontal scroll overflow issue
+
+- [2022-09-29T11:16] fix(js): handle fetch network error with user-friendly alert message
