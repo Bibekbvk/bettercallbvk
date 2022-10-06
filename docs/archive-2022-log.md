@@ -525,3 +525,5 @@ Initial web engineering and learning log.
 - [2022-10-06T11:19] feat(css): implement mobile media query breakpoints for tablet and phone
 
 - [2022-10-06T12:14] fix(api): return proper 404 status code when queried item does not exist
+
+- [2022-10-06T13:27] feat(js): implement local storage caching for form draft input
