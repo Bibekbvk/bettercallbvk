@@ -523,3 +523,5 @@ Initial web engineering and learning log.
 - [2022-10-06T10:29] feat(react): scaffold multi-page navigation using React Router DOM
 
 - [2022-10-06T11:19] feat(css): implement mobile media query breakpoints for tablet and phone
+
+- [2022-10-06T12:14] fix(api): return proper 404 status code when queried item does not exist
