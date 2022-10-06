@@ -519,3 +519,5 @@ Initial web engineering and learning log.
 - [2022-09-29T10:15] fix(layout): resolve mobile horizontal scroll overflow issue
 
 - [2022-09-29T11:16] fix(js): handle fetch network error with user-friendly alert message
+
+- [2022-10-06T10:29] feat(react): scaffold multi-page navigation using React Router DOM
