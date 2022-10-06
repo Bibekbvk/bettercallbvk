@@ -521,3 +521,5 @@ Initial web engineering and learning log.
 - [2022-09-29T11:16] fix(js): handle fetch network error with user-friendly alert message
 
 - [2022-10-06T10:29] feat(react): scaffold multi-page navigation using React Router DOM
+
+- [2022-10-06T11:19] feat(css): implement mobile media query breakpoints for tablet and phone
