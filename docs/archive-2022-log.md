@@ -529,3 +529,5 @@ Initial web engineering and learning log.
 - [2022-10-06T13:27] feat(js): implement local storage caching for form draft input
 
 - [2022-10-07T09:35] feat(react): manage dynamic list state using useState hook
+
+- [2022-10-07T10:51] chore(deps): install axios, react-icons, and express dependencies
