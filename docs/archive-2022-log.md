@@ -527,3 +527,5 @@ Initial web engineering and learning log.
 - [2022-10-06T12:14] fix(api): return proper 404 status code when queried item does not exist
 
 - [2022-10-06T13:27] feat(js): implement local storage caching for form draft input
+
+- [2022-10-07T09:35] feat(react): manage dynamic list state using useState hook
