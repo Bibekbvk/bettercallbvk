@@ -533,3 +533,5 @@ Initial web engineering and learning log.
 - [2022-10-07T10:51] chore(deps): install axios, react-icons, and express dependencies
 
 - [2022-10-10T11:01] feat(js): implement dark mode theme toggle using localStorage persistence
+
+- [2022-10-10T12:21] feat(js): add client-side form validation for contact message form
