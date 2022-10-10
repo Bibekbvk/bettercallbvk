@@ -535,3 +535,5 @@ Initial web engineering and learning log.
 - [2022-10-10T11:01] feat(js): implement dark mode theme toggle using localStorage persistence
 
 - [2022-10-10T12:21] feat(js): add client-side form validation for contact message form
+
+- [2022-10-10T14:01] feat(css): implement typography hierarchy with custom Google Web Fonts
