@@ -539,3 +539,5 @@ Initial web engineering and learning log.
 - [2022-10-10T14:01] feat(css): implement typography hierarchy with custom Google Web Fonts
 
 - [2022-10-10T15:14] docs(readme): write comprehensive setup instructions and demo preview link
+
+- [2022-10-11T09:33] feat(js): build interactive image modal lightbox with next/prev buttons
