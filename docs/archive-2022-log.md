@@ -547,3 +547,5 @@ Initial web engineering and learning log.
 - [2022-10-17T10:01] feat(react): add conditional rendering for loading spinners and empty states
 
 - [2022-10-17T11:35] feat(js): implement debounced scroll-to-top floating button
+
+- [2022-10-17T12:27] chore(git): configure .gitignore for node_modules and .env files
