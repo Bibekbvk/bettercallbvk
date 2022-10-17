@@ -545,3 +545,5 @@ Initial web engineering and learning log.
 - [2022-10-11T11:05] feat(react): implement simple modal dialog with React portal
 
 - [2022-10-17T10:01] feat(react): add conditional rendering for loading spinners and empty states
+
+- [2022-10-17T11:35] feat(js): implement debounced scroll-to-top floating button
