@@ -557,3 +557,5 @@ Initial web engineering and learning log.
 - [2022-10-31T11:12] feat(react): fetch asynchronous API data inside useEffect lifecycle hook
 
 - [2022-10-31T13:07] chore(lint): setup ESLint and Prettier formatting rules
+
+- [2022-10-31T13:52] feat(api): implement CORS headers middleware for frontend domain access
