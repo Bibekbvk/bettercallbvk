@@ -555,3 +555,5 @@ Initial web engineering and learning log.
 - [2022-10-31T09:46] docs(api): document REST API endpoints and query parameters in README
 
 - [2022-10-31T11:12] feat(react): fetch asynchronous API data inside useEffect lifecycle hook
+
+- [2022-10-31T13:07] chore(lint): setup ESLint and Prettier formatting rules
