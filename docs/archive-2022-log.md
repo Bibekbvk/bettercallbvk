@@ -551,3 +551,5 @@ Initial web engineering and learning log.
 - [2022-10-17T12:27] chore(git): configure .gitignore for node_modules and .env files
 
 - [2022-10-24T09:37] feat(html): add meta viewport tag for responsive mobile rendering
+
+- [2022-10-31T09:46] docs(api): document REST API endpoints and query parameters in README
