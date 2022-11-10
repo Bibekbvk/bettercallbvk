@@ -563,3 +563,5 @@ Initial web engineering and learning log.
 - [2022-11-10T10:03] feat(js): build simple countdown timer component with setInterval
 
 - [2022-11-10T10:40] refactor(utils): extract date formatting helper into separate utils file
+
+- [2022-11-10T11:40] chore(deps): install axios, react-icons, and express dependencies
