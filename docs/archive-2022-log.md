@@ -567,3 +567,5 @@ Initial web engineering and learning log.
 - [2022-11-10T11:40] chore(deps): install axios, react-icons, and express dependencies
 
 - [2022-11-10T12:59] feat(css): implement typography hierarchy with custom Google Web Fonts
+
+- [2022-11-10T14:38] feat(js): implement debounced scroll-to-top floating button
