@@ -571,3 +571,5 @@ Initial web engineering and learning log.
 - [2022-11-10T14:38] feat(js): implement debounced scroll-to-top floating button
 
 - [2022-11-18T10:04] fix(auth): fix token expiration check on protected page reload
+
+- [2022-11-18T10:42] feat(db): define Product and ContactMessage schemas with timestamps
