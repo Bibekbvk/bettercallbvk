@@ -569,3 +569,5 @@ Initial web engineering and learning log.
 - [2022-11-10T12:59] feat(css): implement typography hierarchy with custom Google Web Fonts
 
 - [2022-11-10T14:38] feat(js): implement debounced scroll-to-top floating button
+
+- [2022-11-18T10:04] fix(auth): fix token expiration check on protected page reload
