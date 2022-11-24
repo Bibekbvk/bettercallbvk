@@ -573,3 +573,5 @@ Initial web engineering and learning log.
 - [2022-11-18T10:04] fix(auth): fix token expiration check on protected page reload
 
 - [2022-11-18T10:42] feat(db): define Product and ContactMessage schemas with timestamps
+
+- [2022-11-24T09:58] chore(lint): setup ESLint and Prettier formatting rules
