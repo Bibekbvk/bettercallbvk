@@ -577,3 +577,5 @@ Initial web engineering and learning log.
 - [2022-11-24T09:58] chore(lint): setup ESLint and Prettier formatting rules
 
 - [2022-11-24T11:08] feat(js): build interactive image modal lightbox with next/prev buttons
+
+- [2022-11-24T12:43] feat(js): fetch public repository list via GitHub REST API with fetch()
