@@ -585,3 +585,5 @@ Initial web engineering and learning log.
 - [2022-12-21T12:12] feat(react): create reusable Button, Card, and Badge components
 
 - [2022-12-21T12:59] feat(react): implement simple modal dialog with React portal
+
+- [2022-12-21T14:04] feat(react): add conditional rendering for loading spinners and empty states
