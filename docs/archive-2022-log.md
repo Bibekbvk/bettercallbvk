@@ -587,3 +587,5 @@ Initial web engineering and learning log.
 - [2022-12-21T12:59] feat(react): implement simple modal dialog with React portal
 
 - [2022-12-21T14:04] feat(react): add conditional rendering for loading spinners and empty states
+
+- [2022-12-29T11:14] feat(css): add CSS grid layout for project showcase cards
