@@ -591,3 +591,5 @@ Initial web engineering and learning log.
 - [2022-12-29T11:14] feat(css): add CSS grid layout for project showcase cards
 
 - [2022-12-29T11:56] feat(js): add accordion FAQ toggle with smooth height transition
+
+- [2022-12-29T12:59] fix(nav): close mobile drawer automatically when route changes
