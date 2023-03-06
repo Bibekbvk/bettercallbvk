@@ -17,3 +17,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-03-03T12:15] refactor(clean): modularize monolithic component into reusable atomic components
 
 - [2023-03-06T11:18] perf(img): convert hero banners to modern WebP format with sharp
+
+- [2023-03-06T12:39] feat(db): add database indexing on foreign keys for high query throughput
