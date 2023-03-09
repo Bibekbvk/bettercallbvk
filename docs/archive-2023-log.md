@@ -21,3 +21,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-03-06T12:39] feat(db): add database indexing on foreign keys for high query throughput
 
 - [2023-03-09T11:00] fix(db): prevent connection pool exhaustion under concurrent request load
+
+- [2023-03-09T12:25] feat(auth): implement JWT cookie session storage with httpOnly flag
