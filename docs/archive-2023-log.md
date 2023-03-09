@@ -27,3 +27,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-03-09T13:12] fix(ui): resolve z-index conflict between dropdown menu and modal
 
 - [2023-03-09T14:25] test(unit): add Jest unit tests for cart calculation logic
+
+- [2023-03-09T15:17] feat(ci): setup GitHub Actions workflow for automated unit test runs
