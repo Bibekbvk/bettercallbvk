@@ -23,3 +23,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-03-09T11:00] fix(db): prevent connection pool exhaustion under concurrent request load
 
 - [2023-03-09T12:25] feat(auth): implement JWT cookie session storage with httpOnly flag
+
+- [2023-03-09T13:12] fix(ui): resolve z-index conflict between dropdown menu and modal
