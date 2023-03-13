@@ -33,3 +33,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-03-13T11:11] feat(ui): build responsive navbar with hamburger menu for mobile devices
 
 - [2023-03-13T12:48] feat(db): setup PostgreSQL database connection with Prisma ORM
+
+- [2023-03-13T14:03] feat(ui): add customizable toast notification alert system
