@@ -37,3 +37,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-03-13T14:03] feat(ui): add customizable toast notification alert system
 
 - [2023-03-13T15:49] feat(api): scaffold Next.js API routes for dynamic product querying
+
+- [2023-03-13T17:42] feat(admin): create admin metrics overview page with sales charts
