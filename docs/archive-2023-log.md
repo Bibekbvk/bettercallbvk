@@ -45,3 +45,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-03-16T11:48] perf(db): optimize SQL queries to avoid N+1 problem on relational joins
 
 - [2023-03-16T13:11] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
+
+- [2023-03-16T14:23] feat(react): create custom useLocalStorage hook with JSON parsing
