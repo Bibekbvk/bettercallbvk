@@ -41,3 +41,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-03-13T17:42] feat(admin): create admin metrics overview page with sales charts
 
 - [2023-03-16T09:58] feat(cart): persist cart items across browser sessions using indexedDB
+
+- [2023-03-16T11:48] perf(db): optimize SQL queries to avoid N+1 problem on relational joins
