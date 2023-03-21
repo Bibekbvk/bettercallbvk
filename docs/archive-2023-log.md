@@ -55,3 +55,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-03-21T10:20] feat(tailwind): setup Tailwind CSS configuration and custom color tokens
 
 - [2023-03-21T12:07] docs(readme): update API architecture documentation and local setup guide
+
+- [2023-03-21T13:05] feat(api): add rate limiting middleware for sensitive auth endpoints
