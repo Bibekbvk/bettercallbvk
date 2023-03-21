@@ -57,3 +57,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-03-21T12:07] docs(readme): update API architecture documentation and local setup guide
 
 - [2023-03-21T13:05] feat(api): add rate limiting middleware for sensitive auth endpoints
+
+- [2023-03-21T14:20] feat(ui): implement skeleton loader placeholders for async data cards
