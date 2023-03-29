@@ -69,3 +69,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-03-29T11:20] feat(ui): add accessible modal dialog with backdrop blur and trap focus
 
 - [2023-03-29T12:39] feat(ts): migrate core utility functions to strict TypeScript
+
+- [2023-03-29T13:35] feat(docker): add multi-stage Dockerfile for optimized production build
