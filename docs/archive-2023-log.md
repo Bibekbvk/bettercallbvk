@@ -61,3 +61,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-03-21T14:20] feat(ui): implement skeleton loader placeholders for async data cards
 
 - [2023-03-21T15:23] fix(cart): fix race condition when rapidly incrementing item quantity
+
+- [2023-03-29T09:43] fix(auth): prevent duplicate account creation with lowercase email normalizer
