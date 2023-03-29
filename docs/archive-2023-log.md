@@ -67,3 +67,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-03-29T10:36] feat(auth): add password reset email workflow with expiring tokens
 
 - [2023-03-29T11:20] feat(ui): add accessible modal dialog with backdrop blur and trap focus
+
+- [2023-03-29T12:39] feat(ts): migrate core utility functions to strict TypeScript
