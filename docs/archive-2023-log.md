@@ -71,3 +71,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-03-29T12:39] feat(ts): migrate core utility functions to strict TypeScript
 
 - [2023-03-29T13:35] feat(docker): add multi-stage Dockerfile for optimized production build
+
+- [2023-03-31T11:15] perf(bundle): split vendor chunks and analyze bundle size with webpack bundle analyzer
