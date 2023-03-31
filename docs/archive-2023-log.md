@@ -79,3 +79,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-03-31T13:08] feat(admin): create admin metrics overview page with sales charts
 
 - [2023-03-31T13:56] feat(docker): add multi-stage Dockerfile for optimized production build
+
+- [2023-03-31T15:14] feat(api): add rate limiting middleware for sensitive auth endpoints
