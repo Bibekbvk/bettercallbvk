@@ -75,3 +75,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-03-31T11:15] perf(bundle): split vendor chunks and analyze bundle size with webpack bundle analyzer
 
 - [2023-03-31T12:32] feat(react): implement client-side state management using Redux Toolkit
+
+- [2023-03-31T13:08] feat(admin): create admin metrics overview page with sales charts
