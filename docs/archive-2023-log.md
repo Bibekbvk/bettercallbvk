@@ -83,3 +83,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-03-31T15:14] feat(api): add rate limiting middleware for sensitive auth endpoints
 
 - [2023-04-06T09:50] feat(react): create custom useLocalStorage hook with JSON parsing
+
+- [2023-04-06T10:34] fix(db): prevent connection pool exhaustion under concurrent request load
