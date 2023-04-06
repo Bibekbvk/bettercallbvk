@@ -81,3 +81,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-03-31T13:56] feat(docker): add multi-stage Dockerfile for optimized production build
 
 - [2023-03-31T15:14] feat(api): add rate limiting middleware for sensitive auth endpoints
+
+- [2023-04-06T09:50] feat(react): create custom useLocalStorage hook with JSON parsing
