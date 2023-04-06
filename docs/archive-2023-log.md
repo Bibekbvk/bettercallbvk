@@ -89,3 +89,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-04-06T11:20] perf(img): convert hero banners to modern WebP format with sharp
 
 - [2023-04-06T13:11] feat(ui): implement skeleton loader placeholders for async data cards
+
+- [2023-04-06T14:47] feat(tailwind): setup Tailwind CSS configuration and custom color tokens
