@@ -85,3 +85,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-04-06T09:50] feat(react): create custom useLocalStorage hook with JSON parsing
 
 - [2023-04-06T10:34] fix(db): prevent connection pool exhaustion under concurrent request load
+
+- [2023-04-06T11:20] perf(img): convert hero banners to modern WebP format with sharp
