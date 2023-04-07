@@ -91,3 +91,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-04-06T13:11] feat(ui): implement skeleton loader placeholders for async data cards
 
 - [2023-04-06T14:47] feat(tailwind): setup Tailwind CSS configuration and custom color tokens
+
+- [2023-04-07T10:25] feat(search): implement debounced live search filter on catalog page
