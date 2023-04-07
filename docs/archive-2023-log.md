@@ -97,3 +97,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-04-07T11:21] perf(db): optimize SQL queries to avoid N+1 problem on relational joins
 
 - [2023-04-07T12:51] fix(ui): resolve z-index conflict between dropdown menu and modal
+
+- [2023-04-07T13:32] feat(auth): implement JWT cookie session storage with httpOnly flag
