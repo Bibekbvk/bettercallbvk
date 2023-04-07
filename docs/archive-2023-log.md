@@ -93,3 +93,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-04-06T14:47] feat(tailwind): setup Tailwind CSS configuration and custom color tokens
 
 - [2023-04-07T10:25] feat(search): implement debounced live search filter on catalog page
+
+- [2023-04-07T11:21] perf(db): optimize SQL queries to avoid N+1 problem on relational joins
