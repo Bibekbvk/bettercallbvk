@@ -105,3 +105,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-04-11T11:23] feat(db): add database indexing on foreign keys for high query throughput
 
 - [2023-04-11T13:08] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
+
+- [2023-04-11T14:52] fix(auth): prevent duplicate account creation with lowercase email normalizer
