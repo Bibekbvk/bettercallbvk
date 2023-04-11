@@ -111,3 +111,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-04-11T16:03] feat(cart): persist cart items across browser sessions using indexedDB
 
 - [2023-04-11T17:08] test(unit): add Jest unit tests for cart calculation logic
+
+- [2023-04-11T17:49] feat(auth): add password reset email workflow with expiring tokens
