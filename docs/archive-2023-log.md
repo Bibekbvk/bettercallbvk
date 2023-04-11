@@ -107,3 +107,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-04-11T13:08] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
 
 - [2023-04-11T14:52] fix(auth): prevent duplicate account creation with lowercase email normalizer
+
+- [2023-04-11T16:03] feat(cart): persist cart items across browser sessions using indexedDB
