@@ -101,3 +101,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-04-07T13:32] feat(auth): implement JWT cookie session storage with httpOnly flag
 
 - [2023-04-11T09:56] feat(ui): add accessible modal dialog with backdrop blur and trap focus
+
+- [2023-04-11T11:23] feat(db): add database indexing on foreign keys for high query throughput
