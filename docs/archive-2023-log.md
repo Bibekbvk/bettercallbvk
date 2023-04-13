@@ -115,3 +115,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-04-11T17:49] feat(auth): add password reset email workflow with expiring tokens
 
 - [2023-04-13T10:40] perf(bundle): split vendor chunks and analyze bundle size with webpack bundle analyzer
+
+- [2023-04-13T11:34] feat(ts): migrate core utility functions to strict TypeScript
