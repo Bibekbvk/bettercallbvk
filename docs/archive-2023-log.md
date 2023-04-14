@@ -123,3 +123,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-04-13T14:24] feat(react): implement client-side state management using Redux Toolkit
 
 - [2023-04-13T15:36] fix(cart): fix race condition when rapidly incrementing item quantity
+
+- [2023-04-14T10:46] feat(db): setup PostgreSQL database connection with Prisma ORM
