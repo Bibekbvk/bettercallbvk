@@ -127,3 +127,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-04-14T10:46] feat(db): setup PostgreSQL database connection with Prisma ORM
 
 - [2023-04-14T11:46] feat(ci): setup GitHub Actions workflow for automated unit test runs
+
+- [2023-04-18T09:56] feat(ts): define shared interfaces for User, Order, and Cart models
