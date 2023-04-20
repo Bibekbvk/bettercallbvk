@@ -139,3 +139,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-04-20T10:30] docs(readme): update API architecture documentation and local setup guide
 
 - [2023-04-20T11:38] feat(api): scaffold Next.js API routes for dynamic product querying
+
+- [2023-04-20T13:22] refactor(api): standardize REST API response schema across all endpoints
