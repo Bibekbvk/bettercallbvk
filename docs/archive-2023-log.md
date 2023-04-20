@@ -137,3 +137,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-04-18T13:57] feat(react): add infinite scroll pagination for product catalog view
 
 - [2023-04-20T10:30] docs(readme): update API architecture documentation and local setup guide
+
+- [2023-04-20T11:38] feat(api): scaffold Next.js API routes for dynamic product querying
