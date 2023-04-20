@@ -135,3 +135,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-04-18T12:43] fix(api): properly catch and format unhandled promise rejections in API
 
 - [2023-04-18T13:57] feat(react): add infinite scroll pagination for product catalog view
+
+- [2023-04-20T10:30] docs(readme): update API architecture documentation and local setup guide
