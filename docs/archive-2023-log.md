@@ -147,3 +147,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-04-26T10:17] feat(ui): add customizable toast notification alert system
 
 - [2023-04-26T11:49] feat(ui): build responsive navbar with hamburger menu for mobile devices
+
+- [2023-04-26T12:57] feat(ci): setup GitHub Actions workflow for automated unit test runs
