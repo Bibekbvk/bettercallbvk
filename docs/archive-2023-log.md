@@ -143,3 +143,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-04-20T13:22] refactor(api): standardize REST API response schema across all endpoints
 
 - [2023-04-20T14:20] test(integration): add Supertest integration tests for auth endpoints
+
+- [2023-04-26T10:17] feat(ui): add customizable toast notification alert system
