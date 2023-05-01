@@ -159,3 +159,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-01T12:15] feat(admin): create admin metrics overview page with sales charts
 
 - [2023-05-01T13:45] perf(img): convert hero banners to modern WebP format with sharp
+
+- [2023-05-01T15:40] fix(auth): prevent duplicate account creation with lowercase email normalizer
