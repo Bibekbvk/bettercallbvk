@@ -151,3 +151,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-04-26T12:57] feat(ci): setup GitHub Actions workflow for automated unit test runs
 
 - [2023-05-01T09:51] feat(ui): implement skeleton loader placeholders for async data cards
+
+- [2023-05-01T10:50] test(integration): add Supertest integration tests for auth endpoints
