@@ -169,3 +169,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-02T12:10] feat(ui): add customizable toast notification alert system
 
 - [2023-05-02T13:35] feat(ts): define shared interfaces for User, Order, and Cart models
+
+- [2023-05-02T14:51] perf(db): optimize SQL queries to avoid N+1 problem on relational joins
