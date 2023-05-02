@@ -161,3 +161,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-01T13:45] perf(img): convert hero banners to modern WebP format with sharp
 
 - [2023-05-01T15:40] fix(auth): prevent duplicate account creation with lowercase email normalizer
+
+- [2023-05-02T10:03] feat(ts): migrate core utility functions to strict TypeScript
