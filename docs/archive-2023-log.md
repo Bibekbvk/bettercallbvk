@@ -173,3 +173,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-02T14:51] perf(db): optimize SQL queries to avoid N+1 problem on relational joins
 
 - [2023-05-03T10:28] perf(bundle): split vendor chunks and analyze bundle size with webpack bundle analyzer
+
+- [2023-05-03T12:22] fix(ui): resolve z-index conflict between dropdown menu and modal
