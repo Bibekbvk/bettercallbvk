@@ -175,3 +175,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-03T10:28] perf(bundle): split vendor chunks and analyze bundle size with webpack bundle analyzer
 
 - [2023-05-03T12:22] fix(ui): resolve z-index conflict between dropdown menu and modal
+
+- [2023-05-03T14:03] feat(search): implement debounced live search filter on catalog page
