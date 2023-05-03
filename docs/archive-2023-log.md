@@ -181,3 +181,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-03T15:31] feat(ui): build responsive navbar with hamburger menu for mobile devices
 
 - [2023-05-03T16:59] feat(ui): add accessible modal dialog with backdrop blur and trap focus
+
+- [2023-05-03T17:52] feat(docker): add multi-stage Dockerfile for optimized production build
