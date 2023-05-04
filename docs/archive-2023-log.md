@@ -187,3 +187,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-03T19:42] fix(api): properly catch and format unhandled promise rejections in API
 
 - [2023-05-03T20:29] feat(tailwind): setup Tailwind CSS configuration and custom color tokens
+
+- [2023-05-04T11:09] feat(auth): add password reset email workflow with expiring tokens
