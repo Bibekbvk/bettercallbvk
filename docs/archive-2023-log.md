@@ -195,3 +195,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-04T13:39] refactor(api): standardize REST API response schema across all endpoints
 
 - [2023-05-04T14:47] feat(auth): implement JWT cookie session storage with httpOnly flag
+
+- [2023-05-04T16:24] feat(db): create migration for Users, Products, and Transactions tables
