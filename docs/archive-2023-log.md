@@ -191,3 +191,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-04T11:09] feat(auth): add password reset email workflow with expiring tokens
 
 - [2023-05-04T12:20] feat(db): add database indexing on foreign keys for high query throughput
+
+- [2023-05-04T13:39] refactor(api): standardize REST API response schema across all endpoints
