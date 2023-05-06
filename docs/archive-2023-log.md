@@ -203,3 +203,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-06T11:27] feat(api): scaffold Next.js API routes for dynamic product querying
 
 - [2023-05-06T12:53] refactor(clean): modularize monolithic component into reusable atomic components
+
+- [2023-05-06T14:47] feat(react): implement client-side state management using Redux Toolkit
