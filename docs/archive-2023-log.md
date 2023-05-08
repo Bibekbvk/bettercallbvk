@@ -209,3 +209,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-08T09:34] feat(db): setup PostgreSQL database connection with Prisma ORM
 
 - [2023-05-08T10:51] fix(db): prevent connection pool exhaustion under concurrent request load
+
+- [2023-05-08T11:56] feat(react): create custom useLocalStorage hook with JSON parsing
