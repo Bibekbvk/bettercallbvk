@@ -215,3 +215,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-08T13:31] test(unit): add Jest unit tests for cart calculation logic
 
 - [2023-05-10T09:32] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
+
+- [2023-05-10T10:45] feat(cart): persist cart items across browser sessions using indexedDB
