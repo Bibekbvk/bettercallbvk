@@ -217,3 +217,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-10T09:32] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
 
 - [2023-05-10T10:45] feat(cart): persist cart items across browser sessions using indexedDB
+
+- [2023-05-10T11:55] feat(react): add infinite scroll pagination for product catalog view
