@@ -227,3 +227,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-12T13:02] feat(db): create migration for Users, Products, and Transactions tables
 
 - [2023-05-12T14:24] feat(react): create custom useLocalStorage hook with JSON parsing
+
+- [2023-05-12T16:03] feat(ui): add customizable toast notification alert system
