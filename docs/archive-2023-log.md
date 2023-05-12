@@ -225,3 +225,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-12T12:02] fix(cart): fix race condition when rapidly incrementing item quantity
 
 - [2023-05-12T13:02] feat(db): create migration for Users, Products, and Transactions tables
+
+- [2023-05-12T14:24] feat(react): create custom useLocalStorage hook with JSON parsing
