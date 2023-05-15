@@ -231,3 +231,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-12T16:03] feat(ui): add customizable toast notification alert system
 
 - [2023-05-12T16:53] refactor(api): standardize REST API response schema across all endpoints
+
+- [2023-05-15T10:00] fix(api): properly catch and format unhandled promise rejections in API
