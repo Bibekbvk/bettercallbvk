@@ -237,3 +237,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-15T11:37] feat(ts): define shared interfaces for User, Order, and Cart models
 
 - [2023-05-15T13:09] feat(ci): setup GitHub Actions workflow for automated unit test runs
+
+- [2023-05-15T14:44] perf(bundle): split vendor chunks and analyze bundle size with webpack bundle analyzer
