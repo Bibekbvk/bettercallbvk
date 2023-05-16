@@ -241,3 +241,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-15T14:44] perf(bundle): split vendor chunks and analyze bundle size with webpack bundle analyzer
 
 - [2023-05-16T10:14] feat(db): add database indexing on foreign keys for high query throughput
+
+- [2023-05-16T11:09] fix(db): prevent connection pool exhaustion under concurrent request load
