@@ -245,3 +245,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-16T11:09] fix(db): prevent connection pool exhaustion under concurrent request load
 
 - [2023-05-16T11:55] feat(react): add infinite scroll pagination for product catalog view
+
+- [2023-05-16T12:33] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
