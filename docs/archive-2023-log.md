@@ -249,3 +249,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-16T12:33] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
 
 - [2023-05-18T09:50] feat(admin): create admin metrics overview page with sales charts
+
+- [2023-05-18T10:52] feat(api): scaffold Next.js API routes for dynamic product querying
