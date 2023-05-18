@@ -251,3 +251,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-18T09:50] feat(admin): create admin metrics overview page with sales charts
 
 - [2023-05-18T10:52] feat(api): scaffold Next.js API routes for dynamic product querying
+
+- [2023-05-18T11:55] perf(img): convert hero banners to modern WebP format with sharp
