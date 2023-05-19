@@ -263,3 +263,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-19T12:44] feat(ui): add accessible modal dialog with backdrop blur and trap focus
 
 - [2023-05-19T13:35] feat(ui): build responsive navbar with hamburger menu for mobile devices
+
+- [2023-05-19T14:32] feat(db): setup PostgreSQL database connection with Prisma ORM
