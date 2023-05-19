@@ -257,3 +257,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-19T10:04] refactor(clean): modularize monolithic component into reusable atomic components
 
 - [2023-05-19T11:31] feat(ui): implement skeleton loader placeholders for async data cards
+
+- [2023-05-19T12:08] perf(db): optimize SQL queries to avoid N+1 problem on relational joins
