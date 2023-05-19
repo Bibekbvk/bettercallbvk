@@ -259,3 +259,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-19T11:31] feat(ui): implement skeleton loader placeholders for async data cards
 
 - [2023-05-19T12:08] perf(db): optimize SQL queries to avoid N+1 problem on relational joins
+
+- [2023-05-19T12:44] feat(ui): add accessible modal dialog with backdrop blur and trap focus
