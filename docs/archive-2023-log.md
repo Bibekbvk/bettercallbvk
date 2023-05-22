@@ -273,3 +273,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-22T11:57] fix(auth): prevent duplicate account creation with lowercase email normalizer
 
 - [2023-05-22T13:20] test(integration): add Supertest integration tests for auth endpoints
+
+- [2023-05-22T14:53] test(unit): add Jest unit tests for cart calculation logic
