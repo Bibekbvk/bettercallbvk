@@ -277,3 +277,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-22T14:53] test(unit): add Jest unit tests for cart calculation logic
 
 - [2023-05-22T15:55] feat(cart): persist cart items across browser sessions using indexedDB
+
+- [2023-05-22T17:08] fix(ui): resolve z-index conflict between dropdown menu and modal
