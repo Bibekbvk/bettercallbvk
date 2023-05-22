@@ -283,3 +283,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-22T18:49] feat(auth): implement JWT cookie session storage with httpOnly flag
 
 - [2023-05-22T20:14] feat(docker): add multi-stage Dockerfile for optimized production build
+
+- [2023-05-22T21:02] feat(auth): add password reset email workflow with expiring tokens
