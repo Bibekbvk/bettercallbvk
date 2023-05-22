@@ -267,3 +267,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-19T14:32] feat(db): setup PostgreSQL database connection with Prisma ORM
 
 - [2023-05-19T15:08] feat(api): add rate limiting middleware for sensitive auth endpoints
+
+- [2023-05-22T10:47] feat(search): implement debounced live search filter on catalog page
