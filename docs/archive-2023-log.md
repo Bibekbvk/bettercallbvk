@@ -281,3 +281,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-22T17:08] fix(ui): resolve z-index conflict between dropdown menu and modal
 
 - [2023-05-22T18:49] feat(auth): implement JWT cookie session storage with httpOnly flag
+
+- [2023-05-22T20:14] feat(docker): add multi-stage Dockerfile for optimized production build
