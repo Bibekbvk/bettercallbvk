@@ -271,3 +271,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-22T10:47] feat(search): implement debounced live search filter on catalog page
 
 - [2023-05-22T11:57] fix(auth): prevent duplicate account creation with lowercase email normalizer
+
+- [2023-05-22T13:20] test(integration): add Supertest integration tests for auth endpoints
