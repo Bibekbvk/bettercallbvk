@@ -291,3 +291,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-23T12:40] feat(tailwind): setup Tailwind CSS configuration and custom color tokens
 
 - [2023-05-23T14:31] docs(readme): update API architecture documentation and local setup guide
+
+- [2023-05-23T15:42] feat(docker): add multi-stage Dockerfile for optimized production build
