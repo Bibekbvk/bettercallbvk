@@ -295,3 +295,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-23T15:42] feat(docker): add multi-stage Dockerfile for optimized production build
 
 - [2023-05-23T17:00] feat(search): implement debounced live search filter on catalog page
+
+- [2023-05-24T10:57] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
