@@ -303,3 +303,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-24T13:52] refactor(api): standardize REST API response schema across all endpoints
 
 - [2023-05-24T15:05] feat(auth): add password reset email workflow with expiring tokens
+
+- [2023-05-24T16:51] feat(react): create custom useLocalStorage hook with JSON parsing
