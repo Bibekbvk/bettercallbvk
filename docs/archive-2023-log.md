@@ -299,3 +299,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-24T10:57] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
 
 - [2023-05-24T12:32] perf(db): optimize SQL queries to avoid N+1 problem on relational joins
+
+- [2023-05-24T13:52] refactor(api): standardize REST API response schema across all endpoints
