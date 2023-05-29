@@ -315,3 +315,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-25T12:40] feat(admin): create admin metrics overview page with sales charts
 
 - [2023-05-25T13:38] feat(ts): migrate core utility functions to strict TypeScript
+
+- [2023-05-29T10:53] fix(db): prevent connection pool exhaustion under concurrent request load
