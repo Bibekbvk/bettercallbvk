@@ -317,3 +317,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-25T13:38] feat(ts): migrate core utility functions to strict TypeScript
 
 - [2023-05-29T10:53] fix(db): prevent connection pool exhaustion under concurrent request load
+
+- [2023-05-29T11:56] feat(db): create migration for Users, Products, and Transactions tables
