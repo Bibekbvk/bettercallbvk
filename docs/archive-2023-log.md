@@ -321,3 +321,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-29T11:56] feat(db): create migration for Users, Products, and Transactions tables
 
 - [2023-05-29T12:59] feat(api): scaffold Next.js API routes for dynamic product querying
+
+- [2023-05-29T14:13] fix(ui): resolve z-index conflict between dropdown menu and modal
