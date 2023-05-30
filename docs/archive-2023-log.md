@@ -327,3 +327,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-30T10:17] feat(react): add infinite scroll pagination for product catalog view
 
 - [2023-05-30T12:06] fix(cart): fix race condition when rapidly incrementing item quantity
+
+- [2023-05-30T13:40] feat(ts): define shared interfaces for User, Order, and Cart models
