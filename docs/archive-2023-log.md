@@ -333,3 +333,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-30T15:15] perf(img): convert hero banners to modern WebP format with sharp
 
 - [2023-05-30T17:04] feat(react): implement client-side state management using Redux Toolkit
+
+- [2023-05-30T18:58] docs(readme): update API architecture documentation and local setup guide
