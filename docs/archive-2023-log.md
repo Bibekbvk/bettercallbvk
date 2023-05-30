@@ -325,3 +325,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-29T14:13] fix(ui): resolve z-index conflict between dropdown menu and modal
 
 - [2023-05-30T10:17] feat(react): add infinite scroll pagination for product catalog view
+
+- [2023-05-30T12:06] fix(cart): fix race condition when rapidly incrementing item quantity
