@@ -329,3 +329,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-30T12:06] fix(cart): fix race condition when rapidly incrementing item quantity
 
 - [2023-05-30T13:40] feat(ts): define shared interfaces for User, Order, and Cart models
+
+- [2023-05-30T15:15] perf(img): convert hero banners to modern WebP format with sharp
