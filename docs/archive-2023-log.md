@@ -349,3 +349,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-31T12:16] feat(ci): setup GitHub Actions workflow for automated unit test runs
 
 - [2023-05-31T13:43] test(unit): add Jest unit tests for cart calculation logic
+
+- [2023-05-31T15:16] feat(db): add database indexing on foreign keys for high query throughput
