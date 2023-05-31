@@ -345,3 +345,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-31T10:22] feat(tailwind): setup Tailwind CSS configuration and custom color tokens
 
 - [2023-05-31T11:16] feat(cart): persist cart items across browser sessions using indexedDB
+
+- [2023-05-31T12:16] feat(ci): setup GitHub Actions workflow for automated unit test runs
