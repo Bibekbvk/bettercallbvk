@@ -347,3 +347,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-05-31T11:16] feat(cart): persist cart items across browser sessions using indexedDB
 
 - [2023-05-31T12:16] feat(ci): setup GitHub Actions workflow for automated unit test runs
+
+- [2023-05-31T13:43] test(unit): add Jest unit tests for cart calculation logic
