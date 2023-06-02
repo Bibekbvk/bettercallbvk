@@ -359,3 +359,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-02T13:03] feat(ui): build responsive navbar with hamburger menu for mobile devices
 
 - [2023-06-02T14:20] feat(ui): add customizable toast notification alert system
+
+- [2023-06-02T15:17] feat(auth): implement JWT cookie session storage with httpOnly flag
