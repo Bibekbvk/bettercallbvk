@@ -365,3 +365,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-02T15:59] fix(api): properly catch and format unhandled promise rejections in API
 
 - [2023-06-02T17:31] feat(ui): add accessible modal dialog with backdrop blur and trap focus
+
+- [2023-06-02T19:10] test(integration): add Supertest integration tests for auth endpoints
