@@ -361,3 +361,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-02T14:20] feat(ui): add customizable toast notification alert system
 
 - [2023-06-02T15:17] feat(auth): implement JWT cookie session storage with httpOnly flag
+
+- [2023-06-02T15:59] fix(api): properly catch and format unhandled promise rejections in API
