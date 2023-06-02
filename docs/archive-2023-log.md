@@ -371,3 +371,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-02T20:24] feat(ui): implement skeleton loader placeholders for async data cards
 
 - [2023-06-02T21:07] feat(ci): setup GitHub Actions workflow for automated unit test runs
+
+- [2023-06-02T22:20] feat(ts): define shared interfaces for User, Order, and Cart models
