@@ -355,3 +355,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-02T11:20] feat(ui): add accessible modal dialog with backdrop blur and trap focus
 
 - [2023-06-02T12:18] refactor(clean): modularize monolithic component into reusable atomic components
+
+- [2023-06-02T13:03] feat(ui): build responsive navbar with hamburger menu for mobile devices
