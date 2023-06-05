@@ -379,3 +379,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-05T12:54] feat(ui): build responsive navbar with hamburger menu for mobile devices
 
 - [2023-06-05T14:12] feat(api): scaffold Next.js API routes for dynamic product querying
+
+- [2023-06-05T15:04] feat(db): add database indexing on foreign keys for high query throughput
