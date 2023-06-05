@@ -373,3 +373,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-02T21:07] feat(ci): setup GitHub Actions workflow for automated unit test runs
 
 - [2023-06-02T22:20] feat(ts): define shared interfaces for User, Order, and Cart models
+
+- [2023-06-05T11:03] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
