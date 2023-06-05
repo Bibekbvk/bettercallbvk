@@ -375,3 +375,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-02T22:20] feat(ts): define shared interfaces for User, Order, and Cart models
 
 - [2023-06-05T11:03] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
+
+- [2023-06-05T12:54] feat(ui): build responsive navbar with hamburger menu for mobile devices
