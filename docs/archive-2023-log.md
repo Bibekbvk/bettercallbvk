@@ -385,3 +385,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-07T10:15] fix(auth): prevent duplicate account creation with lowercase email normalizer
 
 - [2023-06-07T11:14] feat(react): add infinite scroll pagination for product catalog view
+
+- [2023-06-07T12:40] perf(db): optimize SQL queries to avoid N+1 problem on relational joins
