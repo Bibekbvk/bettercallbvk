@@ -391,3 +391,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-07T13:44] feat(api): add rate limiting middleware for sensitive auth endpoints
 
 - [2023-06-07T14:35] feat(db): setup PostgreSQL database connection with Prisma ORM
+
+- [2023-06-07T15:12] perf(bundle): split vendor chunks and analyze bundle size with webpack bundle analyzer
