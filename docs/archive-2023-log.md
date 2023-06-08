@@ -399,3 +399,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-08T10:16] docs(readme): update API architecture documentation and local setup guide
 
 - [2023-06-08T10:55] feat(ts): migrate core utility functions to strict TypeScript
+
+- [2023-06-08T12:02] feat(react): create custom useLocalStorage hook with JSON parsing
