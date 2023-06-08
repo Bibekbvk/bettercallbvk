@@ -395,3 +395,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-07T15:12] perf(bundle): split vendor chunks and analyze bundle size with webpack bundle analyzer
 
 - [2023-06-07T16:51] feat(ui): add customizable toast notification alert system
+
+- [2023-06-08T10:16] docs(readme): update API architecture documentation and local setup guide
