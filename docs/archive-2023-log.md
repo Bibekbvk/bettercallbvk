@@ -401,3 +401,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-08T10:55] feat(ts): migrate core utility functions to strict TypeScript
 
 - [2023-06-08T12:02] feat(react): create custom useLocalStorage hook with JSON parsing
+
+- [2023-06-08T13:45] fix(cart): fix race condition when rapidly incrementing item quantity
