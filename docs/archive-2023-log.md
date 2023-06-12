@@ -405,3 +405,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-08T13:45] fix(cart): fix race condition when rapidly incrementing item quantity
 
 - [2023-06-12T10:46] feat(search): implement debounced live search filter on catalog page
+
+- [2023-06-12T11:34] feat(docker): add multi-stage Dockerfile for optimized production build
