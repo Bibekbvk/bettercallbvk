@@ -415,3 +415,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-12T14:31] feat(cart): persist cart items across browser sessions using indexedDB
 
 - [2023-06-12T15:21] fix(db): prevent connection pool exhaustion under concurrent request load
+
+- [2023-06-12T16:28] test(unit): add Jest unit tests for cart calculation logic
