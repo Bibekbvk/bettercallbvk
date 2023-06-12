@@ -413,3 +413,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-12T13:00] fix(ui): resolve z-index conflict between dropdown menu and modal
 
 - [2023-06-12T14:31] feat(cart): persist cart items across browser sessions using indexedDB
+
+- [2023-06-12T15:21] fix(db): prevent connection pool exhaustion under concurrent request load
