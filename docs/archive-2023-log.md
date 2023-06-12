@@ -409,3 +409,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-12T11:34] feat(docker): add multi-stage Dockerfile for optimized production build
 
 - [2023-06-12T12:11] feat(tailwind): setup Tailwind CSS configuration and custom color tokens
+
+- [2023-06-12T13:00] fix(ui): resolve z-index conflict between dropdown menu and modal
