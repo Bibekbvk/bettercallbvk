@@ -419,3 +419,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-12T16:28] test(unit): add Jest unit tests for cart calculation logic
 
 - [2023-06-12T17:22] feat(react): implement client-side state management using Redux Toolkit
+
+- [2023-06-14T09:31] fix(api): properly catch and format unhandled promise rejections in API
