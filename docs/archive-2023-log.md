@@ -425,3 +425,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-14T10:59] perf(img): convert hero banners to modern WebP format with sharp
 
 - [2023-06-14T11:46] refactor(api): standardize REST API response schema across all endpoints
+
+- [2023-06-14T13:27] feat(auth): add password reset email workflow with expiring tokens
