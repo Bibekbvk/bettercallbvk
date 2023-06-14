@@ -423,3 +423,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-14T09:31] fix(api): properly catch and format unhandled promise rejections in API
 
 - [2023-06-14T10:59] perf(img): convert hero banners to modern WebP format with sharp
+
+- [2023-06-14T11:46] refactor(api): standardize REST API response schema across all endpoints
