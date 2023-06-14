@@ -431,3 +431,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-14T15:21] refactor(clean): modularize monolithic component into reusable atomic components
 
 - [2023-06-14T16:13] feat(auth): implement JWT cookie session storage with httpOnly flag
+
+- [2023-06-14T17:01] feat(admin): create admin metrics overview page with sales charts
