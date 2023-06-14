@@ -433,3 +433,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-14T16:13] feat(auth): implement JWT cookie session storage with httpOnly flag
 
 - [2023-06-14T17:01] feat(admin): create admin metrics overview page with sales charts
+
+- [2023-06-14T18:55] feat(db): create migration for Users, Products, and Transactions tables
