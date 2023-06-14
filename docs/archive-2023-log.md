@@ -429,3 +429,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-14T13:27] feat(auth): add password reset email workflow with expiring tokens
 
 - [2023-06-14T15:21] refactor(clean): modularize monolithic component into reusable atomic components
+
+- [2023-06-14T16:13] feat(auth): implement JWT cookie session storage with httpOnly flag
