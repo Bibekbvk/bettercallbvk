@@ -437,3 +437,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-14T18:55] feat(db): create migration for Users, Products, and Transactions tables
 
 - [2023-06-14T20:06] feat(db): add database indexing on foreign keys for high query throughput
+
+- [2023-06-15T10:07] feat(ci): setup GitHub Actions workflow for automated unit test runs
