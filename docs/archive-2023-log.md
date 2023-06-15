@@ -441,3 +441,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-15T10:07] feat(ci): setup GitHub Actions workflow for automated unit test runs
 
 - [2023-06-15T11:41] fix(db): prevent connection pool exhaustion under concurrent request load
+
+- [2023-06-15T12:28] fix(ui): resolve z-index conflict between dropdown menu and modal
