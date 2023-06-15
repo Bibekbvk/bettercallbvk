@@ -445,3 +445,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-15T12:28] fix(ui): resolve z-index conflict between dropdown menu and modal
 
 - [2023-06-15T13:08] perf(bundle): split vendor chunks and analyze bundle size with webpack bundle analyzer
+
+- [2023-06-15T14:29] feat(ts): define shared interfaces for User, Order, and Cart models
