@@ -455,3 +455,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-16T09:31] feat(ui): implement skeleton loader placeholders for async data cards
 
 - [2023-06-16T10:27] perf(img): convert hero banners to modern WebP format with sharp
+
+- [2023-06-16T11:47] feat(cart): persist cart items across browser sessions using indexedDB
