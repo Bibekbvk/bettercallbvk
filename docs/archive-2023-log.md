@@ -459,3 +459,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-16T11:47] feat(cart): persist cart items across browser sessions using indexedDB
 
 - [2023-06-16T13:41] refactor(clean): modularize monolithic component into reusable atomic components
+
+- [2023-06-16T14:27] refactor(api): standardize REST API response schema across all endpoints
