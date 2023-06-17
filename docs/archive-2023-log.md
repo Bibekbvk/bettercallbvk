@@ -467,3 +467,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-17T11:19] feat(react): create custom useLocalStorage hook with JSON parsing
 
 - [2023-06-17T12:52] feat(ui): add accessible modal dialog with backdrop blur and trap focus
+
+- [2023-06-17T14:16] feat(api): scaffold Next.js API routes for dynamic product querying
