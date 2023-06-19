@@ -481,3 +481,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-19T14:29] feat(ts): migrate core utility functions to strict TypeScript
 
 - [2023-06-19T16:19] test(integration): add Supertest integration tests for auth endpoints
+
+- [2023-06-19T18:06] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
