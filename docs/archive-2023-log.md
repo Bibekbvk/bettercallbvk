@@ -485,3 +485,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-19T18:06] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
 
 - [2023-06-19T19:37] fix(auth): prevent duplicate account creation with lowercase email normalizer
+
+- [2023-06-19T21:30] feat(db): setup PostgreSQL database connection with Prisma ORM
