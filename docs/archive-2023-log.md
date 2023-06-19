@@ -477,3 +477,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-19T12:59] fix(api): properly catch and format unhandled promise rejections in API
 
 - [2023-06-19T13:41] feat(ui): add customizable toast notification alert system
+
+- [2023-06-19T14:29] feat(ts): migrate core utility functions to strict TypeScript
