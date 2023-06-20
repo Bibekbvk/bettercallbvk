@@ -487,3 +487,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-19T19:37] fix(auth): prevent duplicate account creation with lowercase email normalizer
 
 - [2023-06-19T21:30] feat(db): setup PostgreSQL database connection with Prisma ORM
+
+- [2023-06-20T10:48] feat(tailwind): setup Tailwind CSS configuration and custom color tokens
