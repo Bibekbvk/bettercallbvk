@@ -489,3 +489,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-19T21:30] feat(db): setup PostgreSQL database connection with Prisma ORM
 
 - [2023-06-20T10:48] feat(tailwind): setup Tailwind CSS configuration and custom color tokens
+
+- [2023-06-20T11:39] perf(db): optimize SQL queries to avoid N+1 problem on relational joins
