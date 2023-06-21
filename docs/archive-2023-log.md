@@ -493,3 +493,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-20T11:39] perf(db): optimize SQL queries to avoid N+1 problem on relational joins
 
 - [2023-06-20T13:16] feat(db): create migration for Users, Products, and Transactions tables
+
+- [2023-06-21T10:26] feat(admin): create admin metrics overview page with sales charts
