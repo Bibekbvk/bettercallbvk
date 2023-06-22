@@ -497,3 +497,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-21T10:26] feat(admin): create admin metrics overview page with sales charts
 
 - [2023-06-21T11:09] test(unit): add Jest unit tests for cart calculation logic
+
+- [2023-06-22T09:31] docs(readme): update API architecture documentation and local setup guide
