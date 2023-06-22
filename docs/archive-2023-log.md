@@ -507,3 +507,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-22T14:48] feat(auth): add password reset email workflow with expiring tokens
 
 - [2023-06-22T16:06] feat(ui): build responsive navbar with hamburger menu for mobile devices
+
+- [2023-06-22T17:47] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
