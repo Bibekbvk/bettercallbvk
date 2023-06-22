@@ -503,3 +503,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-22T11:13] feat(auth): implement JWT cookie session storage with httpOnly flag
 
 - [2023-06-22T13:01] feat(api): add rate limiting middleware for sensitive auth endpoints
+
+- [2023-06-22T14:48] feat(auth): add password reset email workflow with expiring tokens
