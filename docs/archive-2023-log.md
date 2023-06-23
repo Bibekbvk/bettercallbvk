@@ -523,3 +523,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-23T17:06] perf(img): convert hero banners to modern WebP format with sharp
 
 - [2023-06-23T18:32] refactor(clean): modularize monolithic component into reusable atomic components
+
+- [2023-06-23T19:11] docs(readme): update API architecture documentation and local setup guide
