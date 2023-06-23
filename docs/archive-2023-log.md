@@ -509,3 +509,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-22T16:06] feat(ui): build responsive navbar with hamburger menu for mobile devices
 
 - [2023-06-22T17:47] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
+
+- [2023-06-23T10:26] feat(db): setup PostgreSQL database connection with Prisma ORM
