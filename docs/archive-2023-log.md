@@ -527,3 +527,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-06-23T19:11] docs(readme): update API architecture documentation and local setup guide
 
 - [2023-06-29T09:30] feat(tailwind): setup Tailwind CSS configuration and custom color tokens
+
+- [2023-06-29T11:22] feat(react): create custom useLocalStorage hook with JSON parsing
