@@ -537,3 +537,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-03T11:29] feat(react): implement client-side state management using Redux Toolkit
 
 - [2023-07-03T12:50] feat(auth): add password reset email workflow with expiring tokens
+
+- [2023-07-03T13:53] fix(db): prevent connection pool exhaustion under concurrent request load
