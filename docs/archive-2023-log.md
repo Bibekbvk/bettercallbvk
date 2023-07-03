@@ -539,3 +539,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-03T12:50] feat(auth): add password reset email workflow with expiring tokens
 
 - [2023-07-03T13:53] fix(db): prevent connection pool exhaustion under concurrent request load
+
+- [2023-07-03T15:10] feat(admin): create admin metrics overview page with sales charts
