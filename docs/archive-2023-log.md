@@ -549,3 +549,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-03T20:00] feat(api): scaffold Next.js API routes for dynamic product querying
 
 - [2023-07-03T21:32] feat(ts): define shared interfaces for User, Order, and Cart models
+
+- [2023-07-03T22:19] feat(db): create migration for Users, Products, and Transactions tables
