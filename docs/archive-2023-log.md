@@ -545,3 +545,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-03T17:04] feat(search): implement debounced live search filter on catalog page
 
 - [2023-07-03T18:39] feat(api): add rate limiting middleware for sensitive auth endpoints
+
+- [2023-07-03T20:00] feat(api): scaffold Next.js API routes for dynamic product querying
