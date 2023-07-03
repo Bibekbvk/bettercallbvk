@@ -543,3 +543,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-03T15:10] feat(admin): create admin metrics overview page with sales charts
 
 - [2023-07-03T17:04] feat(search): implement debounced live search filter on catalog page
+
+- [2023-07-03T18:39] feat(api): add rate limiting middleware for sensitive auth endpoints
