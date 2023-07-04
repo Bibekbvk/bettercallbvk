@@ -559,3 +559,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-04T12:02] fix(api): properly catch and format unhandled promise rejections in API
 
 - [2023-07-04T13:43] feat(react): add infinite scroll pagination for product catalog view
+
+- [2023-07-04T14:31] perf(bundle): split vendor chunks and analyze bundle size with webpack bundle analyzer
