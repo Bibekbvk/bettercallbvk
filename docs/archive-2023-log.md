@@ -569,3 +569,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-04T17:46] feat(auth): implement JWT cookie session storage with httpOnly flag
 
 - [2023-07-04T18:53] feat(ts): migrate core utility functions to strict TypeScript
+
+- [2023-07-04T19:53] test(integration): add Supertest integration tests for auth endpoints
