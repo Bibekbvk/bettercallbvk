@@ -555,3 +555,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-04T09:30] feat(db): add database indexing on foreign keys for high query throughput
 
 - [2023-07-04T10:50] feat(ci): setup GitHub Actions workflow for automated unit test runs
+
+- [2023-07-04T12:02] fix(api): properly catch and format unhandled promise rejections in API
