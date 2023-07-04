@@ -557,3 +557,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-04T10:50] feat(ci): setup GitHub Actions workflow for automated unit test runs
 
 - [2023-07-04T12:02] fix(api): properly catch and format unhandled promise rejections in API
+
+- [2023-07-04T13:43] feat(react): add infinite scroll pagination for product catalog view
