@@ -565,3 +565,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-04T15:27] refactor(api): standardize REST API response schema across all endpoints
 
 - [2023-07-04T16:19] feat(ui): add customizable toast notification alert system
+
+- [2023-07-04T17:46] feat(auth): implement JWT cookie session storage with httpOnly flag
