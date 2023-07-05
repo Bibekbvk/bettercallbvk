@@ -577,3 +577,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-05T10:28] feat(ui): add accessible modal dialog with backdrop blur and trap focus
 
 - [2023-07-05T11:27] perf(db): optimize SQL queries to avoid N+1 problem on relational joins
+
+- [2023-07-05T12:45] fix(cart): fix race condition when rapidly incrementing item quantity
