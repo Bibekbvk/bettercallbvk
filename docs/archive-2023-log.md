@@ -595,3 +595,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-07T18:21] feat(ts): define shared interfaces for User, Order, and Cart models
 
 - [2023-07-07T19:23] fix(ui): resolve z-index conflict between dropdown menu and modal
+
+- [2023-07-07T20:24] feat(auth): add password reset email workflow with expiring tokens
