@@ -597,3 +597,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-07T19:23] fix(ui): resolve z-index conflict between dropdown menu and modal
 
 - [2023-07-07T20:24] feat(auth): add password reset email workflow with expiring tokens
+
+- [2023-07-07T21:36] test(integration): add Supertest integration tests for auth endpoints
