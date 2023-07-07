@@ -591,3 +591,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-07T14:51] feat(react): add infinite scroll pagination for product catalog view
 
 - [2023-07-07T16:36] perf(bundle): split vendor chunks and analyze bundle size with webpack bundle analyzer
+
+- [2023-07-07T18:21] feat(ts): define shared interfaces for User, Order, and Cart models
