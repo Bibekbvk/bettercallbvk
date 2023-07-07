@@ -581,3 +581,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-05T12:45] fix(cart): fix race condition when rapidly incrementing item quantity
 
 - [2023-07-05T14:13] perf(db): optimize SQL queries to avoid N+1 problem on relational joins
+
+- [2023-07-07T10:27] feat(db): create migration for Users, Products, and Transactions tables
