@@ -601,3 +601,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-07T21:36] test(integration): add Supertest integration tests for auth endpoints
 
 - [2023-07-07T22:55] fix(api): properly catch and format unhandled promise rejections in API
+
+- [2023-07-08T11:00] fix(auth): prevent duplicate account creation with lowercase email normalizer
