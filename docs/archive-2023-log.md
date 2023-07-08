@@ -605,3 +605,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-08T11:00] fix(auth): prevent duplicate account creation with lowercase email normalizer
 
 - [2023-07-08T11:57] feat(tailwind): setup Tailwind CSS configuration and custom color tokens
+
+- [2023-07-08T13:41] feat(react): create custom useLocalStorage hook with JSON parsing
