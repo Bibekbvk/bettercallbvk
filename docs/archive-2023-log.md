@@ -609,3 +609,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-08T13:41] feat(react): create custom useLocalStorage hook with JSON parsing
 
 - [2023-07-08T14:57] perf(img): convert hero banners to modern WebP format with sharp
+
+- [2023-07-08T15:46] feat(ui): build responsive navbar with hamburger menu for mobile devices
