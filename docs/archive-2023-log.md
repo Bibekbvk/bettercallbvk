@@ -603,3 +603,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-07T22:55] fix(api): properly catch and format unhandled promise rejections in API
 
 - [2023-07-08T11:00] fix(auth): prevent duplicate account creation with lowercase email normalizer
+
+- [2023-07-08T11:57] feat(tailwind): setup Tailwind CSS configuration and custom color tokens
