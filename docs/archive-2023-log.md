@@ -619,3 +619,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-10T11:30] feat(db): add database indexing on foreign keys for high query throughput
 
 - [2023-07-10T12:58] feat(cart): persist cart items across browser sessions using indexedDB
+
+- [2023-07-10T14:41] refactor(api): standardize REST API response schema across all endpoints
