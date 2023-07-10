@@ -623,3 +623,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-10T14:41] refactor(api): standardize REST API response schema across all endpoints
 
 - [2023-07-10T16:10] feat(ui): add accessible modal dialog with backdrop blur and trap focus
+
+- [2023-07-10T17:51] feat(api): add rate limiting middleware for sensitive auth endpoints
