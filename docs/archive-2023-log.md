@@ -617,3 +617,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-08T18:42] feat(api): scaffold Next.js API routes for dynamic product querying
 
 - [2023-07-10T11:30] feat(db): add database indexing on foreign keys for high query throughput
+
+- [2023-07-10T12:58] feat(cart): persist cart items across browser sessions using indexedDB
