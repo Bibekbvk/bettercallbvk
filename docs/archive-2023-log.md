@@ -621,3 +621,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-10T12:58] feat(cart): persist cart items across browser sessions using indexedDB
 
 - [2023-07-10T14:41] refactor(api): standardize REST API response schema across all endpoints
+
+- [2023-07-10T16:10] feat(ui): add accessible modal dialog with backdrop blur and trap focus
