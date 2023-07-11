@@ -631,3 +631,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-10T19:22] feat(search): implement debounced live search filter on catalog page
 
 - [2023-07-10T20:04] feat(db): setup PostgreSQL database connection with Prisma ORM
+
+- [2023-07-11T11:06] feat(ci): setup GitHub Actions workflow for automated unit test runs
