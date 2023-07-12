@@ -651,3 +651,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-12T15:34] feat(ui): add customizable toast notification alert system
 
 - [2023-07-12T17:20] refactor(clean): modularize monolithic component into reusable atomic components
+
+- [2023-07-12T18:25] perf(bundle): split vendor chunks and analyze bundle size with webpack bundle analyzer
