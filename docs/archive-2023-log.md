@@ -639,3 +639,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-11T13:08] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
 
 - [2023-07-11T13:50] fix(db): prevent connection pool exhaustion under concurrent request load
+
+- [2023-07-12T09:56] feat(ts): migrate core utility functions to strict TypeScript
