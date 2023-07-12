@@ -643,3 +643,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-12T09:56] feat(ts): migrate core utility functions to strict TypeScript
 
 - [2023-07-12T11:40] docs(readme): update API architecture documentation and local setup guide
+
+- [2023-07-12T13:00] test(unit): add Jest unit tests for cart calculation logic
