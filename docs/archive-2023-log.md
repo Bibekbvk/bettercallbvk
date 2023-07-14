@@ -661,3 +661,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-14T12:14] feat(api): add rate limiting middleware for sensitive auth endpoints
 
 - [2023-07-14T13:08] feat(ui): build responsive navbar with hamburger menu for mobile devices
+
+- [2023-07-14T14:02] test(unit): add Jest unit tests for cart calculation logic
