@@ -657,3 +657,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-14T09:50] feat(react): create custom useLocalStorage hook with JSON parsing
 
 - [2023-07-14T10:57] refactor(api): standardize REST API response schema across all endpoints
+
+- [2023-07-14T12:14] feat(api): add rate limiting middleware for sensitive auth endpoints
