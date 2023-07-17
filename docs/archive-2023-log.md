@@ -667,3 +667,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-14T15:53] feat(ui): add customizable toast notification alert system
 
 - [2023-07-17T10:48] docs(readme): update API architecture documentation and local setup guide
+
+- [2023-07-17T12:01] test(integration): add Supertest integration tests for auth endpoints
