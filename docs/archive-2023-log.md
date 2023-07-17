@@ -673,3 +673,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-17T13:49] feat(tailwind): setup Tailwind CSS configuration and custom color tokens
 
 - [2023-07-17T15:09] fix(db): prevent connection pool exhaustion under concurrent request load
+
+- [2023-07-17T16:24] feat(admin): create admin metrics overview page with sales charts
