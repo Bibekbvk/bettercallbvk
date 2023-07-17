@@ -669,3 +669,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-17T10:48] docs(readme): update API architecture documentation and local setup guide
 
 - [2023-07-17T12:01] test(integration): add Supertest integration tests for auth endpoints
+
+- [2023-07-17T13:49] feat(tailwind): setup Tailwind CSS configuration and custom color tokens
