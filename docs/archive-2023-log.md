@@ -665,3 +665,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-14T14:02] test(unit): add Jest unit tests for cart calculation logic
 
 - [2023-07-14T15:53] feat(ui): add customizable toast notification alert system
+
+- [2023-07-17T10:48] docs(readme): update API architecture documentation and local setup guide
