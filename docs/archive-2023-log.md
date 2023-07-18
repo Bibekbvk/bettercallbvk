@@ -693,3 +693,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-18T12:33] perf(img): convert hero banners to modern WebP format with sharp
 
 - [2023-07-18T13:54] feat(cart): persist cart items across browser sessions using indexedDB
+
+- [2023-07-18T14:56] feat(ts): define shared interfaces for User, Order, and Cart models
