@@ -685,3 +685,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-17T22:15] feat(docker): add multi-stage Dockerfile for optimized production build
 
 - [2023-07-17T22:58] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
+
+- [2023-07-18T10:14] fix(auth): prevent duplicate account creation with lowercase email normalizer
