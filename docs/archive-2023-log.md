@@ -687,3 +687,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-17T22:58] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
 
 - [2023-07-18T10:14] fix(auth): prevent duplicate account creation with lowercase email normalizer
+
+- [2023-07-18T11:16] fix(ui): resolve z-index conflict between dropdown menu and modal
