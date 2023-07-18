@@ -695,3 +695,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-18T13:54] feat(cart): persist cart items across browser sessions using indexedDB
 
 - [2023-07-18T14:56] feat(ts): define shared interfaces for User, Order, and Cart models
+
+- [2023-07-18T16:50] feat(auth): add password reset email workflow with expiring tokens
