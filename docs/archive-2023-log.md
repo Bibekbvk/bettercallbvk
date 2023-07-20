@@ -709,3 +709,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-18T22:18] fix(api): properly catch and format unhandled promise rejections in API
 
 - [2023-07-20T09:35] feat(ui): add accessible modal dialog with backdrop blur and trap focus
+
+- [2023-07-20T10:51] feat(db): setup PostgreSQL database connection with Prisma ORM
