@@ -715,3 +715,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-20T11:40] feat(ts): migrate core utility functions to strict TypeScript
 
 - [2023-07-20T12:47] feat(ci): setup GitHub Actions workflow for automated unit test runs
+
+- [2023-07-20T13:58] feat(auth): implement JWT cookie session storage with httpOnly flag
