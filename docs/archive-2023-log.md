@@ -733,3 +733,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-21T15:27] feat(db): add database indexing on foreign keys for high query throughput
 
 - [2023-07-21T17:22] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
+
+- [2023-07-21T18:52] fix(api): properly catch and format unhandled promise rejections in API
