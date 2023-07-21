@@ -735,3 +735,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-21T17:22] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
 
 - [2023-07-21T18:52] fix(api): properly catch and format unhandled promise rejections in API
+
+- [2023-07-21T19:29] test(integration): add Supertest integration tests for auth endpoints
