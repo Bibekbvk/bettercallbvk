@@ -755,3 +755,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-24T16:15] feat(admin): create admin metrics overview page with sales charts
 
 - [2023-07-24T17:01] feat(db): setup PostgreSQL database connection with Prisma ORM
+
+- [2023-07-24T18:32] perf(img): convert hero banners to modern WebP format with sharp
