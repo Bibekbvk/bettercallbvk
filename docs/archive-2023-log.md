@@ -751,3 +751,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-24T13:50] feat(docker): add multi-stage Dockerfile for optimized production build
 
 - [2023-07-24T15:02] fix(db): prevent connection pool exhaustion under concurrent request load
+
+- [2023-07-24T16:15] feat(admin): create admin metrics overview page with sales charts
