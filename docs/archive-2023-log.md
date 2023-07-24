@@ -741,3 +741,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-21T20:19] feat(react): create custom useLocalStorage hook with JSON parsing
 
 - [2023-07-21T20:54] feat(react): add infinite scroll pagination for product catalog view
+
+- [2023-07-24T09:38] feat(ts): migrate core utility functions to strict TypeScript
