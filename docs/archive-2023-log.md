@@ -749,3 +749,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-24T12:11] feat(api): scaffold Next.js API routes for dynamic product querying
 
 - [2023-07-24T13:50] feat(docker): add multi-stage Dockerfile for optimized production build
+
+- [2023-07-24T15:02] fix(db): prevent connection pool exhaustion under concurrent request load
