@@ -757,3 +757,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-24T17:01] feat(db): setup PostgreSQL database connection with Prisma ORM
 
 - [2023-07-24T18:32] perf(img): convert hero banners to modern WebP format with sharp
+
+- [2023-07-25T11:15] feat(auth): add password reset email workflow with expiring tokens
