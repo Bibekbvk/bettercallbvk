@@ -765,3 +765,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-25T12:48] refactor(clean): modularize monolithic component into reusable atomic components
 
 - [2023-07-25T13:51] feat(react): implement client-side state management using Redux Toolkit
+
+- [2023-07-25T15:16] feat(db): create migration for Users, Products, and Transactions tables
