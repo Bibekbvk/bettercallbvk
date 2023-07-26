@@ -781,3 +781,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-26T15:40] feat(ui): add accessible modal dialog with backdrop blur and trap focus
 
 - [2023-07-26T17:28] fix(auth): prevent duplicate account creation with lowercase email normalizer
+
+- [2023-07-26T18:53] perf(db): optimize SQL queries to avoid N+1 problem on relational joins
