@@ -777,3 +777,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-26T14:07] feat(ui): implement skeleton loader placeholders for async data cards
 
 - [2023-07-26T15:00] perf(bundle): split vendor chunks and analyze bundle size with webpack bundle analyzer
+
+- [2023-07-26T15:40] feat(ui): add accessible modal dialog with backdrop blur and trap focus
