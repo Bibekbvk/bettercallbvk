@@ -779,3 +779,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-26T15:00] perf(bundle): split vendor chunks and analyze bundle size with webpack bundle analyzer
 
 - [2023-07-26T15:40] feat(ui): add accessible modal dialog with backdrop blur and trap focus
+
+- [2023-07-26T17:28] fix(auth): prevent duplicate account creation with lowercase email normalizer
