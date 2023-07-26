@@ -767,3 +767,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-25T13:51] feat(react): implement client-side state management using Redux Toolkit
 
 - [2023-07-25T15:16] feat(db): create migration for Users, Products, and Transactions tables
+
+- [2023-07-26T10:07] feat(ts): define shared interfaces for User, Order, and Cart models
