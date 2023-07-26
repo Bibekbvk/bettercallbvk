@@ -771,3 +771,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-26T10:07] feat(ts): define shared interfaces for User, Order, and Cart models
 
 - [2023-07-26T11:00] feat(ci): setup GitHub Actions workflow for automated unit test runs
+
+- [2023-07-26T12:22] refactor(api): standardize REST API response schema across all endpoints
