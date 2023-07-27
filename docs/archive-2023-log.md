@@ -787,3 +787,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-26T20:38] feat(search): implement debounced live search filter on catalog page
 
 - [2023-07-27T09:56] feat(ui): add customizable toast notification alert system
+
+- [2023-07-27T11:15] test(unit): add Jest unit tests for cart calculation logic
