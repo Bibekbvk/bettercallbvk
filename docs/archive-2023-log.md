@@ -789,3 +789,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-27T09:56] feat(ui): add customizable toast notification alert system
 
 - [2023-07-27T11:15] test(unit): add Jest unit tests for cart calculation logic
+
+- [2023-07-27T12:42] feat(auth): implement JWT cookie session storage with httpOnly flag
