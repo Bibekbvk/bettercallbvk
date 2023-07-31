@@ -793,3 +793,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-27T12:42] feat(auth): implement JWT cookie session storage with httpOnly flag
 
 - [2023-07-31T09:48] feat(cart): persist cart items across browser sessions using indexedDB
+
+- [2023-07-31T10:46] fix(cart): fix race condition when rapidly incrementing item quantity
