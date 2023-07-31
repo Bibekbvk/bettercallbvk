@@ -805,3 +805,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-31T16:05] fix(cart): fix race condition when rapidly incrementing item quantity
 
 - [2023-07-31T17:08] feat(ui): implement skeleton loader placeholders for async data cards
+
+- [2023-07-31T18:38] refactor(api): standardize REST API response schema across all endpoints
