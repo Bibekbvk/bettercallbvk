@@ -795,3 +795,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-31T09:48] feat(cart): persist cart items across browser sessions using indexedDB
 
 - [2023-07-31T10:46] fix(cart): fix race condition when rapidly incrementing item quantity
+
+- [2023-07-31T12:39] feat(ui): build responsive navbar with hamburger menu for mobile devices
