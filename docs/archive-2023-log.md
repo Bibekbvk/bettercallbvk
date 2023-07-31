@@ -807,3 +807,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-31T17:08] feat(ui): implement skeleton loader placeholders for async data cards
 
 - [2023-07-31T18:38] refactor(api): standardize REST API response schema across all endpoints
+
+- [2023-07-31T19:59] feat(admin): create admin metrics overview page with sales charts
