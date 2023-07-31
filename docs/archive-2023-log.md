@@ -801,3 +801,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-31T13:54] perf(bundle): split vendor chunks and analyze bundle size with webpack bundle analyzer
 
 - [2023-07-31T14:50] feat(ts): define shared interfaces for User, Order, and Cart models
+
+- [2023-07-31T16:05] fix(cart): fix race condition when rapidly incrementing item quantity
