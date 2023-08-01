@@ -817,3 +817,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-01T14:16] perf(img): convert hero banners to modern WebP format with sharp
 
 - [2023-08-01T15:30] fix(api): properly catch and format unhandled promise rejections in API
+
+- [2023-08-01T17:15] feat(search): implement debounced live search filter on catalog page
