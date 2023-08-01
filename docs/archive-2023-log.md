@@ -811,3 +811,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-07-31T19:59] feat(admin): create admin metrics overview page with sales charts
 
 - [2023-08-01T11:22] refactor(clean): modularize monolithic component into reusable atomic components
+
+- [2023-08-01T12:56] fix(db): prevent connection pool exhaustion under concurrent request load
