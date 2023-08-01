@@ -819,3 +819,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-01T15:30] fix(api): properly catch and format unhandled promise rejections in API
 
 - [2023-08-01T17:15] feat(search): implement debounced live search filter on catalog page
+
+- [2023-08-01T18:12] feat(tailwind): setup Tailwind CSS configuration and custom color tokens
