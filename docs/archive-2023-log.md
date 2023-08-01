@@ -813,3 +813,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-01T11:22] refactor(clean): modularize monolithic component into reusable atomic components
 
 - [2023-08-01T12:56] fix(db): prevent connection pool exhaustion under concurrent request load
+
+- [2023-08-01T14:16] perf(img): convert hero banners to modern WebP format with sharp
