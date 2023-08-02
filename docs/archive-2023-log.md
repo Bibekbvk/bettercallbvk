@@ -827,3 +827,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-02T11:19] feat(ui): add customizable toast notification alert system
 
 - [2023-08-02T13:02] feat(ci): setup GitHub Actions workflow for automated unit test runs
+
+- [2023-08-02T14:10] feat(cart): persist cart items across browser sessions using indexedDB
