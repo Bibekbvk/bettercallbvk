@@ -837,3 +837,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-02T18:28] docs(readme): update API architecture documentation and local setup guide
 
 - [2023-08-02T19:06] feat(db): setup PostgreSQL database connection with Prisma ORM
+
+- [2023-08-02T20:55] feat(api): add rate limiting middleware for sensitive auth endpoints
