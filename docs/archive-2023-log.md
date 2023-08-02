@@ -829,3 +829,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-02T13:02] feat(ci): setup GitHub Actions workflow for automated unit test runs
 
 - [2023-08-02T14:10] feat(cart): persist cart items across browser sessions using indexedDB
+
+- [2023-08-02T16:05] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
