@@ -841,3 +841,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-02T20:55] feat(api): add rate limiting middleware for sensitive auth endpoints
 
 - [2023-08-03T09:57] test(integration): add Supertest integration tests for auth endpoints
+
+- [2023-08-03T11:42] test(unit): add Jest unit tests for cart calculation logic
