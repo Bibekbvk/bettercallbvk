@@ -847,3 +847,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-03T13:26] feat(react): add infinite scroll pagination for product catalog view
 
 - [2023-08-03T15:01] fix(auth): prevent duplicate account creation with lowercase email normalizer
+
+- [2023-08-03T15:55] feat(db): create migration for Users, Products, and Transactions tables
