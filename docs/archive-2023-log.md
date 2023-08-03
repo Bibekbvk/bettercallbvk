@@ -845,3 +845,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-03T11:42] test(unit): add Jest unit tests for cart calculation logic
 
 - [2023-08-03T13:26] feat(react): add infinite scroll pagination for product catalog view
+
+- [2023-08-03T15:01] fix(auth): prevent duplicate account creation with lowercase email normalizer
