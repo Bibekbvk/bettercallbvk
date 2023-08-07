@@ -849,3 +849,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-03T15:01] fix(auth): prevent duplicate account creation with lowercase email normalizer
 
 - [2023-08-03T15:55] feat(db): create migration for Users, Products, and Transactions tables
+
+- [2023-08-07T09:58] feat(ts): migrate core utility functions to strict TypeScript
