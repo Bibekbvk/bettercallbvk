@@ -853,3 +853,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-07T09:58] feat(ts): migrate core utility functions to strict TypeScript
 
 - [2023-08-07T11:48] fix(ui): resolve z-index conflict between dropdown menu and modal
+
+- [2023-08-07T13:00] feat(auth): add password reset email workflow with expiring tokens
