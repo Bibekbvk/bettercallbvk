@@ -861,3 +861,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-09T11:20] perf(db): optimize SQL queries to avoid N+1 problem on relational joins
 
 - [2023-08-09T12:41] feat(db): add database indexing on foreign keys for high query throughput
+
+- [2023-08-09T13:17] feat(api): scaffold Next.js API routes for dynamic product querying
