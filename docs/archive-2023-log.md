@@ -875,3 +875,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-10T10:36] fix(cart): fix race condition when rapidly incrementing item quantity
 
 - [2023-08-10T11:59] test(integration): add Supertest integration tests for auth endpoints
+
+- [2023-08-10T13:40] test(unit): add Jest unit tests for cart calculation logic
