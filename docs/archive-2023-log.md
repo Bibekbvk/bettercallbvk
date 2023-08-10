@@ -879,3 +879,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-10T13:40] test(unit): add Jest unit tests for cart calculation logic
 
 - [2023-08-10T15:00] feat(db): add database indexing on foreign keys for high query throughput
+
+- [2023-08-10T16:37] feat(auth): implement JWT cookie session storage with httpOnly flag
