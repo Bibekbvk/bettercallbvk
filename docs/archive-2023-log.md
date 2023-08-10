@@ -873,3 +873,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-09T18:19] feat(ui): add accessible modal dialog with backdrop blur and trap focus
 
 - [2023-08-10T10:36] fix(cart): fix race condition when rapidly incrementing item quantity
+
+- [2023-08-10T11:59] test(integration): add Supertest integration tests for auth endpoints
