@@ -871,3 +871,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-09T16:58] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
 
 - [2023-08-09T18:19] feat(ui): add accessible modal dialog with backdrop blur and trap focus
+
+- [2023-08-10T10:36] fix(cart): fix race condition when rapidly incrementing item quantity
