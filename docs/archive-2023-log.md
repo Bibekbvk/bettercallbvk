@@ -893,3 +893,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-11T14:30] fix(auth): prevent duplicate account creation with lowercase email normalizer
 
 - [2023-08-11T15:40] feat(ui): build responsive navbar with hamburger menu for mobile devices
+
+- [2023-08-11T16:34] feat(ui): add customizable toast notification alert system
