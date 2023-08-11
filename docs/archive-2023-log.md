@@ -885,3 +885,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-11T11:23] feat(ui): implement skeleton loader placeholders for async data cards
 
 - [2023-08-11T11:58] docs(readme): update API architecture documentation and local setup guide
+
+- [2023-08-11T12:50] refactor(api): standardize REST API response schema across all endpoints
