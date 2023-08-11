@@ -883,3 +883,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-10T16:37] feat(auth): implement JWT cookie session storage with httpOnly flag
 
 - [2023-08-11T11:23] feat(ui): implement skeleton loader placeholders for async data cards
+
+- [2023-08-11T11:58] docs(readme): update API architecture documentation and local setup guide
