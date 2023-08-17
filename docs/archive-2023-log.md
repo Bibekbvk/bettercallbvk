@@ -907,3 +907,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-17T13:11] feat(admin): create admin metrics overview page with sales charts
 
 - [2023-08-17T14:47] feat(docker): add multi-stage Dockerfile for optimized production build
+
+- [2023-08-17T15:48] feat(db): create migration for Users, Products, and Transactions tables
