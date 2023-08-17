@@ -905,3 +905,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-17T12:22] feat(cart): persist cart items across browser sessions using indexedDB
 
 - [2023-08-17T13:11] feat(admin): create admin metrics overview page with sales charts
+
+- [2023-08-17T14:47] feat(docker): add multi-stage Dockerfile for optimized production build
