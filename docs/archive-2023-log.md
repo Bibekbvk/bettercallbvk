@@ -901,3 +901,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-11T19:21] feat(tailwind): setup Tailwind CSS configuration and custom color tokens
 
 - [2023-08-17T10:54] feat(api): add rate limiting middleware for sensitive auth endpoints
+
+- [2023-08-17T12:22] feat(cart): persist cart items across browser sessions using indexedDB
