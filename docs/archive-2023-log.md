@@ -909,3 +909,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-17T14:47] feat(docker): add multi-stage Dockerfile for optimized production build
 
 - [2023-08-17T15:48] feat(db): create migration for Users, Products, and Transactions tables
+
+- [2023-08-22T10:52] feat(auth): add password reset email workflow with expiring tokens
