@@ -913,3 +913,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-22T10:52] feat(auth): add password reset email workflow with expiring tokens
 
 - [2023-08-22T11:29] fix(db): prevent connection pool exhaustion under concurrent request load
+
+- [2023-08-22T12:09] feat(ts): define shared interfaces for User, Order, and Cart models
