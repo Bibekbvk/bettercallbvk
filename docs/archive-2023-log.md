@@ -933,3 +933,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-24T12:08] feat(react): implement client-side state management using Redux Toolkit
 
 - [2023-08-24T12:45] perf(img): convert hero banners to modern WebP format with sharp
+
+- [2023-08-24T13:56] feat(search): implement debounced live search filter on catalog page
