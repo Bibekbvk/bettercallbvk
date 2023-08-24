@@ -937,3 +937,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-24T13:56] feat(search): implement debounced live search filter on catalog page
 
 - [2023-08-24T14:58] fix(api): properly catch and format unhandled promise rejections in API
+
+- [2023-08-24T16:50] fix(ui): resolve z-index conflict between dropdown menu and modal
