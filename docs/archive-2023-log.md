@@ -941,3 +941,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-24T16:50] fix(ui): resolve z-index conflict between dropdown menu and modal
 
 - [2023-08-26T09:51] perf(db): optimize SQL queries to avoid N+1 problem on relational joins
+
+- [2023-08-26T11:32] feat(ci): setup GitHub Actions workflow for automated unit test runs
