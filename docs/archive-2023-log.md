@@ -953,3 +953,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-26T17:03] feat(ts): migrate core utility functions to strict TypeScript
 
 - [2023-08-26T18:53] docs(readme): update API architecture documentation and local setup guide
+
+- [2023-08-29T09:42] feat(search): implement debounced live search filter on catalog page
