@@ -955,3 +955,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-26T18:53] docs(readme): update API architecture documentation and local setup guide
 
 - [2023-08-29T09:42] feat(search): implement debounced live search filter on catalog page
+
+- [2023-08-29T10:34] feat(cart): persist cart items across browser sessions using indexedDB
