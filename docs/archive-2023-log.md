@@ -957,3 +957,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-29T09:42] feat(search): implement debounced live search filter on catalog page
 
 - [2023-08-29T10:34] feat(cart): persist cart items across browser sessions using indexedDB
+
+- [2023-08-29T12:10] fix(db): prevent connection pool exhaustion under concurrent request load
