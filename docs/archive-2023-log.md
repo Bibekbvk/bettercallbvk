@@ -961,3 +961,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-29T12:10] fix(db): prevent connection pool exhaustion under concurrent request load
 
 - [2023-08-29T13:14] fix(ui): resolve z-index conflict between dropdown menu and modal
+
+- [2023-08-30T10:46] feat(ui): add accessible modal dialog with backdrop blur and trap focus
