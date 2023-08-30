@@ -963,3 +963,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-29T13:14] fix(ui): resolve z-index conflict between dropdown menu and modal
 
 - [2023-08-30T10:46] feat(ui): add accessible modal dialog with backdrop blur and trap focus
+
+- [2023-08-30T12:13] fix(api): properly catch and format unhandled promise rejections in API
