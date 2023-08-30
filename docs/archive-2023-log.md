@@ -967,3 +967,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-08-30T12:13] fix(api): properly catch and format unhandled promise rejections in API
 
 - [2023-08-30T13:12] feat(api): scaffold Next.js API routes for dynamic product querying
+
+- [2023-08-30T13:47] feat(tailwind): setup Tailwind CSS configuration and custom color tokens
