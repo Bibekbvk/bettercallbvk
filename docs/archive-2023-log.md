@@ -987,3 +987,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-01T11:19] feat(ui): implement skeleton loader placeholders for async data cards
 
 - [2023-09-01T12:48] fix(cart): fix race condition when rapidly incrementing item quantity
+
+- [2023-09-01T14:09] feat(admin): create admin metrics overview page with sales charts
