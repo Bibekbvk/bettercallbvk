@@ -997,3 +997,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-01T17:45] feat(react): create custom useLocalStorage hook with JSON parsing
 
 - [2023-09-01T19:30] feat(auth): add password reset email workflow with expiring tokens
+
+- [2023-09-04T10:31] feat(ts): define shared interfaces for User, Order, and Cart models
