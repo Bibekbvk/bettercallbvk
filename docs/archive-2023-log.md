@@ -1001,3 +1001,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-04T10:31] feat(ts): define shared interfaces for User, Order, and Cart models
 
 - [2023-09-04T11:53] feat(db): add database indexing on foreign keys for high query throughput
+
+- [2023-09-04T13:39] feat(api): add rate limiting middleware for sensitive auth endpoints
