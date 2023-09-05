@@ -1005,3 +1005,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-04T13:39] feat(api): add rate limiting middleware for sensitive auth endpoints
 
 - [2023-09-05T10:09] perf(img): convert hero banners to modern WebP format with sharp
+
+- [2023-09-05T11:28] fix(auth): prevent duplicate account creation with lowercase email normalizer
