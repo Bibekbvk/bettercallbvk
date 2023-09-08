@@ -1021,3 +1021,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-08T10:26] feat(cart): persist cart items across browser sessions using indexedDB
 
 - [2023-09-08T11:26] feat(admin): create admin metrics overview page with sales charts
+
+- [2023-09-08T13:07] feat(api): add rate limiting middleware for sensitive auth endpoints
