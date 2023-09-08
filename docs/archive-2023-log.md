@@ -1019,3 +1019,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-05T17:23] feat(react): create custom useLocalStorage hook with JSON parsing
 
 - [2023-09-08T10:26] feat(cart): persist cart items across browser sessions using indexedDB
+
+- [2023-09-08T11:26] feat(admin): create admin metrics overview page with sales charts
