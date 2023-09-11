@@ -1035,3 +1035,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-11T11:27] feat(ui): add accessible modal dialog with backdrop blur and trap focus
 
 - [2023-09-11T12:32] fix(cart): fix race condition when rapidly incrementing item quantity
+
+- [2023-09-11T13:07] perf(img): convert hero banners to modern WebP format with sharp
