@@ -1031,3 +1031,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-08T17:38] feat(react): implement client-side state management using Redux Toolkit
 
 - [2023-09-11T10:48] feat(db): add database indexing on foreign keys for high query throughput
+
+- [2023-09-11T11:27] feat(ui): add accessible modal dialog with backdrop blur and trap focus
