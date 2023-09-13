@@ -1051,3 +1051,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-13T15:54] perf(db): optimize SQL queries to avoid N+1 problem on relational joins
 
 - [2023-09-13T17:39] feat(ts): define shared interfaces for User, Order, and Cart models
+
+- [2023-09-13T19:25] feat(ts): migrate core utility functions to strict TypeScript
