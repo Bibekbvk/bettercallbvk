@@ -1059,3 +1059,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-14T11:17] feat(ui): build responsive navbar with hamburger menu for mobile devices
 
 - [2023-09-14T12:16] feat(ui): implement skeleton loader placeholders for async data cards
+
+- [2023-09-14T13:42] test(unit): add Jest unit tests for cart calculation logic
