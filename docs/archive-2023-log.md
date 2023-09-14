@@ -1065,3 +1065,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-14T14:17] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
 
 - [2023-09-14T15:14] refactor(api): standardize REST API response schema across all endpoints
+
+- [2023-09-14T16:53] fix(auth): prevent duplicate account creation with lowercase email normalizer
