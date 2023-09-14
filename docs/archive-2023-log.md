@@ -1053,3 +1053,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-13T17:39] feat(ts): define shared interfaces for User, Order, and Cart models
 
 - [2023-09-13T19:25] feat(ts): migrate core utility functions to strict TypeScript
+
+- [2023-09-14T10:14] feat(ci): setup GitHub Actions workflow for automated unit test runs
