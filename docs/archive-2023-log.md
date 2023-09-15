@@ -1079,3 +1079,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-15T14:35] docs(readme): update API architecture documentation and local setup guide
 
 - [2023-09-15T16:06] fix(ui): resolve z-index conflict between dropdown menu and modal
+
+- [2023-09-15T17:53] feat(auth): add password reset email workflow with expiring tokens
