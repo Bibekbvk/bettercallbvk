@@ -1069,3 +1069,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-14T16:53] fix(auth): prevent duplicate account creation with lowercase email normalizer
 
 - [2023-09-15T09:39] feat(docker): add multi-stage Dockerfile for optimized production build
+
+- [2023-09-15T10:51] fix(api): properly catch and format unhandled promise rejections in API
