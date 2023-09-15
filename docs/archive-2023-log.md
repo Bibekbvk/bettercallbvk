@@ -1075,3 +1075,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-15T11:40] feat(auth): implement JWT cookie session storage with httpOnly flag
 
 - [2023-09-15T12:47] feat(api): scaffold Next.js API routes for dynamic product querying
+
+- [2023-09-15T14:35] docs(readme): update API architecture documentation and local setup guide
