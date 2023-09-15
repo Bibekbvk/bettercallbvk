@@ -1071,3 +1071,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-15T09:39] feat(docker): add multi-stage Dockerfile for optimized production build
 
 - [2023-09-15T10:51] fix(api): properly catch and format unhandled promise rejections in API
+
+- [2023-09-15T11:40] feat(auth): implement JWT cookie session storage with httpOnly flag
