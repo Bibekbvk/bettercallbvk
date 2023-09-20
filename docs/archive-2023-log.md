@@ -1103,3 +1103,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-20T16:10] feat(ts): define shared interfaces for User, Order, and Cart models
 
 - [2023-09-20T16:58] fix(auth): prevent duplicate account creation with lowercase email normalizer
+
+- [2023-09-20T17:43] feat(api): add rate limiting middleware for sensitive auth endpoints
