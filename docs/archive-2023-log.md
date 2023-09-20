@@ -1097,3 +1097,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-20T12:22] feat(ui): add customizable toast notification alert system
 
 - [2023-09-20T13:22] feat(cart): persist cart items across browser sessions using indexedDB
+
+- [2023-09-20T15:16] fix(ui): resolve z-index conflict between dropdown menu and modal
