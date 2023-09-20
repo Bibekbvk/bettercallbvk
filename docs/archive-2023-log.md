@@ -1101,3 +1101,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-20T15:16] fix(ui): resolve z-index conflict between dropdown menu and modal
 
 - [2023-09-20T16:10] feat(ts): define shared interfaces for User, Order, and Cart models
+
+- [2023-09-20T16:58] fix(auth): prevent duplicate account creation with lowercase email normalizer
