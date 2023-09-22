@@ -1109,3 +1109,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-20T19:21] test(unit): add Jest unit tests for cart calculation logic
 
 - [2023-09-22T11:07] test(integration): add Supertest integration tests for auth endpoints
+
+- [2023-09-22T11:47] feat(auth): add password reset email workflow with expiring tokens
