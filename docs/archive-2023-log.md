@@ -1115,3 +1115,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-22T13:09] feat(admin): create admin metrics overview page with sales charts
 
 - [2023-09-22T14:24] feat(ui): implement skeleton loader placeholders for async data cards
+
+- [2023-09-22T16:12] feat(react): implement client-side state management using Redux Toolkit
