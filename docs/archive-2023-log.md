@@ -1111,3 +1111,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-22T11:07] test(integration): add Supertest integration tests for auth endpoints
 
 - [2023-09-22T11:47] feat(auth): add password reset email workflow with expiring tokens
+
+- [2023-09-22T13:09] feat(admin): create admin metrics overview page with sales charts
