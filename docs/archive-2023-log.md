@@ -1127,3 +1127,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-25T14:46] fix(cart): fix race condition when rapidly incrementing item quantity
 
 - [2023-09-25T15:27] fix(db): prevent connection pool exhaustion under concurrent request load
+
+- [2023-09-25T16:56] feat(ui): add accessible modal dialog with backdrop blur and trap focus
