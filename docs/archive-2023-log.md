@@ -1121,3 +1121,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-25T09:53] feat(search): implement debounced live search filter on catalog page
 
 - [2023-09-25T11:33] refactor(clean): modularize monolithic component into reusable atomic components
+
+- [2023-09-25T12:58] feat(api): scaffold Next.js API routes for dynamic product querying
