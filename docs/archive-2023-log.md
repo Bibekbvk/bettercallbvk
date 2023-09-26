@@ -1137,3 +1137,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-26T11:11] feat(ci): setup GitHub Actions workflow for automated unit test runs
 
 - [2023-09-26T12:01] docs(readme): update API architecture documentation and local setup guide
+
+- [2023-09-26T13:42] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
