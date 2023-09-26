@@ -1131,3 +1131,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-25T16:56] feat(ui): add accessible modal dialog with backdrop blur and trap focus
 
 - [2023-09-25T18:40] refactor(api): standardize REST API response schema across all endpoints
+
+- [2023-09-26T10:14] feat(ui): build responsive navbar with hamburger menu for mobile devices
