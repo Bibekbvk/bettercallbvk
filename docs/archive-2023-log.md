@@ -1135,3 +1135,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-26T10:14] feat(ui): build responsive navbar with hamburger menu for mobile devices
 
 - [2023-09-26T11:11] feat(ci): setup GitHub Actions workflow for automated unit test runs
+
+- [2023-09-26T12:01] docs(readme): update API architecture documentation and local setup guide
