@@ -1143,3 +1143,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-26T14:57] feat(ts): migrate core utility functions to strict TypeScript
 
 - [2023-09-26T15:33] perf(img): convert hero banners to modern WebP format with sharp
+
+- [2023-09-27T10:18] feat(react): create custom useLocalStorage hook with JSON parsing
