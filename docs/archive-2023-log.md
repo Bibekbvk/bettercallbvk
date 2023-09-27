@@ -1153,3 +1153,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-27T13:34] feat(auth): implement JWT cookie session storage with httpOnly flag
 
 - [2023-09-27T15:19] feat(db): setup PostgreSQL database connection with Prisma ORM
+
+- [2023-09-27T16:24] fix(api): properly catch and format unhandled promise rejections in API
