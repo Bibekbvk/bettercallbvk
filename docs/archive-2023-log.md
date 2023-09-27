@@ -1155,3 +1155,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-27T15:19] feat(db): setup PostgreSQL database connection with Prisma ORM
 
 - [2023-09-27T16:24] fix(api): properly catch and format unhandled promise rejections in API
+
+- [2023-09-27T17:59] feat(search): implement debounced live search filter on catalog page
