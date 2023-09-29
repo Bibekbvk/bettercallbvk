@@ -1159,3 +1159,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-27T17:59] feat(search): implement debounced live search filter on catalog page
 
 - [2023-09-27T19:54] fix(api): properly catch and format unhandled promise rejections in API
+
+- [2023-09-29T11:02] feat(api): scaffold Next.js API routes for dynamic product querying
