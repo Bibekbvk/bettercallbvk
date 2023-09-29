@@ -1165,3 +1165,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-29T12:39] feat(api): add rate limiting middleware for sensitive auth endpoints
 
 - [2023-09-29T13:46] feat(tailwind): setup Tailwind CSS configuration and custom color tokens
+
+- [2023-09-29T15:33] perf(db): optimize SQL queries to avoid N+1 problem on relational joins
