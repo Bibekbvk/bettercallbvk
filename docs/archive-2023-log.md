@@ -1169,3 +1169,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-29T15:33] perf(db): optimize SQL queries to avoid N+1 problem on relational joins
 
 - [2023-10-02T09:42] fix(auth): prevent duplicate account creation with lowercase email normalizer
+
+- [2023-10-02T10:37] feat(ts): migrate core utility functions to strict TypeScript
