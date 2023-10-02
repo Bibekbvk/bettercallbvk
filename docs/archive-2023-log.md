@@ -1167,3 +1167,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-09-29T13:46] feat(tailwind): setup Tailwind CSS configuration and custom color tokens
 
 - [2023-09-29T15:33] perf(db): optimize SQL queries to avoid N+1 problem on relational joins
+
+- [2023-10-02T09:42] fix(auth): prevent duplicate account creation with lowercase email normalizer
