@@ -1177,3 +1177,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-02T13:14] perf(img): convert hero banners to modern WebP format with sharp
 
 - [2023-10-02T14:01] feat(ci): setup GitHub Actions workflow for automated unit test runs
+
+- [2023-10-03T10:03] feat(react): create custom useLocalStorage hook with JSON parsing
