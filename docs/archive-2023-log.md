@@ -1191,3 +1191,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-03T17:15] feat(db): add database indexing on foreign keys for high query throughput
 
 - [2023-10-05T09:55] fix(ui): resolve z-index conflict between dropdown menu and modal
+
+- [2023-10-05T11:43] fix(cart): fix race condition when rapidly incrementing item quantity
