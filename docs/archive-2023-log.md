@@ -1205,3 +1205,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-05T19:05] feat(ts): define shared interfaces for User, Order, and Cart models
 
 - [2023-10-06T10:48] test(integration): add Supertest integration tests for auth endpoints
+
+- [2023-10-06T12:22] docs(readme): update API architecture documentation and local setup guide
