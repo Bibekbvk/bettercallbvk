@@ -1213,3 +1213,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-06T14:33] feat(ui): build responsive navbar with hamburger menu for mobile devices
 
 - [2023-10-09T10:48] feat(ui): add accessible modal dialog with backdrop blur and trap focus
+
+- [2023-10-09T12:14] feat(auth): add password reset email workflow with expiring tokens
