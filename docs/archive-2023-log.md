@@ -1225,3 +1225,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-11T11:00] test(unit): add Jest unit tests for cart calculation logic
 
 - [2023-10-11T12:52] refactor(api): standardize REST API response schema across all endpoints
+
+- [2023-10-11T14:17] fix(db): prevent connection pool exhaustion under concurrent request load
