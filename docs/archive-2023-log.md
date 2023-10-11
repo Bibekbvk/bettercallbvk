@@ -1221,3 +1221,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-09T14:17] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
 
 - [2023-10-09T15:32] feat(db): create migration for Users, Products, and Transactions tables
+
+- [2023-10-11T11:00] test(unit): add Jest unit tests for cart calculation logic
