@@ -1239,3 +1239,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-12T11:17] feat(auth): add password reset email workflow with expiring tokens
 
 - [2023-10-12T12:59] feat(db): setup PostgreSQL database connection with Prisma ORM
+
+- [2023-10-12T13:37] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
