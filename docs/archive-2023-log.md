@@ -1249,3 +1249,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-12T18:16] refactor(clean): modularize monolithic component into reusable atomic components
 
 - [2023-10-12T20:01] feat(react): create custom useLocalStorage hook with JSON parsing
+
+- [2023-10-12T20:53] refactor(api): standardize REST API response schema across all endpoints
