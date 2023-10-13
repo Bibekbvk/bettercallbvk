@@ -1261,3 +1261,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-13T14:28] test(integration): add Supertest integration tests for auth endpoints
 
 - [2023-10-13T16:10] fix(ui): resolve z-index conflict between dropdown menu and modal
+
+- [2023-10-13T17:53] feat(api): add rate limiting middleware for sensitive auth endpoints
