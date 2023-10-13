@@ -1257,3 +1257,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-13T10:46] docs(readme): update API architecture documentation and local setup guide
 
 - [2023-10-13T12:41] perf(bundle): split vendor chunks and analyze bundle size with webpack bundle analyzer
+
+- [2023-10-13T14:28] test(integration): add Supertest integration tests for auth endpoints
