@@ -1259,3 +1259,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-13T12:41] perf(bundle): split vendor chunks and analyze bundle size with webpack bundle analyzer
 
 - [2023-10-13T14:28] test(integration): add Supertest integration tests for auth endpoints
+
+- [2023-10-13T16:10] fix(ui): resolve z-index conflict between dropdown menu and modal
