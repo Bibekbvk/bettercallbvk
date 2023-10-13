@@ -1253,3 +1253,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-12T20:53] refactor(api): standardize REST API response schema across all endpoints
 
 - [2023-10-12T22:37] feat(db): create migration for Users, Products, and Transactions tables
+
+- [2023-10-13T10:46] docs(readme): update API architecture documentation and local setup guide
