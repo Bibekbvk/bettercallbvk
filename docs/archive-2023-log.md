@@ -1267,3 +1267,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-13T19:12] feat(ui): implement skeleton loader placeholders for async data cards
 
 - [2023-10-17T09:59] feat(cart): persist cart items across browser sessions using indexedDB
+
+- [2023-10-17T11:30] fix(auth): prevent duplicate account creation with lowercase email normalizer
