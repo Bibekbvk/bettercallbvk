@@ -1279,3 +1279,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-17T15:47] feat(ui): add customizable toast notification alert system
 
 - [2023-10-17T16:39] feat(ts): migrate core utility functions to strict TypeScript
+
+- [2023-10-17T17:50] fix(db): prevent connection pool exhaustion under concurrent request load
