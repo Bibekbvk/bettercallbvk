@@ -1287,3 +1287,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-18T11:06] feat(search): implement debounced live search filter on catalog page
 
 - [2023-10-18T12:19] feat(ui): build responsive navbar with hamburger menu for mobile devices
+
+- [2023-10-18T13:49] perf(db): optimize SQL queries to avoid N+1 problem on relational joins
