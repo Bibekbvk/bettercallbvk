@@ -1291,3 +1291,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-18T13:49] perf(db): optimize SQL queries to avoid N+1 problem on relational joins
 
 - [2023-10-18T15:40] feat(ci): setup GitHub Actions workflow for automated unit test runs
+
+- [2023-10-18T16:15] feat(auth): implement JWT cookie session storage with httpOnly flag
