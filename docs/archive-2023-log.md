@@ -1297,3 +1297,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-18T17:37] feat(ui): add accessible modal dialog with backdrop blur and trap focus
 
 - [2023-10-18T19:04] test(unit): add Jest unit tests for cart calculation logic
+
+- [2023-10-18T20:34] feat(ts): define shared interfaces for User, Order, and Cart models
