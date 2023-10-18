@@ -1299,3 +1299,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-18T19:04] test(unit): add Jest unit tests for cart calculation logic
 
 - [2023-10-18T20:34] feat(ts): define shared interfaces for User, Order, and Cart models
+
+- [2023-10-18T21:40] fix(db): prevent connection pool exhaustion under concurrent request load
