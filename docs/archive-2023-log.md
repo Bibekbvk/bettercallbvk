@@ -1293,3 +1293,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-18T15:40] feat(ci): setup GitHub Actions workflow for automated unit test runs
 
 - [2023-10-18T16:15] feat(auth): implement JWT cookie session storage with httpOnly flag
+
+- [2023-10-18T17:37] feat(ui): add accessible modal dialog with backdrop blur and trap focus
