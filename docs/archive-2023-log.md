@@ -1317,3 +1317,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-19T15:03] feat(db): create migration for Users, Products, and Transactions tables
 
 - [2023-10-19T15:39] feat(ui): build responsive navbar with hamburger menu for mobile devices
+
+- [2023-10-19T16:41] feat(search): implement debounced live search filter on catalog page
