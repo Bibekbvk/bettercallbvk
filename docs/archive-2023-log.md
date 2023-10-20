@@ -1331,3 +1331,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-20T12:34] test(integration): add Supertest integration tests for auth endpoints
 
 - [2023-10-20T13:43] perf(img): convert hero banners to modern WebP format with sharp
+
+- [2023-10-20T15:08] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
