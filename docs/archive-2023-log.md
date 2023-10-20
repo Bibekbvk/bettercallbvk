@@ -1333,3 +1333,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-20T13:43] perf(img): convert hero banners to modern WebP format with sharp
 
 - [2023-10-20T15:08] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
+
+- [2023-10-20T16:52] perf(db): optimize SQL queries to avoid N+1 problem on relational joins
