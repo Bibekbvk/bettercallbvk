@@ -1325,3 +1325,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-20T10:17] feat(db): add database indexing on foreign keys for high query throughput
 
 - [2023-10-20T10:56] feat(auth): add password reset email workflow with expiring tokens
+
+- [2023-10-20T11:41] feat(ui): add accessible modal dialog with backdrop blur and trap focus
