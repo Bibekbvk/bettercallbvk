@@ -1321,3 +1321,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-19T16:41] feat(search): implement debounced live search filter on catalog page
 
 - [2023-10-19T18:09] feat(react): create custom useLocalStorage hook with JSON parsing
+
+- [2023-10-20T10:17] feat(db): add database indexing on foreign keys for high query throughput
