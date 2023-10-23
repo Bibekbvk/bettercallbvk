@@ -1345,3 +1345,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-23T12:56] fix(cart): fix race condition when rapidly incrementing item quantity
 
 - [2023-10-23T14:27] feat(api): scaffold Next.js API routes for dynamic product querying
+
+- [2023-10-23T15:06] feat(admin): create admin metrics overview page with sales charts
