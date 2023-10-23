@@ -1347,3 +1347,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-23T14:27] feat(api): scaffold Next.js API routes for dynamic product querying
 
 - [2023-10-23T15:06] feat(admin): create admin metrics overview page with sales charts
+
+- [2023-10-23T16:39] feat(cart): persist cart items across browser sessions using indexedDB
