@@ -1353,3 +1353,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-23T17:26] feat(ts): migrate core utility functions to strict TypeScript
 
 - [2023-10-23T18:27] test(unit): add Jest unit tests for cart calculation logic
+
+- [2023-10-24T10:57] feat(auth): implement JWT cookie session storage with httpOnly flag
