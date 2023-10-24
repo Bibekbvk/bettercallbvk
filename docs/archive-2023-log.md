@@ -1357,3 +1357,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-24T10:57] feat(auth): implement JWT cookie session storage with httpOnly flag
 
 - [2023-10-24T12:13] fix(api): properly catch and format unhandled promise rejections in API
+
+- [2023-10-24T14:08] fix(auth): prevent duplicate account creation with lowercase email normalizer
