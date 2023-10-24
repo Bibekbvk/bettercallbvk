@@ -1359,3 +1359,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-24T12:13] fix(api): properly catch and format unhandled promise rejections in API
 
 - [2023-10-24T14:08] fix(auth): prevent duplicate account creation with lowercase email normalizer
+
+- [2023-10-24T14:48] docs(readme): update API architecture documentation and local setup guide
