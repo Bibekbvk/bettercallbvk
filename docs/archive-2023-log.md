@@ -1363,3 +1363,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-24T14:48] docs(readme): update API architecture documentation and local setup guide
 
 - [2023-10-25T10:36] feat(db): setup PostgreSQL database connection with Prisma ORM
+
+- [2023-10-25T11:43] fix(ui): resolve z-index conflict between dropdown menu and modal
