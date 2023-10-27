@@ -1375,3 +1375,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-10-27T11:14] test(unit): add Jest unit tests for cart calculation logic
 
 - [2023-10-27T12:18] feat(ci): setup GitHub Actions workflow for automated unit test runs
+
+- [2023-10-27T14:04] refactor(api): standardize REST API response schema across all endpoints
