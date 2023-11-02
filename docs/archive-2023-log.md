@@ -1389,3 +1389,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-11-02T10:32] fix(cart): fix race condition when rapidly incrementing item quantity
 
 - [2023-11-02T12:03] feat(auth): add password reset email workflow with expiring tokens
+
+- [2023-11-02T13:15] fix(api): properly catch and format unhandled promise rejections in API
