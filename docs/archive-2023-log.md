@@ -1395,3 +1395,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-11-02T14:52] feat(ui): add accessible modal dialog with backdrop blur and trap focus
 
 - [2023-11-02T16:39] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
+
+- [2023-11-02T18:23] feat(search): implement debounced live search filter on catalog page
