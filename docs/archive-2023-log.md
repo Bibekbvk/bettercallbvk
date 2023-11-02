@@ -1393,3 +1393,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-11-02T13:15] fix(api): properly catch and format unhandled promise rejections in API
 
 - [2023-11-02T14:52] feat(ui): add accessible modal dialog with backdrop blur and trap focus
+
+- [2023-11-02T16:39] feat(tailwind): replace legacy CSS classes with responsive Tailwind utilities
