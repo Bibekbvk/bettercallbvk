@@ -1405,3 +1405,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-11-03T13:58] feat(admin): create admin metrics overview page with sales charts
 
 - [2023-11-03T14:41] feat(ui): implement skeleton loader placeholders for async data cards
+
+- [2023-11-03T15:35] fix(auth): prevent duplicate account creation with lowercase email normalizer
