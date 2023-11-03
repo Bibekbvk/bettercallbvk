@@ -1401,3 +1401,5 @@ TypeScript, Tailwind CSS, REST APIs, and database migrations.
 - [2023-11-03T11:03] feat(ts): define shared interfaces for User, Order, and Cart models
 
 - [2023-11-03T12:13] feat(auth): implement JWT cookie session storage with httpOnly flag
+
+- [2023-11-03T13:58] feat(admin): create admin metrics overview page with sales charts
