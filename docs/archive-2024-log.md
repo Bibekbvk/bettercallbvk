@@ -11,3 +11,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-01-08T13:41] fix(payment): disable double submission on checkout payment button
 
 - [2024-01-08T14:28] feat(motion): add smooth page transitions and micro-interactions with Framer Motion
+
+- [2024-01-08T15:32] feat(supabase): configure Row Level Security (RLS) policies for user private data
