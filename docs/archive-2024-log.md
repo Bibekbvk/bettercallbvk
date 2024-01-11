@@ -39,3 +39,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-01-11T21:38] feat(admin): export transaction summaries and inventory to CSV spreadsheets
 
 - [2024-01-11T22:03] feat(payment): add webhook handler for asynchronous payment verification
+
+- [2024-01-11T22:33] feat(query): integrate TanStack Query for client-side caching and invalidation
