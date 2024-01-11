@@ -35,3 +35,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-01-11T18:59] docs(api): document Supabase database schemas and server action patterns
 
 - [2024-01-11T20:06] feat(marketplace): add dynamic category filtering with URL search params sync
+
+- [2024-01-11T21:38] feat(admin): export transaction summaries and inventory to CSV spreadsheets
