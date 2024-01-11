@@ -31,3 +31,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-01-11T16:12] feat(motion): add smooth page transitions and micro-interactions with Framer Motion
 
 - [2024-01-11T17:14] feat(rsc): implement React Server Components for server-side data fetching
+
+- [2024-01-11T18:59] docs(api): document Supabase database schemas and server action patterns
