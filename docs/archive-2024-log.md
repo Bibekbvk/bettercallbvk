@@ -29,3 +29,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-01-11T14:25] perf(fonts): optimize web font delivery using next/font with zero layout shift
 
 - [2024-01-11T16:12] feat(motion): add smooth page transitions and micro-interactions with Framer Motion
+
+- [2024-01-11T17:14] feat(rsc): implement React Server Components for server-side data fetching
