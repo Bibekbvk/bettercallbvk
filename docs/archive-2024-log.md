@@ -23,3 +23,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-01-08T20:56] feat(theme): add smooth dark mode theme switching with CSS variables
 
 - [2024-01-11T11:05] perf(cache): leverage Next.js Data Cache and revalidateTag for instant updates
+
+- [2024-01-11T12:33] feat(payment): integrate eSewa wallet and Fonepay QR payment gateway SDK
