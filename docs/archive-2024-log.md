@@ -47,3 +47,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-01-16T09:47] refactor(types): centralize domain data models into strict TypeScript declarations
 
 - [2024-01-16T10:22] chore(deps): upgrade dependencies to React 18 patches and Next.js latest release
+
+- [2024-01-16T11:25] feat(forms): implement form validation using React Hook Form and Zod schemas
