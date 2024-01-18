@@ -59,3 +59,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-01-18T14:55] perf(images): implement next/image with responsive srcset sizes and blur placeholders
 
 - [2024-01-18T15:49] fix(supabase): handle token refresh failure gracefully without page reload crash
+
+- [2024-01-18T16:28] feat(admin): build interactive analytics dashboard using Recharts library
