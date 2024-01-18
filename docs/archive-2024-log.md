@@ -63,3 +63,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-01-18T16:28] feat(admin): build interactive analytics dashboard using Recharts library
 
 - [2024-01-18T17:48] perf(cache): leverage Next.js Data Cache and revalidateTag for instant updates
+
+- [2024-01-18T18:40] test(e2e): add Playwright end-to-end tests for checkout purchase flow
