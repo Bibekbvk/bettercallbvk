@@ -61,3 +61,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-01-18T15:49] fix(supabase): handle token refresh failure gracefully without page reload crash
 
 - [2024-01-18T16:28] feat(admin): build interactive analytics dashboard using Recharts library
+
+- [2024-01-18T17:48] perf(cache): leverage Next.js Data Cache and revalidateTag for instant updates
