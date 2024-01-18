@@ -55,3 +55,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-01-18T11:27] feat(seo): add automated XML sitemap and robots.txt generation routes
 
 - [2024-01-18T13:07] feat(marketplace): scaffold digital asset showcase with live demo preview modal
+
+- [2024-01-18T14:55] perf(images): implement next/image with responsive srcset sizes and blur placeholders
