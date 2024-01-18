@@ -67,3 +67,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-01-18T18:40] test(e2e): add Playwright end-to-end tests for checkout purchase flow
 
 - [2024-01-18T20:01] feat(theme): add smooth dark mode theme switching with CSS variables
+
+- [2024-01-18T21:07] fix(payment): disable double submission on checkout payment button
