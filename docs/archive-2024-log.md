@@ -75,3 +75,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-01-18T22:14] feat(supabase): integrate Supabase client with Next.js middleware session refresh
 
 - [2024-01-22T10:42] fix(seo): ensure canonical URL tags match exact trailing slash configuration
+
+- [2024-01-22T11:26] fix(rsc): resolve hydration mismatch error caused by browser-only API usage
