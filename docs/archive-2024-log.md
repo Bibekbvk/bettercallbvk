@@ -77,3 +77,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-01-22T10:42] fix(seo): ensure canonical URL tags match exact trailing slash configuration
 
 - [2024-01-22T11:26] fix(rsc): resolve hydration mismatch error caused by browser-only API usage
+
+- [2024-01-22T12:42] feat(motion): implement magnetic cursor effect on primary interactive buttons
