@@ -93,3 +93,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-01-24T12:52] feat(theme): add smooth dark mode theme switching with CSS variables
 
 - [2024-01-24T14:31] fix(payment): disable double submission on checkout payment button
+
+- [2024-01-24T15:34] feat(next): migrate project to Next.js App Router architecture
