@@ -89,3 +89,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-01-24T09:36] feat(marketplace): add dynamic category filtering with URL search params sync
 
 - [2024-01-24T11:01] perf(images): implement next/image with responsive srcset sizes and blur placeholders
+
+- [2024-01-24T12:52] feat(theme): add smooth dark mode theme switching with CSS variables
