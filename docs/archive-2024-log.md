@@ -85,3 +85,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-01-22T15:55] feat(seo): implement dynamic OpenGraph image generation via @vercel/og
 
 - [2024-01-22T17:43] fix(seo): ensure canonical URL tags match exact trailing slash configuration
+
+- [2024-01-24T09:36] feat(marketplace): add dynamic category filtering with URL search params sync
