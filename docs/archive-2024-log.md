@@ -95,3 +95,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-01-24T14:31] fix(payment): disable double submission on checkout payment button
 
 - [2024-01-24T15:34] feat(next): migrate project to Next.js App Router architecture
+
+- [2024-01-24T16:46] feat(marketplace): scaffold digital asset showcase with live demo preview modal
