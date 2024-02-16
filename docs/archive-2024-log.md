@@ -105,3 +105,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-02-16T11:48] feat(admin): export transaction summaries and inventory to CSV spreadsheets
 
 - [2024-02-16T12:29] fix(supabase): handle token refresh failure gracefully without page reload crash
+
+- [2024-02-16T13:55] feat(payment): integrate eSewa wallet and Fonepay QR payment gateway SDK
