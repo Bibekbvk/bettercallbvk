@@ -103,3 +103,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-02-16T10:13] feat(seo): add automated XML sitemap and robots.txt generation routes
 
 - [2024-02-16T11:48] feat(admin): export transaction summaries and inventory to CSV spreadsheets
+
+- [2024-02-16T12:29] fix(supabase): handle token refresh failure gracefully without page reload crash
