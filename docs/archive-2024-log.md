@@ -115,3 +115,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-03-12T11:07] feat(seo): implement dynamic OpenGraph image generation via @vercel/og
 
 - [2024-03-12T12:43] feat(payment): add webhook handler for asynchronous payment verification
+
+- [2024-03-12T13:43] feat(rsc): implement React Server Components for server-side data fetching
