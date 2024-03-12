@@ -111,3 +111,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-02-16T14:40] feat(motion): implement magnetic cursor effect on primary interactive buttons
 
 - [2024-02-16T16:19] feat(supabase): configure Row Level Security (RLS) policies for user private data
+
+- [2024-03-12T11:07] feat(seo): implement dynamic OpenGraph image generation via @vercel/og
