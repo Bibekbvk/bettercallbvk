@@ -123,3 +123,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-04-05T09:55] fix(motion): prevent layout shift during exit animations on animated components
 
 - [2024-04-05T11:48] chore(deps): upgrade dependencies to React 18 patches and Next.js latest release
+
+- [2024-04-05T13:30] refactor(types): centralize domain data models into strict TypeScript declarations
