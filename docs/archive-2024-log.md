@@ -125,3 +125,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-04-05T11:48] chore(deps): upgrade dependencies to React 18 patches and Next.js latest release
 
 - [2024-04-05T13:30] refactor(types): centralize domain data models into strict TypeScript declarations
+
+- [2024-04-05T14:36] fix(rsc): resolve hydration mismatch error caused by browser-only API usage
