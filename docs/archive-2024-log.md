@@ -119,3 +119,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-03-12T13:43] feat(rsc): implement React Server Components for server-side data fetching
 
 - [2024-03-12T15:08] feat(actions): replace API routes with typed React Server Actions for forms
+
+- [2024-04-05T09:55] fix(motion): prevent layout shift during exit animations on animated components
