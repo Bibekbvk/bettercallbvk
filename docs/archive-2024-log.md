@@ -121,3 +121,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-03-12T15:08] feat(actions): replace API routes with typed React Server Actions for forms
 
 - [2024-04-05T09:55] fix(motion): prevent layout shift during exit animations on animated components
+
+- [2024-04-05T11:48] chore(deps): upgrade dependencies to React 18 patches and Next.js latest release
