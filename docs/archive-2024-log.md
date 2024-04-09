@@ -141,3 +141,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-04-09T15:36] feat(query): integrate TanStack Query for client-side caching and invalidation
 
 - [2024-04-09T16:35] test(e2e): add Playwright end-to-end tests for checkout purchase flow
+
+- [2024-04-09T17:54] perf(cache): leverage Next.js Data Cache and revalidateTag for instant updates
