@@ -149,3 +149,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-04-11T10:12] feat(supabase): configure Row Level Security (RLS) policies for user private data
 
 - [2024-04-11T11:55] fix(rsc): resolve hydration mismatch error caused by browser-only API usage
+
+- [2024-04-11T12:56] fix(motion): prevent layout shift during exit animations on animated components
