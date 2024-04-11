@@ -145,3 +145,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-04-09T17:54] perf(cache): leverage Next.js Data Cache and revalidateTag for instant updates
 
 - [2024-04-09T18:32] feat(seo): add automated XML sitemap and robots.txt generation routes
+
+- [2024-04-11T10:12] feat(supabase): configure Row Level Security (RLS) policies for user private data
