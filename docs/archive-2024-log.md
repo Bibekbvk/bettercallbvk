@@ -151,3 +151,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-04-11T11:55] fix(rsc): resolve hydration mismatch error caused by browser-only API usage
 
 - [2024-04-11T12:56] fix(motion): prevent layout shift during exit animations on animated components
+
+- [2024-04-11T14:37] feat(forms): implement form validation using React Hook Form and Zod schemas
