@@ -157,3 +157,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-04-11T15:45] test(e2e): add Playwright end-to-end tests for checkout purchase flow
 
 - [2024-04-12T10:49] fix(supabase): handle token refresh failure gracefully without page reload crash
+
+- [2024-04-12T11:42] feat(motion): implement magnetic cursor effect on primary interactive buttons
