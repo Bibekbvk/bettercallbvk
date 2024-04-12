@@ -165,3 +165,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-04-12T14:08] feat(payment): add webhook handler for asynchronous payment verification
 
 - [2024-04-12T15:50] perf(cache): leverage Next.js Data Cache and revalidateTag for instant updates
+
+- [2024-04-12T16:57] feat(theme): add smooth dark mode theme switching with CSS variables
