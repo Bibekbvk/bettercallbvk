@@ -163,3 +163,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-04-12T12:19] feat(rsc): implement React Server Components for server-side data fetching
 
 - [2024-04-12T14:08] feat(payment): add webhook handler for asynchronous payment verification
+
+- [2024-04-12T15:50] perf(cache): leverage Next.js Data Cache and revalidateTag for instant updates
