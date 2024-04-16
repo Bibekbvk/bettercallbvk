@@ -179,3 +179,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-04-16T14:22] feat(motion): add smooth page transitions and micro-interactions with Framer Motion
 
 - [2024-04-16T15:46] feat(query): integrate TanStack Query for client-side caching and invalidation
+
+- [2024-04-16T16:55] feat(marketplace): scaffold digital asset showcase with live demo preview modal
