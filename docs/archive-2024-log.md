@@ -169,3 +169,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-04-12T16:57] feat(theme): add smooth dark mode theme switching with CSS variables
 
 - [2024-04-12T17:39] fix(seo): ensure canonical URL tags match exact trailing slash configuration
+
+- [2024-04-16T11:11] feat(actions): replace API routes with typed React Server Actions for forms
