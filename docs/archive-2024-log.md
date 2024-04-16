@@ -171,3 +171,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-04-12T17:39] fix(seo): ensure canonical URL tags match exact trailing slash configuration
 
 - [2024-04-16T11:11] feat(actions): replace API routes with typed React Server Actions for forms
+
+- [2024-04-16T13:05] refactor(types): centralize domain data models into strict TypeScript declarations
