@@ -191,3 +191,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-04-16T21:40] fix(payment): disable double submission on checkout payment button
 
 - [2024-04-16T22:27] perf(fonts): optimize web font delivery using next/font with zero layout shift
+
+- [2024-04-17T11:20] feat(seo): implement dynamic OpenGraph image generation via @vercel/og
