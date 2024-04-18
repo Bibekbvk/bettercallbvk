@@ -203,3 +203,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-04-18T11:28] feat(next): migrate project to Next.js App Router architecture
 
 - [2024-04-18T12:05] feat(admin): export transaction summaries and inventory to CSV spreadsheets
+
+- [2024-04-18T13:11] feat(seo): implement dynamic OpenGraph image generation via @vercel/og
