@@ -199,3 +199,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-04-17T14:01] chore(deps): upgrade dependencies to React 18 patches and Next.js latest release
 
 - [2024-04-17T15:40] feat(payment): integrate eSewa wallet and Fonepay QR payment gateway SDK
+
+- [2024-04-18T11:28] feat(next): migrate project to Next.js App Router architecture
