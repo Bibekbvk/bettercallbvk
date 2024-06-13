@@ -219,3 +219,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-06-13T10:24] feat(supabase): configure Row Level Security (RLS) policies for user private data
 
 - [2024-06-13T12:16] docs(api): document Supabase database schemas and server action patterns
+
+- [2024-06-13T13:48] feat(payment): integrate eSewa wallet and Fonepay QR payment gateway SDK
