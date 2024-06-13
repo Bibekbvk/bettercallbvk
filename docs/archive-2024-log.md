@@ -215,3 +215,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-04-18T18:17] fix(rsc): resolve hydration mismatch error caused by browser-only API usage
 
 - [2024-04-18T19:22] refactor(types): centralize domain data models into strict TypeScript declarations
+
+- [2024-06-13T10:24] feat(supabase): configure Row Level Security (RLS) policies for user private data
