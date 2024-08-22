@@ -229,3 +229,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-08-22T12:32] feat(forms): implement form validation using React Hook Form and Zod schemas
 
 - [2024-08-22T13:32] feat(next): migrate project to Next.js App Router architecture
+
+- [2024-08-22T14:46] feat(supabase): integrate Supabase client with Next.js middleware session refresh
