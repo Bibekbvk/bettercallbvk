@@ -221,3 +221,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-06-13T12:16] docs(api): document Supabase database schemas and server action patterns
 
 - [2024-06-13T13:48] feat(payment): integrate eSewa wallet and Fonepay QR payment gateway SDK
+
+- [2024-08-22T09:56] feat(actions): replace API routes with typed React Server Actions for forms
