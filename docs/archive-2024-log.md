@@ -235,3 +235,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-09-03T11:26] chore(deps): upgrade dependencies to React 18 patches and Next.js latest release
 
 - [2024-09-03T12:56] feat(rsc): implement React Server Components for server-side data fetching
+
+- [2024-09-03T13:49] feat(motion): add smooth page transitions and micro-interactions with Framer Motion
