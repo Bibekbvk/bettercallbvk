@@ -241,3 +241,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-09-03T15:36] feat(motion): implement magnetic cursor effect on primary interactive buttons
 
 - [2024-09-03T16:51] feat(admin): export transaction summaries and inventory to CSV spreadsheets
+
+- [2024-09-03T18:37] feat(marketplace): add dynamic category filtering with URL search params sync
