@@ -249,3 +249,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-09-04T10:46] feat(admin): build interactive analytics dashboard using Recharts library
 
 - [2024-09-04T11:24] feat(theme): add smooth dark mode theme switching with CSS variables
+
+- [2024-09-04T12:39] feat(seo): add automated XML sitemap and robots.txt generation routes
