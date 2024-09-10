@@ -257,3 +257,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-09-10T11:05] perf(fonts): optimize web font delivery using next/font with zero layout shift
 
 - [2024-09-10T12:15] fix(seo): ensure canonical URL tags match exact trailing slash configuration
+
+- [2024-09-10T13:14] perf(images): implement next/image with responsive srcset sizes and blur placeholders
