@@ -265,3 +265,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-09-18T11:07] feat(payment): add webhook handler for asynchronous payment verification
 
 - [2024-09-18T13:00] feat(payment): integrate eSewa wallet and Fonepay QR payment gateway SDK
+
+- [2024-09-18T14:09] fix(motion): prevent layout shift during exit animations on animated components
