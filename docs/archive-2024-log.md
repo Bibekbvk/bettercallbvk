@@ -261,3 +261,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-09-10T13:14] perf(images): implement next/image with responsive srcset sizes and blur placeholders
 
 - [2024-09-10T14:05] perf(cache): leverage Next.js Data Cache and revalidateTag for instant updates
+
+- [2024-09-18T11:07] feat(payment): add webhook handler for asynchronous payment verification
