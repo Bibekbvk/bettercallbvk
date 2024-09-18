@@ -271,3 +271,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-09-18T15:12] feat(motion): implement magnetic cursor effect on primary interactive buttons
 
 - [2024-09-18T16:12] feat(theme): add smooth dark mode theme switching with CSS variables
+
+- [2024-09-18T17:13] feat(next): migrate project to Next.js App Router architecture
