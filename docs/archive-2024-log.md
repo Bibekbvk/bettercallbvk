@@ -283,3 +283,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-09-20T12:54] feat(actions): replace API routes with typed React Server Actions for forms
 
 - [2024-09-20T14:20] feat(seo): add automated XML sitemap and robots.txt generation routes
+
+- [2024-09-20T15:00] feat(supabase): configure Row Level Security (RLS) policies for user private data
