@@ -287,3 +287,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-09-20T15:00] feat(supabase): configure Row Level Security (RLS) policies for user private data
 
 - [2024-09-26T11:02] perf(fonts): optimize web font delivery using next/font with zero layout shift
+
+- [2024-09-26T12:27] refactor(types): centralize domain data models into strict TypeScript declarations
