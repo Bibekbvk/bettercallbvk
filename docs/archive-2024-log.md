@@ -295,3 +295,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-09-30T10:37] fix(payment): disable double submission on checkout payment button
 
 - [2024-09-30T11:16] perf(cache): leverage Next.js Data Cache and revalidateTag for instant updates
+
+- [2024-09-30T12:04] feat(motion): add smooth page transitions and micro-interactions with Framer Motion
