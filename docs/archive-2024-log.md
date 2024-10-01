@@ -301,3 +301,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-09-30T13:37] fix(rsc): resolve hydration mismatch error caused by browser-only API usage
 
 - [2024-09-30T14:43] feat(rsc): implement React Server Components for server-side data fetching
+
+- [2024-10-01T10:20] feat(query): integrate TanStack Query for client-side caching and invalidation
