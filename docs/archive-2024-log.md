@@ -315,3 +315,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-03T12:13] fix(seo): ensure canonical URL tags match exact trailing slash configuration
 
 - [2024-10-03T13:24] perf(images): implement next/image with responsive srcset sizes and blur placeholders
+
+- [2024-10-03T14:20] docs(api): document Supabase database schemas and server action patterns
