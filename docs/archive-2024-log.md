@@ -323,3 +323,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-03T16:13] feat(admin): export transaction summaries and inventory to CSV spreadsheets
 
 - [2024-10-03T17:54] feat(marketplace): add dynamic category filtering with URL search params sync
+
+- [2024-10-03T19:28] feat(query): integrate TanStack Query for client-side caching and invalidation
