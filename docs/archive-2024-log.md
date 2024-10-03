@@ -313,3 +313,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-03T10:48] test(e2e): add Playwright end-to-end tests for checkout purchase flow
 
 - [2024-10-03T12:13] fix(seo): ensure canonical URL tags match exact trailing slash configuration
+
+- [2024-10-03T13:24] perf(images): implement next/image with responsive srcset sizes and blur placeholders
