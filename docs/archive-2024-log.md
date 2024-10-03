@@ -321,3 +321,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-03T15:32] feat(payment): add webhook handler for asynchronous payment verification
 
 - [2024-10-03T16:13] feat(admin): export transaction summaries and inventory to CSV spreadsheets
+
+- [2024-10-03T17:54] feat(marketplace): add dynamic category filtering with URL search params sync
