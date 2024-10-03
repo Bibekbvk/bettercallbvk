@@ -311,3 +311,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-03T09:36] feat(admin): build interactive analytics dashboard using Recharts library
 
 - [2024-10-03T10:48] test(e2e): add Playwright end-to-end tests for checkout purchase flow
+
+- [2024-10-03T12:13] fix(seo): ensure canonical URL tags match exact trailing slash configuration
