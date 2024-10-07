@@ -341,3 +341,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-07T16:04] feat(forms): implement form validation using React Hook Form and Zod schemas
 
 - [2024-10-07T17:00] fix(motion): prevent layout shift during exit animations on animated components
+
+- [2024-10-07T18:47] feat(payment): add webhook handler for asynchronous payment verification
