@@ -343,3 +343,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-07T17:00] fix(motion): prevent layout shift during exit animations on animated components
 
 - [2024-10-07T18:47] feat(payment): add webhook handler for asynchronous payment verification
+
+- [2024-10-07T19:41] perf(images): implement next/image with responsive srcset sizes and blur placeholders
