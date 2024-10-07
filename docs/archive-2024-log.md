@@ -333,3 +333,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-07T11:04] perf(cache): leverage Next.js Data Cache and revalidateTag for instant updates
 
 - [2024-10-07T12:44] feat(actions): replace API routes with typed React Server Actions for forms
+
+- [2024-10-07T13:39] fix(seo): ensure canonical URL tags match exact trailing slash configuration
