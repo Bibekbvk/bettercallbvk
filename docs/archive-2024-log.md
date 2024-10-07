@@ -327,3 +327,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-03T19:28] feat(query): integrate TanStack Query for client-side caching and invalidation
 
 - [2024-10-03T21:00] feat(marketplace): scaffold digital asset showcase with live demo preview modal
+
+- [2024-10-07T09:40] feat(seo): implement dynamic OpenGraph image generation via @vercel/og
