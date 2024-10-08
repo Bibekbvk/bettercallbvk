@@ -355,3 +355,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-08T11:41] feat(admin): export transaction summaries and inventory to CSV spreadsheets
 
 - [2024-10-08T13:36] feat(payment): integrate eSewa wallet and Fonepay QR payment gateway SDK
+
+- [2024-10-08T14:26] feat(marketplace): add dynamic category filtering with URL search params sync
