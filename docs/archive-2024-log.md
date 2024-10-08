@@ -361,3 +361,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-08T15:26] feat(supabase): configure Row Level Security (RLS) policies for user private data
 
 - [2024-10-08T17:20] fix(supabase): handle token refresh failure gracefully without page reload crash
+
+- [2024-10-08T18:27] refactor(types): centralize domain data models into strict TypeScript declarations
