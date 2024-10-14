@@ -371,3 +371,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-09T14:09] feat(admin): build interactive analytics dashboard using Recharts library
 
 - [2024-10-09T15:14] feat(rsc): implement React Server Components for server-side data fetching
+
+- [2024-10-14T10:54] feat(supabase): integrate Supabase client with Next.js middleware session refresh
