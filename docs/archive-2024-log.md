@@ -379,3 +379,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-14T13:58] feat(motion): add smooth page transitions and micro-interactions with Framer Motion
 
 - [2024-10-14T15:49] test(e2e): add Playwright end-to-end tests for checkout purchase flow
+
+- [2024-10-14T16:24] feat(motion): implement magnetic cursor effect on primary interactive buttons
