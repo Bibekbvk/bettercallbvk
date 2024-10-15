@@ -383,3 +383,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-14T16:24] feat(motion): implement magnetic cursor effect on primary interactive buttons
 
 - [2024-10-15T10:05] fix(payment): disable double submission on checkout payment button
+
+- [2024-10-15T12:00] chore(deps): upgrade dependencies to React 18 patches and Next.js latest release
