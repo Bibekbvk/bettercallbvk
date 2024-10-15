@@ -387,3 +387,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-15T12:00] chore(deps): upgrade dependencies to React 18 patches and Next.js latest release
 
 - [2024-10-15T13:13] feat(seo): add automated XML sitemap and robots.txt generation routes
+
+- [2024-10-15T14:35] feat(admin): export transaction summaries and inventory to CSV spreadsheets
