@@ -385,3 +385,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-15T10:05] fix(payment): disable double submission on checkout payment button
 
 - [2024-10-15T12:00] chore(deps): upgrade dependencies to React 18 patches and Next.js latest release
+
+- [2024-10-15T13:13] feat(seo): add automated XML sitemap and robots.txt generation routes
