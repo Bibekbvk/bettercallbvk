@@ -391,3 +391,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-15T14:35] feat(admin): export transaction summaries and inventory to CSV spreadsheets
 
 - [2024-10-15T15:18] feat(forms): implement form validation using React Hook Form and Zod schemas
+
+- [2024-10-16T11:17] feat(supabase): configure Row Level Security (RLS) policies for user private data
