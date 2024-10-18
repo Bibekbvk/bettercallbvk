@@ -401,3 +401,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-18T10:58] feat(marketplace): add dynamic category filtering with URL search params sync
 
 - [2024-10-18T12:15] fix(motion): prevent layout shift during exit animations on animated components
+
+- [2024-10-18T13:42] refactor(types): centralize domain data models into strict TypeScript declarations
