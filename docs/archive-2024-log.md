@@ -413,3 +413,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-18T18:14] fix(supabase): handle token refresh failure gracefully without page reload crash
 
 - [2024-10-21T10:37] feat(query): integrate TanStack Query for client-side caching and invalidation
+
+- [2024-10-21T12:13] feat(seo): implement dynamic OpenGraph image generation via @vercel/og
