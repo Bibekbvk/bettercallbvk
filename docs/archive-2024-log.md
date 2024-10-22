@@ -433,3 +433,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-22T14:59] feat(motion): implement magnetic cursor effect on primary interactive buttons
 
 - [2024-10-22T16:54] feat(actions): replace API routes with typed React Server Actions for forms
+
+- [2024-10-22T18:32] fix(seo): ensure canonical URL tags match exact trailing slash configuration
