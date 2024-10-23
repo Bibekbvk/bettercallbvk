@@ -439,3 +439,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-23T09:59] feat(marketplace): scaffold digital asset showcase with live demo preview modal
 
 - [2024-10-23T11:11] docs(api): document Supabase database schemas and server action patterns
+
+- [2024-10-23T11:46] fix(payment): disable double submission on checkout payment button
