@@ -437,3 +437,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-22T18:32] fix(seo): ensure canonical URL tags match exact trailing slash configuration
 
 - [2024-10-23T09:59] feat(marketplace): scaffold digital asset showcase with live demo preview modal
+
+- [2024-10-23T11:11] docs(api): document Supabase database schemas and server action patterns
