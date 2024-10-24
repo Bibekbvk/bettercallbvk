@@ -459,3 +459,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-24T16:09] feat(seo): implement dynamic OpenGraph image generation via @vercel/og
 
 - [2024-10-24T17:03] feat(theme): add smooth dark mode theme switching with CSS variables
+
+- [2024-10-24T18:36] fix(motion): prevent layout shift during exit animations on animated components
