@@ -457,3 +457,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-24T15:17] perf(images): implement next/image with responsive srcset sizes and blur placeholders
 
 - [2024-10-24T16:09] feat(seo): implement dynamic OpenGraph image generation via @vercel/og
+
+- [2024-10-24T17:03] feat(theme): add smooth dark mode theme switching with CSS variables
