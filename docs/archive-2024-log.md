@@ -465,3 +465,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-24T19:53] feat(rsc): implement React Server Components for server-side data fetching
 
 - [2024-10-24T21:20] test(e2e): add Playwright end-to-end tests for checkout purchase flow
+
+- [2024-10-24T22:02] perf(fonts): optimize web font delivery using next/font with zero layout shift
