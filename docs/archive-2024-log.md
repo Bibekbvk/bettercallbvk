@@ -471,3 +471,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-25T10:42] feat(next): migrate project to Next.js App Router architecture
 
 - [2024-10-25T11:57] feat(supabase): configure Row Level Security (RLS) policies for user private data
+
+- [2024-10-25T13:40] feat(actions): replace API routes with typed React Server Actions for forms
