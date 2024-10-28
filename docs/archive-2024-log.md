@@ -489,3 +489,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-28T14:14] feat(seo): add automated XML sitemap and robots.txt generation routes
 
 - [2024-10-28T16:06] fix(payment): disable double submission on checkout payment button
+
+- [2024-10-28T17:04] fix(supabase): handle token refresh failure gracefully without page reload crash
