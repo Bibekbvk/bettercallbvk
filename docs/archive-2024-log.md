@@ -485,3 +485,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-28T11:23] feat(payment): integrate eSewa wallet and Fonepay QR payment gateway SDK
 
 - [2024-10-28T13:18] fix(rsc): resolve hydration mismatch error caused by browser-only API usage
+
+- [2024-10-28T14:14] feat(seo): add automated XML sitemap and robots.txt generation routes
