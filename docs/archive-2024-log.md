@@ -493,3 +493,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-28T17:04] fix(supabase): handle token refresh failure gracefully without page reload crash
 
 - [2024-10-29T11:20] feat(supabase): integrate Supabase client with Next.js middleware session refresh
+
+- [2024-10-29T12:34] fix(seo): ensure canonical URL tags match exact trailing slash configuration
