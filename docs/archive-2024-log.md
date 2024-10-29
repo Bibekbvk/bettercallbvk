@@ -491,3 +491,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-28T16:06] fix(payment): disable double submission on checkout payment button
 
 - [2024-10-28T17:04] fix(supabase): handle token refresh failure gracefully without page reload crash
+
+- [2024-10-29T11:20] feat(supabase): integrate Supabase client with Next.js middleware session refresh
