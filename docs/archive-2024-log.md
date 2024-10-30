@@ -507,3 +507,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-29T18:55] fix(seo): ensure canonical URL tags match exact trailing slash configuration
 
 - [2024-10-29T19:56] fix(payment): disable double submission on checkout payment button
+
+- [2024-10-30T10:28] test(e2e): add Playwright end-to-end tests for checkout purchase flow
