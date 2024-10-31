@@ -523,3 +523,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-31T13:18] feat(supabase): configure Row Level Security (RLS) policies for user private data
 
 - [2024-10-31T14:59] feat(theme): add smooth dark mode theme switching with CSS variables
+
+- [2024-10-31T16:13] feat(supabase): integrate Supabase client with Next.js middleware session refresh
