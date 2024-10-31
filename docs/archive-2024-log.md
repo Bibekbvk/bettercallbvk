@@ -529,3 +529,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-31T18:01] fix(supabase): handle token refresh failure gracefully without page reload crash
 
 - [2024-10-31T19:15] feat(payment): integrate eSewa wallet and Fonepay QR payment gateway SDK
+
+- [2024-10-31T20:16] fix(motion): prevent layout shift during exit animations on animated components
