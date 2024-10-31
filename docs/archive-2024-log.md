@@ -515,3 +515,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-10-30T12:44] feat(seo): add automated XML sitemap and robots.txt generation routes
 
 - [2024-10-30T13:24] feat(next): migrate project to Next.js App Router architecture
+
+- [2024-10-31T11:21] fix(rsc): resolve hydration mismatch error caused by browser-only API usage
