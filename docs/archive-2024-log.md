@@ -553,3 +553,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-04T14:19] feat(admin): export transaction summaries and inventory to CSV spreadsheets
 
 - [2024-11-04T15:38] perf(images): implement next/image with responsive srcset sizes and blur placeholders
+
+- [2024-11-04T16:53] feat(motion): implement magnetic cursor effect on primary interactive buttons
