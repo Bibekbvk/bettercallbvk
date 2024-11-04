@@ -555,3 +555,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-04T15:38] perf(images): implement next/image with responsive srcset sizes and blur placeholders
 
 - [2024-11-04T16:53] feat(motion): implement magnetic cursor effect on primary interactive buttons
+
+- [2024-11-04T17:46] chore(deps): upgrade dependencies to React 18 patches and Next.js latest release
