@@ -547,3 +547,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-04T09:44] docs(api): document Supabase database schemas and server action patterns
 
 - [2024-11-04T11:38] feat(motion): add smooth page transitions and micro-interactions with Framer Motion
+
+- [2024-11-04T13:18] perf(fonts): optimize web font delivery using next/font with zero layout shift
