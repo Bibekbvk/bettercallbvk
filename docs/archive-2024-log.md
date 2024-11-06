@@ -567,3 +567,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-06T14:11] feat(query): integrate TanStack Query for client-side caching and invalidation
 
 - [2024-11-06T15:25] fix(supabase): handle token refresh failure gracefully without page reload crash
+
+- [2024-11-06T16:59] fix(rsc): resolve hydration mismatch error caused by browser-only API usage
