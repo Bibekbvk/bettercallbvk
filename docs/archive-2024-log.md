@@ -559,3 +559,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-04T17:46] chore(deps): upgrade dependencies to React 18 patches and Next.js latest release
 
 - [2024-11-06T10:43] feat(seo): implement dynamic OpenGraph image generation via @vercel/og
+
+- [2024-11-06T11:39] feat(rsc): implement React Server Components for server-side data fetching
