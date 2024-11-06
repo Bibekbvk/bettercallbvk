@@ -563,3 +563,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-06T11:39] feat(rsc): implement React Server Components for server-side data fetching
 
 - [2024-11-06T12:53] perf(cache): leverage Next.js Data Cache and revalidateTag for instant updates
+
+- [2024-11-06T14:11] feat(query): integrate TanStack Query for client-side caching and invalidation
