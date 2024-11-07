@@ -571,3 +571,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-06T16:59] fix(rsc): resolve hydration mismatch error caused by browser-only API usage
 
 - [2024-11-06T18:03] feat(supabase): integrate Supabase client with Next.js middleware session refresh
+
+- [2024-11-07T11:20] chore(deps): upgrade dependencies to React 18 patches and Next.js latest release
