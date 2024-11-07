@@ -581,3 +581,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-07T15:10] feat(marketplace): add dynamic category filtering with URL search params sync
 
 - [2024-11-07T16:26] docs(api): document Supabase database schemas and server action patterns
+
+- [2024-11-07T18:03] feat(supabase): configure Row Level Security (RLS) policies for user private data
