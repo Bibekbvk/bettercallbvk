@@ -577,3 +577,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-07T12:28] feat(motion): implement magnetic cursor effect on primary interactive buttons
 
 - [2024-11-07T13:53] feat(forms): implement form validation using React Hook Form and Zod schemas
+
+- [2024-11-07T15:10] feat(marketplace): add dynamic category filtering with URL search params sync
