@@ -595,3 +595,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-07T22:26] feat(theme): add smooth dark mode theme switching with CSS variables
 
 - [2024-11-08T09:46] perf(cache): leverage Next.js Data Cache and revalidateTag for instant updates
+
+- [2024-11-08T10:34] feat(next): migrate project to Next.js App Router architecture
