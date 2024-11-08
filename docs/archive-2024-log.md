@@ -597,3 +597,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-08T09:46] perf(cache): leverage Next.js Data Cache and revalidateTag for instant updates
 
 - [2024-11-08T10:34] feat(next): migrate project to Next.js App Router architecture
+
+- [2024-11-08T11:22] perf(images): implement next/image with responsive srcset sizes and blur placeholders
