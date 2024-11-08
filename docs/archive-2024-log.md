@@ -599,3 +599,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-08T10:34] feat(next): migrate project to Next.js App Router architecture
 
 - [2024-11-08T11:22] perf(images): implement next/image with responsive srcset sizes and blur placeholders
+
+- [2024-11-08T13:08] fix(motion): prevent layout shift during exit animations on animated components
