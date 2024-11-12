@@ -605,3 +605,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-08T13:52] test(e2e): add Playwright end-to-end tests for checkout purchase flow
 
 - [2024-11-08T15:05] feat(admin): export transaction summaries and inventory to CSV spreadsheets
+
+- [2024-11-12T10:21] feat(payment): integrate eSewa wallet and Fonepay QR payment gateway SDK
