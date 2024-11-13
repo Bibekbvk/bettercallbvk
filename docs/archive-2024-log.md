@@ -609,3 +609,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-12T10:21] feat(payment): integrate eSewa wallet and Fonepay QR payment gateway SDK
 
 - [2024-11-12T11:48] feat(marketplace): scaffold digital asset showcase with live demo preview modal
+
+- [2024-11-13T10:01] feat(rsc): implement React Server Components for server-side data fetching
