@@ -619,3 +619,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-13T13:38] fix(seo): ensure canonical URL tags match exact trailing slash configuration
 
 - [2024-11-14T10:25] feat(seo): add automated XML sitemap and robots.txt generation routes
+
+- [2024-11-14T11:55] fix(payment): disable double submission on checkout payment button
