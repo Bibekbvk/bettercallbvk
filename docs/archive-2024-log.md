@@ -649,3 +649,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-15T20:20] fix(supabase): handle token refresh failure gracefully without page reload crash
 
 - [2024-11-15T21:39] feat(forms): implement form validation using React Hook Form and Zod schemas
+
+- [2024-11-15T22:21] feat(seo): add automated XML sitemap and robots.txt generation routes
