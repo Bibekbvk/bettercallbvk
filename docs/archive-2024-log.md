@@ -633,3 +633,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-14T17:35] refactor(types): centralize domain data models into strict TypeScript declarations
 
 - [2024-11-15T10:27] feat(query): integrate TanStack Query for client-side caching and invalidation
+
+- [2024-11-15T11:39] feat(marketplace): add dynamic category filtering with URL search params sync
