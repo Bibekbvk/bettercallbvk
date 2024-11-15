@@ -637,3 +637,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-15T11:39] feat(marketplace): add dynamic category filtering with URL search params sync
 
 - [2024-11-15T13:32] feat(next): migrate project to Next.js App Router architecture
+
+- [2024-11-15T15:04] feat(motion): implement magnetic cursor effect on primary interactive buttons
