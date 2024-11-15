@@ -639,3 +639,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-15T13:32] feat(next): migrate project to Next.js App Router architecture
 
 - [2024-11-15T15:04] feat(motion): implement magnetic cursor effect on primary interactive buttons
+
+- [2024-11-15T16:05] feat(seo): implement dynamic OpenGraph image generation via @vercel/og
