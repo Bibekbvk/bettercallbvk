@@ -659,3 +659,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-19T12:30] feat(admin): build interactive analytics dashboard using Recharts library
 
 - [2024-11-19T13:52] perf(images): implement next/image with responsive srcset sizes and blur placeholders
+
+- [2024-11-19T14:33] perf(fonts): optimize web font delivery using next/font with zero layout shift
