@@ -665,3 +665,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-19T16:19] feat(theme): add smooth dark mode theme switching with CSS variables
 
 - [2024-11-19T17:08] test(e2e): add Playwright end-to-end tests for checkout purchase flow
+
+- [2024-11-19T17:46] feat(motion): add smooth page transitions and micro-interactions with Framer Motion
