@@ -673,3 +673,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-21T10:20] perf(cache): leverage Next.js Data Cache and revalidateTag for instant updates
 
 - [2024-11-21T11:35] fix(motion): prevent layout shift during exit animations on animated components
+
+- [2024-11-21T12:58] feat(marketplace): scaffold digital asset showcase with live demo preview modal
