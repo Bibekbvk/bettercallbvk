@@ -675,3 +675,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-21T11:35] fix(motion): prevent layout shift during exit animations on animated components
 
 - [2024-11-21T12:58] feat(marketplace): scaffold digital asset showcase with live demo preview modal
+
+- [2024-11-21T14:21] feat(rsc): implement React Server Components for server-side data fetching
