@@ -671,3 +671,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-19T19:16] feat(supabase): integrate Supabase client with Next.js middleware session refresh
 
 - [2024-11-21T10:20] perf(cache): leverage Next.js Data Cache and revalidateTag for instant updates
+
+- [2024-11-21T11:35] fix(motion): prevent layout shift during exit animations on animated components
