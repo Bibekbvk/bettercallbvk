@@ -681,3 +681,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-21T16:05] fix(rsc): resolve hydration mismatch error caused by browser-only API usage
 
 - [2024-11-21T17:02] feat(payment): add webhook handler for asynchronous payment verification
+
+- [2024-11-21T17:54] feat(payment): integrate eSewa wallet and Fonepay QR payment gateway SDK
