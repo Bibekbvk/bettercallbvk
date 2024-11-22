@@ -691,3 +691,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-21T22:12] feat(admin): build interactive analytics dashboard using Recharts library
 
 - [2024-11-21T22:47] feat(marketplace): add dynamic category filtering with URL search params sync
+
+- [2024-11-22T11:18] feat(seo): implement dynamic OpenGraph image generation via @vercel/og
