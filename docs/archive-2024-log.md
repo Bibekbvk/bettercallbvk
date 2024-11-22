@@ -711,3 +711,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-22T22:21] feat(theme): add smooth dark mode theme switching with CSS variables
 
 - [2024-11-22T22:31] fix(rsc): resolve hydration mismatch error caused by browser-only API usage
+
+- [2024-11-22T22:39] fix(seo): ensure canonical URL tags match exact trailing slash configuration
