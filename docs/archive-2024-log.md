@@ -695,3 +695,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-22T11:18] feat(seo): implement dynamic OpenGraph image generation via @vercel/og
 
 - [2024-11-22T12:23] perf(images): implement next/image with responsive srcset sizes and blur placeholders
+
+- [2024-11-22T14:02] refactor(types): centralize domain data models into strict TypeScript declarations
