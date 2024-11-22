@@ -705,3 +705,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-22T17:56] feat(motion): implement magnetic cursor effect on primary interactive buttons
 
 - [2024-11-22T19:43] feat(next): migrate project to Next.js App Router architecture
+
+- [2024-11-22T21:05] feat(supabase): configure Row Level Security (RLS) policies for user private data
