@@ -699,3 +699,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-22T14:02] refactor(types): centralize domain data models into strict TypeScript declarations
 
 - [2024-11-22T15:29] feat(forms): implement form validation using React Hook Form and Zod schemas
+
+- [2024-11-22T17:17] feat(payment): add webhook handler for asynchronous payment verification
