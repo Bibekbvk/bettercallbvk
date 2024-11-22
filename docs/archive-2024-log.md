@@ -703,3 +703,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-22T17:17] feat(payment): add webhook handler for asynchronous payment verification
 
 - [2024-11-22T17:56] feat(motion): implement magnetic cursor effect on primary interactive buttons
+
+- [2024-11-22T19:43] feat(next): migrate project to Next.js App Router architecture
