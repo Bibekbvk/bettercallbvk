@@ -723,3 +723,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-29T12:39] test(e2e): add Playwright end-to-end tests for checkout purchase flow
 
 - [2024-11-29T14:34] docs(api): document Supabase database schemas and server action patterns
+
+- [2024-11-29T15:18] fix(payment): disable double submission on checkout payment button
