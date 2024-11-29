@@ -721,3 +721,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-11-29T11:33] perf(cache): leverage Next.js Data Cache and revalidateTag for instant updates
 
 - [2024-11-29T12:39] test(e2e): add Playwright end-to-end tests for checkout purchase flow
+
+- [2024-11-29T14:34] docs(api): document Supabase database schemas and server action patterns
