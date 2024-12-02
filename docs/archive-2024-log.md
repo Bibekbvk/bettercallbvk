@@ -731,3 +731,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-02T12:26] feat(marketplace): scaffold digital asset showcase with live demo preview modal
 
 - [2024-12-02T13:07] feat(motion): add smooth page transitions and micro-interactions with Framer Motion
+
+- [2024-12-02T14:50] feat(actions): replace API routes with typed React Server Actions for forms
