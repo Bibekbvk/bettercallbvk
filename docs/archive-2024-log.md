@@ -737,3 +737,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-02T15:26] feat(query): integrate TanStack Query for client-side caching and invalidation
 
 - [2024-12-02T16:59] chore(deps): upgrade dependencies to React 18 patches and Next.js latest release
+
+- [2024-12-02T18:34] feat(payment): integrate eSewa wallet and Fonepay QR payment gateway SDK
