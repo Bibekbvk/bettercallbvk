@@ -751,3 +751,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-03T11:55] perf(cache): leverage Next.js Data Cache and revalidateTag for instant updates
 
 - [2024-12-03T12:44] refactor(types): centralize domain data models into strict TypeScript declarations
+
+- [2024-12-03T13:41] feat(theme): add smooth dark mode theme switching with CSS variables
