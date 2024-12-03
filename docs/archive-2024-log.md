@@ -759,3 +759,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-03T16:07] feat(next): migrate project to Next.js App Router architecture
 
 - [2024-12-03T17:04] feat(admin): build interactive analytics dashboard using Recharts library
+
+- [2024-12-03T18:09] feat(admin): export transaction summaries and inventory to CSV spreadsheets
