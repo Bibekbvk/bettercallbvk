@@ -757,3 +757,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-03T14:35] fix(seo): ensure canonical URL tags match exact trailing slash configuration
 
 - [2024-12-03T16:07] feat(next): migrate project to Next.js App Router architecture
+
+- [2024-12-03T17:04] feat(admin): build interactive analytics dashboard using Recharts library
