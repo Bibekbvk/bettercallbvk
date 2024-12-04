@@ -765,3 +765,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-03T19:07] feat(forms): implement form validation using React Hook Form and Zod schemas
 
 - [2024-12-04T10:13] feat(seo): implement dynamic OpenGraph image generation via @vercel/og
+
+- [2024-12-04T11:06] perf(fonts): optimize web font delivery using next/font with zero layout shift
