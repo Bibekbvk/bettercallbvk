@@ -769,3 +769,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-04T11:06] perf(fonts): optimize web font delivery using next/font with zero layout shift
 
 - [2024-12-04T12:00] feat(payment): integrate eSewa wallet and Fonepay QR payment gateway SDK
+
+- [2024-12-04T13:27] feat(supabase): configure Row Level Security (RLS) policies for user private data
