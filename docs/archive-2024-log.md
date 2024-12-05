@@ -775,3 +775,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-04T14:51] feat(seo): add automated XML sitemap and robots.txt generation routes
 
 - [2024-12-05T11:02] feat(query): integrate TanStack Query for client-side caching and invalidation
+
+- [2024-12-05T11:58] feat(supabase): integrate Supabase client with Next.js middleware session refresh
