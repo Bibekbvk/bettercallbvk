@@ -779,3 +779,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-05T11:58] feat(supabase): integrate Supabase client with Next.js middleware session refresh
 
 - [2024-12-05T13:46] perf(images): implement next/image with responsive srcset sizes and blur placeholders
+
+- [2024-12-05T15:05] feat(actions): replace API routes with typed React Server Actions for forms
