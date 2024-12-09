@@ -785,3 +785,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-09T11:06] fix(rsc): resolve hydration mismatch error caused by browser-only API usage
 
 - [2024-12-09T11:47] fix(payment): disable double submission on checkout payment button
+
+- [2024-12-09T13:21] feat(rsc): implement React Server Components for server-side data fetching
