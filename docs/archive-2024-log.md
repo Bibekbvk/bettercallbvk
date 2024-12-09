@@ -793,3 +793,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-09T16:31] test(e2e): add Playwright end-to-end tests for checkout purchase flow
 
 - [2024-12-09T18:14] chore(deps): upgrade dependencies to React 18 patches and Next.js latest release
+
+- [2024-12-09T19:37] feat(motion): implement magnetic cursor effect on primary interactive buttons
