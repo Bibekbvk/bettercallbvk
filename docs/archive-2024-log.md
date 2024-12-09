@@ -787,3 +787,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-09T11:47] fix(payment): disable double submission on checkout payment button
 
 - [2024-12-09T13:21] feat(rsc): implement React Server Components for server-side data fetching
+
+- [2024-12-09T14:56] feat(payment): add webhook handler for asynchronous payment verification
