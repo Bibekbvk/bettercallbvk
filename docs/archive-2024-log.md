@@ -781,3 +781,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-05T13:46] perf(images): implement next/image with responsive srcset sizes and blur placeholders
 
 - [2024-12-05T15:05] feat(actions): replace API routes with typed React Server Actions for forms
+
+- [2024-12-09T11:06] fix(rsc): resolve hydration mismatch error caused by browser-only API usage
