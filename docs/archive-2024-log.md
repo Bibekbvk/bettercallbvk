@@ -811,3 +811,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-11T16:12] perf(cache): leverage Next.js Data Cache and revalidateTag for instant updates
 
 - [2024-12-11T16:48] feat(payment): add webhook handler for asynchronous payment verification
+
+- [2024-12-11T17:24] feat(seo): add automated XML sitemap and robots.txt generation routes
