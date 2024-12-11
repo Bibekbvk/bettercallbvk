@@ -805,3 +805,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-11T11:57] fix(motion): prevent layout shift during exit animations on animated components
 
 - [2024-12-11T13:29] feat(marketplace): add dynamic category filtering with URL search params sync
+
+- [2024-12-11T14:27] feat(query): integrate TanStack Query for client-side caching and invalidation
