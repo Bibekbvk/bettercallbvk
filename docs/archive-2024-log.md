@@ -809,3 +809,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-11T14:27] feat(query): integrate TanStack Query for client-side caching and invalidation
 
 - [2024-12-11T16:12] perf(cache): leverage Next.js Data Cache and revalidateTag for instant updates
+
+- [2024-12-11T16:48] feat(payment): add webhook handler for asynchronous payment verification
