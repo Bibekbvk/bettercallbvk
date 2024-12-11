@@ -801,3 +801,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-09T22:09] docs(api): document Supabase database schemas and server action patterns
 
 - [2024-12-11T11:21] feat(marketplace): scaffold digital asset showcase with live demo preview modal
+
+- [2024-12-11T11:57] fix(motion): prevent layout shift during exit animations on animated components
