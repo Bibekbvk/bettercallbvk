@@ -817,3 +817,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-11T18:11] feat(motion): add smooth page transitions and micro-interactions with Framer Motion
 
 - [2024-12-12T10:57] fix(seo): ensure canonical URL tags match exact trailing slash configuration
+
+- [2024-12-12T12:16] chore(deps): upgrade dependencies to React 18 patches and Next.js latest release
