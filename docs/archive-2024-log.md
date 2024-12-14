@@ -827,3 +827,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-14T11:28] feat(forms): implement form validation using React Hook Form and Zod schemas
 
 - [2024-12-14T12:10] test(e2e): add Playwright end-to-end tests for checkout purchase flow
+
+- [2024-12-14T13:12] feat(theme): add smooth dark mode theme switching with CSS variables
