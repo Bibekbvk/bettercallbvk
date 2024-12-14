@@ -833,3 +833,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-14T14:02] feat(motion): implement magnetic cursor effect on primary interactive buttons
 
 - [2024-12-14T14:52] feat(payment): integrate eSewa wallet and Fonepay QR payment gateway SDK
+
+- [2024-12-14T16:44] docs(api): document Supabase database schemas and server action patterns
