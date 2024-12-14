@@ -821,3 +821,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-12T12:16] chore(deps): upgrade dependencies to React 18 patches and Next.js latest release
 
 - [2024-12-12T13:27] feat(admin): build interactive analytics dashboard using Recharts library
+
+- [2024-12-14T09:34] feat(next): migrate project to Next.js App Router architecture
