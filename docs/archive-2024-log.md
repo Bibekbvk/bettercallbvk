@@ -841,3 +841,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-16T12:41] feat(marketplace): scaffold digital asset showcase with live demo preview modal
 
 - [2024-12-16T13:30] feat(admin): export transaction summaries and inventory to CSV spreadsheets
+
+- [2024-12-16T14:28] fix(rsc): resolve hydration mismatch error caused by browser-only API usage
