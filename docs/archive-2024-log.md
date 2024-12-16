@@ -837,3 +837,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-14T16:44] docs(api): document Supabase database schemas and server action patterns
 
 - [2024-12-16T10:54] feat(actions): replace API routes with typed React Server Actions for forms
+
+- [2024-12-16T12:41] feat(marketplace): scaffold digital asset showcase with live demo preview modal
