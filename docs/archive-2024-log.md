@@ -849,3 +849,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-17T11:13] perf(fonts): optimize web font delivery using next/font with zero layout shift
 
 - [2024-12-17T12:46] fix(payment): disable double submission on checkout payment button
+
+- [2024-12-17T14:15] perf(images): implement next/image with responsive srcset sizes and blur placeholders
