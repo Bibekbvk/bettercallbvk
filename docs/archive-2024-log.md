@@ -855,3 +855,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-18T10:02] refactor(types): centralize domain data models into strict TypeScript declarations
 
 - [2024-12-18T10:46] fix(supabase): handle token refresh failure gracefully without page reload crash
+
+- [2024-12-18T11:28] fix(motion): prevent layout shift during exit animations on animated components
