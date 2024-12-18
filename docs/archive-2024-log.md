@@ -851,3 +851,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-17T12:46] fix(payment): disable double submission on checkout payment button
 
 - [2024-12-17T14:15] perf(images): implement next/image with responsive srcset sizes and blur placeholders
+
+- [2024-12-18T10:02] refactor(types): centralize domain data models into strict TypeScript declarations
