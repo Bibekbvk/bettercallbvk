@@ -867,3 +867,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-18T16:13] feat(admin): export transaction summaries and inventory to CSV spreadsheets
 
 - [2024-12-18T17:22] fix(supabase): handle token refresh failure gracefully without page reload crash
+
+- [2024-12-18T18:39] perf(cache): leverage Next.js Data Cache and revalidateTag for instant updates
