@@ -865,3 +865,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-18T14:42] feat(rsc): implement React Server Components for server-side data fetching
 
 - [2024-12-18T16:13] feat(admin): export transaction summaries and inventory to CSV spreadsheets
+
+- [2024-12-18T17:22] fix(supabase): handle token refresh failure gracefully without page reload crash
