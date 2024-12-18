@@ -861,3 +861,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-18T12:52] feat(supabase): integrate Supabase client with Next.js middleware session refresh
 
 - [2024-12-18T13:34] feat(seo): implement dynamic OpenGraph image generation via @vercel/og
+
+- [2024-12-18T14:42] feat(rsc): implement React Server Components for server-side data fetching
