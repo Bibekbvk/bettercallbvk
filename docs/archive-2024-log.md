@@ -857,3 +857,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-18T10:46] fix(supabase): handle token refresh failure gracefully without page reload crash
 
 - [2024-12-18T11:28] fix(motion): prevent layout shift during exit animations on animated components
+
+- [2024-12-18T12:52] feat(supabase): integrate Supabase client with Next.js middleware session refresh
