@@ -881,3 +881,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-19T10:39] feat(supabase): integrate Supabase client with Next.js middleware session refresh
 
 - [2024-12-19T11:14] chore(deps): upgrade dependencies to React 18 patches and Next.js latest release
+
+- [2024-12-19T12:50] perf(fonts): optimize web font delivery using next/font with zero layout shift
