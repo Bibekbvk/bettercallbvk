@@ -891,3 +891,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-19T17:10] feat(actions): replace API routes with typed React Server Actions for forms
 
 - [2024-12-20T10:50] feat(marketplace): add dynamic category filtering with URL search params sync
+
+- [2024-12-20T11:36] feat(query): integrate TanStack Query for client-side caching and invalidation
