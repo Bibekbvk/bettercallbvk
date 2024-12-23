@@ -901,3 +901,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-23T12:29] fix(payment): disable double submission on checkout payment button
 
 - [2024-12-23T13:29] feat(seo): implement dynamic OpenGraph image generation via @vercel/og
+
+- [2024-12-23T15:14] feat(motion): implement magnetic cursor effect on primary interactive buttons
