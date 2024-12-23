@@ -897,3 +897,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-20T13:19] feat(admin): build interactive analytics dashboard using Recharts library
 
 - [2024-12-23T11:17] feat(payment): integrate eSewa wallet and Fonepay QR payment gateway SDK
+
+- [2024-12-23T12:29] fix(payment): disable double submission on checkout payment button
