@@ -913,3 +913,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-24T10:58] feat(rsc): implement React Server Components for server-side data fetching
 
 - [2024-12-24T12:35] feat(supabase): configure Row Level Security (RLS) policies for user private data
+
+- [2024-12-24T14:30] feat(motion): add smooth page transitions and micro-interactions with Framer Motion
