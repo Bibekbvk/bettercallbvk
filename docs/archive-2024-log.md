@@ -909,3 +909,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-23T17:37] feat(seo): add automated XML sitemap and robots.txt generation routes
 
 - [2024-12-23T19:01] feat(payment): add webhook handler for asynchronous payment verification
+
+- [2024-12-24T10:58] feat(rsc): implement React Server Components for server-side data fetching
