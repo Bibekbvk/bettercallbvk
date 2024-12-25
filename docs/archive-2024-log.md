@@ -937,3 +937,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-25T11:23] perf(images): implement next/image with responsive srcset sizes and blur placeholders
 
 - [2024-12-25T12:04] test(e2e): add Playwright end-to-end tests for checkout purchase flow
+
+- [2024-12-25T12:51] docs(api): document Supabase database schemas and server action patterns
