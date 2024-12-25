@@ -931,3 +931,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-24T22:27] feat(marketplace): add dynamic category filtering with URL search params sync
 
 - [2024-12-25T09:35] feat(seo): add automated XML sitemap and robots.txt generation routes
+
+- [2024-12-25T10:26] feat(payment): add webhook handler for asynchronous payment verification
