@@ -959,3 +959,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-26T18:51] feat(seo): implement dynamic OpenGraph image generation via @vercel/og
 
 - [2024-12-26T20:39] feat(motion): implement magnetic cursor effect on primary interactive buttons
+
+- [2024-12-26T21:31] feat(theme): add smooth dark mode theme switching with CSS variables
