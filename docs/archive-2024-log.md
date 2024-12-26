@@ -939,3 +939,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-25T12:04] test(e2e): add Playwright end-to-end tests for checkout purchase flow
 
 - [2024-12-25T12:51] docs(api): document Supabase database schemas and server action patterns
+
+- [2024-12-26T09:51] feat(supabase): integrate Supabase client with Next.js middleware session refresh
