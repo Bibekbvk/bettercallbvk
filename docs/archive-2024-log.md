@@ -953,3 +953,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-26T15:17] feat(forms): implement form validation using React Hook Form and Zod schemas
 
 - [2024-12-26T16:35] feat(payment): integrate eSewa wallet and Fonepay QR payment gateway SDK
+
+- [2024-12-26T18:01] feat(actions): replace API routes with typed React Server Actions for forms
