@@ -973,3 +973,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-27T11:55] fix(rsc): resolve hydration mismatch error caused by browser-only API usage
 
 - [2024-12-27T13:23] feat(admin): build interactive analytics dashboard using Recharts library
+
+- [2024-12-27T14:45] perf(fonts): optimize web font delivery using next/font with zero layout shift
