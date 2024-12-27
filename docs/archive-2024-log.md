@@ -969,3 +969,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-27T10:12] feat(admin): export transaction summaries and inventory to CSV spreadsheets
 
 - [2024-12-27T11:02] feat(query): integrate TanStack Query for client-side caching and invalidation
+
+- [2024-12-27T11:55] fix(rsc): resolve hydration mismatch error caused by browser-only API usage
