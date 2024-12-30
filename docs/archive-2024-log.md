@@ -991,3 +991,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-30T10:52] perf(fonts): optimize web font delivery using next/font with zero layout shift
 
 - [2024-12-30T12:29] fix(motion): prevent layout shift during exit animations on animated components
+
+- [2024-12-30T13:16] feat(seo): implement dynamic OpenGraph image generation via @vercel/og
