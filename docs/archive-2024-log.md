@@ -985,3 +985,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-27T18:14] perf(cache): leverage Next.js Data Cache and revalidateTag for instant updates
 
 - [2024-12-27T20:09] feat(admin): export transaction summaries and inventory to CSV spreadsheets
+
+- [2024-12-30T09:52] feat(payment): integrate eSewa wallet and Fonepay QR payment gateway SDK
