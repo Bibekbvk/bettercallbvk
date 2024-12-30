@@ -993,3 +993,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-30T12:29] fix(motion): prevent layout shift during exit animations on animated components
 
 - [2024-12-30T13:16] feat(seo): implement dynamic OpenGraph image generation via @vercel/og
+
+- [2024-12-30T15:04] feat(rsc): implement React Server Components for server-side data fetching
