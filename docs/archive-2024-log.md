@@ -1021,3 +1021,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-31T16:38] feat(payment): add webhook handler for asynchronous payment verification
 
 - [2024-12-31T17:20] feat(query): integrate TanStack Query for client-side caching and invalidation
+
+- [2024-12-31T18:29] fix(rsc): resolve hydration mismatch error caused by browser-only API usage
