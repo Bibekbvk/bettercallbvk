@@ -1007,3 +1007,5 @@ Next.js App Router, Supabase, Framer Motion, and payment gateways.
 - [2024-12-30T22:30] chore(deps): upgrade dependencies to React 18 patches and Next.js latest release
 
 - [2024-12-30T22:33] feat(marketplace): scaffold digital asset showcase with live demo preview modal
+
+- [2024-12-31T09:31] fix(seo): ensure canonical URL tags match exact trailing slash configuration
