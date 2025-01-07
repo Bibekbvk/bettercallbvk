@@ -11,3 +11,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-07T14:17] perf(bundle): dynamic import Recharts library to reduce initial JS payload
 
 - [2025-01-07T15:44] fix(checkout): disable purchase button while payment verification is pending
+
+- [2025-01-07T17:21] fix(cart): prevent quantity decrement below minimum allowable count of 1
