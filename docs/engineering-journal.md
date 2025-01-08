@@ -17,3 +17,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-07T19:11] feat(marketplace): support multi-currency display formatting (NPR and USD)
 
 - [2025-01-08T10:05] perf(next): enable Turbopack compilation flags in development server
+
+- [2025-01-08T11:34] feat(checkout): add automated PDF receipt generation and email dispatch
