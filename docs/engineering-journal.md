@@ -19,3 +19,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-08T10:05] perf(next): enable Turbopack compilation flags in development server
 
 - [2025-01-08T11:34] feat(checkout): add automated PDF receipt generation and email dispatch
+
+- [2025-01-08T12:40] feat(marketplace): add stock availability indicator and low-inventory warning
