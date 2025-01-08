@@ -15,3 +15,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-07T17:21] fix(cart): prevent quantity decrement below minimum allowable count of 1
 
 - [2025-01-07T19:11] feat(marketplace): support multi-currency display formatting (NPR and USD)
+
+- [2025-01-08T10:05] perf(next): enable Turbopack compilation flags in development server
