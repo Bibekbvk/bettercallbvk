@@ -23,3 +23,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-08T12:40] feat(marketplace): add stock availability indicator and low-inventory warning
 
 - [2025-01-08T13:56] fix(auth): sanitize login email input to remove leading and trailing spaces
+
+- [2025-01-08T15:45] feat(cart): add animated badge counter on navbar shopping cart icon
