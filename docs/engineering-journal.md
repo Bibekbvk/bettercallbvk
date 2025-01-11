@@ -29,3 +29,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-08T17:35] perf(dom): remove unused DOM nodes from hidden mobile navigation
 
 - [2025-01-11T11:24] feat(checkout): add eSewa wallet direct payment verification handler
+
+- [2025-01-11T12:52] test(checkout): add form input validation test suite for payment details
