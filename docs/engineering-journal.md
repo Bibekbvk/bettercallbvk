@@ -31,3 +31,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-11T11:24] feat(checkout): add eSewa wallet direct payment verification handler
 
 - [2025-01-11T12:52] test(checkout): add form input validation test suite for payment details
+
+- [2025-01-11T13:32] refactor(utils): move currency, date, and string helpers to shared utils lib
