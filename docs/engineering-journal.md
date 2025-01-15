@@ -41,3 +41,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-15T10:31] test(utils): add unit tests for currency formatter edge cases
 
 - [2025-01-15T11:18] docs(deploy): document Firebase Hosting build and deploy checklist
+
+- [2025-01-15T12:56] feat(auth): add GitHub and Google OAuth login provider buttons
