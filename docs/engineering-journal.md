@@ -55,3 +55,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-15T17:47] feat(marketplace): add instant copy share link action with toast notification
 
 - [2025-01-15T18:33] docs(architecture): document state management and checkout lifecycle
+
+- [2025-01-15T20:09] feat(auth): add email confirmation redirect handler and session sync route
