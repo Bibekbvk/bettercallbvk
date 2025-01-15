@@ -43,3 +43,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-15T11:18] docs(deploy): document Firebase Hosting build and deploy checklist
 
 - [2025-01-15T12:56] feat(auth): add GitHub and Google OAuth login provider buttons
+
+- [2025-01-15T13:41] feat(blog): implement sticky table of contents with active heading spy
