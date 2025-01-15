@@ -49,3 +49,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-15T14:17] feat(ui): implement responsive mobile drawer with backdrop blur
 
 - [2025-01-15T15:44] feat(seo): add JSON-LD Product and BreadcrumbList structured data
+
+- [2025-01-15T16:35] fix(cart): clear active cart items upon confirmed order completion
