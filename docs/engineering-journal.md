@@ -57,3 +57,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-15T18:33] docs(architecture): document state management and checkout lifecycle
 
 - [2025-01-15T20:09] feat(auth): add email confirmation redirect handler and session sync route
+
+- [2025-01-15T21:23] feat(admin): add system health and Supabase database latency monitor
