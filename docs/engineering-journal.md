@@ -51,3 +51,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-15T15:44] feat(seo): add JSON-LD Product and BreadcrumbList structured data
 
 - [2025-01-15T16:35] fix(cart): clear active cart items upon confirmed order completion
+
+- [2025-01-15T17:47] feat(marketplace): add instant copy share link action with toast notification
