@@ -39,3 +39,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-11T16:40] test(cart): add unit tests for discount percentage and subtotal math
 
 - [2025-01-15T10:31] test(utils): add unit tests for currency formatter edge cases
+
+- [2025-01-15T11:18] docs(deploy): document Firebase Hosting build and deploy checklist
