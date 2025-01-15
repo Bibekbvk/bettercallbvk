@@ -47,3 +47,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-15T13:41] feat(blog): implement sticky table of contents with active heading spy
 
 - [2025-01-15T14:17] feat(ui): implement responsive mobile drawer with backdrop blur
+
+- [2025-01-15T15:44] feat(seo): add JSON-LD Product and BreadcrumbList structured data
