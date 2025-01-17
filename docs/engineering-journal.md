@@ -63,3 +63,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-17T11:19] feat(ui): add floating back-to-top button with scroll progress circle
 
 - [2025-01-17T13:08] refactor(theme): streamline Tailwind color tokens and dark mode CSS variables
+
+- [2025-01-17T14:41] feat(checkout): validate customer phone numbers for Nepal telecom operators
