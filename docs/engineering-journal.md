@@ -65,3 +65,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-17T13:08] refactor(theme): streamline Tailwind color tokens and dark mode CSS variables
 
 - [2025-01-17T14:41] feat(checkout): validate customer phone numbers for Nepal telecom operators
+
+- [2025-01-17T15:33] feat(profile): add API key generator for developer API integrations
