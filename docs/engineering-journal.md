@@ -69,3 +69,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-17T15:33] feat(profile): add API key generator for developer API integrations
 
 - [2025-01-17T16:59] feat(ui): integrate Aurora mesh gradient animated background
+
+- [2025-01-17T18:21] feat(blog): scaffold engineering blog with category tags and reading time
