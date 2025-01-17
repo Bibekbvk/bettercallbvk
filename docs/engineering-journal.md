@@ -71,3 +71,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-17T16:59] feat(ui): integrate Aurora mesh gradient animated background
 
 - [2025-01-17T18:21] feat(blog): scaffold engineering blog with category tags and reading time
+
+- [2025-01-17T19:55] feat(cart): implement persistent shopping cart using browser localStorage
