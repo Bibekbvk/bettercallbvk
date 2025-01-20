@@ -73,3 +73,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-17T18:21] feat(blog): scaffold engineering blog with category tags and reading time
 
 - [2025-01-17T19:55] feat(cart): implement persistent shopping cart using browser localStorage
+
+- [2025-01-20T11:20] refactor(hooks): create custom useDebounce hook for search input optimization
