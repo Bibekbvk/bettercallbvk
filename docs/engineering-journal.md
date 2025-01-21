@@ -85,3 +85,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-21T11:06] feat(admin): add monthly sales breakdown bar chart and trend indicator
 
 - [2025-01-21T12:59] feat(marketplace): add category filter chips for AI models, templates, and plugins
+
+- [2025-01-21T14:47] feat(ui): add animated counter component for live stats section
