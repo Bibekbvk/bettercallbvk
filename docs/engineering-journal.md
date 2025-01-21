@@ -81,3 +81,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-20T13:21] feat(profile): display user purchased downloads and order history table
 
 - [2025-01-20T14:00] perf(images): convert all PNG banners to WebP format for 70% size reduction
+
+- [2025-01-21T11:06] feat(admin): add monthly sales breakdown bar chart and trend indicator
