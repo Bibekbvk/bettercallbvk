@@ -111,3 +111,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-22T20:04] feat(admin): export transaction logs and order summary to CSV format
 
 - [2025-01-22T20:47] feat(checkout): scaffold multi-step checkout wizard with progress indicators
+
+- [2025-01-22T21:48] perf(db): add composite index on product (category, created_at) in Supabase
