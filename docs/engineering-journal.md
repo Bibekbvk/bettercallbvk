@@ -95,3 +95,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-21T17:50] feat(seo): add canonical URL tag generator to eliminate duplicate content
 
 - [2025-01-22T10:35] refactor(checkout): transition checkout workflow into typed state machine
+
+- [2025-01-22T11:56] feat(marketplace): add related items recommendation carousel on product detail view
