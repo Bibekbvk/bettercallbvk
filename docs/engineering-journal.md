@@ -105,3 +105,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-22T16:00] fix(security): sanitize SVG uploads against embedded cross-site script payloads
 
 - [2025-01-22T17:21] fix(admin): ensure numeric sorting order on product price column
+
+- [2025-01-22T18:18] feat(admin): implement role-based access control (RBAC) guard on admin routes
