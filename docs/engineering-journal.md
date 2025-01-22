@@ -97,3 +97,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-22T10:35] refactor(checkout): transition checkout workflow into typed state machine
 
 - [2025-01-22T11:56] feat(marketplace): add related items recommendation carousel on product detail view
+
+- [2025-01-22T12:45] refactor(types): centralize Product, Order, and CartItem TypeScript interfaces
