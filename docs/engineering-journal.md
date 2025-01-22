@@ -99,3 +99,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-22T11:56] feat(marketplace): add related items recommendation carousel on product detail view
 
 - [2025-01-22T12:45] refactor(types): centralize Product, Order, and CartItem TypeScript interfaces
+
+- [2025-01-22T14:06] docs(api): document Supabase Row Level Security (RLS) policies
