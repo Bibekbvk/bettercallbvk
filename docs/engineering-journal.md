@@ -93,3 +93,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-21T16:33] feat(ui): add interactive hover tilt effect to marketplace product cards
 
 - [2025-01-21T17:50] feat(seo): add canonical URL tag generator to eliminate duplicate content
+
+- [2025-01-22T10:35] refactor(checkout): transition checkout workflow into typed state machine
