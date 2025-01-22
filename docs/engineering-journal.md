@@ -101,3 +101,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-22T12:45] refactor(types): centralize Product, Order, and CartItem TypeScript interfaces
 
 - [2025-01-22T14:06] docs(api): document Supabase Row Level Security (RLS) policies
+
+- [2025-01-22T16:00] fix(security): sanitize SVG uploads against embedded cross-site script payloads
