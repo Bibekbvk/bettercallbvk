@@ -121,3 +121,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-25T12:25] feat(checkout): implement downloadable asset token delivery on checkout success
 
 - [2025-01-25T14:14] feat(ui): add accessible keyboard focus rings across all interactive elements
+
+- [2025-01-25T15:15] feat(marketplace): implement customer reviews and 5-star rating breakdown
