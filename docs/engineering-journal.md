@@ -113,3 +113,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-22T20:47] feat(checkout): scaffold multi-step checkout wizard with progress indicators
 
 - [2025-01-22T21:48] perf(db): add composite index on product (category, created_at) in Supabase
+
+- [2025-01-25T10:00] perf(render): wrap expensive marketplace filter logic in React useMemo
