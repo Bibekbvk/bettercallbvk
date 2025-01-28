@@ -131,3 +131,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-28T12:49] feat(admin): build executive dashboard with Recharts revenue metrics
 
 - [2025-01-28T13:30] feat(marketplace): add price sorting and rating filter dropdowns
+
+- [2025-01-28T14:52] perf(scroll): throttle Lenis smooth scroll event listener to 60fps
