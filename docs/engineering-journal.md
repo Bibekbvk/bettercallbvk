@@ -133,3 +133,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-28T13:30] feat(marketplace): add price sorting and rating filter dropdowns
 
 - [2025-01-28T14:52] perf(scroll): throttle Lenis smooth scroll event listener to 60fps
+
+- [2025-01-28T16:24] feat(ui): add typewriter headline effect with configurable speed
