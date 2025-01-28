@@ -125,3 +125,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-25T15:15] feat(marketplace): implement customer reviews and 5-star rating breakdown
 
 - [2025-01-28T10:11] feat(admin): add customer management table with search and pagination
+
+- [2025-01-28T11:20] feat(ui): add magnetic cursor hover interaction for CTA buttons
