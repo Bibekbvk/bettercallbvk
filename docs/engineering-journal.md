@@ -135,3 +135,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-28T14:52] perf(scroll): throttle Lenis smooth scroll event listener to 60fps
 
 - [2025-01-28T16:24] feat(ui): add typewriter headline effect with configurable speed
+
+- [2025-01-28T18:03] perf(fonts): add font-display swap to optimize Google Fonts rendering speed
