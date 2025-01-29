@@ -157,3 +157,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-29T18:17] feat(auth): integrate Supabase Auth session listener with React Context
 
 - [2025-01-29T19:01] fix(blog): escape angle brackets inside markdown code blocks
+
+- [2025-01-29T19:57] feat(marketplace): implement quick-view modal for product specification details
