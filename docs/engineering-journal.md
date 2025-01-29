@@ -147,3 +147,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-29T12:57] fix(navbar): resolve backdrop-filter blur clipping on mobile Safari iOS
 
 - [2025-01-29T14:19] fix(images): add blur-up placeholder while hero banner image loads
+
+- [2025-01-29T15:02] fix(contact): reset form state and show confirmation toast on successful send
