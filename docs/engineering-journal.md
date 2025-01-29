@@ -141,3 +141,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-28T18:53] feat(seo): implement dynamic OpenGraph and Twitter card metadata generator
 
 - [2025-01-28T20:36] feat(blog): add social sharing buttons for LinkedIn, Twitter, and WhatsApp
+
+- [2025-01-29T11:25] fix(profile): provide fallback initial letter avatar when photo URL is empty
