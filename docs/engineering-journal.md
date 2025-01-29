@@ -143,3 +143,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-28T20:36] feat(blog): add social sharing buttons for LinkedIn, Twitter, and WhatsApp
 
 - [2025-01-29T11:25] fix(profile): provide fallback initial letter avatar when photo URL is empty
+
+- [2025-01-29T12:57] fix(navbar): resolve backdrop-filter blur clipping on mobile Safari iOS
