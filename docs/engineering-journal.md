@@ -151,3 +151,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-29T15:02] fix(contact): reset form state and show confirmation toast on successful send
 
 - [2025-01-29T16:35] feat(seo): configure robots.txt directives and Google verification tag
+
+- [2025-01-29T17:20] chore(lint): enable strict TypeScript linting rules across all route handlers
