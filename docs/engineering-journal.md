@@ -153,3 +153,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-29T16:35] feat(seo): configure robots.txt directives and Google verification tag
 
 - [2025-01-29T17:20] chore(lint): enable strict TypeScript linting rules across all route handlers
+
+- [2025-01-29T18:17] feat(auth): integrate Supabase Auth session listener with React Context
