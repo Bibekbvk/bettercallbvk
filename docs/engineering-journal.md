@@ -175,3 +175,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-30T18:00] feat(auth): implement password strength meter on user registration form
 
 - [2025-01-30T19:28] refactor(auth): wrap Supabase client initialization in safe singleton pattern
+
+- [2025-01-30T20:05] fix(performance): cancel pending fetch controller on component unmount
