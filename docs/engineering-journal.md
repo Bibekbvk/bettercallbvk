@@ -169,3 +169,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-30T13:29] fix(routing): prevent 404 flash on dynamic route initial pre-render
 
 - [2025-01-30T14:41] feat(marketplace): display verified developer badge on trusted vendor products
+
+- [2025-01-30T16:25] fix(styles): fix flex wrap collision on small viewport filter chips
