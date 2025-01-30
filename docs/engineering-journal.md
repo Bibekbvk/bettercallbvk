@@ -163,3 +163,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-29T20:46] feat(ui): implement smooth page fade transition with Framer Motion
 
 - [2025-01-30T10:33] fix(ui): correct z-index stacking context for modal overlay backdrop
+
+- [2025-01-30T11:34] feat(cart): add slide-over drawer cart view with item quantity controls
