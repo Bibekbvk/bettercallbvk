@@ -165,3 +165,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-30T10:33] fix(ui): correct z-index stacking context for modal overlay backdrop
 
 - [2025-01-30T11:34] feat(cart): add slide-over drawer cart view with item quantity controls
+
+- [2025-01-30T13:29] fix(routing): prevent 404 flash on dynamic route initial pre-render
