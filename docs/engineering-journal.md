@@ -161,3 +161,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-29T19:57] feat(marketplace): implement quick-view modal for product specification details
 
 - [2025-01-29T20:46] feat(ui): implement smooth page fade transition with Framer Motion
+
+- [2025-01-30T10:33] fix(ui): correct z-index stacking context for modal overlay backdrop
