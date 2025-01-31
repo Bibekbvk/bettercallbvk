@@ -187,3 +187,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-31T13:48] test(auth): add test cases for session persistence across browser reload
 
 - [2025-01-31T15:04] fix(seo): enforce lowercase URLs in canonical links to prevent split rank
+
+- [2025-01-31T16:54] fix(auth): fix infinite redirect loop on expired refresh token
