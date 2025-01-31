@@ -183,3 +183,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-31T10:42] refactor(admin): modularize admin charts into standalone presentational components
 
 - [2025-01-31T11:59] feat(marketplace): implement real-time product search with keyword debouncing
+
+- [2025-01-31T13:48] test(auth): add test cases for session persistence across browser reload
