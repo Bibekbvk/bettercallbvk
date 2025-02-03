@@ -195,3 +195,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-03T12:48] refactor(constants): centralize route URLs and navigation metadata
 
 - [2025-02-03T14:01] fix(db): handle null response gracefully when querying empty category
+
+- [2025-02-03T14:52] perf(cart): debounce rapid quantity increment dispatches to reduce store churn
