@@ -203,3 +203,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-03T17:14] feat(seo): generate dynamic XML sitemap with lastmod timestamps
 
 - [2025-02-03T18:50] feat(profile): allow user avatar upload and emergency contact update
+
+- [2025-02-03T20:01] feat(checkout): integrate Fonepay dynamic QR code generation modal
