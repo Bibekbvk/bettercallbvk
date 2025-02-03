@@ -197,3 +197,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-03T14:01] fix(db): handle null response gracefully when querying empty category
 
 - [2025-02-03T14:52] perf(cart): debounce rapid quantity increment dispatches to reduce store churn
+
+- [2025-02-03T16:06] feat(cart): implement promotional coupon discount code validator
