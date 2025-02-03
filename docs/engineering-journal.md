@@ -191,3 +191,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-01-31T16:54] fix(auth): fix infinite redirect loop on expired refresh token
 
 - [2025-02-03T11:17] feat(profile): implement dark/light theme preference toggle synced to DB
+
+- [2025-02-03T12:48] refactor(constants): centralize route URLs and navigation metadata
