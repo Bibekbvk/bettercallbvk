@@ -221,3 +221,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-04T16:56] feat(auth): add email confirmation redirect handler and session sync route
 
 - [2025-02-04T18:27] fix(checkout): handle network timeout exception during payment webhook call
+
+- [2025-02-04T19:55] feat(auth): implement password strength meter on user registration form
