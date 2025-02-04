@@ -205,3 +205,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-03T18:50] feat(profile): allow user avatar upload and emergency contact update
 
 - [2025-02-03T20:01] feat(checkout): integrate Fonepay dynamic QR code generation modal
+
+- [2025-02-04T09:48] perf(api): optimize Supabase SQL query to select only required projection columns
