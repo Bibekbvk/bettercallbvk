@@ -219,3 +219,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-04T15:54] chore(lint): enable strict TypeScript linting rules across all route handlers
 
 - [2025-02-04T16:56] feat(auth): add email confirmation redirect handler and session sync route
+
+- [2025-02-04T18:27] fix(checkout): handle network timeout exception during payment webhook call
