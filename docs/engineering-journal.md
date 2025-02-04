@@ -217,3 +217,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-04T14:08] feat(ui): implement responsive mobile drawer with backdrop blur
 
 - [2025-02-04T15:54] chore(lint): enable strict TypeScript linting rules across all route handlers
+
+- [2025-02-04T16:56] feat(auth): add email confirmation redirect handler and session sync route
