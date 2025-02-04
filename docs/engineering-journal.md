@@ -215,3 +215,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-04T12:54] feat(cart): add animated badge counter on navbar shopping cart icon
 
 - [2025-02-04T14:08] feat(ui): implement responsive mobile drawer with backdrop blur
+
+- [2025-02-04T15:54] chore(lint): enable strict TypeScript linting rules across all route handlers
