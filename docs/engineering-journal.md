@@ -213,3 +213,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-04T11:35] feat(checkout): integrate Fonepay dynamic QR code generation modal
 
 - [2025-02-04T12:54] feat(cart): add animated badge counter on navbar shopping cart icon
+
+- [2025-02-04T14:08] feat(ui): implement responsive mobile drawer with backdrop blur
