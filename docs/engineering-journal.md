@@ -209,3 +209,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-04T09:48] perf(api): optimize Supabase SQL query to select only required projection columns
 
 - [2025-02-04T10:59] feat(marketplace): add related items recommendation carousel on product detail view
+
+- [2025-02-04T11:35] feat(checkout): integrate Fonepay dynamic QR code generation modal
