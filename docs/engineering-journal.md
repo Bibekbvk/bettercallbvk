@@ -231,3 +231,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-05T09:47] feat(marketplace): add stock availability indicator and low-inventory warning
 
 - [2025-02-05T11:38] perf(scroll): throttle Lenis smooth scroll event listener to 60fps
+
+- [2025-02-05T12:31] feat(ui): add floating back-to-top button with scroll progress circle
