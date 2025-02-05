@@ -229,3 +229,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-04T22:35] feat(ui): add magnetic cursor hover interaction for CTA buttons
 
 - [2025-02-05T09:47] feat(marketplace): add stock availability indicator and low-inventory warning
+
+- [2025-02-05T11:38] perf(scroll): throttle Lenis smooth scroll event listener to 60fps
