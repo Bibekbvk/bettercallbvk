@@ -241,3 +241,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-10T13:37] fix(auth): sanitize login email input to remove leading and trailing spaces
 
 - [2025-02-10T15:00] fix(routing): prevent 404 flash on dynamic route initial pre-render
+
+- [2025-02-10T15:35] feat(seo): optimize title tags and meta descriptions for high CTR
