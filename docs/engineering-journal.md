@@ -235,3 +235,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-05T12:31] feat(ui): add floating back-to-top button with scroll progress circle
 
 - [2025-02-10T10:30] fix(ui): correct z-index stacking context for modal overlay backdrop
+
+- [2025-02-10T11:47] feat(marketplace): implement quick-view modal for product specification details
