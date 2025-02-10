@@ -233,3 +233,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-05T11:38] perf(scroll): throttle Lenis smooth scroll event listener to 60fps
 
 - [2025-02-05T12:31] feat(ui): add floating back-to-top button with scroll progress circle
+
+- [2025-02-10T10:30] fix(ui): correct z-index stacking context for modal overlay backdrop
