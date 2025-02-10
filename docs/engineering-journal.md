@@ -239,3 +239,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-10T11:47] feat(marketplace): implement quick-view modal for product specification details
 
 - [2025-02-10T13:37] fix(auth): sanitize login email input to remove leading and trailing spaces
+
+- [2025-02-10T15:00] fix(routing): prevent 404 flash on dynamic route initial pre-render
