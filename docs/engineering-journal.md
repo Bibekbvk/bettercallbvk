@@ -249,3 +249,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-14T10:41] fix(seo): enforce lowercase URLs in canonical links to prevent split rank
 
 - [2025-02-14T12:28] feat(ui): add accessible keyboard focus rings across all interactive elements
+
+- [2025-02-14T13:20] feat(ui): implement smooth page fade transition with Framer Motion
