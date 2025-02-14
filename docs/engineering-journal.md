@@ -257,3 +257,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-14T15:30] feat(seo): implement dynamic OpenGraph and Twitter card metadata generator
 
 - [2025-02-14T17:07] fix(styles): fix flex wrap collision on small viewport filter chips
+
+- [2025-02-14T18:20] fix(security): sanitize SVG uploads against embedded cross-site script payloads
