@@ -245,3 +245,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-10T15:35] feat(seo): optimize title tags and meta descriptions for high CTR
 
 - [2025-02-10T16:44] refactor(utils): move currency, date, and string helpers to shared utils lib
+
+- [2025-02-14T10:41] fix(seo): enforce lowercase URLs in canonical links to prevent split rank
