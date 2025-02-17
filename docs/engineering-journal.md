@@ -261,3 +261,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-14T18:20] fix(security): sanitize SVG uploads against embedded cross-site script payloads
 
 - [2025-02-17T10:33] fix(checkout): disable purchase button while payment verification is pending
+
+- [2025-02-17T12:07] fix(profile): provide fallback initial letter avatar when photo URL is empty
