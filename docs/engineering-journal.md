@@ -265,3 +265,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-17T12:07] fix(profile): provide fallback initial letter avatar when photo URL is empty
 
 - [2025-02-17T12:45] feat(cart): implement persistent shopping cart using browser localStorage
+
+- [2025-02-17T13:20] feat(checkout): implement downloadable asset token delivery on checkout success
