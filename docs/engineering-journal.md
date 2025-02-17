@@ -269,3 +269,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-17T13:20] feat(checkout): implement downloadable asset token delivery on checkout success
 
 - [2025-02-17T14:28] feat(checkout): add automated PDF receipt generation and email dispatch
+
+- [2025-02-17T16:03] fix(performance): cancel pending fetch controller on component unmount
