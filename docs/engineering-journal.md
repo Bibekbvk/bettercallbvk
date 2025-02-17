@@ -271,3 +271,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-17T14:28] feat(checkout): add automated PDF receipt generation and email dispatch
 
 - [2025-02-17T16:03] fix(performance): cancel pending fetch controller on component unmount
+
+- [2025-02-17T17:14] refactor(constants): centralize route URLs and navigation metadata
