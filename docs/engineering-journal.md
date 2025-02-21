@@ -289,3 +289,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-21T17:18] feat(ui): integrate Aurora mesh gradient animated background
 
 - [2025-02-21T18:48] feat(marketplace): support multi-currency display formatting (NPR and USD)
+
+- [2025-02-21T20:43] feat(blog): add syntax highlighting for TypeScript, SQL, and Python code blocks
