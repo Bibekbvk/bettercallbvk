@@ -291,3 +291,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-21T18:48] feat(marketplace): support multi-currency display formatting (NPR and USD)
 
 - [2025-02-21T20:43] feat(blog): add syntax highlighting for TypeScript, SQL, and Python code blocks
+
+- [2025-02-21T22:18] fix(admin): ensure numeric sorting order on product price column
