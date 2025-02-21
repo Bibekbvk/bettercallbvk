@@ -287,3 +287,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-21T15:42] feat(marketplace): add category filter chips for AI models, templates, and plugins
 
 - [2025-02-21T17:18] feat(ui): integrate Aurora mesh gradient animated background
+
+- [2025-02-21T18:48] feat(marketplace): support multi-currency display formatting (NPR and USD)
