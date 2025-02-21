@@ -275,3 +275,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-17T17:14] refactor(constants): centralize route URLs and navigation metadata
 
 - [2025-02-21T10:32] feat(admin): export transaction logs and order summary to CSV format
+
+- [2025-02-21T11:38] feat(profile): implement dark/light theme preference toggle synced to DB
