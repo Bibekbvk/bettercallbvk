@@ -279,3 +279,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-21T11:38] feat(profile): implement dark/light theme preference toggle synced to DB
 
 - [2025-02-21T12:28] feat(seo): add JSON-LD Product and BreadcrumbList structured data
+
+- [2025-02-21T13:38] chore(deps): upgrade Next.js and React dependencies to latest security patches
