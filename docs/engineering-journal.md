@@ -285,3 +285,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-21T14:21] test(auth): add test cases for session persistence across browser reload
 
 - [2025-02-21T15:42] feat(marketplace): add category filter chips for AI models, templates, and plugins
+
+- [2025-02-21T17:18] feat(ui): integrate Aurora mesh gradient animated background
