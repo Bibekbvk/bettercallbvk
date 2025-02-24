@@ -295,3 +295,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-21T22:18] fix(admin): ensure numeric sorting order on product price column
 
 - [2025-02-24T10:17] fix(cart): prevent quantity decrement below minimum allowable count of 1
+
+- [2025-02-24T12:05] fix(images): add blur-up placeholder while hero banner image loads
