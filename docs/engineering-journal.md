@@ -305,3 +305,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-25T11:47] refactor(types): centralize Product, Order, and CartItem TypeScript interfaces
 
 - [2025-02-25T12:39] feat(marketplace): implement customer reviews and 5-star rating breakdown
+
+- [2025-02-25T13:34] feat(admin): add monthly sales breakdown bar chart and trend indicator
