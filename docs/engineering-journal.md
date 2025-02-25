@@ -301,3 +301,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-25T09:50] docs(architecture): document state management and checkout lifecycle
 
 - [2025-02-25T10:32] feat(ui): add interactive hover tilt effect to marketplace product cards
+
+- [2025-02-25T11:47] refactor(types): centralize Product, Order, and CartItem TypeScript interfaces
