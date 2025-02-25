@@ -297,3 +297,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-24T10:17] fix(cart): prevent quantity decrement below minimum allowable count of 1
 
 - [2025-02-24T12:05] fix(images): add blur-up placeholder while hero banner image loads
+
+- [2025-02-25T09:50] docs(architecture): document state management and checkout lifecycle
