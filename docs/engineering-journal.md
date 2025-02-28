@@ -319,3 +319,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-28T13:28] feat(admin): build executive dashboard with Recharts revenue metrics
 
 - [2025-02-28T14:27] docs(setup): update local environment variables configuration guide
+
+- [2025-02-28T16:22] perf(images): convert all PNG banners to WebP format for 70% size reduction
