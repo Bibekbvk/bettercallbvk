@@ -317,3 +317,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-28T12:44] feat(seo): generate dynamic XML sitemap with lastmod timestamps
 
 - [2025-02-28T13:28] feat(admin): build executive dashboard with Recharts revenue metrics
+
+- [2025-02-28T14:27] docs(setup): update local environment variables configuration guide
