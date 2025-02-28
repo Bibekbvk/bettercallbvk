@@ -313,3 +313,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-28T10:51] refactor(checkout): transition checkout workflow into typed state machine
 
 - [2025-02-28T11:32] feat(admin): implement role-based access control (RBAC) guard on admin routes
+
+- [2025-02-28T12:44] feat(seo): generate dynamic XML sitemap with lastmod timestamps
