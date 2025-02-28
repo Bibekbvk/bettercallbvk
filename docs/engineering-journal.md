@@ -315,3 +315,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-28T11:32] feat(admin): implement role-based access control (RBAC) guard on admin routes
 
 - [2025-02-28T12:44] feat(seo): generate dynamic XML sitemap with lastmod timestamps
+
+- [2025-02-28T13:28] feat(admin): build executive dashboard with Recharts revenue metrics
