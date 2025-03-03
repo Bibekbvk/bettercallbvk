@@ -323,3 +323,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-28T16:22] perf(images): convert all PNG banners to WebP format for 70% size reduction
 
 - [2025-02-28T17:09] perf(api): optimize Supabase SQL query to select only required projection columns
+
+- [2025-03-03T10:39] refactor(theme): streamline Tailwind color tokens and dark mode CSS variables
