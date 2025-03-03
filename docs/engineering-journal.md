@@ -331,3 +331,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-03T13:07] fix(contact): reset form state and show confirmation toast on successful send
 
 - [2025-03-03T14:28] perf(cache): set immutable Cache-Control headers for static public assets
+
+- [2025-03-03T16:11] perf(next): enable Turbopack compilation flags in development server
