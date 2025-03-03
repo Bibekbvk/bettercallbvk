@@ -327,3 +327,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-03T10:39] refactor(theme): streamline Tailwind color tokens and dark mode CSS variables
 
 - [2025-03-03T11:54] feat(profile): add API key generator for developer API integrations
+
+- [2025-03-03T13:07] fix(contact): reset form state and show confirmation toast on successful send
