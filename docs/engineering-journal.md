@@ -341,3 +341,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-03T19:48] feat(seo): configure robots.txt directives and Google verification tag
 
 - [2025-03-03T21:10] feat(admin): add customer management table with search and pagination
+
+- [2025-03-03T22:47] docs(api): document Supabase Row Level Security (RLS) policies
