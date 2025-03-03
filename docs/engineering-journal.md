@@ -329,3 +329,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-03T11:54] feat(profile): add API key generator for developer API integrations
 
 - [2025-03-03T13:07] fix(contact): reset form state and show confirmation toast on successful send
+
+- [2025-03-03T14:28] perf(cache): set immutable Cache-Control headers for static public assets
