@@ -337,3 +337,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-03T17:31] feat(auth): integrate Supabase Auth session listener with React Context
 
 - [2025-03-03T18:07] perf(render): wrap expensive marketplace filter logic in React useMemo
+
+- [2025-03-03T19:48] feat(seo): configure robots.txt directives and Google verification tag
