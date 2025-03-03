@@ -325,3 +325,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-02-28T17:09] perf(api): optimize Supabase SQL query to select only required projection columns
 
 - [2025-03-03T10:39] refactor(theme): streamline Tailwind color tokens and dark mode CSS variables
+
+- [2025-03-03T11:54] feat(profile): add API key generator for developer API integrations
