@@ -333,3 +333,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-03T14:28] perf(cache): set immutable Cache-Control headers for static public assets
 
 - [2025-03-03T16:11] perf(next): enable Turbopack compilation flags in development server
+
+- [2025-03-03T17:31] feat(auth): integrate Supabase Auth session listener with React Context
