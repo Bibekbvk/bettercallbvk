@@ -355,3 +355,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-04T15:58] feat(marketplace): implement real-time product search with keyword debouncing
 
 - [2025-03-04T17:40] perf(fonts): add font-display swap to optimize Google Fonts rendering speed
+
+- [2025-03-04T19:25] perf(db): add composite index on product (category, created_at) in Supabase
