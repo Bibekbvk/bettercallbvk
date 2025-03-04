@@ -343,3 +343,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-03T21:10] feat(admin): add customer management table with search and pagination
 
 - [2025-03-03T22:47] docs(api): document Supabase Row Level Security (RLS) policies
+
+- [2025-03-04T11:27] feat(blog): implement related articles algorithm based on shared tags
