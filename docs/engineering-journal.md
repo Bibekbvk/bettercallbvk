@@ -353,3 +353,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-04T14:12] feat(cart): implement promotional coupon discount code validator
 
 - [2025-03-04T15:58] feat(marketplace): implement real-time product search with keyword debouncing
+
+- [2025-03-04T17:40] perf(fonts): add font-display swap to optimize Google Fonts rendering speed
