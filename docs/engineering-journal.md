@@ -359,3 +359,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-04T19:25] perf(db): add composite index on product (category, created_at) in Supabase
 
 - [2025-03-06T10:23] feat(cart): add slide-over drawer cart view with item quantity controls
+
+- [2025-03-06T11:07] feat(ui): implement sound toggle micro-interaction on button click
