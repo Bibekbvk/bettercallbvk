@@ -357,3 +357,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-04T17:40] perf(fonts): add font-display swap to optimize Google Fonts rendering speed
 
 - [2025-03-04T19:25] perf(db): add composite index on product (category, created_at) in Supabase
+
+- [2025-03-06T10:23] feat(cart): add slide-over drawer cart view with item quantity controls
