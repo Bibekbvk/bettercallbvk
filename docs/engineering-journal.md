@@ -361,3 +361,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-06T10:23] feat(cart): add slide-over drawer cart view with item quantity controls
 
 - [2025-03-06T11:07] feat(ui): implement sound toggle micro-interaction on button click
+
+- [2025-03-06T11:58] feat(ui): add animated counter component for live stats section
