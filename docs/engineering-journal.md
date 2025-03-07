@@ -375,3 +375,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-07T16:05] fix(db): handle null response gracefully when querying empty category
 
 - [2025-03-07T17:18] feat(seo): add canonical URL tag generator to eliminate duplicate content
+
+- [2025-03-07T18:08] feat(checkout): validate customer phone numbers for Nepal telecom operators
