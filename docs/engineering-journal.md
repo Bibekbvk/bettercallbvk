@@ -365,3 +365,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-06T11:58] feat(ui): add animated counter component for live stats section
 
 - [2025-03-07T10:14] fix(auth): fix infinite redirect loop on expired refresh token
+
+- [2025-03-07T11:35] refactor(components): extract reusable Modal, Dialog, and Backdrop primitives
