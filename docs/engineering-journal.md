@@ -363,3 +363,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-06T11:07] feat(ui): implement sound toggle micro-interaction on button click
 
 - [2025-03-06T11:58] feat(ui): add animated counter component for live stats section
+
+- [2025-03-07T10:14] fix(auth): fix infinite redirect loop on expired refresh token
