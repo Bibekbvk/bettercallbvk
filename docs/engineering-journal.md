@@ -369,3 +369,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-07T11:35] refactor(components): extract reusable Modal, Dialog, and Backdrop primitives
 
 - [2025-03-07T13:06] feat(blog): add social sharing buttons for LinkedIn, Twitter, and WhatsApp
+
+- [2025-03-07T14:47] fix(cart): clear active cart items upon confirmed order completion
