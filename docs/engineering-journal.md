@@ -385,3 +385,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-10T13:16] fix(navbar): resolve backdrop-filter blur clipping on mobile Safari iOS
 
 - [2025-03-10T14:07] feat(profile): display user purchased downloads and order history table
+
+- [2025-03-10T14:58] perf(bundle): dynamic import Recharts library to reduce initial JS payload
