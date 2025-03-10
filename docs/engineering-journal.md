@@ -381,3 +381,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-10T11:19] feat(checkout): scaffold multi-step checkout wizard with progress indicators
 
 - [2025-03-10T12:12] test(checkout): add form input validation test suite for payment details
+
+- [2025-03-10T13:16] fix(navbar): resolve backdrop-filter blur clipping on mobile Safari iOS
