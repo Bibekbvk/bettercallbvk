@@ -379,3 +379,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-07T18:08] feat(checkout): validate customer phone numbers for Nepal telecom operators
 
 - [2025-03-10T11:19] feat(checkout): scaffold multi-step checkout wizard with progress indicators
+
+- [2025-03-10T12:12] test(checkout): add form input validation test suite for payment details
