@@ -391,3 +391,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-10T16:27] perf(dom): remove unused DOM nodes from hidden mobile navigation
 
 - [2025-03-11T09:39] feat(admin): add system health and Supabase database latency monitor
+
+- [2025-03-11T11:15] feat(profile): allow user avatar upload and emergency contact update
