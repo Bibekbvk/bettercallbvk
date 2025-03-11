@@ -389,3 +389,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-10T14:58] perf(bundle): dynamic import Recharts library to reduce initial JS payload
 
 - [2025-03-10T16:27] perf(dom): remove unused DOM nodes from hidden mobile navigation
+
+- [2025-03-11T09:39] feat(admin): add system health and Supabase database latency monitor
