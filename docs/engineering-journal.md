@@ -393,3 +393,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-11T09:39] feat(admin): add system health and Supabase database latency monitor
 
 - [2025-03-11T11:15] feat(profile): allow user avatar upload and emergency contact update
+
+- [2025-03-12T09:35] test(cart): add unit tests for discount percentage and subtotal math
