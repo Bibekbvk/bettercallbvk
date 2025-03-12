@@ -401,3 +401,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-12T12:03] refactor(auth): wrap Supabase client initialization in safe singleton pattern
 
 - [2025-03-12T12:45] feat(admin): implement product inventory manager with modal editor
+
+- [2025-03-12T13:35] feat(auth): add GitHub and Google OAuth login provider buttons
