@@ -405,3 +405,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-12T13:35] feat(auth): add GitHub and Google OAuth login provider buttons
 
 - [2025-03-12T14:15] feat(blog): implement sticky table of contents with active heading spy
+
+- [2025-03-12T15:28] feat(blog): scaffold engineering blog with category tags and reading time
