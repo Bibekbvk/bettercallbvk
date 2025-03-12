@@ -407,3 +407,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-12T14:15] feat(blog): implement sticky table of contents with active heading spy
 
 - [2025-03-12T15:28] feat(blog): scaffold engineering blog with category tags and reading time
+
+- [2025-03-12T16:04] feat(ui): add typewriter headline effect with configurable speed
