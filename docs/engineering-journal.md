@@ -397,3 +397,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-12T09:35] test(cart): add unit tests for discount percentage and subtotal math
 
 - [2025-03-12T10:23] feat(marketplace): display verified developer badge on trusted vendor products
+
+- [2025-03-12T12:03] refactor(auth): wrap Supabase client initialization in safe singleton pattern
