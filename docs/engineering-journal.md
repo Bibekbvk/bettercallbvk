@@ -411,3 +411,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-12T16:04] feat(ui): add typewriter headline effect with configurable speed
 
 - [2025-03-14T11:10] refactor(admin): modularize admin charts into standalone presentational components
+
+- [2025-03-14T13:02] test(utils): add unit tests for currency formatter edge cases
