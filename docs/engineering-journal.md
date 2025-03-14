@@ -413,3 +413,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-14T11:10] refactor(admin): modularize admin charts into standalone presentational components
 
 - [2025-03-14T13:02] test(utils): add unit tests for currency formatter edge cases
+
+- [2025-03-14T14:52] fix(blog): escape angle brackets inside markdown code blocks
