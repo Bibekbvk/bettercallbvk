@@ -419,3 +419,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-14T15:50] docs(deploy): document Firebase Hosting build and deploy checklist
 
 - [2025-03-14T17:09] feat(seo): generate dynamic XML sitemap with lastmod timestamps
+
+- [2025-03-17T09:59] feat(marketplace): add price sorting and rating filter dropdowns
