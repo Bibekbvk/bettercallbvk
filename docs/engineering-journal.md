@@ -425,3 +425,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-17T11:37] feat(ui): add animated counter component for live stats section
 
 - [2025-03-17T13:26] fix(cart): prevent quantity decrement below minimum allowable count of 1
+
+- [2025-03-17T14:35] feat(ui): integrate Aurora mesh gradient animated background
