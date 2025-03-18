@@ -433,3 +433,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-17T17:36] perf(fonts): add font-display swap to optimize Google Fonts rendering speed
 
 - [2025-03-17T19:28] feat(marketplace): add stock availability indicator and low-inventory warning
+
+- [2025-03-18T10:35] feat(profile): implement dark/light theme preference toggle synced to DB
