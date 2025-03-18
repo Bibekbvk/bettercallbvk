@@ -439,3 +439,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-18T11:28] fix(navbar): resolve backdrop-filter blur clipping on mobile Safari iOS
 
 - [2025-03-18T13:01] feat(ui): add magnetic cursor hover interaction for CTA buttons
+
+- [2025-03-18T13:51] test(utils): add unit tests for currency formatter edge cases
