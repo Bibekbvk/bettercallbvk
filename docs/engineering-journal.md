@@ -437,3 +437,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-18T10:35] feat(profile): implement dark/light theme preference toggle synced to DB
 
 - [2025-03-18T11:28] fix(navbar): resolve backdrop-filter blur clipping on mobile Safari iOS
+
+- [2025-03-18T13:01] feat(ui): add magnetic cursor hover interaction for CTA buttons
