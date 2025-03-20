@@ -451,3 +451,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-20T13:47] feat(admin): add monthly sales breakdown bar chart and trend indicator
 
 - [2025-03-20T15:25] fix(cart): clear active cart items upon confirmed order completion
+
+- [2025-03-20T16:03] fix(routing): prevent 404 flash on dynamic route initial pre-render
