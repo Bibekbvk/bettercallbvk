@@ -447,3 +447,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-20T12:28] fix(checkout): handle network timeout exception during payment webhook call
 
 - [2025-03-20T13:06] feat(seo): optimize title tags and meta descriptions for high CTR
+
+- [2025-03-20T13:47] feat(admin): add monthly sales breakdown bar chart and trend indicator
