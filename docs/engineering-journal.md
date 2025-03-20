@@ -443,3 +443,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-18T13:51] test(utils): add unit tests for currency formatter edge cases
 
 - [2025-03-20T10:33] feat(admin): add system health and Supabase database latency monitor
+
+- [2025-03-20T12:28] fix(checkout): handle network timeout exception during payment webhook call
