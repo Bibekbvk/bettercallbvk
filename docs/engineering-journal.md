@@ -453,3 +453,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-20T15:25] fix(cart): clear active cart items upon confirmed order completion
 
 - [2025-03-20T16:03] fix(routing): prevent 404 flash on dynamic route initial pre-render
+
+- [2025-03-20T17:26] test(auth): add test cases for session persistence across browser reload
