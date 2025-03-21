@@ -461,3 +461,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-21T10:49] feat(ui): implement responsive mobile drawer with backdrop blur
 
 - [2025-03-21T11:36] perf(api): optimize Supabase SQL query to select only required projection columns
+
+- [2025-03-21T12:20] feat(blog): add syntax highlighting for TypeScript, SQL, and Python code blocks
