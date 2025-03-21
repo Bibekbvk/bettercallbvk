@@ -469,3 +469,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-21T15:39] refactor(types): centralize Product, Order, and CartItem TypeScript interfaces
 
 - [2025-03-21T17:13] docs(deploy): document Firebase Hosting build and deploy checklist
+
+- [2025-03-21T18:25] fix(db): handle null response gracefully when querying empty category
