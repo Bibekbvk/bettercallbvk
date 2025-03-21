@@ -479,3 +479,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-21T22:10] feat(marketplace): support multi-currency display formatting (NPR and USD)
 
 - [2025-03-21T22:16] test(checkout): add form input validation test suite for payment details
+
+- [2025-03-21T22:26] feat(seo): add canonical URL tag generator to eliminate duplicate content
