@@ -485,3 +485,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-21T22:26] refactor(components): extract reusable Modal, Dialog, and Backdrop primitives
 
 - [2025-03-21T22:47] chore(lint): enable strict TypeScript linting rules across all route handlers
+
+- [2025-03-21T22:48] fix(admin): ensure numeric sorting order on product price column
