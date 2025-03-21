@@ -473,3 +473,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-21T18:25] fix(db): handle null response gracefully when querying empty category
 
 - [2025-03-21T20:03] fix(auth): sanitize login email input to remove leading and trailing spaces
+
+- [2025-03-21T21:42] fix(security): sanitize SVG uploads against embedded cross-site script payloads
