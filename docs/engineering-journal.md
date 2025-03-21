@@ -465,3 +465,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-21T12:20] feat(blog): add syntax highlighting for TypeScript, SQL, and Python code blocks
 
 - [2025-03-21T14:01] feat(blog): add social sharing buttons for LinkedIn, Twitter, and WhatsApp
+
+- [2025-03-21T15:39] refactor(types): centralize Product, Order, and CartItem TypeScript interfaces
