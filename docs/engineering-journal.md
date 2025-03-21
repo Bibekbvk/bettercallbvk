@@ -475,3 +475,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-21T20:03] fix(auth): sanitize login email input to remove leading and trailing spaces
 
 - [2025-03-21T21:42] fix(security): sanitize SVG uploads against embedded cross-site script payloads
+
+- [2025-03-21T22:10] feat(marketplace): support multi-currency display formatting (NPR and USD)
