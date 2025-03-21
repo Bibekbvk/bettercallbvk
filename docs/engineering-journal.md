@@ -477,3 +477,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-21T21:42] fix(security): sanitize SVG uploads against embedded cross-site script payloads
 
 - [2025-03-21T22:10] feat(marketplace): support multi-currency display formatting (NPR and USD)
+
+- [2025-03-21T22:16] test(checkout): add form input validation test suite for payment details
