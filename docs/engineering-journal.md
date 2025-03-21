@@ -481,3 +481,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-21T22:16] test(checkout): add form input validation test suite for payment details
 
 - [2025-03-21T22:26] feat(seo): add canonical URL tag generator to eliminate duplicate content
+
+- [2025-03-21T22:26] refactor(components): extract reusable Modal, Dialog, and Backdrop primitives
