@@ -457,3 +457,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-20T17:26] test(auth): add test cases for session persistence across browser reload
 
 - [2025-03-20T18:42] refactor(constants): centralize route URLs and navigation metadata
+
+- [2025-03-21T10:49] feat(ui): implement responsive mobile drawer with backdrop blur
