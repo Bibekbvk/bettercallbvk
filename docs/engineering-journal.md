@@ -471,3 +471,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-21T17:13] docs(deploy): document Firebase Hosting build and deploy checklist
 
 - [2025-03-21T18:25] fix(db): handle null response gracefully when querying empty category
+
+- [2025-03-21T20:03] fix(auth): sanitize login email input to remove leading and trailing spaces
