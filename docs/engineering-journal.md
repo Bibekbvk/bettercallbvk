@@ -501,3 +501,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-24T15:41] feat(marketplace): add category filter chips for AI models, templates, and plugins
 
 - [2025-03-24T16:55] feat(profile): add API key generator for developer API integrations
+
+- [2025-03-24T18:19] refactor(checkout): transition checkout workflow into typed state machine
