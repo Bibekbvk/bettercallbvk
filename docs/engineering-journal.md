@@ -497,3 +497,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-24T13:15] feat(cart): implement persistent shopping cart using browser localStorage
 
 - [2025-03-24T14:11] fix(seo): enforce lowercase URLs in canonical links to prevent split rank
+
+- [2025-03-24T15:41] feat(marketplace): add category filter chips for AI models, templates, and plugins
