@@ -491,3 +491,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-24T10:26] fix(checkout): disable purchase button while payment verification is pending
 
 - [2025-03-24T11:05] perf(cart): debounce rapid quantity increment dispatches to reduce store churn
+
+- [2025-03-24T12:02] feat(auth): integrate Supabase Auth session listener with React Context
