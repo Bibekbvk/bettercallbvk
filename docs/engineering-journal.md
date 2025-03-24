@@ -489,3 +489,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-21T22:48] fix(admin): ensure numeric sorting order on product price column
 
 - [2025-03-24T10:26] fix(checkout): disable purchase button while payment verification is pending
+
+- [2025-03-24T11:05] perf(cart): debounce rapid quantity increment dispatches to reduce store churn
