@@ -499,3 +499,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-24T14:11] fix(seo): enforce lowercase URLs in canonical links to prevent split rank
 
 - [2025-03-24T15:41] feat(marketplace): add category filter chips for AI models, templates, and plugins
+
+- [2025-03-24T16:55] feat(profile): add API key generator for developer API integrations
