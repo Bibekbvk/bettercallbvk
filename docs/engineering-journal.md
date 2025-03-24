@@ -495,3 +495,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-24T12:02] feat(auth): integrate Supabase Auth session listener with React Context
 
 - [2025-03-24T13:15] feat(cart): implement persistent shopping cart using browser localStorage
+
+- [2025-03-24T14:11] fix(seo): enforce lowercase URLs in canonical links to prevent split rank
