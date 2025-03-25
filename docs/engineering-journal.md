@@ -511,3 +511,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-25T14:04] docs(setup): update local environment variables configuration guide
 
 - [2025-03-25T15:48] perf(cache): set immutable Cache-Control headers for static public assets
+
+- [2025-03-25T17:23] feat(auth): add email confirmation redirect handler and session sync route
