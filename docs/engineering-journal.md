@@ -505,3 +505,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-24T18:19] refactor(checkout): transition checkout workflow into typed state machine
 
 - [2025-03-25T10:42] feat(checkout): validate customer phone numbers for Nepal telecom operators
+
+- [2025-03-25T12:19] refactor(theme): streamline Tailwind color tokens and dark mode CSS variables
