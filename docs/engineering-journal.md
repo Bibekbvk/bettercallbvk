@@ -515,3 +515,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-25T17:23] feat(auth): add email confirmation redirect handler and session sync route
 
 - [2025-03-31T11:19] feat(cart): add animated badge counter on navbar shopping cart icon
+
+- [2025-03-31T12:58] feat(cart): add slide-over drawer cart view with item quantity controls
