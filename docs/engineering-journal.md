@@ -523,3 +523,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-31T16:01] fix(blog): escape angle brackets inside markdown code blocks
 
 - [2025-03-31T17:24] refactor(hooks): create custom useDebounce hook for search input optimization
+
+- [2025-03-31T18:44] feat(cart): implement promotional coupon discount code validator
