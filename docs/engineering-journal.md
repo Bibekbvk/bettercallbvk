@@ -521,3 +521,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-31T14:23] refactor(admin): modularize admin charts into standalone presentational components
 
 - [2025-03-31T16:01] fix(blog): escape angle brackets inside markdown code blocks
+
+- [2025-03-31T17:24] refactor(hooks): create custom useDebounce hook for search input optimization
