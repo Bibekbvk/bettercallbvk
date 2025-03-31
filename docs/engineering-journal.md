@@ -525,3 +525,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-31T17:24] refactor(hooks): create custom useDebounce hook for search input optimization
 
 - [2025-03-31T18:44] feat(cart): implement promotional coupon discount code validator
+
+- [2025-03-31T19:55] perf(next): enable Turbopack compilation flags in development server
