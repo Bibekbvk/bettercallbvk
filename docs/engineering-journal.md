@@ -527,3 +527,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-31T18:44] feat(cart): implement promotional coupon discount code validator
 
 - [2025-03-31T19:55] perf(next): enable Turbopack compilation flags in development server
+
+- [2025-03-31T20:37] fix(performance): cancel pending fetch controller on component unmount
