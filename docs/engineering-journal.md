@@ -533,3 +533,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-03-31T22:27] perf(dom): remove unused DOM nodes from hidden mobile navigation
 
 - [2025-04-01T11:17] feat(admin): export transaction logs and order summary to CSV format
+
+- [2025-04-01T12:36] feat(ui): implement sound toggle micro-interaction on button click
