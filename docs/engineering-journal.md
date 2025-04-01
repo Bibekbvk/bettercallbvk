@@ -539,3 +539,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-01T14:25] feat(admin): add customer management table with search and pagination
 
 - [2025-04-01T16:20] feat(auth): implement password strength meter on user registration form
+
+- [2025-04-01T17:43] feat(auth): add GitHub and Google OAuth login provider buttons
