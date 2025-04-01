@@ -535,3 +535,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-01T11:17] feat(admin): export transaction logs and order summary to CSV format
 
 - [2025-04-01T12:36] feat(ui): implement sound toggle micro-interaction on button click
+
+- [2025-04-01T14:25] feat(admin): add customer management table with search and pagination
