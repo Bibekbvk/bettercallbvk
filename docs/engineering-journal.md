@@ -551,3 +551,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-02T10:43] feat(checkout): implement downloadable asset token delivery on checkout success
 
 - [2025-04-02T11:48] feat(seo): configure robots.txt directives and Google verification tag
+
+- [2025-04-02T13:02] feat(marketplace): display verified developer badge on trusted vendor products
