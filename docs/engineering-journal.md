@@ -545,3 +545,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-01T19:12] feat(checkout): add eSewa wallet direct payment verification handler
 
 - [2025-04-01T20:32] feat(marketplace): implement quick-view modal for product specification details
+
+- [2025-04-02T09:37] feat(admin): implement role-based access control (RBAC) guard on admin routes
