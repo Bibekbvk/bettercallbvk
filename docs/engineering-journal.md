@@ -559,3 +559,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-02T14:30] feat(marketplace): implement customer reviews and 5-star rating breakdown
 
 - [2025-04-07T10:13] feat(blog): implement sticky table of contents with active heading spy
+
+- [2025-04-07T10:50] feat(profile): display user purchased downloads and order history table
