@@ -567,3 +567,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-07T13:39] perf(images): convert all PNG banners to WebP format for 70% size reduction
 
 - [2025-04-07T15:08] feat(seo): implement dynamic OpenGraph and Twitter card metadata generator
+
+- [2025-04-07T16:48] feat(ui): add interactive hover tilt effect to marketplace product cards
