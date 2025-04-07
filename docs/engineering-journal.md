@@ -563,3 +563,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-07T10:50] feat(profile): display user purchased downloads and order history table
 
 - [2025-04-07T12:06] fix(ui): correct z-index stacking context for modal overlay backdrop
+
+- [2025-04-07T13:39] perf(images): convert all PNG banners to WebP format for 70% size reduction
