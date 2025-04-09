@@ -571,3 +571,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-07T16:48] feat(ui): add interactive hover tilt effect to marketplace product cards
 
 - [2025-04-09T09:32] fix(contact): reset form state and show confirmation toast on successful send
+
+- [2025-04-09T11:07] feat(profile): allow user avatar upload and emergency contact update
