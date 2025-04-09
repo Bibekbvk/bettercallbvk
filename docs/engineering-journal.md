@@ -573,3 +573,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-09T09:32] fix(contact): reset form state and show confirmation toast on successful send
 
 - [2025-04-09T11:07] feat(profile): allow user avatar upload and emergency contact update
+
+- [2025-04-09T11:44] feat(checkout): scaffold multi-step checkout wizard with progress indicators
