@@ -569,3 +569,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-07T15:08] feat(seo): implement dynamic OpenGraph and Twitter card metadata generator
 
 - [2025-04-07T16:48] feat(ui): add interactive hover tilt effect to marketplace product cards
+
+- [2025-04-09T09:32] fix(contact): reset form state and show confirmation toast on successful send
