@@ -585,3 +585,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-10T13:33] feat(ui): implement smooth page fade transition with Framer Motion
 
 - [2025-04-10T14:34] chore(deps): upgrade Next.js and React dependencies to latest security patches
+
+- [2025-04-10T16:12] fix(styles): fix flex wrap collision on small viewport filter chips
