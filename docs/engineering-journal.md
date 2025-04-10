@@ -587,3 +587,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-10T14:34] chore(deps): upgrade Next.js and React dependencies to latest security patches
 
 - [2025-04-10T16:12] fix(styles): fix flex wrap collision on small viewport filter chips
+
+- [2025-04-10T17:30] fix(profile): provide fallback initial letter avatar when photo URL is empty
