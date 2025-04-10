@@ -577,3 +577,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-09T11:44] feat(checkout): scaffold multi-step checkout wizard with progress indicators
 
 - [2025-04-10T10:43] perf(bundle): dynamic import Recharts library to reduce initial JS payload
+
+- [2025-04-10T11:59] feat(marketplace): add related items recommendation carousel on product detail view
