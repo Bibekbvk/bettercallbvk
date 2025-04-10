@@ -583,3 +583,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-10T12:46] feat(blog): implement related articles algorithm based on shared tags
 
 - [2025-04-10T13:33] feat(ui): implement smooth page fade transition with Framer Motion
+
+- [2025-04-10T14:34] chore(deps): upgrade Next.js and React dependencies to latest security patches
