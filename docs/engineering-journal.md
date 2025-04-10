@@ -581,3 +581,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-10T11:59] feat(marketplace): add related items recommendation carousel on product detail view
 
 - [2025-04-10T12:46] feat(blog): implement related articles algorithm based on shared tags
+
+- [2025-04-10T13:33] feat(ui): implement smooth page fade transition with Framer Motion
