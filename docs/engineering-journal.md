@@ -575,3 +575,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-09T11:07] feat(profile): allow user avatar upload and emergency contact update
 
 - [2025-04-09T11:44] feat(checkout): scaffold multi-step checkout wizard with progress indicators
+
+- [2025-04-10T10:43] perf(bundle): dynamic import Recharts library to reduce initial JS payload
