@@ -595,3 +595,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-14T11:38] feat(checkout): integrate Fonepay dynamic QR code generation modal
 
 - [2025-04-14T13:16] feat(ui): add typewriter headline effect with configurable speed
+
+- [2025-04-14T14:00] feat(ui): add floating back-to-top button with scroll progress circle
