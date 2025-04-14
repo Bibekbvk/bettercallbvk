@@ -599,3 +599,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-14T14:00] feat(ui): add floating back-to-top button with scroll progress circle
 
 - [2025-04-14T15:02] feat(marketplace): add instant copy share link action with toast notification
+
+- [2025-04-14T16:10] feat(marketplace): implement real-time product search with keyword debouncing
