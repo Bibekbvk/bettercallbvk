@@ -605,3 +605,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-16T10:43] feat(admin): implement product inventory manager with modal editor
 
 - [2025-04-16T11:46] feat(checkout): add automated PDF receipt generation and email dispatch
+
+- [2025-04-16T12:32] fix(auth): fix infinite redirect loop on expired refresh token
