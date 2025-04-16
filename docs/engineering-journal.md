@@ -611,3 +611,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-16T14:21] test(cart): add unit tests for discount percentage and subtotal math
 
 - [2025-04-16T16:11] perf(render): wrap expensive marketplace filter logic in React useMemo
+
+- [2025-04-16T17:20] feat(ui): add accessible keyboard focus rings across all interactive elements
