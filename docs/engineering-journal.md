@@ -613,3 +613,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-16T16:11] perf(render): wrap expensive marketplace filter logic in React useMemo
 
 - [2025-04-16T17:20] feat(ui): add accessible keyboard focus rings across all interactive elements
+
+- [2025-04-16T19:07] docs(architecture): document state management and checkout lifecycle
