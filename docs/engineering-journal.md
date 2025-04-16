@@ -601,3 +601,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-14T15:02] feat(marketplace): add instant copy share link action with toast notification
 
 - [2025-04-14T16:10] feat(marketplace): implement real-time product search with keyword debouncing
+
+- [2025-04-16T10:43] feat(admin): implement product inventory manager with modal editor
