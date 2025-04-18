@@ -619,3 +619,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-18T10:24] fix(images): add blur-up placeholder while hero banner image loads
 
 - [2025-04-18T11:43] perf(db): add composite index on product (category, created_at) in Supabase
+
+- [2025-04-18T12:27] feat(seo): add JSON-LD Product and BreadcrumbList structured data
