@@ -623,3 +623,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-18T12:27] feat(seo): add JSON-LD Product and BreadcrumbList structured data
 
 - [2025-04-19T10:34] refactor(auth): wrap Supabase client initialization in safe singleton pattern
+
+- [2025-04-19T12:04] refactor(utils): move currency, date, and string helpers to shared utils lib
