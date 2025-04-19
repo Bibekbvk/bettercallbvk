@@ -627,3 +627,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-19T12:04] refactor(utils): move currency, date, and string helpers to shared utils lib
 
 - [2025-04-19T13:48] perf(scroll): throttle Lenis smooth scroll event listener to 60fps
+
+- [2025-04-19T14:48] feat(blog): scaffold engineering blog with category tags and reading time
