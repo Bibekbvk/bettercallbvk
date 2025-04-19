@@ -631,3 +631,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-19T14:48] feat(blog): scaffold engineering blog with category tags and reading time
 
 - [2025-04-19T15:53] perf(api): optimize Supabase SQL query to select only required projection columns
+
+- [2025-04-19T16:55] perf(dom): remove unused DOM nodes from hidden mobile navigation
