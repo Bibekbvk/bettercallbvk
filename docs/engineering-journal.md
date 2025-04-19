@@ -621,3 +621,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-18T11:43] perf(db): add composite index on product (category, created_at) in Supabase
 
 - [2025-04-18T12:27] feat(seo): add JSON-LD Product and BreadcrumbList structured data
+
+- [2025-04-19T10:34] refactor(auth): wrap Supabase client initialization in safe singleton pattern
