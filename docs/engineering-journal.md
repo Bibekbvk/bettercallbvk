@@ -633,3 +633,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-19T15:53] perf(api): optimize Supabase SQL query to select only required projection columns
 
 - [2025-04-19T16:55] perf(dom): remove unused DOM nodes from hidden mobile navigation
+
+- [2025-04-19T17:43] perf(fonts): add font-display swap to optimize Google Fonts rendering speed
