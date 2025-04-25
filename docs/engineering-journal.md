@@ -647,3 +647,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-25T15:11] feat(checkout): add automated PDF receipt generation and email dispatch
 
 - [2025-04-25T16:00] fix(contact): reset form state and show confirmation toast on successful send
+
+- [2025-04-25T17:44] feat(seo): implement dynamic OpenGraph and Twitter card metadata generator
