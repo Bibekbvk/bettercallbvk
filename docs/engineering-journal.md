@@ -637,3 +637,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-19T17:43] perf(fonts): add font-display swap to optimize Google Fonts rendering speed
 
 - [2025-04-19T18:45] feat(ui): implement responsive mobile drawer with backdrop blur
+
+- [2025-04-25T10:22] feat(seo): generate dynamic XML sitemap with lastmod timestamps
