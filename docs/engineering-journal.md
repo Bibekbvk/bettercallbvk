@@ -639,3 +639,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-19T18:45] feat(ui): implement responsive mobile drawer with backdrop blur
 
 - [2025-04-25T10:22] feat(seo): generate dynamic XML sitemap with lastmod timestamps
+
+- [2025-04-25T12:12] feat(blog): add syntax highlighting for TypeScript, SQL, and Python code blocks
