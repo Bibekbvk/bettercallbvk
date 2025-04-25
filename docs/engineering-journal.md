@@ -645,3 +645,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-25T13:49] refactor(admin): modularize admin charts into standalone presentational components
 
 - [2025-04-25T15:11] feat(checkout): add automated PDF receipt generation and email dispatch
+
+- [2025-04-25T16:00] fix(contact): reset form state and show confirmation toast on successful send
