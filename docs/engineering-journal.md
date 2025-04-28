@@ -653,3 +653,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-25T19:19] feat(seo): optimize title tags and meta descriptions for high CTR
 
 - [2025-04-28T10:05] refactor(types): centralize Product, Order, and CartItem TypeScript interfaces
+
+- [2025-04-28T10:58] feat(ui): implement smooth page fade transition with Framer Motion
