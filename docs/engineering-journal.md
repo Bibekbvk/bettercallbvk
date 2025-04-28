@@ -655,3 +655,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-28T10:05] refactor(types): centralize Product, Order, and CartItem TypeScript interfaces
 
 - [2025-04-28T10:58] feat(ui): implement smooth page fade transition with Framer Motion
+
+- [2025-04-28T12:33] perf(db): add composite index on product (category, created_at) in Supabase
