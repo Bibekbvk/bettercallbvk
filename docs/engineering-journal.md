@@ -665,3 +665,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-28T16:24] perf(next): enable Turbopack compilation flags in development server
 
 - [2025-04-28T17:05] feat(ui): integrate Aurora mesh gradient animated background
+
+- [2025-04-28T18:10] feat(ui): add interactive hover tilt effect to marketplace product cards
