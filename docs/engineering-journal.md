@@ -657,3 +657,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-28T10:58] feat(ui): implement smooth page fade transition with Framer Motion
 
 - [2025-04-28T12:33] perf(db): add composite index on product (category, created_at) in Supabase
+
+- [2025-04-28T13:55] feat(ui): add floating back-to-top button with scroll progress circle
