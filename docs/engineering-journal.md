@@ -659,3 +659,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-28T12:33] perf(db): add composite index on product (category, created_at) in Supabase
 
 - [2025-04-28T13:55] feat(ui): add floating back-to-top button with scroll progress circle
+
+- [2025-04-28T14:32] fix(cart): prevent quantity decrement below minimum allowable count of 1
