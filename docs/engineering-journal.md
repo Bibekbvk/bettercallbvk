@@ -663,3 +663,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-28T14:32] fix(cart): prevent quantity decrement below minimum allowable count of 1
 
 - [2025-04-28T16:24] perf(next): enable Turbopack compilation flags in development server
+
+- [2025-04-28T17:05] feat(ui): integrate Aurora mesh gradient animated background
