@@ -671,3 +671,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-29T10:19] feat(marketplace): implement real-time product search with keyword debouncing
 
 - [2025-04-29T11:40] feat(admin): implement role-based access control (RBAC) guard on admin routes
+
+- [2025-04-29T12:30] fix(checkout): handle network timeout exception during payment webhook call
