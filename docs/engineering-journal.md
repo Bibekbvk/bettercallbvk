@@ -669,3 +669,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-28T18:10] feat(ui): add interactive hover tilt effect to marketplace product cards
 
 - [2025-04-29T10:19] feat(marketplace): implement real-time product search with keyword debouncing
+
+- [2025-04-29T11:40] feat(admin): implement role-based access control (RBAC) guard on admin routes
