@@ -675,3 +675,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-29T12:30] fix(checkout): handle network timeout exception during payment webhook call
 
 - [2025-04-29T13:35] feat(cart): add animated badge counter on navbar shopping cart icon
+
+- [2025-04-29T14:59] feat(cart): implement promotional coupon discount code validator
