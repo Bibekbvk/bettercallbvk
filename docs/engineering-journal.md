@@ -679,3 +679,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-04-29T14:59] feat(cart): implement promotional coupon discount code validator
 
 - [2025-05-01T11:28] feat(cart): add slide-over drawer cart view with item quantity controls
+
+- [2025-05-01T12:41] chore(deps): upgrade Next.js and React dependencies to latest security patches
