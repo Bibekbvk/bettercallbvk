@@ -687,3 +687,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-01T14:47] fix(security): sanitize SVG uploads against embedded cross-site script payloads
 
 - [2025-05-01T16:18] refactor(theme): streamline Tailwind color tokens and dark mode CSS variables
+
+- [2025-05-03T11:22] refactor(utils): move currency, date, and string helpers to shared utils lib
