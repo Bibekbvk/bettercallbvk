@@ -695,3 +695,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-03T13:28] feat(auth): add email confirmation redirect handler and session sync route
 
 - [2025-05-03T14:13] refactor(checkout): transition checkout workflow into typed state machine
+
+- [2025-05-03T15:50] test(utils): add unit tests for currency formatter edge cases
