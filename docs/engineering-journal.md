@@ -701,3 +701,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-03T17:17] fix(seo): enforce lowercase URLs in canonical links to prevent split rank
 
 - [2025-05-03T18:46] feat(auth): implement password strength meter on user registration form
+
+- [2025-05-03T19:41] perf(scroll): throttle Lenis smooth scroll event listener to 60fps
