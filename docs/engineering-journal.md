@@ -725,3 +725,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-05T19:48] chore(lint): enable strict TypeScript linting rules across all route handlers
 
 - [2025-05-05T21:14] feat(seo): add canonical URL tag generator to eliminate duplicate content
+
+- [2025-05-05T22:09] feat(marketplace): add price sorting and rating filter dropdowns
