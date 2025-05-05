@@ -711,3 +711,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-05T12:07] feat(auth): add GitHub and Google OAuth login provider buttons
 
 - [2025-05-05T13:52] feat(seo): add JSON-LD Product and BreadcrumbList structured data
+
+- [2025-05-05T15:08] test(cart): add unit tests for discount percentage and subtotal math
