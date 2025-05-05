@@ -715,3 +715,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-05T15:08] test(cart): add unit tests for discount percentage and subtotal math
 
 - [2025-05-05T15:46] feat(checkout): add eSewa wallet direct payment verification handler
+
+- [2025-05-05T16:27] docs(setup): update local environment variables configuration guide
