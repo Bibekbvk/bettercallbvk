@@ -705,3 +705,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-03T19:41] perf(scroll): throttle Lenis smooth scroll event listener to 60fps
 
 - [2025-05-03T20:49] feat(marketplace): display verified developer badge on trusted vendor products
+
+- [2025-05-05T10:15] fix(routing): prevent 404 flash on dynamic route initial pre-render
