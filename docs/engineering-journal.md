@@ -719,3 +719,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-05T16:27] docs(setup): update local environment variables configuration guide
 
 - [2025-05-05T17:25] feat(ui): add typewriter headline effect with configurable speed
+
+- [2025-05-05T18:56] fix(checkout): disable purchase button while payment verification is pending
