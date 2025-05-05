@@ -729,3 +729,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-05T22:09] feat(marketplace): add price sorting and rating filter dropdowns
 
 - [2025-05-05T22:09] fix(auth): fix infinite redirect loop on expired refresh token
+
+- [2025-05-05T22:24] docs(architecture): document state management and checkout lifecycle
