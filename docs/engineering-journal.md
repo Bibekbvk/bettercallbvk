@@ -709,3 +709,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-05T10:15] fix(routing): prevent 404 flash on dynamic route initial pre-render
 
 - [2025-05-05T12:07] feat(auth): add GitHub and Google OAuth login provider buttons
+
+- [2025-05-05T13:52] feat(seo): add JSON-LD Product and BreadcrumbList structured data
