@@ -733,3 +733,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-05T22:24] docs(architecture): document state management and checkout lifecycle
 
 - [2025-05-06T10:01] feat(admin): add system health and Supabase database latency monitor
+
+- [2025-05-06T10:52] fix(navbar): resolve backdrop-filter blur clipping on mobile Safari iOS
