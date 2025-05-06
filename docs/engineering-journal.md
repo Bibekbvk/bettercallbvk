@@ -737,3 +737,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-06T10:52] fix(navbar): resolve backdrop-filter blur clipping on mobile Safari iOS
 
 - [2025-05-06T12:19] refactor(auth): wrap Supabase client initialization in safe singleton pattern
+
+- [2025-05-06T13:34] feat(admin): export transaction logs and order summary to CSV format
