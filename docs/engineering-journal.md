@@ -741,3 +741,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-06T13:34] feat(admin): export transaction logs and order summary to CSV format
 
 - [2025-05-06T15:10] feat(profile): allow user avatar upload and emergency contact update
+
+- [2025-05-06T16:02] feat(admin): add monthly sales breakdown bar chart and trend indicator
