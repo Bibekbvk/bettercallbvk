@@ -747,3 +747,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-06T16:59] feat(profile): display user purchased downloads and order history table
 
 - [2025-05-06T18:49] feat(checkout): validate customer phone numbers for Nepal telecom operators
+
+- [2025-05-06T20:00] fix(cart): clear active cart items upon confirmed order completion
