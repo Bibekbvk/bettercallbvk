@@ -739,3 +739,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-06T12:19] refactor(auth): wrap Supabase client initialization in safe singleton pattern
 
 - [2025-05-06T13:34] feat(admin): export transaction logs and order summary to CSV format
+
+- [2025-05-06T15:10] feat(profile): allow user avatar upload and emergency contact update
