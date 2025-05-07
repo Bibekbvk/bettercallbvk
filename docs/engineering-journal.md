@@ -763,3 +763,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-07T15:33] fix(db): handle null response gracefully when querying empty category
 
 - [2025-05-07T17:26] feat(profile): implement dark/light theme preference toggle synced to DB
+
+- [2025-05-07T18:30] feat(marketplace): add category filter chips for AI models, templates, and plugins
