@@ -769,3 +769,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-07T20:04] refactor(hooks): create custom useDebounce hook for search input optimization
 
 - [2025-05-07T21:12] feat(checkout): integrate Fonepay dynamic QR code generation modal
+
+- [2025-05-07T22:03] feat(marketplace): support multi-currency display formatting (NPR and USD)
