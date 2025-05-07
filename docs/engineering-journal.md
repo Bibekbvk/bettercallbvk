@@ -755,3 +755,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-06T22:07] feat(profile): add API key generator for developer API integrations
 
 - [2025-05-07T11:22] perf(cart): debounce rapid quantity increment dispatches to reduce store churn
+
+- [2025-05-07T13:10] fix(images): add blur-up placeholder while hero banner image loads
