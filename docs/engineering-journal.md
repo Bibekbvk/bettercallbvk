@@ -773,3 +773,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-07T22:03] feat(marketplace): support multi-currency display formatting (NPR and USD)
 
 - [2025-05-07T22:08] feat(cart): implement persistent shopping cart using browser localStorage
+
+- [2025-05-07T22:11] test(auth): add test cases for session persistence across browser reload
