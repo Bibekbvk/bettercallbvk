@@ -765,3 +765,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-07T17:26] feat(profile): implement dark/light theme preference toggle synced to DB
 
 - [2025-05-07T18:30] feat(marketplace): add category filter chips for AI models, templates, and plugins
+
+- [2025-05-07T20:04] refactor(hooks): create custom useDebounce hook for search input optimization
