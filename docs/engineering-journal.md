@@ -761,3 +761,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-07T13:47] feat(marketplace): implement customer reviews and 5-star rating breakdown
 
 - [2025-05-07T15:33] fix(db): handle null response gracefully when querying empty category
+
+- [2025-05-07T17:26] feat(profile): implement dark/light theme preference toggle synced to DB
