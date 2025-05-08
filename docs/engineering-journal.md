@@ -781,3 +781,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-08T10:17] docs(api): document Supabase Row Level Security (RLS) policies
 
 - [2025-05-08T12:04] perf(cache): set immutable Cache-Control headers for static public assets
+
+- [2025-05-08T12:40] docs(deploy): document Firebase Hosting build and deploy checklist
