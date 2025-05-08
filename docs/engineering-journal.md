@@ -791,3 +791,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-08T17:33] fix(ui): correct z-index stacking context for modal overlay backdrop
 
 - [2025-05-08T18:36] fix(performance): cancel pending fetch controller on component unmount
+
+- [2025-05-08T19:37] feat(checkout): scaffold multi-step checkout wizard with progress indicators
