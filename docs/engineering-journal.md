@@ -795,3 +795,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-08T19:37] feat(checkout): scaffold multi-step checkout wizard with progress indicators
 
 - [2025-05-08T20:46] feat(admin): build executive dashboard with Recharts revenue metrics
+
+- [2025-05-08T22:15] fix(admin): ensure numeric sorting order on product price column
