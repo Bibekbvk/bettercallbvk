@@ -783,3 +783,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-08T12:04] perf(cache): set immutable Cache-Control headers for static public assets
 
 - [2025-05-08T12:40] docs(deploy): document Firebase Hosting build and deploy checklist
+
+- [2025-05-08T14:22] feat(admin): implement product inventory manager with modal editor
