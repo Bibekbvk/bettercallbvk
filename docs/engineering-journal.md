@@ -799,3 +799,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-08T22:15] fix(admin): ensure numeric sorting order on product price column
 
 - [2025-05-08T22:16] feat(admin): add customer management table with search and pagination
+
+- [2025-05-08T22:17] fix(auth): sanitize login email input to remove leading and trailing spaces
