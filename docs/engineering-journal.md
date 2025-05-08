@@ -803,3 +803,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-08T22:17] fix(auth): sanitize login email input to remove leading and trailing spaces
 
 - [2025-05-08T22:18] fix(styles): fix flex wrap collision on small viewport filter chips
+
+- [2025-05-08T22:24] feat(blog): implement related articles algorithm based on shared tags
