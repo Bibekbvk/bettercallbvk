@@ -785,3 +785,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-08T12:40] docs(deploy): document Firebase Hosting build and deploy checklist
 
 - [2025-05-08T14:22] feat(admin): implement product inventory manager with modal editor
+
+- [2025-05-08T15:55] feat(marketplace): add stock availability indicator and low-inventory warning
