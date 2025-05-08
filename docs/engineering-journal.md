@@ -777,3 +777,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-07T22:11] test(auth): add test cases for session persistence across browser reload
 
 - [2025-05-07T22:34] refactor(constants): centralize route URLs and navigation metadata
+
+- [2025-05-08T10:17] docs(api): document Supabase Row Level Security (RLS) policies
