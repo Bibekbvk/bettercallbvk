@@ -787,3 +787,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-08T14:22] feat(admin): implement product inventory manager with modal editor
 
 - [2025-05-08T15:55] feat(marketplace): add stock availability indicator and low-inventory warning
+
+- [2025-05-08T17:33] fix(ui): correct z-index stacking context for modal overlay backdrop
