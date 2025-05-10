@@ -831,3 +831,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-10T22:08] fix(blog): escape angle brackets inside markdown code blocks
 
 - [2025-05-10T22:18] feat(ui): implement sound toggle micro-interaction on button click
+
+- [2025-05-10T22:22] refactor(components): extract reusable Modal, Dialog, and Backdrop primitives
