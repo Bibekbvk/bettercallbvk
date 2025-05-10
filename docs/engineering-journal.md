@@ -819,3 +819,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-10T16:26] feat(marketplace): add related items recommendation carousel on product detail view
 
 - [2025-05-10T17:59] feat(ui): add animated counter component for live stats section
+
+- [2025-05-10T18:35] feat(blog): add social sharing buttons for LinkedIn, Twitter, and WhatsApp
