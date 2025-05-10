@@ -813,3 +813,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-10T12:27] perf(render): wrap expensive marketplace filter logic in React useMemo
 
 - [2025-05-10T13:32] feat(seo): configure robots.txt directives and Google verification tag
+
+- [2025-05-10T15:04] feat(marketplace): add instant copy share link action with toast notification
