@@ -827,3 +827,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-10T20:52] feat(ui): add accessible keyboard focus rings across all interactive elements
 
 - [2025-05-10T21:54] fix(profile): provide fallback initial letter avatar when photo URL is empty
+
+- [2025-05-10T22:08] fix(blog): escape angle brackets inside markdown code blocks
