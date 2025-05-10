@@ -835,3 +835,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-10T22:22] refactor(components): extract reusable Modal, Dialog, and Backdrop primitives
 
 - [2025-05-10T22:38] perf(bundle): dynamic import Recharts library to reduce initial JS payload
+
+- [2025-05-10T22:47] feat(checkout): implement downloadable asset token delivery on checkout success
