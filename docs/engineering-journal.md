@@ -823,3 +823,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-10T18:35] feat(blog): add social sharing buttons for LinkedIn, Twitter, and WhatsApp
 
 - [2025-05-10T19:27] feat(blog): implement sticky table of contents with active heading spy
+
+- [2025-05-10T20:52] feat(ui): add accessible keyboard focus rings across all interactive elements
