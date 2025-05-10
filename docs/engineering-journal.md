@@ -809,3 +809,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-10T10:22] feat(marketplace): implement quick-view modal for product specification details
 
 - [2025-05-10T11:15] perf(images): convert all PNG banners to WebP format for 70% size reduction
+
+- [2025-05-10T12:27] perf(render): wrap expensive marketplace filter logic in React useMemo
