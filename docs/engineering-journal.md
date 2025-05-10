@@ -825,3 +825,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-10T19:27] feat(blog): implement sticky table of contents with active heading spy
 
 - [2025-05-10T20:52] feat(ui): add accessible keyboard focus rings across all interactive elements
+
+- [2025-05-10T21:54] fix(profile): provide fallback initial letter avatar when photo URL is empty
