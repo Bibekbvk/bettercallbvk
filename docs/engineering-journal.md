@@ -839,3 +839,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-10T22:47] feat(checkout): implement downloadable asset token delivery on checkout success
 
 - [2025-05-12T10:12] feat(profile): display user purchased downloads and order history table
+
+- [2025-05-12T11:54] feat(blog): add social sharing buttons for LinkedIn, Twitter, and WhatsApp
