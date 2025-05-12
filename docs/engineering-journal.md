@@ -853,3 +853,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-12T18:41] refactor(admin): modularize admin charts into standalone presentational components
 
 - [2025-05-12T19:19] feat(cart): add animated badge counter on navbar shopping cart icon
+
+- [2025-05-12T20:09] feat(checkout): add automated PDF receipt generation and email dispatch
