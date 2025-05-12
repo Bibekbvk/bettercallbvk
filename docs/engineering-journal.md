@@ -849,3 +849,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-12T16:16] feat(blog): add syntax highlighting for TypeScript, SQL, and Python code blocks
 
 - [2025-05-12T17:54] feat(ui): add interactive hover tilt effect to marketplace product cards
+
+- [2025-05-12T18:41] refactor(admin): modularize admin charts into standalone presentational components
