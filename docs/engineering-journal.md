@@ -847,3 +847,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-12T15:10] feat(seo): add JSON-LD Product and BreadcrumbList structured data
 
 - [2025-05-12T16:16] feat(blog): add syntax highlighting for TypeScript, SQL, and Python code blocks
+
+- [2025-05-12T17:54] feat(ui): add interactive hover tilt effect to marketplace product cards
