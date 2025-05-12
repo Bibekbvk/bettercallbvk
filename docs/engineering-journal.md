@@ -841,3 +841,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-12T10:12] feat(profile): display user purchased downloads and order history table
 
 - [2025-05-12T11:54] feat(blog): add social sharing buttons for LinkedIn, Twitter, and WhatsApp
+
+- [2025-05-12T13:42] perf(render): wrap expensive marketplace filter logic in React useMemo
