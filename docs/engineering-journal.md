@@ -865,3 +865,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-12T22:29] feat(marketplace): support multi-currency display formatting (NPR and USD)
 
 - [2025-05-12T22:34] feat(cart): add slide-over drawer cart view with item quantity controls
+
+- [2025-05-12T22:58] fix(blog): escape angle brackets inside markdown code blocks
