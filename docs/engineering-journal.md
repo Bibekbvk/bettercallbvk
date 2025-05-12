@@ -861,3 +861,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-12T22:13] feat(ui): add accessible keyboard focus rings across all interactive elements
 
 - [2025-05-12T22:19] test(utils): add unit tests for currency formatter edge cases
+
+- [2025-05-12T22:29] feat(marketplace): support multi-currency display formatting (NPR and USD)
