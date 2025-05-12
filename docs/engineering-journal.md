@@ -851,3 +851,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-12T17:54] feat(ui): add interactive hover tilt effect to marketplace product cards
 
 - [2025-05-12T18:41] refactor(admin): modularize admin charts into standalone presentational components
+
+- [2025-05-12T19:19] feat(cart): add animated badge counter on navbar shopping cart icon
