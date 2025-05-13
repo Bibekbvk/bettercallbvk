@@ -871,3 +871,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-13T10:54] fix(performance): cancel pending fetch controller on component unmount
 
 - [2025-05-13T12:11] feat(ui): implement responsive mobile drawer with backdrop blur
+
+- [2025-05-13T14:05] fix(profile): provide fallback initial letter avatar when photo URL is empty
