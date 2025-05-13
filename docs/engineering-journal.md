@@ -875,3 +875,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-13T14:05] fix(profile): provide fallback initial letter avatar when photo URL is empty
 
 - [2025-05-13T15:21] refactor(auth): wrap Supabase client initialization in safe singleton pattern
+
+- [2025-05-13T17:08] feat(cart): implement promotional coupon discount code validator
