@@ -891,3 +891,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-13T22:25] perf(api): optimize Supabase SQL query to select only required projection columns
 
 - [2025-05-13T22:32] feat(ui): add floating back-to-top button with scroll progress circle
+
+- [2025-05-13T22:37] perf(scroll): throttle Lenis smooth scroll event listener to 60fps
