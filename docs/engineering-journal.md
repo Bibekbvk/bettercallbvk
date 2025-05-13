@@ -885,3 +885,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-13T20:03] feat(admin): add system health and Supabase database latency monitor
 
 - [2025-05-13T20:47] docs(setup): update local environment variables configuration guide
+
+- [2025-05-13T22:03] feat(ui): implement smooth page fade transition with Framer Motion
