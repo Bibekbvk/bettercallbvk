@@ -869,3 +869,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-12T22:58] fix(blog): escape angle brackets inside markdown code blocks
 
 - [2025-05-13T10:54] fix(performance): cancel pending fetch controller on component unmount
+
+- [2025-05-13T12:11] feat(ui): implement responsive mobile drawer with backdrop blur
