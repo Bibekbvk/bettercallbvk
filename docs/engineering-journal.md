@@ -867,3 +867,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-12T22:34] feat(cart): add slide-over drawer cart view with item quantity controls
 
 - [2025-05-12T22:58] fix(blog): escape angle brackets inside markdown code blocks
+
+- [2025-05-13T10:54] fix(performance): cancel pending fetch controller on component unmount
