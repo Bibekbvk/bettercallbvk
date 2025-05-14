@@ -901,3 +901,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-14T12:14] feat(admin): build executive dashboard with Recharts revenue metrics
 
 - [2025-05-14T13:40] fix(auth): fix infinite redirect loop on expired refresh token
+
+- [2025-05-14T14:34] refactor(constants): centralize route URLs and navigation metadata
