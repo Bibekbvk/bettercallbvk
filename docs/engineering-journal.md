@@ -907,3 +907,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-14T15:47] refactor(utils): move currency, date, and string helpers to shared utils lib
 
 - [2025-05-14T17:17] perf(dom): remove unused DOM nodes from hidden mobile navigation
+
+- [2025-05-14T18:31] docs(api): document Supabase Row Level Security (RLS) policies
