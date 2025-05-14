@@ -903,3 +903,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-14T13:40] fix(auth): fix infinite redirect loop on expired refresh token
 
 - [2025-05-14T14:34] refactor(constants): centralize route URLs and navigation metadata
+
+- [2025-05-14T15:47] refactor(utils): move currency, date, and string helpers to shared utils lib
