@@ -895,3 +895,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-13T22:37] perf(scroll): throttle Lenis smooth scroll event listener to 60fps
 
 - [2025-05-13T22:39] refactor(theme): streamline Tailwind color tokens and dark mode CSS variables
+
+- [2025-05-14T11:19] feat(auth): implement password strength meter on user registration form
