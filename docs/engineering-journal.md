@@ -897,3 +897,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-13T22:39] refactor(theme): streamline Tailwind color tokens and dark mode CSS variables
 
 - [2025-05-14T11:19] feat(auth): implement password strength meter on user registration form
+
+- [2025-05-14T12:14] feat(admin): build executive dashboard with Recharts revenue metrics
