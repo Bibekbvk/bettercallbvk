@@ -915,3 +915,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-15T10:33] feat(admin): implement product inventory manager with modal editor
 
 - [2025-05-15T12:13] refactor(components): extract reusable Modal, Dialog, and Backdrop primitives
+
+- [2025-05-15T13:50] refactor(types): centralize Product, Order, and CartItem TypeScript interfaces
