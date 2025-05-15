@@ -927,3 +927,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-15T19:00] test(cart): add unit tests for discount percentage and subtotal math
 
 - [2025-05-15T20:29] fix(ui): correct z-index stacking context for modal overlay backdrop
+
+- [2025-05-15T22:01] feat(marketplace): add price sorting and rating filter dropdowns
