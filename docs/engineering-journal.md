@@ -923,3 +923,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-15T16:23] fix(security): sanitize SVG uploads against embedded cross-site script payloads
 
 - [2025-05-15T18:14] feat(marketplace): add category filter chips for AI models, templates, and plugins
+
+- [2025-05-15T19:00] test(cart): add unit tests for discount percentage and subtotal math
