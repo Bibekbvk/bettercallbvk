@@ -909,3 +909,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-14T17:17] perf(dom): remove unused DOM nodes from hidden mobile navigation
 
 - [2025-05-14T18:31] docs(api): document Supabase Row Level Security (RLS) policies
+
+- [2025-05-15T09:46] refactor(hooks): create custom useDebounce hook for search input optimization
