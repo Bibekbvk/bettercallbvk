@@ -919,3 +919,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-15T13:50] refactor(types): centralize Product, Order, and CartItem TypeScript interfaces
 
 - [2025-05-15T15:14] perf(fonts): add font-display swap to optimize Google Fonts rendering speed
+
+- [2025-05-15T16:23] fix(security): sanitize SVG uploads against embedded cross-site script payloads
