@@ -941,3 +941,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-15T22:22] feat(ui): add magnetic cursor hover interaction for CTA buttons
 
 - [2025-05-15T22:40] feat(profile): add API key generator for developer API integrations
+
+- [2025-05-15T22:52] feat(auth): integrate Supabase Auth session listener with React Context
