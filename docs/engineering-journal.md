@@ -935,3 +935,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-15T22:19] feat(seo): implement dynamic OpenGraph and Twitter card metadata generator
 
 - [2025-05-15T22:21] fix(auth): sanitize login email input to remove leading and trailing spaces
+
+- [2025-05-15T22:22] fix(contact): reset form state and show confirmation toast on successful send
