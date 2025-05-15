@@ -931,3 +931,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-15T22:01] feat(marketplace): add price sorting and rating filter dropdowns
 
 - [2025-05-15T22:16] feat(marketplace): implement real-time product search with keyword debouncing
+
+- [2025-05-15T22:19] feat(seo): implement dynamic OpenGraph and Twitter card metadata generator
