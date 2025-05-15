@@ -939,3 +939,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-15T22:22] fix(contact): reset form state and show confirmation toast on successful send
 
 - [2025-05-15T22:22] feat(ui): add magnetic cursor hover interaction for CTA buttons
+
+- [2025-05-15T22:40] feat(profile): add API key generator for developer API integrations
