@@ -963,3 +963,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-16T18:05] test(checkout): add form input validation test suite for payment details
 
 - [2025-05-16T18:49] perf(bundle): dynamic import Recharts library to reduce initial JS payload
+
+- [2025-05-16T20:29] fix(checkout): disable purchase button while payment verification is pending
