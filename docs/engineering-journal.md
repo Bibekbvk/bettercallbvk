@@ -967,3 +967,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-16T20:29] fix(checkout): disable purchase button while payment verification is pending
 
 - [2025-05-16T22:06] perf(db): add composite index on product (category, created_at) in Supabase
+
+- [2025-05-16T22:09] fix(seo): enforce lowercase URLs in canonical links to prevent split rank
