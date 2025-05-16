@@ -955,3 +955,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-16T13:18] fix(db): handle null response gracefully when querying empty category
 
 - [2025-05-16T14:31] feat(profile): allow user avatar upload and emergency contact update
+
+- [2025-05-16T16:12] feat(admin): add monthly sales breakdown bar chart and trend indicator
