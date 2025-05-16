@@ -945,3 +945,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-15T22:52] feat(auth): integrate Supabase Auth session listener with React Context
 
 - [2025-05-15T22:58] feat(checkout): integrate Fonepay dynamic QR code generation modal
+
+- [2025-05-16T10:29] feat(seo): configure robots.txt directives and Google verification tag
