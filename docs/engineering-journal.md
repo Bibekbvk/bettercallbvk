@@ -949,3 +949,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-16T10:29] feat(seo): configure robots.txt directives and Google verification tag
 
 - [2025-05-16T11:14] fix(navbar): resolve backdrop-filter blur clipping on mobile Safari iOS
+
+- [2025-05-16T12:27] fix(routing): prevent 404 flash on dynamic route initial pre-render
