@@ -971,3 +971,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-16T22:09] fix(seo): enforce lowercase URLs in canonical links to prevent split rank
 
 - [2025-05-16T22:10] feat(ui): implement sound toggle micro-interaction on button click
+
+- [2025-05-16T22:17] feat(blog): implement related articles algorithm based on shared tags
