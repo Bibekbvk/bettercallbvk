@@ -975,3 +975,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-16T22:17] feat(blog): implement related articles algorithm based on shared tags
 
 - [2025-05-16T22:34] feat(ui): integrate Aurora mesh gradient animated background
+
+- [2025-05-16T22:36] feat(marketplace): add instant copy share link action with toast notification
