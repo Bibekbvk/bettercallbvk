@@ -953,3 +953,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-16T12:27] fix(routing): prevent 404 flash on dynamic route initial pre-render
 
 - [2025-05-16T13:18] fix(db): handle null response gracefully when querying empty category
+
+- [2025-05-16T14:31] feat(profile): allow user avatar upload and emergency contact update
