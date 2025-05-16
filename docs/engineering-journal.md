@@ -973,3 +973,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-16T22:10] feat(ui): implement sound toggle micro-interaction on button click
 
 - [2025-05-16T22:17] feat(blog): implement related articles algorithm based on shared tags
+
+- [2025-05-16T22:34] feat(ui): integrate Aurora mesh gradient animated background
