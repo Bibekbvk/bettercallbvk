@@ -961,3 +961,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-16T17:24] feat(admin): add customer management table with search and pagination
 
 - [2025-05-16T18:05] test(checkout): add form input validation test suite for payment details
+
+- [2025-05-16T18:49] perf(bundle): dynamic import Recharts library to reduce initial JS payload
