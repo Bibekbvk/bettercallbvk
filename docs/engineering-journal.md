@@ -951,3 +951,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-16T11:14] fix(navbar): resolve backdrop-filter blur clipping on mobile Safari iOS
 
 - [2025-05-16T12:27] fix(routing): prevent 404 flash on dynamic route initial pre-render
+
+- [2025-05-16T13:18] fix(db): handle null response gracefully when querying empty category
