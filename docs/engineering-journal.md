@@ -977,3 +977,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-16T22:34] feat(ui): integrate Aurora mesh gradient animated background
 
 - [2025-05-16T22:36] feat(marketplace): add instant copy share link action with toast notification
+
+- [2025-05-16T22:45] feat(checkout): scaffold multi-step checkout wizard with progress indicators
