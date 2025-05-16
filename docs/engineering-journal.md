@@ -979,3 +979,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-16T22:36] feat(marketplace): add instant copy share link action with toast notification
 
 - [2025-05-16T22:45] feat(checkout): scaffold multi-step checkout wizard with progress indicators
+
+- [2025-05-16T22:57] feat(marketplace): implement quick-view modal for product specification details
