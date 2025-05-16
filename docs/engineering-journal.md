@@ -957,3 +957,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-16T14:31] feat(profile): allow user avatar upload and emergency contact update
 
 - [2025-05-16T16:12] feat(admin): add monthly sales breakdown bar chart and trend indicator
+
+- [2025-05-16T17:24] feat(admin): add customer management table with search and pagination
