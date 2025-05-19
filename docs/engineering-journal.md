@@ -991,3 +991,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-19T12:58] feat(seo): optimize title tags and meta descriptions for high CTR
 
 - [2025-05-19T14:11] fix(styles): fix flex wrap collision on small viewport filter chips
+
+- [2025-05-19T16:01] feat(checkout): validate customer phone numbers for Nepal telecom operators
