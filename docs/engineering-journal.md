@@ -1001,3 +1001,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-19T20:14] feat(marketplace): add related items recommendation carousel on product detail view
 
 - [2025-05-19T21:12] feat(admin): implement role-based access control (RBAC) guard on admin routes
+
+- [2025-05-19T22:02] fix(checkout): handle network timeout exception during payment webhook call
