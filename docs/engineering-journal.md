@@ -995,3 +995,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-19T16:01] feat(checkout): validate customer phone numbers for Nepal telecom operators
 
 - [2025-05-19T17:34] feat(checkout): add eSewa wallet direct payment verification handler
+
+- [2025-05-19T19:06] perf(cart): debounce rapid quantity increment dispatches to reduce store churn
