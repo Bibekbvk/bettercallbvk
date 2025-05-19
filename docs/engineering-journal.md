@@ -993,3 +993,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-19T14:11] fix(styles): fix flex wrap collision on small viewport filter chips
 
 - [2025-05-19T16:01] feat(checkout): validate customer phone numbers for Nepal telecom operators
+
+- [2025-05-19T17:34] feat(checkout): add eSewa wallet direct payment verification handler
