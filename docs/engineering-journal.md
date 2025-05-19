@@ -983,3 +983,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-16T22:57] feat(marketplace): implement quick-view modal for product specification details
 
 - [2025-05-19T09:52] feat(admin): export transaction logs and order summary to CSV format
+
+- [2025-05-19T10:50] feat(profile): implement dark/light theme preference toggle synced to DB
