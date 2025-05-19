@@ -999,3 +999,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-19T19:06] perf(cart): debounce rapid quantity increment dispatches to reduce store churn
 
 - [2025-05-19T20:14] feat(marketplace): add related items recommendation carousel on product detail view
+
+- [2025-05-19T21:12] feat(admin): implement role-based access control (RBAC) guard on admin routes
