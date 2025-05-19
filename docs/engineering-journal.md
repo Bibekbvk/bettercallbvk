@@ -987,3 +987,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-19T10:50] feat(profile): implement dark/light theme preference toggle synced to DB
 
 - [2025-05-19T11:30] feat(auth): add GitHub and Google OAuth login provider buttons
+
+- [2025-05-19T12:58] feat(seo): optimize title tags and meta descriptions for high CTR
