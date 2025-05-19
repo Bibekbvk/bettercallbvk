@@ -1007,3 +1007,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-19T22:08] feat(cart): implement persistent shopping cart using browser localStorage
 
 - [2025-05-19T22:10] refactor(checkout): transition checkout workflow into typed state machine
+
+- [2025-05-19T22:33] feat(blog): implement sticky table of contents with active heading spy
