@@ -1011,3 +1011,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-19T22:33] feat(blog): implement sticky table of contents with active heading spy
 
 - [2025-05-19T22:50] test(auth): add test cases for session persistence across browser reload
+
+- [2025-05-19T22:57] fix(cart): prevent quantity decrement below minimum allowable count of 1
