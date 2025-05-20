@@ -1017,3 +1017,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-20T10:53] chore(lint): enable strict TypeScript linting rules across all route handlers
 
 - [2025-05-20T12:26] feat(checkout): implement downloadable asset token delivery on checkout success
+
+- [2025-05-20T13:52] docs(architecture): document state management and checkout lifecycle
