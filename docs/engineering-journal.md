@@ -1021,3 +1021,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-20T13:52] docs(architecture): document state management and checkout lifecycle
 
 - [2025-05-20T15:44] feat(marketplace): display verified developer badge on trusted vendor products
+
+- [2025-05-20T17:21] feat(seo): add canonical URL tag generator to eliminate duplicate content
