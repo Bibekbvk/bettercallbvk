@@ -1013,3 +1013,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-19T22:50] test(auth): add test cases for session persistence across browser reload
 
 - [2025-05-19T22:57] fix(cart): prevent quantity decrement below minimum allowable count of 1
+
+- [2025-05-20T10:53] chore(lint): enable strict TypeScript linting rules across all route handlers
