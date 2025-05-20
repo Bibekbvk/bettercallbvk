@@ -1023,3 +1023,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-20T15:44] feat(marketplace): display verified developer badge on trusted vendor products
 
 - [2025-05-20T17:21] feat(seo): add canonical URL tag generator to eliminate duplicate content
+
+- [2025-05-20T19:15] feat(marketplace): add stock availability indicator and low-inventory warning
