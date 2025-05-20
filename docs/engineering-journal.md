@@ -1019,3 +1019,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-20T12:26] feat(checkout): implement downloadable asset token delivery on checkout success
 
 - [2025-05-20T13:52] docs(architecture): document state management and checkout lifecycle
+
+- [2025-05-20T15:44] feat(marketplace): display verified developer badge on trusted vendor products
