@@ -1031,3 +1031,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-21T12:23] feat(auth): add email confirmation redirect handler and session sync route
 
 - [2025-05-21T13:09] feat(blog): scaffold engineering blog with category tags and reading time
+
+- [2025-05-21T14:01] feat(seo): generate dynamic XML sitemap with lastmod timestamps
