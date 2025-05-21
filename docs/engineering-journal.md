@@ -1025,3 +1025,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-20T17:21] feat(seo): add canonical URL tag generator to eliminate duplicate content
 
 - [2025-05-20T19:15] feat(marketplace): add stock availability indicator and low-inventory warning
+
+- [2025-05-21T10:58] fix(images): add blur-up placeholder while hero banner image loads
