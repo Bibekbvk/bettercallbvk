@@ -1039,3 +1039,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-21T15:37] perf(images): convert all PNG banners to WebP format for 70% size reduction
 
 - [2025-05-21T16:36] perf(cache): set immutable Cache-Control headers for static public assets
+
+- [2025-05-21T17:37] fix(admin): ensure numeric sorting order on product price column
