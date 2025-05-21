@@ -1049,3 +1049,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-21T21:30] fix(cart): clear active cart items upon confirmed order completion
 
 - [2025-05-21T22:08] feat(marketplace): add related items recommendation carousel on product detail view
+
+- [2025-05-21T22:13] perf(dom): remove unused DOM nodes from hidden mobile navigation
