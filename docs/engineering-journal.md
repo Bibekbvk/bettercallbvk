@@ -1045,3 +1045,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-21T18:30] docs(deploy): document Firebase Hosting build and deploy checklist
 
 - [2025-05-21T19:35] feat(ui): add typewriter headline effect with configurable speed
+
+- [2025-05-21T21:30] fix(cart): clear active cart items upon confirmed order completion
