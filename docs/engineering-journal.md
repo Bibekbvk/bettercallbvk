@@ -1035,3 +1035,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-21T14:01] feat(seo): generate dynamic XML sitemap with lastmod timestamps
 
 - [2025-05-21T15:00] feat(ui): add animated counter component for live stats section
+
+- [2025-05-21T15:37] perf(images): convert all PNG banners to WebP format for 70% size reduction
