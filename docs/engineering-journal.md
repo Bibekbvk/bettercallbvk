@@ -1051,3 +1051,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-21T22:08] feat(marketplace): add related items recommendation carousel on product detail view
 
 - [2025-05-21T22:13] perf(dom): remove unused DOM nodes from hidden mobile navigation
+
+- [2025-05-21T22:16] test(checkout): add form input validation test suite for payment details
