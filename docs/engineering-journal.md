@@ -1029,3 +1029,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-21T10:58] fix(images): add blur-up placeholder while hero banner image loads
 
 - [2025-05-21T12:23] feat(auth): add email confirmation redirect handler and session sync route
+
+- [2025-05-21T13:09] feat(blog): scaffold engineering blog with category tags and reading time
