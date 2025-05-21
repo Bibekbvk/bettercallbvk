@@ -1037,3 +1037,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-21T15:00] feat(ui): add animated counter component for live stats section
 
 - [2025-05-21T15:37] perf(images): convert all PNG banners to WebP format for 70% size reduction
+
+- [2025-05-21T16:36] perf(cache): set immutable Cache-Control headers for static public assets
