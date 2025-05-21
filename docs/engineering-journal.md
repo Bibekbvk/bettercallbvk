@@ -1055,3 +1055,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-21T22:16] test(checkout): add form input validation test suite for payment details
 
 - [2025-05-21T22:21] chore(lint): enable strict TypeScript linting rules across all route handlers
+
+- [2025-05-21T22:38] refactor(utils): move currency, date, and string helpers to shared utils lib
