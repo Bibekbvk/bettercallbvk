@@ -1033,3 +1033,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-21T13:09] feat(blog): scaffold engineering blog with category tags and reading time
 
 - [2025-05-21T14:01] feat(seo): generate dynamic XML sitemap with lastmod timestamps
+
+- [2025-05-21T15:00] feat(ui): add animated counter component for live stats section
