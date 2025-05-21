@@ -1027,3 +1027,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-20T19:15] feat(marketplace): add stock availability indicator and low-inventory warning
 
 - [2025-05-21T10:58] fix(images): add blur-up placeholder while hero banner image loads
+
+- [2025-05-21T12:23] feat(auth): add email confirmation redirect handler and session sync route
