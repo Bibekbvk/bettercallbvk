@@ -1057,3 +1057,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-21T22:21] chore(lint): enable strict TypeScript linting rules across all route handlers
 
 - [2025-05-21T22:38] refactor(utils): move currency, date, and string helpers to shared utils lib
+
+- [2025-05-21T22:55] feat(profile): display user purchased downloads and order history table
