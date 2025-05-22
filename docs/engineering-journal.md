@@ -1079,3 +1079,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-22T21:00] feat(seo): add JSON-LD Product and BreadcrumbList structured data
 
 - [2025-05-22T21:48] perf(fonts): add font-display swap to optimize Google Fonts rendering speed
+
+- [2025-05-22T22:02] feat(blog): implement sticky table of contents with active heading spy
