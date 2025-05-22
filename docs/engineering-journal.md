@@ -1063,3 +1063,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-22T09:59] fix(auth): sanitize login email input to remove leading and trailing spaces
 
 - [2025-05-22T11:45] feat(ui): implement responsive mobile drawer with backdrop blur
+
+- [2025-05-22T13:22] feat(checkout): integrate Fonepay dynamic QR code generation modal
