@@ -1075,3 +1075,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-22T18:26] feat(auth): integrate Supabase Auth session listener with React Context
 
 - [2025-05-22T19:20] fix(checkout): handle network timeout exception during payment webhook call
+
+- [2025-05-22T21:00] feat(seo): add JSON-LD Product and BreadcrumbList structured data
