@@ -1065,3 +1065,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-22T11:45] feat(ui): implement responsive mobile drawer with backdrop blur
 
 - [2025-05-22T13:22] feat(checkout): integrate Fonepay dynamic QR code generation modal
+
+- [2025-05-22T14:40] perf(db): add composite index on product (category, created_at) in Supabase
