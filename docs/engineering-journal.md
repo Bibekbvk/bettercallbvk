@@ -1077,3 +1077,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-22T19:20] fix(checkout): handle network timeout exception during payment webhook call
 
 - [2025-05-22T21:00] feat(seo): add JSON-LD Product and BreadcrumbList structured data
+
+- [2025-05-22T21:48] perf(fonts): add font-display swap to optimize Google Fonts rendering speed
