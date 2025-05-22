@@ -1083,3 +1083,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-22T22:02] feat(blog): implement sticky table of contents with active heading spy
 
 - [2025-05-22T22:29] feat(profile): allow user avatar upload and emergency contact update
+
+- [2025-05-22T22:44] feat(marketplace): implement customer reviews and 5-star rating breakdown
