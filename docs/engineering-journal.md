@@ -1069,3 +1069,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-22T14:40] perf(db): add composite index on product (category, created_at) in Supabase
 
 - [2025-05-22T16:00] fix(contact): reset form state and show confirmation toast on successful send
+
+- [2025-05-22T16:40] fix(styles): fix flex wrap collision on small viewport filter chips
