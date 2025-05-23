@@ -1111,3 +1111,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-23T22:04] refactor(checkout): transition checkout workflow into typed state machine
 
 - [2025-05-23T22:24] feat(checkout): add automated PDF receipt generation and email dispatch
+
+- [2025-05-23T22:56] refactor(theme): streamline Tailwind color tokens and dark mode CSS variables
