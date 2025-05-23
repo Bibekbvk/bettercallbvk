@@ -1091,3 +1091,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-23T11:15] feat(admin): implement role-based access control (RBAC) guard on admin routes
 
 - [2025-05-23T11:55] fix(images): add blur-up placeholder while hero banner image loads
+
+- [2025-05-23T12:43] feat(ui): add interactive hover tilt effect to marketplace product cards
