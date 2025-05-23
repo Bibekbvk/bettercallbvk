@@ -1095,3 +1095,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-23T12:43] feat(ui): add interactive hover tilt effect to marketplace product cards
 
 - [2025-05-23T14:38] fix(performance): cancel pending fetch controller on component unmount
+
+- [2025-05-23T15:39] fix(cart): clear active cart items upon confirmed order completion
