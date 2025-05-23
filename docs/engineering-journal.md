@@ -1101,3 +1101,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-23T16:34] docs(setup): update local environment variables configuration guide
 
 - [2025-05-23T17:46] docs(architecture): document state management and checkout lifecycle
+
+- [2025-05-23T19:17] fix(admin): ensure numeric sorting order on product price column
