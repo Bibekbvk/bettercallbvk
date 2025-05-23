@@ -1089,3 +1089,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-22T22:51] feat(seo): optimize title tags and meta descriptions for high CTR
 
 - [2025-05-23T11:15] feat(admin): implement role-based access control (RBAC) guard on admin routes
+
+- [2025-05-23T11:55] fix(images): add blur-up placeholder while hero banner image loads
