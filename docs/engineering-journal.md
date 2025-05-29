@@ -1121,3 +1121,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-29T11:19] feat(auth): add email confirmation redirect handler and session sync route
 
 - [2025-05-29T12:58] feat(ui): add typewriter headline effect with configurable speed
+
+- [2025-05-29T13:43] refactor(constants): centralize route URLs and navigation metadata
