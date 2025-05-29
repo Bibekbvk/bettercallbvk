@@ -1117,3 +1117,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-23T22:56] test(cart): add unit tests for discount percentage and subtotal math
 
 - [2025-05-29T10:01] feat(marketplace): implement quick-view modal for product specification details
+
+- [2025-05-29T11:19] feat(auth): add email confirmation redirect handler and session sync route
