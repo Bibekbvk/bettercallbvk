@@ -1123,3 +1123,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-29T12:58] feat(ui): add typewriter headline effect with configurable speed
 
 - [2025-05-29T13:43] refactor(constants): centralize route URLs and navigation metadata
+
+- [2025-05-29T15:05] feat(blog): scaffold engineering blog with category tags and reading time
