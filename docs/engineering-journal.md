@@ -1127,3 +1127,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-05-29T15:05] feat(blog): scaffold engineering blog with category tags and reading time
 
 - [2025-06-02T10:16] feat(marketplace): add price sorting and rating filter dropdowns
+
+- [2025-06-02T11:22] feat(seo): implement dynamic OpenGraph and Twitter card metadata generator
