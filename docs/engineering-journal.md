@@ -1135,3 +1135,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-02T14:08] fix(blog): escape angle brackets inside markdown code blocks
 
 - [2025-06-02T15:37] perf(cache): set immutable Cache-Control headers for static public assets
+
+- [2025-06-02T17:04] test(utils): add unit tests for currency formatter edge cases
