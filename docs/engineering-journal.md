@@ -1133,3 +1133,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-02T13:04] docs(deploy): document Firebase Hosting build and deploy checklist
 
 - [2025-06-02T14:08] fix(blog): escape angle brackets inside markdown code blocks
+
+- [2025-06-02T15:37] perf(cache): set immutable Cache-Control headers for static public assets
