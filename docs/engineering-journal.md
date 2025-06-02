@@ -1129,3 +1129,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-02T10:16] feat(marketplace): add price sorting and rating filter dropdowns
 
 - [2025-06-02T11:22] feat(seo): implement dynamic OpenGraph and Twitter card metadata generator
+
+- [2025-06-02T13:04] docs(deploy): document Firebase Hosting build and deploy checklist
