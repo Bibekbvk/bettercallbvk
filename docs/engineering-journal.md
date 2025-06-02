@@ -1137,3 +1137,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-02T15:37] perf(cache): set immutable Cache-Control headers for static public assets
 
 - [2025-06-02T17:04] test(utils): add unit tests for currency formatter edge cases
+
+- [2025-06-02T18:45] perf(cart): debounce rapid quantity increment dispatches to reduce store churn
