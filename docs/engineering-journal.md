@@ -1151,3 +1151,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-03T16:03] feat(seo): add canonical URL tag generator to eliminate duplicate content
 
 - [2025-06-03T17:18] refactor(types): centralize Product, Order, and CartItem TypeScript interfaces
+
+- [2025-06-03T18:14] feat(cart): implement persistent shopping cart using browser localStorage
