@@ -1141,3 +1141,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-02T18:45] perf(cart): debounce rapid quantity increment dispatches to reduce store churn
 
 - [2025-06-03T11:30] feat(ui): implement sound toggle micro-interaction on button click
+
+- [2025-06-03T13:01] fix(ui): correct z-index stacking context for modal overlay backdrop
