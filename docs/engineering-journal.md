@@ -1145,3 +1145,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-03T13:01] fix(ui): correct z-index stacking context for modal overlay backdrop
 
 - [2025-06-03T13:37] feat(ui): implement smooth page fade transition with Framer Motion
+
+- [2025-06-03T15:18] feat(admin): add system health and Supabase database latency monitor
