@@ -1147,3 +1147,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-03T13:37] feat(ui): implement smooth page fade transition with Framer Motion
 
 - [2025-06-03T15:18] feat(admin): add system health and Supabase database latency monitor
+
+- [2025-06-03T16:03] feat(seo): add canonical URL tag generator to eliminate duplicate content
