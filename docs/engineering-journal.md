@@ -1157,3 +1157,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-05T10:20] fix(seo): enforce lowercase URLs in canonical links to prevent split rank
 
 - [2025-06-05T10:59] feat(admin): build executive dashboard with Recharts revenue metrics
+
+- [2025-06-05T11:53] feat(ui): add floating back-to-top button with scroll progress circle
