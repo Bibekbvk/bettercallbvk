@@ -1159,3 +1159,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-05T10:59] feat(admin): build executive dashboard with Recharts revenue metrics
 
 - [2025-06-05T11:53] feat(ui): add floating back-to-top button with scroll progress circle
+
+- [2025-06-05T12:35] fix(security): sanitize SVG uploads against embedded cross-site script payloads
