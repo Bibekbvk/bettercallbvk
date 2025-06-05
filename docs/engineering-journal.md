@@ -1155,3 +1155,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-03T18:14] feat(cart): implement persistent shopping cart using browser localStorage
 
 - [2025-06-05T10:20] fix(seo): enforce lowercase URLs in canonical links to prevent split rank
+
+- [2025-06-05T10:59] feat(admin): build executive dashboard with Recharts revenue metrics
