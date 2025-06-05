@@ -1153,3 +1153,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-03T17:18] refactor(types): centralize Product, Order, and CartItem TypeScript interfaces
 
 - [2025-06-03T18:14] feat(cart): implement persistent shopping cart using browser localStorage
+
+- [2025-06-05T10:20] fix(seo): enforce lowercase URLs in canonical links to prevent split rank
