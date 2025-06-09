@@ -1165,3 +1165,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-09T10:07] fix(profile): provide fallback initial letter avatar when photo URL is empty
 
 - [2025-06-09T11:33] feat(ui): integrate Aurora mesh gradient animated background
+
+- [2025-06-09T13:18] docs(api): document Supabase Row Level Security (RLS) policies
