@@ -1161,3 +1161,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-05T11:53] feat(ui): add floating back-to-top button with scroll progress circle
 
 - [2025-06-05T12:35] fix(security): sanitize SVG uploads against embedded cross-site script payloads
+
+- [2025-06-09T10:07] fix(profile): provide fallback initial letter avatar when photo URL is empty
