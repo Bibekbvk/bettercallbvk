@@ -1173,3 +1173,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-09T15:09] refactor(hooks): create custom useDebounce hook for search input optimization
 
 - [2025-06-09T16:51] perf(scroll): throttle Lenis smooth scroll event listener to 60fps
+
+- [2025-06-09T17:44] feat(marketplace): add stock availability indicator and low-inventory warning
