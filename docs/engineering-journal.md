@@ -1167,3 +1167,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-09T11:33] feat(ui): integrate Aurora mesh gradient animated background
 
 - [2025-06-09T13:18] docs(api): document Supabase Row Level Security (RLS) policies
+
+- [2025-06-09T14:33] chore(deps): upgrade Next.js and React dependencies to latest security patches
