@@ -1163,3 +1163,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-05T12:35] fix(security): sanitize SVG uploads against embedded cross-site script payloads
 
 - [2025-06-09T10:07] fix(profile): provide fallback initial letter avatar when photo URL is empty
+
+- [2025-06-09T11:33] feat(ui): integrate Aurora mesh gradient animated background
