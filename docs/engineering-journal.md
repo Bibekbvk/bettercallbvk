@@ -1189,3 +1189,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-10T18:01] feat(marketplace): implement real-time product search with keyword debouncing
 
 - [2025-06-10T19:27] feat(marketplace): display verified developer badge on trusted vendor products
+
+- [2025-06-10T20:27] feat(blog): add syntax highlighting for TypeScript, SQL, and Python code blocks
