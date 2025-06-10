@@ -1179,3 +1179,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-09T19:10] feat(cart): add animated badge counter on navbar shopping cart icon
 
 - [2025-06-10T11:23] feat(auth): implement password strength meter on user registration form
+
+- [2025-06-10T13:17] feat(blog): implement related articles algorithm based on shared tags
