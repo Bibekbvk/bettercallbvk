@@ -1187,3 +1187,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-10T16:42] feat(profile): implement dark/light theme preference toggle synced to DB
 
 - [2025-06-10T18:01] feat(marketplace): implement real-time product search with keyword debouncing
+
+- [2025-06-10T19:27] feat(marketplace): display verified developer badge on trusted vendor products
