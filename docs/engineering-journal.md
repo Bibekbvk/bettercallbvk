@@ -1197,3 +1197,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-10T22:10] fix(checkout): disable purchase button while payment verification is pending
 
 - [2025-06-10T22:19] fix(cart): prevent quantity decrement below minimum allowable count of 1
+
+- [2025-06-10T22:55] feat(checkout): scaffold multi-step checkout wizard with progress indicators
