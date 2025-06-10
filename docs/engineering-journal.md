@@ -1191,3 +1191,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-10T19:27] feat(marketplace): display verified developer badge on trusted vendor products
 
 - [2025-06-10T20:27] feat(blog): add syntax highlighting for TypeScript, SQL, and Python code blocks
+
+- [2025-06-10T21:12] test(auth): add test cases for session persistence across browser reload
