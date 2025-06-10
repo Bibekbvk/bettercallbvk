@@ -1183,3 +1183,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-10T13:17] feat(blog): implement related articles algorithm based on shared tags
 
 - [2025-06-10T15:11] feat(marketplace): add instant copy share link action with toast notification
+
+- [2025-06-10T16:42] feat(profile): implement dark/light theme preference toggle synced to DB
