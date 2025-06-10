@@ -1181,3 +1181,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-10T11:23] feat(auth): implement password strength meter on user registration form
 
 - [2025-06-10T13:17] feat(blog): implement related articles algorithm based on shared tags
+
+- [2025-06-10T15:11] feat(marketplace): add instant copy share link action with toast notification
