@@ -1199,3 +1199,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-10T22:19] fix(cart): prevent quantity decrement below minimum allowable count of 1
 
 - [2025-06-10T22:55] feat(checkout): scaffold multi-step checkout wizard with progress indicators
+
+- [2025-06-12T10:06] feat(profile): add API key generator for developer API integrations
