@@ -1209,3 +1209,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-12T14:18] feat(blog): add social sharing buttons for LinkedIn, Twitter, and WhatsApp
 
 - [2025-06-12T15:13] feat(marketplace): add category filter chips for AI models, templates, and plugins
+
+- [2025-06-12T15:51] refactor(admin): modularize admin charts into standalone presentational components
