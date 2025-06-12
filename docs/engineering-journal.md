@@ -1203,3 +1203,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-12T10:06] feat(profile): add API key generator for developer API integrations
 
 - [2025-06-12T10:52] fix(navbar): resolve backdrop-filter blur clipping on mobile Safari iOS
+
+- [2025-06-12T12:37] feat(cart): add slide-over drawer cart view with item quantity controls
