@@ -1215,3 +1215,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-12T17:35] feat(ui): add magnetic cursor hover interaction for CTA buttons
 
 - [2025-06-12T18:43] feat(admin): export transaction logs and order summary to CSV format
+
+- [2025-06-12T19:56] feat(admin): implement product inventory manager with modal editor
