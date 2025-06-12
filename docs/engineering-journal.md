@@ -1201,3 +1201,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-10T22:55] feat(checkout): scaffold multi-step checkout wizard with progress indicators
 
 - [2025-06-12T10:06] feat(profile): add API key generator for developer API integrations
+
+- [2025-06-12T10:52] fix(navbar): resolve backdrop-filter blur clipping on mobile Safari iOS
