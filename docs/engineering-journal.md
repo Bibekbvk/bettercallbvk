@@ -1207,3 +1207,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-12T12:37] feat(cart): add slide-over drawer cart view with item quantity controls
 
 - [2025-06-12T14:18] feat(blog): add social sharing buttons for LinkedIn, Twitter, and WhatsApp
+
+- [2025-06-12T15:13] feat(marketplace): add category filter chips for AI models, templates, and plugins
