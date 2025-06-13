@@ -1219,3 +1219,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-12T19:56] feat(admin): implement product inventory manager with modal editor
 
 - [2025-06-13T10:34] perf(api): optimize Supabase SQL query to select only required projection columns
+
+- [2025-06-13T11:16] fix(auth): fix infinite redirect loop on expired refresh token
