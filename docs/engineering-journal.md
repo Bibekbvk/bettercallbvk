@@ -1217,3 +1217,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-12T18:43] feat(admin): export transaction logs and order summary to CSV format
 
 - [2025-06-12T19:56] feat(admin): implement product inventory manager with modal editor
+
+- [2025-06-13T10:34] perf(api): optimize Supabase SQL query to select only required projection columns
