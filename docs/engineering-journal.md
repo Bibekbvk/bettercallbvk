@@ -1223,3 +1223,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-13T11:16] fix(auth): fix infinite redirect loop on expired refresh token
 
 - [2025-06-13T12:24] feat(auth): add GitHub and Google OAuth login provider buttons
+
+- [2025-06-13T14:03] fix(db): handle null response gracefully when querying empty category
