@@ -1243,3 +1243,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-16T18:03] feat(marketplace): support multi-currency display formatting (NPR and USD)
 
 - [2025-06-16T19:07] perf(render): wrap expensive marketplace filter logic in React useMemo
+
+- [2025-06-16T20:20] feat(seo): configure robots.txt directives and Google verification tag
