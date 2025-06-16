@@ -1231,3 +1231,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-13T15:43] perf(images): convert all PNG banners to WebP format for 70% size reduction
 
 - [2025-06-16T10:43] perf(bundle): dynamic import Recharts library to reduce initial JS payload
+
+- [2025-06-16T11:18] fix(routing): prevent 404 flash on dynamic route initial pre-render
