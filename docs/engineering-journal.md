@@ -1255,3 +1255,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-16T22:29] feat(ui): add animated counter component for live stats section
 
 - [2025-06-16T22:34] feat(ui): add accessible keyboard focus rings across all interactive elements
+
+- [2025-06-16T22:45] refactor(components): extract reusable Modal, Dialog, and Backdrop primitives
