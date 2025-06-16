@@ -1247,3 +1247,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-16T20:20] feat(seo): configure robots.txt directives and Google verification tag
 
 - [2025-06-16T22:00] refactor(auth): wrap Supabase client initialization in safe singleton pattern
+
+- [2025-06-16T22:08] feat(admin): add customer management table with search and pagination
