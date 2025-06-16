@@ -1235,3 +1235,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-16T11:18] fix(routing): prevent 404 flash on dynamic route initial pre-render
 
 - [2025-06-16T12:36] feat(checkout): implement downloadable asset token delivery on checkout success
+
+- [2025-06-16T14:25] feat(cart): implement promotional coupon discount code validator
