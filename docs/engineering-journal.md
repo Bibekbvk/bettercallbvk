@@ -1239,3 +1239,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-16T14:25] feat(cart): implement promotional coupon discount code validator
 
 - [2025-06-16T16:20] perf(next): enable Turbopack compilation flags in development server
+
+- [2025-06-16T18:03] feat(marketplace): support multi-currency display formatting (NPR and USD)
