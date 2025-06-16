@@ -1237,3 +1237,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-16T12:36] feat(checkout): implement downloadable asset token delivery on checkout success
 
 - [2025-06-16T14:25] feat(cart): implement promotional coupon discount code validator
+
+- [2025-06-16T16:20] perf(next): enable Turbopack compilation flags in development server
