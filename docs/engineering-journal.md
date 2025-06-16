@@ -1249,3 +1249,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-16T22:00] refactor(auth): wrap Supabase client initialization in safe singleton pattern
 
 - [2025-06-16T22:08] feat(admin): add customer management table with search and pagination
+
+- [2025-06-16T22:23] feat(admin): add monthly sales breakdown bar chart and trend indicator
