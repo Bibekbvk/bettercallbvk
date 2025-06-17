@@ -1267,3 +1267,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-17T14:32] fix(images): add blur-up placeholder while hero banner image loads
 
 - [2025-06-17T15:57] refactor(checkout): transition checkout workflow into typed state machine
+
+- [2025-06-17T17:41] docs(setup): update local environment variables configuration guide
