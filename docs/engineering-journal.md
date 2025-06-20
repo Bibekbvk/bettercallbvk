@@ -1277,3 +1277,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-20T11:48] test(auth): add test cases for session persistence across browser reload
 
 - [2025-06-20T12:26] feat(ui): add interactive hover tilt effect to marketplace product cards
+
+- [2025-06-20T14:21] fix(cart): clear active cart items upon confirmed order completion
