@@ -1279,3 +1279,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-20T12:26] feat(ui): add interactive hover tilt effect to marketplace product cards
 
 - [2025-06-20T14:21] fix(cart): clear active cart items upon confirmed order completion
+
+- [2025-06-20T15:35] feat(checkout): validate customer phone numbers for Nepal telecom operators
