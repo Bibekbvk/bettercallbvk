@@ -1287,3 +1287,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-20T18:11] fix(auth): sanitize login email input to remove leading and trailing spaces
 
 - [2025-06-20T19:10] feat(auth): integrate Supabase Auth session listener with React Context
+
+- [2025-06-20T20:54] refactor(hooks): create custom useDebounce hook for search input optimization
