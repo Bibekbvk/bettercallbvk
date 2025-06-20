@@ -1273,3 +1273,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-17T19:12] feat(profile): add API key generator for developer API integrations
 
 - [2025-06-20T10:52] feat(marketplace): display verified developer badge on trusted vendor products
+
+- [2025-06-20T11:48] test(auth): add test cases for session persistence across browser reload
