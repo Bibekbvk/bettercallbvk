@@ -1289,3 +1289,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-20T19:10] feat(auth): integrate Supabase Auth session listener with React Context
 
 - [2025-06-20T20:54] refactor(hooks): create custom useDebounce hook for search input optimization
+
+- [2025-06-23T10:42] feat(seo): add JSON-LD Product and BreadcrumbList structured data
