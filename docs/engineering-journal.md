@@ -1299,3 +1299,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-25T11:24] perf(api): optimize Supabase SQL query to select only required projection columns
 
 - [2025-06-25T13:07] feat(marketplace): add price sorting and rating filter dropdowns
+
+- [2025-06-25T13:44] feat(blog): add social sharing buttons for LinkedIn, Twitter, and WhatsApp
