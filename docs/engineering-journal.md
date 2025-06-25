@@ -1293,3 +1293,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-23T10:42] feat(seo): add JSON-LD Product and BreadcrumbList structured data
 
 - [2025-06-23T11:41] feat(admin): implement product inventory manager with modal editor
+
+- [2025-06-25T10:34] test(cart): add unit tests for discount percentage and subtotal math
