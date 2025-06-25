@@ -1297,3 +1297,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-25T10:34] test(cart): add unit tests for discount percentage and subtotal math
 
 - [2025-06-25T11:24] perf(api): optimize Supabase SQL query to select only required projection columns
+
+- [2025-06-25T13:07] feat(marketplace): add price sorting and rating filter dropdowns
