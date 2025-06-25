@@ -1305,3 +1305,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-25T14:45] feat(ui): implement smooth page fade transition with Framer Motion
 
 - [2025-06-25T16:34] feat(admin): add customer management table with search and pagination
+
+- [2025-06-25T17:19] feat(blog): implement sticky table of contents with active heading spy
