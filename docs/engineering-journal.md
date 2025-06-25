@@ -1295,3 +1295,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-23T11:41] feat(admin): implement product inventory manager with modal editor
 
 - [2025-06-25T10:34] test(cart): add unit tests for discount percentage and subtotal math
+
+- [2025-06-25T11:24] perf(api): optimize Supabase SQL query to select only required projection columns
