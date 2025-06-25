@@ -1303,3 +1303,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-25T13:44] feat(blog): add social sharing buttons for LinkedIn, Twitter, and WhatsApp
 
 - [2025-06-25T14:45] feat(ui): implement smooth page fade transition with Framer Motion
+
+- [2025-06-25T16:34] feat(admin): add customer management table with search and pagination
