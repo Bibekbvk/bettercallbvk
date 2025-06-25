@@ -1301,3 +1301,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-25T13:07] feat(marketplace): add price sorting and rating filter dropdowns
 
 - [2025-06-25T13:44] feat(blog): add social sharing buttons for LinkedIn, Twitter, and WhatsApp
+
+- [2025-06-25T14:45] feat(ui): implement smooth page fade transition with Framer Motion
