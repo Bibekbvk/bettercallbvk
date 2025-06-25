@@ -1307,3 +1307,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-25T16:34] feat(admin): add customer management table with search and pagination
 
 - [2025-06-25T17:19] feat(blog): implement sticky table of contents with active heading spy
+
+- [2025-06-25T19:11] feat(marketplace): implement quick-view modal for product specification details
