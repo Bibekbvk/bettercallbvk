@@ -1321,3 +1321,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-04T15:16] feat(marketplace): add related items recommendation carousel on product detail view
 
 - [2025-07-04T16:31] fix(checkout): handle network timeout exception during payment webhook call
+
+- [2025-07-04T17:38] feat(seo): implement dynamic OpenGraph and Twitter card metadata generator
