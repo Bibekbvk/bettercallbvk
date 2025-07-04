@@ -1309,3 +1309,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-25T17:19] feat(blog): implement sticky table of contents with active heading spy
 
 - [2025-06-25T19:11] feat(marketplace): implement quick-view modal for product specification details
+
+- [2025-07-04T10:45] perf(dom): remove unused DOM nodes from hidden mobile navigation
