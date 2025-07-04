@@ -1319,3 +1319,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-04T14:38] docs(api): document Supabase Row Level Security (RLS) policies
 
 - [2025-07-04T15:16] feat(marketplace): add related items recommendation carousel on product detail view
+
+- [2025-07-04T16:31] fix(checkout): handle network timeout exception during payment webhook call
