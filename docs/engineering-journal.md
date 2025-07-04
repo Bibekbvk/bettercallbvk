@@ -1325,3 +1325,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-04T17:38] feat(seo): implement dynamic OpenGraph and Twitter card metadata generator
 
 - [2025-07-04T18:27] docs(deploy): document Firebase Hosting build and deploy checklist
+
+- [2025-07-04T20:11] feat(profile): display user purchased downloads and order history table
