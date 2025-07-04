@@ -1315,3 +1315,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-04T12:22] feat(profile): implement dark/light theme preference toggle synced to DB
 
 - [2025-07-04T13:40] fix(blog): escape angle brackets inside markdown code blocks
+
+- [2025-07-04T14:38] docs(api): document Supabase Row Level Security (RLS) policies
