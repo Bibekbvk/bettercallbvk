@@ -1311,3 +1311,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-06-25T19:11] feat(marketplace): implement quick-view modal for product specification details
 
 - [2025-07-04T10:45] perf(dom): remove unused DOM nodes from hidden mobile navigation
+
+- [2025-07-04T12:22] feat(profile): implement dark/light theme preference toggle synced to DB
