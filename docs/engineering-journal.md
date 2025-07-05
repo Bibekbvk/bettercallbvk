@@ -1333,3 +1333,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-05T10:55] refactor(constants): centralize route URLs and navigation metadata
 
 - [2025-07-05T11:41] feat(ui): implement sound toggle micro-interaction on button click
+
+- [2025-07-05T12:55] chore(lint): enable strict TypeScript linting rules across all route handlers
