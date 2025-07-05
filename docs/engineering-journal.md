@@ -1337,3 +1337,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-05T12:55] chore(lint): enable strict TypeScript linting rules across all route handlers
 
 - [2025-07-05T13:51] refactor(theme): streamline Tailwind color tokens and dark mode CSS variables
+
+- [2025-07-05T15:44] feat(admin): add system health and Supabase database latency monitor
