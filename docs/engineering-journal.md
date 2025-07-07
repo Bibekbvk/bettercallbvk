@@ -1347,3 +1347,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-07T11:39] feat(marketplace): implement customer reviews and 5-star rating breakdown
 
 - [2025-07-07T12:54] fix(db): handle null response gracefully when querying empty category
+
+- [2025-07-07T14:21] feat(admin): add monthly sales breakdown bar chart and trend indicator
