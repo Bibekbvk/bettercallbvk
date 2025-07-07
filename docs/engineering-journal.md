@@ -1345,3 +1345,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-07T10:15] test(utils): add unit tests for currency formatter edge cases
 
 - [2025-07-07T11:39] feat(marketplace): implement customer reviews and 5-star rating breakdown
+
+- [2025-07-07T12:54] fix(db): handle null response gracefully when querying empty category
