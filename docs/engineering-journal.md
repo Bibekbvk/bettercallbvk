@@ -1355,3 +1355,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-07T16:19] feat(admin): export transaction logs and order summary to CSV format
 
 - [2025-07-07T17:19] test(checkout): add form input validation test suite for payment details
+
+- [2025-07-07T19:10] feat(auth): add GitHub and Google OAuth login provider buttons
