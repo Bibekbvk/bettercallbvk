@@ -1349,3 +1349,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-07T12:54] fix(db): handle null response gracefully when querying empty category
 
 - [2025-07-07T14:21] feat(admin): add monthly sales breakdown bar chart and trend indicator
+
+- [2025-07-07T15:29] fix(routing): prevent 404 flash on dynamic route initial pre-render
