@@ -1359,3 +1359,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-07T19:10] feat(auth): add GitHub and Google OAuth login provider buttons
 
 - [2025-07-07T20:15] feat(ui): add typewriter headline effect with configurable speed
+
+- [2025-07-07T21:55] feat(marketplace): implement real-time product search with keyword debouncing
