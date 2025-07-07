@@ -1341,3 +1341,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-05T15:44] feat(admin): add system health and Supabase database latency monitor
 
 - [2025-07-07T09:33] perf(cache): set immutable Cache-Control headers for static public assets
+
+- [2025-07-07T10:15] test(utils): add unit tests for currency formatter edge cases
