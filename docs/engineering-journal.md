@@ -1385,3 +1385,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-08T21:01] refactor(components): extract reusable Modal, Dialog, and Backdrop primitives
 
 - [2025-07-08T21:52] refactor(utils): move currency, date, and string helpers to shared utils lib
+
+- [2025-07-08T22:11] perf(images): convert all PNG banners to WebP format for 70% size reduction
