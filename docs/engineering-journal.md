@@ -1365,3 +1365,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-07T22:34] fix(navbar): resolve backdrop-filter blur clipping on mobile Safari iOS
 
 - [2025-07-08T10:04] feat(checkout): implement downloadable asset token delivery on checkout success
+
+- [2025-07-08T11:19] docs(architecture): document state management and checkout lifecycle
