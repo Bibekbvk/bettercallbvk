@@ -1381,3 +1381,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-08T18:28] feat(ui): add magnetic cursor hover interaction for CTA buttons
 
 - [2025-07-08T19:15] refactor(auth): wrap Supabase client initialization in safe singleton pattern
+
+- [2025-07-08T21:01] refactor(components): extract reusable Modal, Dialog, and Backdrop primitives
