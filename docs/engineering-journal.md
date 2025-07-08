@@ -1375,3 +1375,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-08T14:25] feat(seo): configure robots.txt directives and Google verification tag
 
 - [2025-07-08T15:29] fix(performance): cancel pending fetch controller on component unmount
+
+- [2025-07-08T16:38] feat(auth): add email confirmation redirect handler and session sync route
