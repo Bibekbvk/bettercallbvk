@@ -1371,3 +1371,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-08T13:04] feat(marketplace): add category filter chips for AI models, templates, and plugins
 
 - [2025-07-08T13:47] feat(blog): scaffold engineering blog with category tags and reading time
+
+- [2025-07-08T14:25] feat(seo): configure robots.txt directives and Google verification tag
