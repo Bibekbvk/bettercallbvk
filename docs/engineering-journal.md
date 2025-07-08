@@ -1391,3 +1391,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-08T22:27] feat(seo): generate dynamic XML sitemap with lastmod timestamps
 
 - [2025-07-08T22:39] perf(next): enable Turbopack compilation flags in development server
+
+- [2025-07-08T22:43] perf(fonts): add font-display swap to optimize Google Fonts rendering speed
