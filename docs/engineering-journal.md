@@ -1389,3 +1389,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-08T22:11] perf(images): convert all PNG banners to WebP format for 70% size reduction
 
 - [2025-07-08T22:27] feat(seo): generate dynamic XML sitemap with lastmod timestamps
+
+- [2025-07-08T22:39] perf(next): enable Turbopack compilation flags in development server
