@@ -1363,3 +1363,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-07T21:55] feat(marketplace): implement real-time product search with keyword debouncing
 
 - [2025-07-07T22:34] fix(navbar): resolve backdrop-filter blur clipping on mobile Safari iOS
+
+- [2025-07-08T10:04] feat(checkout): implement downloadable asset token delivery on checkout success
