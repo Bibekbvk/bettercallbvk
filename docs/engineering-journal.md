@@ -1383,3 +1383,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-08T19:15] refactor(auth): wrap Supabase client initialization in safe singleton pattern
 
 - [2025-07-08T21:01] refactor(components): extract reusable Modal, Dialog, and Backdrop primitives
+
+- [2025-07-08T21:52] refactor(utils): move currency, date, and string helpers to shared utils lib
