@@ -1377,3 +1377,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-08T15:29] fix(performance): cancel pending fetch controller on component unmount
 
 - [2025-07-08T16:38] feat(auth): add email confirmation redirect handler and session sync route
+
+- [2025-07-08T18:28] feat(ui): add magnetic cursor hover interaction for CTA buttons
