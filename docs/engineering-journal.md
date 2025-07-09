@@ -1395,3 +1395,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-08T22:43] perf(fonts): add font-display swap to optimize Google Fonts rendering speed
 
 - [2025-07-08T22:50] feat(cart): implement promotional coupon discount code validator
+
+- [2025-07-09T10:38] feat(auth): implement password strength meter on user registration form
