@@ -1403,3 +1403,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-09T13:04] feat(ui): integrate Aurora mesh gradient animated background
 
 - [2025-07-09T14:38] feat(cart): add slide-over drawer cart view with item quantity controls
+
+- [2025-07-09T15:50] feat(marketplace): support multi-currency display formatting (NPR and USD)
