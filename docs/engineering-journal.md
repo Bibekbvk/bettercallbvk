@@ -1407,3 +1407,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-09T15:50] feat(marketplace): support multi-currency display formatting (NPR and USD)
 
 - [2025-07-09T16:46] feat(cart): add animated badge counter on navbar shopping cart icon
+
+- [2025-07-09T17:28] feat(ui): add accessible keyboard focus rings across all interactive elements
