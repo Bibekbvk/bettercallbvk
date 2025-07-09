@@ -1409,3 +1409,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-09T16:46] feat(cart): add animated badge counter on navbar shopping cart icon
 
 - [2025-07-09T17:28] feat(ui): add accessible keyboard focus rings across all interactive elements
+
+- [2025-07-09T18:37] feat(admin): implement role-based access control (RBAC) guard on admin routes
