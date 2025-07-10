@@ -1417,3 +1417,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-10T10:14] perf(scroll): throttle Lenis smooth scroll event listener to 60fps
 
 - [2025-07-10T11:16] fix(security): sanitize SVG uploads against embedded cross-site script payloads
+
+- [2025-07-10T12:56] perf(render): wrap expensive marketplace filter logic in React useMemo
