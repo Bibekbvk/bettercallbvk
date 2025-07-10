@@ -1421,3 +1421,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-10T12:56] perf(render): wrap expensive marketplace filter logic in React useMemo
 
 - [2025-07-10T13:36] feat(marketplace): add stock availability indicator and low-inventory warning
+
+- [2025-07-10T15:19] fix(cart): prevent quantity decrement below minimum allowable count of 1
