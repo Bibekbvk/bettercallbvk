@@ -1431,3 +1431,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-10T17:38] feat(blog): implement related articles algorithm based on shared tags
 
 - [2025-07-10T19:24] feat(blog): add syntax highlighting for TypeScript, SQL, and Python code blocks
+
+- [2025-07-10T20:54] fix(checkout): disable purchase button while payment verification is pending
