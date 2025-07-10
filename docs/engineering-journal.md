@@ -1419,3 +1419,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-10T11:16] fix(security): sanitize SVG uploads against embedded cross-site script payloads
 
 - [2025-07-10T12:56] perf(render): wrap expensive marketplace filter logic in React useMemo
+
+- [2025-07-10T13:36] feat(marketplace): add stock availability indicator and low-inventory warning
