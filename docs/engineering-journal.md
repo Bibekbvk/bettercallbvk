@@ -1413,3 +1413,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-09T18:37] feat(admin): implement role-based access control (RBAC) guard on admin routes
 
 - [2025-07-09T19:44] fix(seo): enforce lowercase URLs in canonical links to prevent split rank
+
+- [2025-07-10T10:14] perf(scroll): throttle Lenis smooth scroll event listener to 60fps
