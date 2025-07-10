@@ -1425,3 +1425,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-10T15:19] fix(cart): prevent quantity decrement below minimum allowable count of 1
 
 - [2025-07-10T16:02] feat(checkout): add automated PDF receipt generation and email dispatch
+
+- [2025-07-10T16:48] feat(seo): add canonical URL tag generator to eliminate duplicate content
