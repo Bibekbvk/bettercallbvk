@@ -1427,3 +1427,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-10T16:02] feat(checkout): add automated PDF receipt generation and email dispatch
 
 - [2025-07-10T16:48] feat(seo): add canonical URL tag generator to eliminate duplicate content
+
+- [2025-07-10T17:38] feat(blog): implement related articles algorithm based on shared tags
