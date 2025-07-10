@@ -1415,3 +1415,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-09T19:44] fix(seo): enforce lowercase URLs in canonical links to prevent split rank
 
 - [2025-07-10T10:14] perf(scroll): throttle Lenis smooth scroll event listener to 60fps
+
+- [2025-07-10T11:16] fix(security): sanitize SVG uploads against embedded cross-site script payloads
