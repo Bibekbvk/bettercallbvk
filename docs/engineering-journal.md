@@ -1423,3 +1423,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-10T13:36] feat(marketplace): add stock availability indicator and low-inventory warning
 
 - [2025-07-10T15:19] fix(cart): prevent quantity decrement below minimum allowable count of 1
+
+- [2025-07-10T16:02] feat(checkout): add automated PDF receipt generation and email dispatch
