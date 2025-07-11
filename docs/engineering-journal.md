@@ -1453,3 +1453,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-11T20:35] feat(profile): allow user avatar upload and emergency contact update
 
 - [2025-07-11T21:12] feat(ui): add animated counter component for live stats section
+
+- [2025-07-11T22:04] feat(ui): implement responsive mobile drawer with backdrop blur
