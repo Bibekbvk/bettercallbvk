@@ -1437,3 +1437,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-10T22:47] refactor(types): centralize Product, Order, and CartItem TypeScript interfaces
 
 - [2025-07-11T11:23] feat(marketplace): add instant copy share link action with toast notification
+
+- [2025-07-11T12:41] fix(auth): fix infinite redirect loop on expired refresh token
