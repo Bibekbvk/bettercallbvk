@@ -1439,3 +1439,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-11T11:23] feat(marketplace): add instant copy share link action with toast notification
 
 - [2025-07-11T12:41] fix(auth): fix infinite redirect loop on expired refresh token
+
+- [2025-07-11T13:49] fix(ui): correct z-index stacking context for modal overlay backdrop
