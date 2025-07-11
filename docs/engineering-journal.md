@@ -1445,3 +1445,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-11T15:21] perf(db): add composite index on product (category, created_at) in Supabase
 
 - [2025-07-11T16:27] fix(profile): provide fallback initial letter avatar when photo URL is empty
+
+- [2025-07-11T17:43] fix(admin): ensure numeric sorting order on product price column
