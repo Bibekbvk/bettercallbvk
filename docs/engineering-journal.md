@@ -1455,3 +1455,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-11T21:12] feat(ui): add animated counter component for live stats section
 
 - [2025-07-11T22:04] feat(ui): implement responsive mobile drawer with backdrop blur
+
+- [2025-07-11T22:39] fix(styles): fix flex wrap collision on small viewport filter chips
