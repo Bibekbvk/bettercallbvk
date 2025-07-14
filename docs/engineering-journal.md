@@ -1477,3 +1477,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-14T20:20] perf(scroll): throttle Lenis smooth scroll event listener to 60fps
 
 - [2025-07-14T21:26] feat(admin): add system health and Supabase database latency monitor
+
+- [2025-07-14T22:18] feat(profile): implement dark/light theme preference toggle synced to DB
