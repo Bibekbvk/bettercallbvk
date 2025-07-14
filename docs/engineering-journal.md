@@ -1463,3 +1463,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-14T10:27] feat(cart): implement persistent shopping cart using browser localStorage
 
 - [2025-07-14T12:13] feat(admin): build executive dashboard with Recharts revenue metrics
+
+- [2025-07-14T13:50] perf(bundle): dynamic import Recharts library to reduce initial JS payload
