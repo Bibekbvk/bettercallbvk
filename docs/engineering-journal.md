@@ -1485,3 +1485,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-14T22:31] feat(marketplace): display verified developer badge on trusted vendor products
 
 - [2025-07-14T22:36] perf(render): wrap expensive marketplace filter logic in React useMemo
+
+- [2025-07-14T22:54] feat(profile): add API key generator for developer API integrations
