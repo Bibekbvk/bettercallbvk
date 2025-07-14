@@ -1475,3 +1475,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-14T18:51] fix(seo): enforce lowercase URLs in canonical links to prevent split rank
 
 - [2025-07-14T20:20] perf(scroll): throttle Lenis smooth scroll event listener to 60fps
+
+- [2025-07-14T21:26] feat(admin): add system health and Supabase database latency monitor
