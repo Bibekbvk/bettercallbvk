@@ -1471,3 +1471,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-14T16:00] feat(admin): build executive dashboard with Recharts revenue metrics
 
 - [2025-07-14T17:48] docs(setup): update local environment variables configuration guide
+
+- [2025-07-14T18:51] fix(seo): enforce lowercase URLs in canonical links to prevent split rank
