@@ -1481,3 +1481,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-14T22:18] feat(profile): implement dark/light theme preference toggle synced to DB
 
 - [2025-07-14T22:22] fix(auth): fix infinite redirect loop on expired refresh token
+
+- [2025-07-14T22:31] feat(marketplace): display verified developer badge on trusted vendor products
