@@ -1501,3 +1501,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-16T17:18] perf(images): convert all PNG banners to WebP format for 70% size reduction
 
 - [2025-07-16T18:23] feat(checkout): implement downloadable asset token delivery on checkout success
+
+- [2025-07-16T20:14] fix(checkout): disable purchase button while payment verification is pending
