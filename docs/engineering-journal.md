@@ -1491,3 +1491,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-16T10:45] perf(next): enable Turbopack compilation flags in development server
 
 - [2025-07-16T12:02] fix(performance): cancel pending fetch controller on component unmount
+
+- [2025-07-16T13:08] perf(fonts): add font-display swap to optimize Google Fonts rendering speed
