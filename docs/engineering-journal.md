@@ -1493,3 +1493,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-16T12:02] fix(performance): cancel pending fetch controller on component unmount
 
 - [2025-07-16T13:08] perf(fonts): add font-display swap to optimize Google Fonts rendering speed
+
+- [2025-07-16T14:43] perf(api): optimize Supabase SQL query to select only required projection columns
