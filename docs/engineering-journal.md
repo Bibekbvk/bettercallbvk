@@ -1499,3 +1499,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-16T16:01] test(cart): add unit tests for discount percentage and subtotal math
 
 - [2025-07-16T17:18] perf(images): convert all PNG banners to WebP format for 70% size reduction
+
+- [2025-07-16T18:23] feat(checkout): implement downloadable asset token delivery on checkout success
