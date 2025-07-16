@@ -1489,3 +1489,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-14T22:54] feat(profile): add API key generator for developer API integrations
 
 - [2025-07-16T10:45] perf(next): enable Turbopack compilation flags in development server
+
+- [2025-07-16T12:02] fix(performance): cancel pending fetch controller on component unmount
