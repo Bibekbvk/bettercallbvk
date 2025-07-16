@@ -1495,3 +1495,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-16T13:08] perf(fonts): add font-display swap to optimize Google Fonts rendering speed
 
 - [2025-07-16T14:43] perf(api): optimize Supabase SQL query to select only required projection columns
+
+- [2025-07-16T16:01] test(cart): add unit tests for discount percentage and subtotal math
