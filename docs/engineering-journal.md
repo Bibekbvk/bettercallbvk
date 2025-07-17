@@ -1525,3 +1525,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-17T21:48] feat(blog): add social sharing buttons for LinkedIn, Twitter, and WhatsApp
 
 - [2025-07-17T22:26] fix(auth): sanitize login email input to remove leading and trailing spaces
+
+- [2025-07-17T22:43] feat(marketplace): add price sorting and rating filter dropdowns
