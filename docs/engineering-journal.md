@@ -1517,3 +1517,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-17T17:30] feat(ui): add animated counter component for live stats section
 
 - [2025-07-17T18:13] feat(seo): configure robots.txt directives and Google verification tag
+
+- [2025-07-17T19:04] perf(bundle): dynamic import Recharts library to reduce initial JS payload
