@@ -1513,3 +1513,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-17T15:36] docs(architecture): document state management and checkout lifecycle
 
 - [2025-07-17T16:15] feat(admin): add customer management table with search and pagination
+
+- [2025-07-17T17:30] feat(ui): add animated counter component for live stats section
