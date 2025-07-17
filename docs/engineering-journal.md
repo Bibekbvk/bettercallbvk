@@ -1503,3 +1503,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-16T18:23] feat(checkout): implement downloadable asset token delivery on checkout success
 
 - [2025-07-16T20:14] fix(checkout): disable purchase button while payment verification is pending
+
+- [2025-07-17T11:07] refactor(theme): streamline Tailwind color tokens and dark mode CSS variables
