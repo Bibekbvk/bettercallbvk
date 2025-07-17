@@ -1505,3 +1505,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-16T20:14] fix(checkout): disable purchase button while payment verification is pending
 
 - [2025-07-17T11:07] refactor(theme): streamline Tailwind color tokens and dark mode CSS variables
+
+- [2025-07-17T13:02] fix(ui): correct z-index stacking context for modal overlay backdrop
