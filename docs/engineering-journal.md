@@ -1509,3 +1509,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-17T13:02] fix(ui): correct z-index stacking context for modal overlay backdrop
 
 - [2025-07-17T14:51] fix(contact): reset form state and show confirmation toast on successful send
+
+- [2025-07-17T15:36] docs(architecture): document state management and checkout lifecycle
