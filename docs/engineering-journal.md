@@ -1521,3 +1521,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-17T19:04] perf(bundle): dynamic import Recharts library to reduce initial JS payload
 
 - [2025-07-17T20:35] feat(cart): add animated badge counter on navbar shopping cart icon
+
+- [2025-07-17T21:48] feat(blog): add social sharing buttons for LinkedIn, Twitter, and WhatsApp
