@@ -1543,3 +1543,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-18T20:25] refactor(components): extract reusable Modal, Dialog, and Backdrop primitives
 
 - [2025-07-18T21:58] refactor(auth): wrap Supabase client initialization in safe singleton pattern
+
+- [2025-07-18T22:01] feat(cart): implement persistent shopping cart using browser localStorage
