@@ -1541,3 +1541,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-18T18:31] fix(cart): prevent quantity decrement below minimum allowable count of 1
 
 - [2025-07-18T20:25] refactor(components): extract reusable Modal, Dialog, and Backdrop primitives
+
+- [2025-07-18T21:58] refactor(auth): wrap Supabase client initialization in safe singleton pattern
