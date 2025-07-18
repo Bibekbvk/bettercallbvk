@@ -1527,3 +1527,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-17T22:26] fix(auth): sanitize login email input to remove leading and trailing spaces
 
 - [2025-07-17T22:43] feat(marketplace): add price sorting and rating filter dropdowns
+
+- [2025-07-18T10:41] feat(marketplace): add related items recommendation carousel on product detail view
