@@ -1547,3 +1547,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-18T22:01] feat(cart): implement persistent shopping cart using browser localStorage
 
 - [2025-07-18T22:13] feat(seo): add JSON-LD Product and BreadcrumbList structured data
+
+- [2025-07-18T22:32] feat(ui): integrate Aurora mesh gradient animated background
