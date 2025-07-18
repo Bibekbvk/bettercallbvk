@@ -1533,3 +1533,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-18T11:53] feat(cart): implement promotional coupon discount code validator
 
 - [2025-07-18T13:19] feat(marketplace): support multi-currency display formatting (NPR and USD)
+
+- [2025-07-18T15:13] perf(cache): set immutable Cache-Control headers for static public assets
