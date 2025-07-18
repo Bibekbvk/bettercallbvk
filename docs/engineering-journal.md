@@ -1545,3 +1545,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-18T21:58] refactor(auth): wrap Supabase client initialization in safe singleton pattern
 
 - [2025-07-18T22:01] feat(cart): implement persistent shopping cart using browser localStorage
+
+- [2025-07-18T22:13] feat(seo): add JSON-LD Product and BreadcrumbList structured data
