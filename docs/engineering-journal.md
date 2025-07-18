@@ -1551,3 +1551,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-18T22:32] feat(ui): integrate Aurora mesh gradient animated background
 
 - [2025-07-18T22:32] docs(deploy): document Firebase Hosting build and deploy checklist
+
+- [2025-07-18T22:51] fix(db): handle null response gracefully when querying empty category
