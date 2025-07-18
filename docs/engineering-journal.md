@@ -1549,3 +1549,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-18T22:13] feat(seo): add JSON-LD Product and BreadcrumbList structured data
 
 - [2025-07-18T22:32] feat(ui): integrate Aurora mesh gradient animated background
+
+- [2025-07-18T22:32] docs(deploy): document Firebase Hosting build and deploy checklist
