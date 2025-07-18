@@ -1539,3 +1539,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-18T16:40] feat(profile): display user purchased downloads and order history table
 
 - [2025-07-18T18:31] fix(cart): prevent quantity decrement below minimum allowable count of 1
+
+- [2025-07-18T20:25] refactor(components): extract reusable Modal, Dialog, and Backdrop primitives
