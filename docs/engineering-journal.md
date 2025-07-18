@@ -1537,3 +1537,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-18T15:13] perf(cache): set immutable Cache-Control headers for static public assets
 
 - [2025-07-18T16:40] feat(profile): display user purchased downloads and order history table
+
+- [2025-07-18T18:31] fix(cart): prevent quantity decrement below minimum allowable count of 1
