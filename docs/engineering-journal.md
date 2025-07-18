@@ -1529,3 +1529,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-17T22:43] feat(marketplace): add price sorting and rating filter dropdowns
 
 - [2025-07-18T10:41] feat(marketplace): add related items recommendation carousel on product detail view
+
+- [2025-07-18T11:53] feat(cart): implement promotional coupon discount code validator
