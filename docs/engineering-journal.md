@@ -1563,3 +1563,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-21T12:33] feat(checkout): scaffold multi-step checkout wizard with progress indicators
 
 - [2025-07-21T13:16] fix(profile): provide fallback initial letter avatar when photo URL is empty
+
+- [2025-07-21T14:15] fix(navbar): resolve backdrop-filter blur clipping on mobile Safari iOS
