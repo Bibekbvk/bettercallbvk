@@ -1575,3 +1575,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-28T15:20] feat(ui): add magnetic cursor hover interaction for CTA buttons
 
 - [2025-07-30T10:01] fix(styles): fix flex wrap collision on small viewport filter chips
+
+- [2025-07-30T10:41] test(utils): add unit tests for currency formatter edge cases
