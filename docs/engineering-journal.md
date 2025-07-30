@@ -1579,3 +1579,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-30T10:41] test(utils): add unit tests for currency formatter edge cases
 
 - [2025-07-30T11:32] perf(cart): debounce rapid quantity increment dispatches to reduce store churn
+
+- [2025-07-30T13:21] feat(auth): implement password strength meter on user registration form
