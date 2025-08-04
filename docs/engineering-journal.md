@@ -1591,3 +1591,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-04T12:16] refactor(constants): centralize route URLs and navigation metadata
 
 - [2025-08-04T13:51] feat(admin): implement product inventory manager with modal editor
+
+- [2025-08-04T15:43] feat(marketplace): add category filter chips for AI models, templates, and plugins
