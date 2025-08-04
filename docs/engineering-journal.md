@@ -1595,3 +1595,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-04T15:43] feat(marketplace): add category filter chips for AI models, templates, and plugins
 
 - [2025-08-04T16:55] feat(auth): integrate Supabase Auth session listener with React Context
+
+- [2025-08-04T17:31] feat(ui): add typewriter headline effect with configurable speed
