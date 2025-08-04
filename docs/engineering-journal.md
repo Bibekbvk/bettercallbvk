@@ -1589,3 +1589,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-04T11:23] feat(seo): implement dynamic OpenGraph and Twitter card metadata generator
 
 - [2025-08-04T12:16] refactor(constants): centralize route URLs and navigation metadata
+
+- [2025-08-04T13:51] feat(admin): implement product inventory manager with modal editor
