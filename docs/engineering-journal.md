@@ -1587,3 +1587,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-07-30T16:21] fix(checkout): handle network timeout exception during payment webhook call
 
 - [2025-08-04T11:23] feat(seo): implement dynamic OpenGraph and Twitter card metadata generator
+
+- [2025-08-04T12:16] refactor(constants): centralize route URLs and navigation metadata
