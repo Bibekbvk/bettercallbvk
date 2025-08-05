@@ -1609,3 +1609,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-05T13:16] fix(security): sanitize SVG uploads against embedded cross-site script payloads
 
 - [2025-08-05T14:16] refactor(checkout): transition checkout workflow into typed state machine
+
+- [2025-08-05T15:16] fix(routing): prevent 404 flash on dynamic route initial pre-render
