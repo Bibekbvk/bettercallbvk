@@ -1613,3 +1613,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-05T15:16] fix(routing): prevent 404 flash on dynamic route initial pre-render
 
 - [2025-08-05T15:59] refactor(utils): move currency, date, and string helpers to shared utils lib
+
+- [2025-08-05T16:58] docs(api): document Supabase Row Level Security (RLS) policies
