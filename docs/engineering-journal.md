@@ -1615,3 +1615,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-05T15:59] refactor(utils): move currency, date, and string helpers to shared utils lib
 
 - [2025-08-05T16:58] docs(api): document Supabase Row Level Security (RLS) policies
+
+- [2025-08-05T18:33] feat(marketplace): add stock availability indicator and low-inventory warning
