@@ -1603,3 +1603,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-05T09:37] feat(checkout): add eSewa wallet direct payment verification handler
 
 - [2025-08-05T11:16] perf(dom): remove unused DOM nodes from hidden mobile navigation
+
+- [2025-08-05T11:57] feat(cart): add slide-over drawer cart view with item quantity controls
