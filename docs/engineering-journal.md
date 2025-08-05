@@ -1617,3 +1617,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-05T16:58] docs(api): document Supabase Row Level Security (RLS) policies
 
 - [2025-08-05T18:33] feat(marketplace): add stock availability indicator and low-inventory warning
+
+- [2025-08-05T20:07] chore(lint): enable strict TypeScript linting rules across all route handlers
