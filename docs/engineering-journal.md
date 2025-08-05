@@ -1619,3 +1619,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-05T18:33] feat(marketplace): add stock availability indicator and low-inventory warning
 
 - [2025-08-05T20:07] chore(lint): enable strict TypeScript linting rules across all route handlers
+
+- [2025-08-05T21:24] feat(checkout): validate customer phone numbers for Nepal telecom operators
