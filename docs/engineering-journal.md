@@ -1607,3 +1607,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-05T11:57] feat(cart): add slide-over drawer cart view with item quantity controls
 
 - [2025-08-05T13:16] fix(security): sanitize SVG uploads against embedded cross-site script payloads
+
+- [2025-08-05T14:16] refactor(checkout): transition checkout workflow into typed state machine
