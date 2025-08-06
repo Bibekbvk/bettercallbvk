@@ -1629,3 +1629,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-06T12:42] feat(ui): add floating back-to-top button with scroll progress circle
 
 - [2025-08-06T13:30] feat(checkout): integrate Fonepay dynamic QR code generation modal
+
+- [2025-08-06T14:10] fix(blog): escape angle brackets inside markdown code blocks
