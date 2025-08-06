@@ -1625,3 +1625,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-06T10:12] feat(seo): add canonical URL tag generator to eliminate duplicate content
 
 - [2025-08-06T11:25] perf(db): add composite index on product (category, created_at) in Supabase
+
+- [2025-08-06T12:42] feat(ui): add floating back-to-top button with scroll progress circle
