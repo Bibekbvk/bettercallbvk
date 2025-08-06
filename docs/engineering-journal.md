@@ -1631,3 +1631,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-06T13:30] feat(checkout): integrate Fonepay dynamic QR code generation modal
 
 - [2025-08-06T14:10] fix(blog): escape angle brackets inside markdown code blocks
+
+- [2025-08-06T15:13] refactor(types): centralize Product, Order, and CartItem TypeScript interfaces
