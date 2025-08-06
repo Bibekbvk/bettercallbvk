@@ -1621,3 +1621,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-05T20:07] chore(lint): enable strict TypeScript linting rules across all route handlers
 
 - [2025-08-05T21:24] feat(checkout): validate customer phone numbers for Nepal telecom operators
+
+- [2025-08-06T10:12] feat(seo): add canonical URL tag generator to eliminate duplicate content
