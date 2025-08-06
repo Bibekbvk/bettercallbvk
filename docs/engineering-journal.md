@@ -1633,3 +1633,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-06T14:10] fix(blog): escape angle brackets inside markdown code blocks
 
 - [2025-08-06T15:13] refactor(types): centralize Product, Order, and CartItem TypeScript interfaces
+
+- [2025-08-06T16:16] feat(ui): implement responsive mobile drawer with backdrop blur
