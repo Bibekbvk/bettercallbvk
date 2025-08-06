@@ -1635,3 +1635,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-06T15:13] refactor(types): centralize Product, Order, and CartItem TypeScript interfaces
 
 - [2025-08-06T16:16] feat(ui): implement responsive mobile drawer with backdrop blur
+
+- [2025-08-06T17:20] feat(blog): implement sticky table of contents with active heading spy
