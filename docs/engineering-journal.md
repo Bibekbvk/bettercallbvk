@@ -1641,3 +1641,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-06T19:14] feat(admin): export transaction logs and order summary to CSV format
 
 - [2025-08-07T10:31] feat(auth): add email confirmation redirect handler and session sync route
+
+- [2025-08-07T11:48] feat(profile): allow user avatar upload and emergency contact update
