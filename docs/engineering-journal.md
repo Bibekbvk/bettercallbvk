@@ -1647,3 +1647,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-07T13:11] refactor(admin): modularize admin charts into standalone presentational components
 
 - [2025-08-07T14:37] feat(marketplace): add instant copy share link action with toast notification
+
+- [2025-08-07T15:12] feat(ui): implement smooth page fade transition with Framer Motion
