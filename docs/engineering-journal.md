@@ -1643,3 +1643,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-07T10:31] feat(auth): add email confirmation redirect handler and session sync route
 
 - [2025-08-07T11:48] feat(profile): allow user avatar upload and emergency contact update
+
+- [2025-08-07T13:11] refactor(admin): modularize admin charts into standalone presentational components
