@@ -1645,3 +1645,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-07T11:48] feat(profile): allow user avatar upload and emergency contact update
 
 - [2025-08-07T13:11] refactor(admin): modularize admin charts into standalone presentational components
+
+- [2025-08-07T14:37] feat(marketplace): add instant copy share link action with toast notification
