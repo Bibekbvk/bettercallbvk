@@ -1651,3 +1651,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-07T15:12] feat(ui): implement smooth page fade transition with Framer Motion
 
 - [2025-08-07T15:48] feat(auth): add GitHub and Google OAuth login provider buttons
+
+- [2025-08-07T17:08] chore(deps): upgrade Next.js and React dependencies to latest security patches
