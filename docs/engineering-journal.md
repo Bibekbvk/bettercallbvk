@@ -1657,3 +1657,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-11T09:44] feat(admin): implement role-based access control (RBAC) guard on admin routes
 
 - [2025-08-11T10:56] test(checkout): add form input validation test suite for payment details
+
+- [2025-08-11T11:55] feat(admin): add monthly sales breakdown bar chart and trend indicator
