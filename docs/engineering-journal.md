@@ -1667,3 +1667,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-12T09:55] feat(blog): scaffold engineering blog with category tags and reading time
 
 - [2025-08-12T11:06] feat(blog): implement related articles algorithm based on shared tags
+
+- [2025-08-12T12:09] fix(images): add blur-up placeholder while hero banner image loads
