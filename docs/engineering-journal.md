@@ -1665,3 +1665,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-11T15:05] feat(blog): add syntax highlighting for TypeScript, SQL, and Python code blocks
 
 - [2025-08-12T09:55] feat(blog): scaffold engineering blog with category tags and reading time
+
+- [2025-08-12T11:06] feat(blog): implement related articles algorithm based on shared tags
