@@ -1681,3 +1681,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-12T17:33] feat(ui): add accessible keyboard focus rings across all interactive elements
 
 - [2025-08-15T10:25] feat(marketplace): implement customer reviews and 5-star rating breakdown
+
+- [2025-08-15T11:47] feat(admin): add customer management table with search and pagination
