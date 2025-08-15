@@ -1689,3 +1689,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-15T14:25] feat(seo): add canonical URL tag generator to eliminate duplicate content
 
 - [2025-08-15T15:22] refactor(components): extract reusable Modal, Dialog, and Backdrop primitives
+
+- [2025-08-15T16:26] fix(styles): fix flex wrap collision on small viewport filter chips
