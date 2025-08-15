@@ -1683,3 +1683,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-15T10:25] feat(marketplace): implement customer reviews and 5-star rating breakdown
 
 - [2025-08-15T11:47] feat(admin): add customer management table with search and pagination
+
+- [2025-08-15T13:02] feat(ui): add typewriter headline effect with configurable speed
