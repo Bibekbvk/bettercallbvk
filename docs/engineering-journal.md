@@ -1685,3 +1685,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-15T11:47] feat(admin): add customer management table with search and pagination
 
 - [2025-08-15T13:02] feat(ui): add typewriter headline effect with configurable speed
+
+- [2025-08-15T14:25] feat(seo): add canonical URL tag generator to eliminate duplicate content
