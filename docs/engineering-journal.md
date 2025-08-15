@@ -1693,3 +1693,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-15T16:26] fix(styles): fix flex wrap collision on small viewport filter chips
 
 - [2025-08-15T17:10] feat(admin): build executive dashboard with Recharts revenue metrics
+
+- [2025-08-15T17:55] perf(scroll): throttle Lenis smooth scroll event listener to 60fps
