@@ -1703,3 +1703,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-18T12:30] feat(blog): add syntax highlighting for TypeScript, SQL, and Python code blocks
 
 - [2025-08-18T13:17] feat(admin): export transaction logs and order summary to CSV format
+
+- [2025-08-18T14:01] docs(setup): update local environment variables configuration guide
