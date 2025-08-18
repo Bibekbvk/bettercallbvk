@@ -1695,3 +1695,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-15T17:10] feat(admin): build executive dashboard with Recharts revenue metrics
 
 - [2025-08-15T17:55] perf(scroll): throttle Lenis smooth scroll event listener to 60fps
+
+- [2025-08-18T10:35] fix(security): sanitize SVG uploads against embedded cross-site script payloads
