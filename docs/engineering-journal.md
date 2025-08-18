@@ -1705,3 +1705,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-18T13:17] feat(admin): export transaction logs and order summary to CSV format
 
 - [2025-08-18T14:01] docs(setup): update local environment variables configuration guide
+
+- [2025-08-18T14:40] feat(ui): implement smooth page fade transition with Framer Motion
