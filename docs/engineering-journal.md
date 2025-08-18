@@ -1699,3 +1699,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-18T10:35] fix(security): sanitize SVG uploads against embedded cross-site script payloads
 
 - [2025-08-18T11:20] feat(marketplace): implement quick-view modal for product specification details
+
+- [2025-08-18T12:30] feat(blog): add syntax highlighting for TypeScript, SQL, and Python code blocks
