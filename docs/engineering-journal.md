@@ -1713,3 +1713,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-19T10:56] feat(profile): allow user avatar upload and emergency contact update
 
 - [2025-08-19T12:03] feat(seo): optimize title tags and meta descriptions for high CTR
+
+- [2025-08-19T13:13] feat(auth): implement password strength meter on user registration form
