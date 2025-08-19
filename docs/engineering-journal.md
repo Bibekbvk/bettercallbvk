@@ -1725,3 +1725,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-19T18:38] perf(db): add composite index on product (category, created_at) in Supabase
 
 - [2025-08-19T19:57] feat(profile): add API key generator for developer API integrations
+
+- [2025-08-19T21:23] feat(blog): scaffold engineering blog with category tags and reading time
