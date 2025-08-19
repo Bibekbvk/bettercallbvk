@@ -1717,3 +1717,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-19T13:13] feat(auth): implement password strength meter on user registration form
 
 - [2025-08-19T15:05] refactor(constants): centralize route URLs and navigation metadata
+
+- [2025-08-19T16:49] feat(auth): add GitHub and Google OAuth login provider buttons
