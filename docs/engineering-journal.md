@@ -1727,3 +1727,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-19T19:57] feat(profile): add API key generator for developer API integrations
 
 - [2025-08-19T21:23] feat(blog): scaffold engineering blog with category tags and reading time
+
+- [2025-08-19T22:12] perf(fonts): add font-display swap to optimize Google Fonts rendering speed
