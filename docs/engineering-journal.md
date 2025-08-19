@@ -1729,3 +1729,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-19T21:23] feat(blog): scaffold engineering blog with category tags and reading time
 
 - [2025-08-19T22:12] perf(fonts): add font-display swap to optimize Google Fonts rendering speed
+
+- [2025-08-19T22:48] feat(marketplace): display verified developer badge on trusted vendor products
