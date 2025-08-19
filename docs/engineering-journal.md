@@ -1721,3 +1721,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-19T16:49] feat(auth): add GitHub and Google OAuth login provider buttons
 
 - [2025-08-19T17:25] feat(profile): display user purchased downloads and order history table
+
+- [2025-08-19T18:38] perf(db): add composite index on product (category, created_at) in Supabase
