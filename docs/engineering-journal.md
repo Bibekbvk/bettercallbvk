@@ -1715,3 +1715,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-19T12:03] feat(seo): optimize title tags and meta descriptions for high CTR
 
 - [2025-08-19T13:13] feat(auth): implement password strength meter on user registration form
+
+- [2025-08-19T15:05] refactor(constants): centralize route URLs and navigation metadata
