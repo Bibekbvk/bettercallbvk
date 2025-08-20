@@ -1731,3 +1731,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-19T22:12] perf(fonts): add font-display swap to optimize Google Fonts rendering speed
 
 - [2025-08-19T22:48] feat(marketplace): display verified developer badge on trusted vendor products
+
+- [2025-08-20T11:07] feat(blog): add social sharing buttons for LinkedIn, Twitter, and WhatsApp
