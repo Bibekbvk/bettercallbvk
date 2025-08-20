@@ -1739,3 +1739,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-20T13:36] feat(checkout): add eSewa wallet direct payment verification handler
 
 - [2025-08-20T14:37] feat(marketplace): add price sorting and rating filter dropdowns
+
+- [2025-08-20T15:41] feat(blog): implement related articles algorithm based on shared tags
