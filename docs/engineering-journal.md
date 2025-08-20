@@ -1737,3 +1737,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-20T12:32] refactor(checkout): transition checkout workflow into typed state machine
 
 - [2025-08-20T13:36] feat(checkout): add eSewa wallet direct payment verification handler
+
+- [2025-08-20T14:37] feat(marketplace): add price sorting and rating filter dropdowns
