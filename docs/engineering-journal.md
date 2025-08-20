@@ -1735,3 +1735,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-20T11:07] feat(blog): add social sharing buttons for LinkedIn, Twitter, and WhatsApp
 
 - [2025-08-20T12:32] refactor(checkout): transition checkout workflow into typed state machine
+
+- [2025-08-20T13:36] feat(checkout): add eSewa wallet direct payment verification handler
