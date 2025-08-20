@@ -1733,3 +1733,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-19T22:48] feat(marketplace): display verified developer badge on trusted vendor products
 
 - [2025-08-20T11:07] feat(blog): add social sharing buttons for LinkedIn, Twitter, and WhatsApp
+
+- [2025-08-20T12:32] refactor(checkout): transition checkout workflow into typed state machine
