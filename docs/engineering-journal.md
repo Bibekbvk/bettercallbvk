@@ -1755,3 +1755,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-26T17:30] feat(ui): implement sound toggle micro-interaction on button click
 
 - [2025-08-26T19:01] feat(admin): add monthly sales breakdown bar chart and trend indicator
+
+- [2025-08-26T20:47] test(auth): add test cases for session persistence across browser reload
