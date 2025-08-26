@@ -1747,3 +1747,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-26T12:44] feat(checkout): add automated PDF receipt generation and email dispatch
 
 - [2025-08-26T14:18] perf(bundle): dynamic import Recharts library to reduce initial JS payload
+
+- [2025-08-26T15:03] feat(ui): add interactive hover tilt effect to marketplace product cards
