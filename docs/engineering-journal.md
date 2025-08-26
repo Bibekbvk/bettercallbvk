@@ -1751,3 +1751,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-26T15:03] feat(ui): add interactive hover tilt effect to marketplace product cards
 
 - [2025-08-26T16:02] docs(deploy): document Firebase Hosting build and deploy checklist
+
+- [2025-08-26T17:30] feat(ui): implement sound toggle micro-interaction on button click
