@@ -1753,3 +1753,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-26T16:02] docs(deploy): document Firebase Hosting build and deploy checklist
 
 - [2025-08-26T17:30] feat(ui): implement sound toggle micro-interaction on button click
+
+- [2025-08-26T19:01] feat(admin): add monthly sales breakdown bar chart and trend indicator
