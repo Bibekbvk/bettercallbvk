@@ -1745,3 +1745,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-26T11:10] feat(auth): integrate Supabase Auth session listener with React Context
 
 - [2025-08-26T12:44] feat(checkout): add automated PDF receipt generation and email dispatch
+
+- [2025-08-26T14:18] perf(bundle): dynamic import Recharts library to reduce initial JS payload
