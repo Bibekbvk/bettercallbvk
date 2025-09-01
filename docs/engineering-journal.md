@@ -1767,3 +1767,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-01T13:11] fix(auth): sanitize login email input to remove leading and trailing spaces
 
 - [2025-09-01T14:31] perf(cache): set immutable Cache-Control headers for static public assets
+
+- [2025-09-01T15:34] feat(marketplace): add instant copy share link action with toast notification
