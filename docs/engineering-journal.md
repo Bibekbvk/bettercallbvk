@@ -1773,3 +1773,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-01T17:03] feat(ui): add animated counter component for live stats section
 
 - [2025-09-01T18:29] feat(ui): add magnetic cursor hover interaction for CTA buttons
+
+- [2025-09-01T20:12] fix(cart): clear active cart items upon confirmed order completion
