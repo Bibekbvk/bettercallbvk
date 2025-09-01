@@ -1761,3 +1761,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-26T22:09] feat(admin): implement product inventory manager with modal editor
 
 - [2025-09-01T11:21] fix(contact): reset form state and show confirmation toast on successful send
+
+- [2025-09-01T12:35] fix(performance): cancel pending fetch controller on component unmount
