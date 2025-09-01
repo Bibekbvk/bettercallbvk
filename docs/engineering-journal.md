@@ -1763,3 +1763,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-01T11:21] fix(contact): reset form state and show confirmation toast on successful send
 
 - [2025-09-01T12:35] fix(performance): cancel pending fetch controller on component unmount
+
+- [2025-09-01T13:11] fix(auth): sanitize login email input to remove leading and trailing spaces
