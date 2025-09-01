@@ -1759,3 +1759,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-08-26T20:47] test(auth): add test cases for session persistence across browser reload
 
 - [2025-08-26T22:09] feat(admin): implement product inventory manager with modal editor
+
+- [2025-09-01T11:21] fix(contact): reset form state and show confirmation toast on successful send
