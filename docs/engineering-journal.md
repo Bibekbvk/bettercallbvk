@@ -1769,3 +1769,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-01T14:31] perf(cache): set immutable Cache-Control headers for static public assets
 
 - [2025-09-01T15:34] feat(marketplace): add instant copy share link action with toast notification
+
+- [2025-09-01T17:03] feat(ui): add animated counter component for live stats section
