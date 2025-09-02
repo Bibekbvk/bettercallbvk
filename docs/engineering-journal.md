@@ -1789,3 +1789,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-02T16:01] feat(admin): add system health and Supabase database latency monitor
 
 - [2025-09-02T17:49] refactor(hooks): create custom useDebounce hook for search input optimization
+
+- [2025-09-02T19:12] fix(db): handle null response gracefully when querying empty category
