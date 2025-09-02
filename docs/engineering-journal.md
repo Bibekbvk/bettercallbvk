@@ -1779,3 +1779,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-01T21:28] fix(routing): prevent 404 flash on dynamic route initial pre-render
 
 - [2025-09-01T22:05] refactor(admin): modularize admin charts into standalone presentational components
+
+- [2025-09-02T11:28] refactor(utils): move currency, date, and string helpers to shared utils lib
