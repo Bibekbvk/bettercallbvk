@@ -1785,3 +1785,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-02T12:22] feat(marketplace): support multi-currency display formatting (NPR and USD)
 
 - [2025-09-02T14:09] perf(next): enable Turbopack compilation flags in development server
+
+- [2025-09-02T16:01] feat(admin): add system health and Supabase database latency monitor
