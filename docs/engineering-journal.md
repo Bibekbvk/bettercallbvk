@@ -1799,3 +1799,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-03T12:37] feat(marketplace): implement real-time product search with keyword debouncing
 
 - [2025-09-03T13:54] docs(api): document Supabase Row Level Security (RLS) policies
+
+- [2025-09-03T15:26] feat(checkout): scaffold multi-step checkout wizard with progress indicators
