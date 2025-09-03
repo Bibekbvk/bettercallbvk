@@ -1797,3 +1797,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-03T11:02] test(checkout): add form input validation test suite for payment details
 
 - [2025-09-03T12:37] feat(marketplace): implement real-time product search with keyword debouncing
+
+- [2025-09-03T13:54] docs(api): document Supabase Row Level Security (RLS) policies
