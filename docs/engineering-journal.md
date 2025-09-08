@@ -1805,3 +1805,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-03T16:39] perf(api): optimize Supabase SQL query to select only required projection columns
 
 - [2025-09-08T09:43] feat(marketplace): add category filter chips for AI models, templates, and plugins
+
+- [2025-09-08T11:28] fix(images): add blur-up placeholder while hero banner image loads
