@@ -1809,3 +1809,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-08T11:28] fix(images): add blur-up placeholder while hero banner image loads
 
 - [2025-09-08T12:07] fix(cart): prevent quantity decrement below minimum allowable count of 1
+
+- [2025-09-08T13:59] perf(render): wrap expensive marketplace filter logic in React useMemo
