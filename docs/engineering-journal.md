@@ -1819,3 +1819,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-09T10:49] fix(ui): correct z-index stacking context for modal overlay backdrop
 
 - [2025-09-09T11:53] refactor(auth): wrap Supabase client initialization in safe singleton pattern
+
+- [2025-09-09T13:35] feat(checkout): integrate Fonepay dynamic QR code generation modal
