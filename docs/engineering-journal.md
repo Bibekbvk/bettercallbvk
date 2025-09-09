@@ -1823,3 +1823,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-09T13:35] feat(checkout): integrate Fonepay dynamic QR code generation modal
 
 - [2025-09-09T15:08] fix(blog): escape angle brackets inside markdown code blocks
+
+- [2025-09-09T16:30] fix(auth): fix infinite redirect loop on expired refresh token
