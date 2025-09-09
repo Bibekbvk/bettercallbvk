@@ -1817,3 +1817,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-09T09:38] feat(seo): add JSON-LD Product and BreadcrumbList structured data
 
 - [2025-09-09T10:49] fix(ui): correct z-index stacking context for modal overlay backdrop
+
+- [2025-09-09T11:53] refactor(auth): wrap Supabase client initialization in safe singleton pattern
