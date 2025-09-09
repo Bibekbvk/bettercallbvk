@@ -1821,3 +1821,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-09T11:53] refactor(auth): wrap Supabase client initialization in safe singleton pattern
 
 - [2025-09-09T13:35] feat(checkout): integrate Fonepay dynamic QR code generation modal
+
+- [2025-09-09T15:08] fix(blog): escape angle brackets inside markdown code blocks
