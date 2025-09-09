@@ -1813,3 +1813,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-08T13:59] perf(render): wrap expensive marketplace filter logic in React useMemo
 
 - [2025-09-08T14:37] feat(marketplace): add stock availability indicator and low-inventory warning
+
+- [2025-09-09T09:38] feat(seo): add JSON-LD Product and BreadcrumbList structured data
