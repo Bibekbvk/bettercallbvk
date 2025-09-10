@@ -1831,3 +1831,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-10T11:18] test(utils): add unit tests for currency formatter edge cases
 
 - [2025-09-10T12:13] feat(checkout): validate customer phone numbers for Nepal telecom operators
+
+- [2025-09-10T13:04] fix(admin): ensure numeric sorting order on product price column
