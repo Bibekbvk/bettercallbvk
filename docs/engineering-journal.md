@@ -1827,3 +1827,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-09T16:30] fix(auth): fix infinite redirect loop on expired refresh token
 
 - [2025-09-10T09:51] feat(cart): implement promotional coupon discount code validator
+
+- [2025-09-10T11:18] test(utils): add unit tests for currency formatter edge cases
