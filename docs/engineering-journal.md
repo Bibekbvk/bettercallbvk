@@ -1833,3 +1833,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-10T12:13] feat(checkout): validate customer phone numbers for Nepal telecom operators
 
 - [2025-09-10T13:04] fix(admin): ensure numeric sorting order on product price column
+
+- [2025-09-10T14:32] chore(deps): upgrade Next.js and React dependencies to latest security patches
