@@ -1839,3 +1839,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-11T10:19] feat(seo): generate dynamic XML sitemap with lastmod timestamps
 
 - [2025-09-11T11:10] feat(cart): add slide-over drawer cart view with item quantity controls
+
+- [2025-09-11T12:24] refactor(types): centralize Product, Order, and CartItem TypeScript interfaces
