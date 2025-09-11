@@ -1843,3 +1843,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-11T12:24] refactor(types): centralize Product, Order, and CartItem TypeScript interfaces
 
 - [2025-09-11T13:59] feat(seo): configure robots.txt directives and Google verification tag
+
+- [2025-09-11T15:51] feat(checkout): implement downloadable asset token delivery on checkout success
