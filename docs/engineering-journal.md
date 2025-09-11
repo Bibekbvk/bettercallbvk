@@ -1837,3 +1837,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-10T14:32] chore(deps): upgrade Next.js and React dependencies to latest security patches
 
 - [2025-09-11T10:19] feat(seo): generate dynamic XML sitemap with lastmod timestamps
+
+- [2025-09-11T11:10] feat(cart): add slide-over drawer cart view with item quantity controls
