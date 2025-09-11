@@ -1835,3 +1835,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-10T13:04] fix(admin): ensure numeric sorting order on product price column
 
 - [2025-09-10T14:32] chore(deps): upgrade Next.js and React dependencies to latest security patches
+
+- [2025-09-11T10:19] feat(seo): generate dynamic XML sitemap with lastmod timestamps
