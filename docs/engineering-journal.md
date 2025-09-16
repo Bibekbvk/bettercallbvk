@@ -1849,3 +1849,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-16T10:45] refactor(theme): streamline Tailwind color tokens and dark mode CSS variables
 
 - [2025-09-16T12:24] perf(images): convert all PNG banners to WebP format for 70% size reduction
+
+- [2025-09-16T13:57] feat(profile): implement dark/light theme preference toggle synced to DB
