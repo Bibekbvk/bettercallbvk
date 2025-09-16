@@ -1847,3 +1847,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-11T15:51] feat(checkout): implement downloadable asset token delivery on checkout success
 
 - [2025-09-16T10:45] refactor(theme): streamline Tailwind color tokens and dark mode CSS variables
+
+- [2025-09-16T12:24] perf(images): convert all PNG banners to WebP format for 70% size reduction
