@@ -1845,3 +1845,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-11T13:59] feat(seo): configure robots.txt directives and Google verification tag
 
 - [2025-09-11T15:51] feat(checkout): implement downloadable asset token delivery on checkout success
+
+- [2025-09-16T10:45] refactor(theme): streamline Tailwind color tokens and dark mode CSS variables
