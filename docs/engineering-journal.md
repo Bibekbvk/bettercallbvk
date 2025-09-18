@@ -1859,3 +1859,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-18T11:53] perf(dom): remove unused DOM nodes from hidden mobile navigation
 
 - [2025-09-18T12:59] docs(architecture): document state management and checkout lifecycle
+
+- [2025-09-18T14:16] feat(blog): implement sticky table of contents with active heading spy
