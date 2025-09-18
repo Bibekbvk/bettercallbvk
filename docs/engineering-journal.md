@@ -1855,3 +1855,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-16T14:57] perf(cart): debounce rapid quantity increment dispatches to reduce store churn
 
 - [2025-09-18T10:27] feat(ui): add floating back-to-top button with scroll progress circle
+
+- [2025-09-18T11:53] perf(dom): remove unused DOM nodes from hidden mobile navigation
