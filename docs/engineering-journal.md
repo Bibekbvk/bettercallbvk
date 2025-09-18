@@ -1863,3 +1863,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-18T14:16] feat(blog): implement sticky table of contents with active heading spy
 
 - [2025-09-18T15:53] feat(admin): implement role-based access control (RBAC) guard on admin routes
+
+- [2025-09-18T17:27] fix(profile): provide fallback initial letter avatar when photo URL is empty
