@@ -1853,3 +1853,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-16T13:57] feat(profile): implement dark/light theme preference toggle synced to DB
 
 - [2025-09-16T14:57] perf(cart): debounce rapid quantity increment dispatches to reduce store churn
+
+- [2025-09-18T10:27] feat(ui): add floating back-to-top button with scroll progress circle
