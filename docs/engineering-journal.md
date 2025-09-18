@@ -1865,3 +1865,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-18T15:53] feat(admin): implement role-based access control (RBAC) guard on admin routes
 
 - [2025-09-18T17:27] fix(profile): provide fallback initial letter avatar when photo URL is empty
+
+- [2025-09-18T18:07] feat(marketplace): add related items recommendation carousel on product detail view
