@@ -1867,3 +1867,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-18T17:27] fix(profile): provide fallback initial letter avatar when photo URL is empty
 
 - [2025-09-18T18:07] feat(marketplace): add related items recommendation carousel on product detail view
+
+- [2025-09-24T10:06] fix(checkout): handle network timeout exception during payment webhook call
