@@ -1875,3 +1875,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-24T12:52] feat(cart): add animated badge counter on navbar shopping cart icon
 
 - [2025-09-24T14:45] feat(ui): integrate Aurora mesh gradient animated background
+
+- [2025-09-24T16:13] test(cart): add unit tests for discount percentage and subtotal math
