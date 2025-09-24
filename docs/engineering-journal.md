@@ -1873,3 +1873,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-24T11:39] feat(cart): implement persistent shopping cart using browser localStorage
 
 - [2025-09-24T12:52] feat(cart): add animated badge counter on navbar shopping cart icon
+
+- [2025-09-24T14:45] feat(ui): integrate Aurora mesh gradient animated background
