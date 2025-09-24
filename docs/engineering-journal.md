@@ -1879,3 +1879,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-24T16:13] test(cart): add unit tests for discount percentage and subtotal math
 
 - [2025-09-24T17:10] feat(ui): implement responsive mobile drawer with backdrop blur
+
+- [2025-09-24T18:40] fix(navbar): resolve backdrop-filter blur clipping on mobile Safari iOS
