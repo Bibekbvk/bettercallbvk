@@ -1877,3 +1877,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-24T14:45] feat(ui): integrate Aurora mesh gradient animated background
 
 - [2025-09-24T16:13] test(cart): add unit tests for discount percentage and subtotal math
+
+- [2025-09-24T17:10] feat(ui): implement responsive mobile drawer with backdrop blur
