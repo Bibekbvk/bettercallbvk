@@ -1893,3 +1893,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-30T16:36] feat(cart): add animated badge counter on navbar shopping cart icon
 
 - [2025-09-30T17:13] fix(ui): correct z-index stacking context for modal overlay backdrop
+
+- [2025-09-30T17:51] feat(admin): export transaction logs and order summary to CSV format
