@@ -1881,3 +1881,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-24T17:10] feat(ui): implement responsive mobile drawer with backdrop blur
 
 - [2025-09-24T18:40] fix(navbar): resolve backdrop-filter blur clipping on mobile Safari iOS
+
+- [2025-09-30T11:26] fix(checkout): disable purchase button while payment verification is pending
