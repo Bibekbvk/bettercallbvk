@@ -1889,3 +1889,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-30T14:11] fix(seo): enforce lowercase URLs in canonical links to prevent split rank
 
 - [2025-09-30T15:36] feat(admin): add customer management table with search and pagination
+
+- [2025-09-30T16:36] feat(cart): add animated badge counter on navbar shopping cart icon
