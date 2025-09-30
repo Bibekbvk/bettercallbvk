@@ -1895,3 +1895,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-30T17:13] fix(ui): correct z-index stacking context for modal overlay backdrop
 
 - [2025-09-30T17:51] feat(admin): export transaction logs and order summary to CSV format
+
+- [2025-09-30T19:09] fix(blog): escape angle brackets inside markdown code blocks
