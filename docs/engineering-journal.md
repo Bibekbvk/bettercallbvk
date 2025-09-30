@@ -1883,3 +1883,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-24T18:40] fix(navbar): resolve backdrop-filter blur clipping on mobile Safari iOS
 
 - [2025-09-30T11:26] fix(checkout): disable purchase button while payment verification is pending
+
+- [2025-09-30T12:24] feat(auth): add email confirmation redirect handler and session sync route
