@@ -1909,3 +1909,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-01T14:32] fix(auth): fix infinite redirect loop on expired refresh token
 
 - [2025-10-01T15:20] refactor(hooks): create custom useDebounce hook for search input optimization
+
+- [2025-10-01T16:36] docs(deploy): document Firebase Hosting build and deploy checklist
