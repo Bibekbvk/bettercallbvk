@@ -1911,3 +1911,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-01T15:20] refactor(hooks): create custom useDebounce hook for search input optimization
 
 - [2025-10-01T16:36] docs(deploy): document Firebase Hosting build and deploy checklist
+
+- [2025-10-01T18:31] refactor(types): centralize Product, Order, and CartItem TypeScript interfaces
