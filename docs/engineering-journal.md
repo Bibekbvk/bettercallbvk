@@ -1907,3 +1907,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-01T13:04] feat(checkout): add automated PDF receipt generation and email dispatch
 
 - [2025-10-01T14:32] fix(auth): fix infinite redirect loop on expired refresh token
+
+- [2025-10-01T15:20] refactor(hooks): create custom useDebounce hook for search input optimization
