@@ -1899,3 +1899,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-09-30T19:09] fix(blog): escape angle brackets inside markdown code blocks
 
 - [2025-09-30T19:52] fix(routing): prevent 404 flash on dynamic route initial pre-render
+
+- [2025-10-01T11:12] feat(ui): integrate Aurora mesh gradient animated background
