@@ -1905,3 +1905,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-01T12:08] feat(admin): add system health and Supabase database latency monitor
 
 - [2025-10-01T13:04] feat(checkout): add automated PDF receipt generation and email dispatch
+
+- [2025-10-01T14:32] fix(auth): fix infinite redirect loop on expired refresh token
