@@ -1913,3 +1913,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-01T16:36] docs(deploy): document Firebase Hosting build and deploy checklist
 
 - [2025-10-01T18:31] refactor(types): centralize Product, Order, and CartItem TypeScript interfaces
+
+- [2025-10-01T20:25] chore(deps): upgrade Next.js and React dependencies to latest security patches
