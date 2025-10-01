@@ -1903,3 +1903,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-01T11:12] feat(ui): integrate Aurora mesh gradient animated background
 
 - [2025-10-01T12:08] feat(admin): add system health and Supabase database latency monitor
+
+- [2025-10-01T13:04] feat(checkout): add automated PDF receipt generation and email dispatch
