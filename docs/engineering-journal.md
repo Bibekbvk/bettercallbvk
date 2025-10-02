@@ -1923,3 +1923,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-02T12:12] feat(profile): allow user avatar upload and emergency contact update
 
 - [2025-10-02T13:32] feat(profile): add API key generator for developer API integrations
+
+- [2025-10-02T14:29] fix(profile): provide fallback initial letter avatar when photo URL is empty
