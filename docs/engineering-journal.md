@@ -1915,3 +1915,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-01T18:31] refactor(types): centralize Product, Order, and CartItem TypeScript interfaces
 
 - [2025-10-01T20:25] chore(deps): upgrade Next.js and React dependencies to latest security patches
+
+- [2025-10-02T10:20] refactor(constants): centralize route URLs and navigation metadata
