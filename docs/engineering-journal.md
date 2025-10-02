@@ -1927,3 +1927,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-02T14:29] fix(profile): provide fallback initial letter avatar when photo URL is empty
 
 - [2025-10-02T15:55] test(cart): add unit tests for discount percentage and subtotal math
+
+- [2025-10-02T17:10] perf(cache): set immutable Cache-Control headers for static public assets
