@@ -1919,3 +1919,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-02T10:20] refactor(constants): centralize route URLs and navigation metadata
 
 - [2025-10-02T11:10] feat(cart): implement promotional coupon discount code validator
+
+- [2025-10-02T12:12] feat(profile): allow user avatar upload and emergency contact update
