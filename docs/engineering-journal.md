@@ -1935,3 +1935,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-06T11:00] feat(checkout): implement downloadable asset token delivery on checkout success
 
 - [2025-10-06T12:10] perf(db): add composite index on product (category, created_at) in Supabase
+
+- [2025-10-06T14:04] test(auth): add test cases for session persistence across browser reload
