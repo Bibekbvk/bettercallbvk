@@ -1937,3 +1937,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-06T12:10] perf(db): add composite index on product (category, created_at) in Supabase
 
 - [2025-10-06T14:04] test(auth): add test cases for session persistence across browser reload
+
+- [2025-10-06T14:44] feat(seo): configure robots.txt directives and Google verification tag
