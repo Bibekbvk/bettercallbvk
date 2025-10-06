@@ -1929,3 +1929,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-02T15:55] test(cart): add unit tests for discount percentage and subtotal math
 
 - [2025-10-02T17:10] perf(cache): set immutable Cache-Control headers for static public assets
+
+- [2025-10-06T09:57] feat(checkout): integrate Fonepay dynamic QR code generation modal
