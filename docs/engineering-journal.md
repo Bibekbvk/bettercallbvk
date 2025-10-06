@@ -1933,3 +1933,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-06T09:57] feat(checkout): integrate Fonepay dynamic QR code generation modal
 
 - [2025-10-06T11:00] feat(checkout): implement downloadable asset token delivery on checkout success
+
+- [2025-10-06T12:10] perf(db): add composite index on product (category, created_at) in Supabase
