@@ -1943,3 +1943,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-06T15:46] feat(admin): implement product inventory manager with modal editor
 
 - [2025-10-06T16:59] feat(blog): implement sticky table of contents with active heading spy
+
+- [2025-10-06T18:50] fix(admin): ensure numeric sorting order on product price column
