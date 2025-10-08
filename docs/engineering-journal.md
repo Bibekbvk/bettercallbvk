@@ -1957,3 +1957,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-08T17:41] feat(marketplace): add stock availability indicator and low-inventory warning
 
 - [2025-10-08T19:05] perf(fonts): add font-display swap to optimize Google Fonts rendering speed
+
+- [2025-10-08T19:57] perf(bundle): dynamic import Recharts library to reduce initial JS payload
