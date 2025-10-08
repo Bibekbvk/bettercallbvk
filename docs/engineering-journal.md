@@ -1953,3 +1953,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-08T13:55] feat(ui): add accessible keyboard focus rings across all interactive elements
 
 - [2025-10-08T15:46] perf(next): enable Turbopack compilation flags in development server
+
+- [2025-10-08T17:41] feat(marketplace): add stock availability indicator and low-inventory warning
