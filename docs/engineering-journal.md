@@ -1945,3 +1945,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-06T16:59] feat(blog): implement sticky table of contents with active heading spy
 
 - [2025-10-06T18:50] fix(admin): ensure numeric sorting order on product price column
+
+- [2025-10-08T11:01] feat(ui): add animated counter component for live stats section
