@@ -1947,3 +1947,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-06T18:50] fix(admin): ensure numeric sorting order on product price column
 
 - [2025-10-08T11:01] feat(ui): add animated counter component for live stats section
+
+- [2025-10-08T12:48] feat(ui): implement responsive mobile drawer with backdrop blur
