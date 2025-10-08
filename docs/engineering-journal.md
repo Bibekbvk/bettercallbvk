@@ -1959,3 +1959,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-08T19:05] perf(fonts): add font-display swap to optimize Google Fonts rendering speed
 
 - [2025-10-08T19:57] perf(bundle): dynamic import Recharts library to reduce initial JS payload
+
+- [2025-10-08T20:54] feat(admin): build executive dashboard with Recharts revenue metrics
