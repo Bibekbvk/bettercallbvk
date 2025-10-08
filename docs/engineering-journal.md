@@ -1951,3 +1951,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-08T12:48] feat(ui): implement responsive mobile drawer with backdrop blur
 
 - [2025-10-08T13:55] feat(ui): add accessible keyboard focus rings across all interactive elements
+
+- [2025-10-08T15:46] perf(next): enable Turbopack compilation flags in development server
