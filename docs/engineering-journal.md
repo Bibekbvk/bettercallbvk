@@ -1979,3 +1979,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-09T16:57] feat(seo): optimize title tags and meta descriptions for high CTR
 
 - [2025-10-09T17:34] feat(auth): add email confirmation redirect handler and session sync route
+
+- [2025-10-09T18:24] docs(api): document Supabase Row Level Security (RLS) policies
