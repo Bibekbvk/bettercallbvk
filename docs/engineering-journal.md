@@ -1967,3 +1967,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-09T09:38] feat(blog): add syntax highlighting for TypeScript, SQL, and Python code blocks
 
 - [2025-10-09T10:15] fix(styles): fix flex wrap collision on small viewport filter chips
+
+- [2025-10-09T12:04] feat(admin): add monthly sales breakdown bar chart and trend indicator
