@@ -1973,3 +1973,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-09T13:27] fix(cart): prevent quantity decrement below minimum allowable count of 1
 
 - [2025-10-09T14:31] fix(checkout): handle network timeout exception during payment webhook call
+
+- [2025-10-09T16:21] feat(marketplace): implement quick-view modal for product specification details
