@@ -1963,3 +1963,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-08T20:54] feat(admin): build executive dashboard with Recharts revenue metrics
 
 - [2025-10-08T22:09] feat(auth): implement password strength meter on user registration form
+
+- [2025-10-09T09:38] feat(blog): add syntax highlighting for TypeScript, SQL, and Python code blocks
