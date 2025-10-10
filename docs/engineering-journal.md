@@ -1999,3 +1999,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-10T18:27] fix(db): handle null response gracefully when querying empty category
 
 - [2025-10-10T20:18] feat(blog): implement related articles algorithm based on shared tags
+
+- [2025-10-10T21:35] feat(checkout): add eSewa wallet direct payment verification handler
