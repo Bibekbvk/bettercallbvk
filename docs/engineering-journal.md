@@ -1981,3 +1981,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-09T17:34] feat(auth): add email confirmation redirect handler and session sync route
 
 - [2025-10-09T18:24] docs(api): document Supabase Row Level Security (RLS) policies
+
+- [2025-10-10T11:04] refactor(checkout): transition checkout workflow into typed state machine
