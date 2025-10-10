@@ -1991,3 +1991,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-10T13:47] feat(checkout): scaffold multi-step checkout wizard with progress indicators
 
 - [2025-10-10T15:25] fix(navbar): resolve backdrop-filter blur clipping on mobile Safari iOS
+
+- [2025-10-10T16:25] feat(checkout): validate customer phone numbers for Nepal telecom operators
