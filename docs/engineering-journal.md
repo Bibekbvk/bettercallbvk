@@ -1997,3 +1997,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-10T17:48] perf(render): wrap expensive marketplace filter logic in React useMemo
 
 - [2025-10-10T18:27] fix(db): handle null response gracefully when querying empty category
+
+- [2025-10-10T20:18] feat(blog): implement related articles algorithm based on shared tags
