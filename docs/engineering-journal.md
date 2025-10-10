@@ -2005,3 +2005,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-10T22:25] fix(performance): cancel pending fetch controller on component unmount
 
 - [2025-10-10T22:45] perf(cart): debounce rapid quantity increment dispatches to reduce store churn
+
+- [2025-10-10T22:53] fix(checkout): disable purchase button while payment verification is pending
