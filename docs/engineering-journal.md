@@ -1987,3 +1987,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-10T12:10] perf(api): optimize Supabase SQL query to select only required projection columns
 
 - [2025-10-10T12:55] feat(ui): add floating back-to-top button with scroll progress circle
+
+- [2025-10-10T13:47] feat(checkout): scaffold multi-step checkout wizard with progress indicators
