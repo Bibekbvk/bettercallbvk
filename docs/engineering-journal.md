@@ -1995,3 +1995,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-10T16:25] feat(checkout): validate customer phone numbers for Nepal telecom operators
 
 - [2025-10-10T17:48] perf(render): wrap expensive marketplace filter logic in React useMemo
+
+- [2025-10-10T18:27] fix(db): handle null response gracefully when querying empty category
