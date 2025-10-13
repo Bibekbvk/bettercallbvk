@@ -2007,3 +2007,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-10T22:45] perf(cart): debounce rapid quantity increment dispatches to reduce store churn
 
 - [2025-10-10T22:53] fix(checkout): disable purchase button while payment verification is pending
+
+- [2025-10-13T11:06] feat(cart): implement persistent shopping cart using browser localStorage
