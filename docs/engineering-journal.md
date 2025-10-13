@@ -2013,3 +2013,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-13T12:10] test(checkout): add form input validation test suite for payment details
 
 - [2025-10-13T13:27] feat(marketplace): add instant copy share link action with toast notification
+
+- [2025-10-13T14:33] feat(ui): implement smooth page fade transition with Framer Motion
