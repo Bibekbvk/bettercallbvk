@@ -2019,3 +2019,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-13T16:17] feat(seo): generate dynamic XML sitemap with lastmod timestamps
 
 - [2025-10-13T17:23] feat(marketplace): implement customer reviews and 5-star rating breakdown
+
+- [2025-10-13T18:26] feat(seo): add canonical URL tag generator to eliminate duplicate content
