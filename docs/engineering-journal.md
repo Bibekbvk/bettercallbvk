@@ -2011,3 +2011,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-13T11:06] feat(cart): implement persistent shopping cart using browser localStorage
 
 - [2025-10-13T12:10] test(checkout): add form input validation test suite for payment details
+
+- [2025-10-13T13:27] feat(marketplace): add instant copy share link action with toast notification
