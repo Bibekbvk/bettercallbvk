@@ -2015,3 +2015,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-13T13:27] feat(marketplace): add instant copy share link action with toast notification
 
 - [2025-10-13T14:33] feat(ui): implement smooth page fade transition with Framer Motion
+
+- [2025-10-13T16:17] feat(seo): generate dynamic XML sitemap with lastmod timestamps
