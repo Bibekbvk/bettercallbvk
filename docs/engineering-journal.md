@@ -2021,3 +2021,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-13T17:23] feat(marketplace): implement customer reviews and 5-star rating breakdown
 
 - [2025-10-13T18:26] feat(seo): add canonical URL tag generator to eliminate duplicate content
+
+- [2025-10-13T19:49] refactor(admin): modularize admin charts into standalone presentational components
