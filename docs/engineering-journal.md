@@ -2029,3 +2029,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-14T11:48] refactor(utils): move currency, date, and string helpers to shared utils lib
 
 - [2025-10-14T12:31] fix(auth): sanitize login email input to remove leading and trailing spaces
+
+- [2025-10-14T13:14] fix(cart): clear active cart items upon confirmed order completion
