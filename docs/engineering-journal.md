@@ -2037,3 +2037,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-14T14:48] feat(profile): implement dark/light theme preference toggle synced to DB
 
 - [2025-10-14T15:39] feat(ui): add typewriter headline effect with configurable speed
+
+- [2025-10-14T16:36] feat(marketplace): implement real-time product search with keyword debouncing
