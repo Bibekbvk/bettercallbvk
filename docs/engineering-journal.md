@@ -2043,3 +2043,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-14T18:21] fix(seo): enforce lowercase URLs in canonical links to prevent split rank
 
 - [2025-10-14T19:22] refactor(theme): streamline Tailwind color tokens and dark mode CSS variables
+
+- [2025-10-14T21:01] feat(marketplace): display verified developer badge on trusted vendor products
