@@ -2031,3 +2031,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-14T12:31] fix(auth): sanitize login email input to remove leading and trailing spaces
 
 - [2025-10-14T13:14] fix(cart): clear active cart items upon confirmed order completion
+
+- [2025-10-14T13:55] test(utils): add unit tests for currency formatter edge cases
