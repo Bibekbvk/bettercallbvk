@@ -2023,3 +2023,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-13T18:26] feat(seo): add canonical URL tag generator to eliminate duplicate content
 
 - [2025-10-13T19:49] refactor(admin): modularize admin charts into standalone presentational components
+
+- [2025-10-14T09:53] feat(blog): scaffold engineering blog with category tags and reading time
