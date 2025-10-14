@@ -2033,3 +2033,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-14T13:14] fix(cart): clear active cart items upon confirmed order completion
 
 - [2025-10-14T13:55] test(utils): add unit tests for currency formatter edge cases
+
+- [2025-10-14T14:48] feat(profile): implement dark/light theme preference toggle synced to DB
