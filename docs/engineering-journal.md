@@ -2025,3 +2025,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-13T19:49] refactor(admin): modularize admin charts into standalone presentational components
 
 - [2025-10-14T09:53] feat(blog): scaffold engineering blog with category tags and reading time
+
+- [2025-10-14T11:48] refactor(utils): move currency, date, and string helpers to shared utils lib
