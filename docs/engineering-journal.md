@@ -2047,3 +2047,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-14T21:01] feat(marketplace): display verified developer badge on trusted vendor products
 
 - [2025-10-15T11:02] feat(auth): integrate Supabase Auth session listener with React Context
+
+- [2025-10-15T12:16] feat(profile): display user purchased downloads and order history table
