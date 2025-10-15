@@ -2057,3 +2057,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-15T16:37] fix(contact): reset form state and show confirmation toast on successful send
 
 - [2025-10-15T17:50] fix(images): add blur-up placeholder while hero banner image loads
+
+- [2025-10-15T19:38] docs(setup): update local environment variables configuration guide
