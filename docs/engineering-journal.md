@@ -2051,3 +2051,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-15T12:16] feat(profile): display user purchased downloads and order history table
 
 - [2025-10-15T13:16] feat(seo): implement dynamic OpenGraph and Twitter card metadata generator
+
+- [2025-10-15T14:45] docs(architecture): document state management and checkout lifecycle
