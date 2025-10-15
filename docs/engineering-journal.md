@@ -2067,3 +2067,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-15T22:14] feat(ui): add magnetic cursor hover interaction for CTA buttons
 
 - [2025-10-15T22:33] feat(marketplace): support multi-currency display formatting (NPR and USD)
+
+- [2025-10-15T22:35] chore(lint): enable strict TypeScript linting rules across all route handlers
