@@ -2061,3 +2061,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-15T19:38] docs(setup): update local environment variables configuration guide
 
 - [2025-10-15T20:38] fix(security): sanitize SVG uploads against embedded cross-site script payloads
+
+- [2025-10-15T22:02] feat(marketplace): add category filter chips for AI models, templates, and plugins
