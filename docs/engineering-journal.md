@@ -2079,3 +2079,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-16T13:34] feat(admin): implement role-based access control (RBAC) guard on admin routes
 
 - [2025-10-16T14:57] perf(dom): remove unused DOM nodes from hidden mobile navigation
+
+- [2025-10-16T15:42] perf(scroll): throttle Lenis smooth scroll event listener to 60fps
