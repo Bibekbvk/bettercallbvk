@@ -2073,3 +2073,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-15T22:58] refactor(auth): wrap Supabase client initialization in safe singleton pattern
 
 - [2025-10-16T11:04] feat(blog): add social sharing buttons for LinkedIn, Twitter, and WhatsApp
+
+- [2025-10-16T11:58] feat(marketplace): add related items recommendation carousel on product detail view
