@@ -2075,3 +2075,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-16T11:04] feat(blog): add social sharing buttons for LinkedIn, Twitter, and WhatsApp
 
 - [2025-10-16T11:58] feat(marketplace): add related items recommendation carousel on product detail view
+
+- [2025-10-16T13:34] feat(admin): implement role-based access control (RBAC) guard on admin routes
