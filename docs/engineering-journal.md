@@ -2085,3 +2085,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-16T16:55] perf(images): convert all PNG banners to WebP format for 70% size reduction
 
 - [2025-10-16T18:38] feat(ui): implement sound toggle micro-interaction on button click
+
+- [2025-10-16T20:23] feat(seo): add JSON-LD Product and BreadcrumbList structured data
