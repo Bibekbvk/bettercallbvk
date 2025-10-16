@@ -2089,3 +2089,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-16T20:23] feat(seo): add JSON-LD Product and BreadcrumbList structured data
 
 - [2025-10-16T21:20] feat(cart): add slide-over drawer cart view with item quantity controls
+
+- [2025-10-16T22:43] feat(ui): add interactive hover tilt effect to marketplace product cards
