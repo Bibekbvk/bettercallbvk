@@ -2091,3 +2091,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-16T21:20] feat(cart): add slide-over drawer cart view with item quantity controls
 
 - [2025-10-16T22:43] feat(ui): add interactive hover tilt effect to marketplace product cards
+
+- [2025-10-21T10:28] feat(auth): add GitHub and Google OAuth login provider buttons
