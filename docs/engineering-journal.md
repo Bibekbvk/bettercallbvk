@@ -2111,3 +2111,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-21T20:45] feat(profile): implement dark/light theme preference toggle synced to DB
 
 - [2025-10-21T21:37] perf(scroll): throttle Lenis smooth scroll event listener to 60fps
+
+- [2025-10-21T22:14] fix(checkout): disable purchase button while payment verification is pending
