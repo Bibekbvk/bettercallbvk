@@ -2119,3 +2119,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-21T22:25] refactor(constants): centralize route URLs and navigation metadata
 
 - [2025-10-21T22:25] feat(marketplace): support multi-currency display formatting (NPR and USD)
+
+- [2025-10-21T22:27] feat(cart): add slide-over drawer cart view with item quantity controls
