@@ -2105,3 +2105,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-21T17:20] perf(bundle): dynamic import Recharts library to reduce initial JS payload
 
 - [2025-10-21T18:50] fix(seo): enforce lowercase URLs in canonical links to prevent split rank
+
+- [2025-10-21T19:47] fix(admin): ensure numeric sorting order on product price column
