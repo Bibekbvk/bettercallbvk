@@ -2101,3 +2101,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-21T14:27] docs(setup): update local environment variables configuration guide
 
 - [2025-10-21T16:09] feat(ui): add typewriter headline effect with configurable speed
+
+- [2025-10-21T17:20] perf(bundle): dynamic import Recharts library to reduce initial JS payload
