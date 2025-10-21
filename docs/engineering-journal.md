@@ -2107,3 +2107,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-21T18:50] fix(seo): enforce lowercase URLs in canonical links to prevent split rank
 
 - [2025-10-21T19:47] fix(admin): ensure numeric sorting order on product price column
+
+- [2025-10-21T20:45] feat(profile): implement dark/light theme preference toggle synced to DB
