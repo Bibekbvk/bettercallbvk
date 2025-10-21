@@ -2109,3 +2109,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-21T19:47] fix(admin): ensure numeric sorting order on product price column
 
 - [2025-10-21T20:45] feat(profile): implement dark/light theme preference toggle synced to DB
+
+- [2025-10-21T21:37] perf(scroll): throttle Lenis smooth scroll event listener to 60fps
