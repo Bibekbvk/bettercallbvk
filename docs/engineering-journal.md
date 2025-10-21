@@ -2095,3 +2095,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-21T10:28] feat(auth): add GitHub and Google OAuth login provider buttons
 
 - [2025-10-21T11:51] feat(marketplace): add price sorting and rating filter dropdowns
+
+- [2025-10-21T13:43] refactor(components): extract reusable Modal, Dialog, and Backdrop primitives
