@@ -2123,3 +2123,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-21T22:27] feat(cart): add slide-over drawer cart view with item quantity controls
 
 - [2025-10-21T22:27] feat(ui): integrate Aurora mesh gradient animated background
+
+- [2025-10-21T22:53] feat(ui): implement smooth page fade transition with Framer Motion
