@@ -2115,3 +2115,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-21T22:14] fix(checkout): disable purchase button while payment verification is pending
 
 - [2025-10-21T22:24] feat(admin): build executive dashboard with Recharts revenue metrics
+
+- [2025-10-21T22:25] refactor(constants): centralize route URLs and navigation metadata
