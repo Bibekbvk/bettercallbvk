@@ -2113,3 +2113,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-21T21:37] perf(scroll): throttle Lenis smooth scroll event listener to 60fps
 
 - [2025-10-21T22:14] fix(checkout): disable purchase button while payment verification is pending
+
+- [2025-10-21T22:24] feat(admin): build executive dashboard with Recharts revenue metrics
