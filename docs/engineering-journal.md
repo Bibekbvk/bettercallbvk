@@ -2131,3 +2131,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-22T12:20] feat(profile): display user purchased downloads and order history table
 
 - [2025-10-22T13:16] docs(deploy): document Firebase Hosting build and deploy checklist
+
+- [2025-10-22T14:28] feat(admin): export transaction logs and order summary to CSV format
