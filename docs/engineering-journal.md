@@ -2149,3 +2149,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-22T22:17] feat(checkout): implement downloadable asset token delivery on checkout success
 
 - [2025-10-22T22:19] feat(checkout): add automated PDF receipt generation and email dispatch
+
+- [2025-10-22T22:31] feat(checkout): integrate Fonepay dynamic QR code generation modal
