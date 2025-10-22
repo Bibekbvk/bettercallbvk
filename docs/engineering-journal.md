@@ -2155,3 +2155,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-22T22:37] docs(api): document Supabase Row Level Security (RLS) policies
 
 - [2025-10-22T22:48] perf(cart): debounce rapid quantity increment dispatches to reduce store churn
+
+- [2025-10-22T22:54] chore(deps): upgrade Next.js and React dependencies to latest security patches
