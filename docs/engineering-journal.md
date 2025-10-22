@@ -2135,3 +2135,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-22T14:28] feat(admin): export transaction logs and order summary to CSV format
 
 - [2025-10-22T15:51] fix(auth): sanitize login email input to remove leading and trailing spaces
+
+- [2025-10-22T17:01] perf(api): optimize Supabase SQL query to select only required projection columns
