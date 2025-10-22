@@ -2139,3 +2139,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-22T17:01] perf(api): optimize Supabase SQL query to select only required projection columns
 
 - [2025-10-22T18:19] feat(ui): implement responsive mobile drawer with backdrop blur
+
+- [2025-10-22T20:08] fix(profile): provide fallback initial letter avatar when photo URL is empty
