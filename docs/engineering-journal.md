@@ -2133,3 +2133,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-22T13:16] docs(deploy): document Firebase Hosting build and deploy checklist
 
 - [2025-10-22T14:28] feat(admin): export transaction logs and order summary to CSV format
+
+- [2025-10-22T15:51] fix(auth): sanitize login email input to remove leading and trailing spaces
