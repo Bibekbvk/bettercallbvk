@@ -2129,3 +2129,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-22T10:26] feat(seo): add canonical URL tag generator to eliminate duplicate content
 
 - [2025-10-22T12:20] feat(profile): display user purchased downloads and order history table
+
+- [2025-10-22T13:16] docs(deploy): document Firebase Hosting build and deploy checklist
