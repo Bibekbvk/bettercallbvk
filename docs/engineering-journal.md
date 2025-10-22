@@ -2143,3 +2143,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-22T20:08] fix(profile): provide fallback initial letter avatar when photo URL is empty
 
 - [2025-10-22T21:44] perf(fonts): add font-display swap to optimize Google Fonts rendering speed
+
+- [2025-10-22T22:13] refactor(components): extract reusable Modal, Dialog, and Backdrop primitives
