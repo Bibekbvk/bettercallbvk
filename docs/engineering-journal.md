@@ -2151,3 +2151,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-22T22:19] feat(checkout): add automated PDF receipt generation and email dispatch
 
 - [2025-10-22T22:31] feat(checkout): integrate Fonepay dynamic QR code generation modal
+
+- [2025-10-22T22:37] docs(api): document Supabase Row Level Security (RLS) policies
