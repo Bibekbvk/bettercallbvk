@@ -2125,3 +2125,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-21T22:27] feat(ui): integrate Aurora mesh gradient animated background
 
 - [2025-10-21T22:53] feat(ui): implement smooth page fade transition with Framer Motion
+
+- [2025-10-22T10:26] feat(seo): add canonical URL tag generator to eliminate duplicate content
