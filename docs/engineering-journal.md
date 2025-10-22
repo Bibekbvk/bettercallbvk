@@ -2145,3 +2145,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-22T21:44] perf(fonts): add font-display swap to optimize Google Fonts rendering speed
 
 - [2025-10-22T22:13] refactor(components): extract reusable Modal, Dialog, and Backdrop primitives
+
+- [2025-10-22T22:17] feat(checkout): implement downloadable asset token delivery on checkout success
