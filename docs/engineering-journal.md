@@ -2171,3 +2171,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-23T17:29] refactor(utils): move currency, date, and string helpers to shared utils lib
 
 - [2025-10-23T18:47] feat(ui): add interactive hover tilt effect to marketplace product cards
+
+- [2025-10-23T19:52] fix(contact): reset form state and show confirmation toast on successful send
