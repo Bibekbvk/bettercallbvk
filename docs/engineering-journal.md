@@ -2169,3 +2169,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-23T16:07] feat(marketplace): add stock availability indicator and low-inventory warning
 
 - [2025-10-23T17:29] refactor(utils): move currency, date, and string helpers to shared utils lib
+
+- [2025-10-23T18:47] feat(ui): add interactive hover tilt effect to marketplace product cards
