@@ -2161,3 +2161,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-23T10:36] feat(admin): implement product inventory manager with modal editor
 
 - [2025-10-23T11:45] feat(auth): add GitHub and Google OAuth login provider buttons
+
+- [2025-10-23T13:20] feat(blog): implement sticky table of contents with active heading spy
