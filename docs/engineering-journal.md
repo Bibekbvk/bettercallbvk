@@ -2179,3 +2179,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-23T22:11] feat(blog): scaffold engineering blog with category tags and reading time
 
 - [2025-10-23T22:17] refactor(admin): modularize admin charts into standalone presentational components
+
+- [2025-10-23T22:18] refactor(hooks): create custom useDebounce hook for search input optimization
