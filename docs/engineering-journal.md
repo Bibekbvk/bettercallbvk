@@ -2165,3 +2165,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-23T13:20] feat(blog): implement sticky table of contents with active heading spy
 
 - [2025-10-23T14:38] refactor(types): centralize Product, Order, and CartItem TypeScript interfaces
+
+- [2025-10-23T16:07] feat(marketplace): add stock availability indicator and low-inventory warning
