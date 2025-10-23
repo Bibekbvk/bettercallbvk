@@ -2163,3 +2163,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-23T11:45] feat(auth): add GitHub and Google OAuth login provider buttons
 
 - [2025-10-23T13:20] feat(blog): implement sticky table of contents with active heading spy
+
+- [2025-10-23T14:38] refactor(types): centralize Product, Order, and CartItem TypeScript interfaces
