@@ -2159,3 +2159,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-22T22:54] chore(deps): upgrade Next.js and React dependencies to latest security patches
 
 - [2025-10-23T10:36] feat(admin): implement product inventory manager with modal editor
+
+- [2025-10-23T11:45] feat(auth): add GitHub and Google OAuth login provider buttons
