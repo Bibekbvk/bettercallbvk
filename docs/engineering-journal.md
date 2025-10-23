@@ -2177,3 +2177,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-23T21:18] fix(routing): prevent 404 flash on dynamic route initial pre-render
 
 - [2025-10-23T22:11] feat(blog): scaffold engineering blog with category tags and reading time
+
+- [2025-10-23T22:17] refactor(admin): modularize admin charts into standalone presentational components
