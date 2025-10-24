@@ -2201,3 +2201,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-24T17:13] feat(profile): allow user avatar upload and emergency contact update
 
 - [2025-10-24T18:12] fix(images): add blur-up placeholder while hero banner image loads
+
+- [2025-10-24T19:28] fix(cart): prevent quantity decrement below minimum allowable count of 1
