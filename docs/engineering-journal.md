@@ -2189,3 +2189,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-24T09:33] feat(auth): integrate Supabase Auth session listener with React Context
 
 - [2025-10-24T10:23] refactor(auth): wrap Supabase client initialization in safe singleton pattern
+
+- [2025-10-24T11:33] feat(marketplace): add price sorting and rating filter dropdowns
