@@ -2191,3 +2191,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-24T10:23] refactor(auth): wrap Supabase client initialization in safe singleton pattern
 
 - [2025-10-24T11:33] feat(marketplace): add price sorting and rating filter dropdowns
+
+- [2025-10-24T12:39] feat(checkout): add eSewa wallet direct payment verification handler
