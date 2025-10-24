@@ -2193,3 +2193,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-24T11:33] feat(marketplace): add price sorting and rating filter dropdowns
 
 - [2025-10-24T12:39] feat(checkout): add eSewa wallet direct payment verification handler
+
+- [2025-10-24T14:11] feat(ui): add animated counter component for live stats section
