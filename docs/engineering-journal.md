@@ -2195,3 +2195,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-24T12:39] feat(checkout): add eSewa wallet direct payment verification handler
 
 - [2025-10-24T14:11] feat(ui): add animated counter component for live stats section
+
+- [2025-10-24T15:46] feat(blog): add syntax highlighting for TypeScript, SQL, and Python code blocks
