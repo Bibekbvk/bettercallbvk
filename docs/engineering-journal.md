@@ -2205,3 +2205,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-24T19:28] fix(cart): prevent quantity decrement below minimum allowable count of 1
 
 - [2025-10-27T11:21] fix(checkout): handle network timeout exception during payment webhook call
+
+- [2025-10-27T12:37] refactor(theme): streamline Tailwind color tokens and dark mode CSS variables
