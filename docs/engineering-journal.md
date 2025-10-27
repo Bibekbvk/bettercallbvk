@@ -2203,3 +2203,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-24T18:12] fix(images): add blur-up placeholder while hero banner image loads
 
 - [2025-10-24T19:28] fix(cart): prevent quantity decrement below minimum allowable count of 1
+
+- [2025-10-27T11:21] fix(checkout): handle network timeout exception during payment webhook call
