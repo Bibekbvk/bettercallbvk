@@ -2213,3 +2213,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-27T16:00] feat(marketplace): implement quick-view modal for product specification details
 
 - [2025-10-27T17:26] feat(auth): add email confirmation redirect handler and session sync route
+
+- [2025-10-27T19:19] feat(admin): add monthly sales breakdown bar chart and trend indicator
