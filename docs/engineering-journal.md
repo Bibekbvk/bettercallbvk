@@ -2211,3 +2211,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-27T14:08] perf(images): convert all PNG banners to WebP format for 70% size reduction
 
 - [2025-10-27T16:00] feat(marketplace): implement quick-view modal for product specification details
+
+- [2025-10-27T17:26] feat(auth): add email confirmation redirect handler and session sync route
