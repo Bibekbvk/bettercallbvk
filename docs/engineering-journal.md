@@ -2219,3 +2219,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-27T20:04] perf(db): add composite index on product (category, created_at) in Supabase
 
 - [2025-10-28T11:30] feat(seo): implement dynamic OpenGraph and Twitter card metadata generator
+
+- [2025-10-28T12:17] fix(performance): cancel pending fetch controller on component unmount
