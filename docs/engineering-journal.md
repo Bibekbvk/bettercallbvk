@@ -2223,3 +2223,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-28T12:17] fix(performance): cancel pending fetch controller on component unmount
 
 - [2025-10-28T13:41] fix(ui): correct z-index stacking context for modal overlay backdrop
+
+- [2025-10-28T15:33] test(checkout): add form input validation test suite for payment details
