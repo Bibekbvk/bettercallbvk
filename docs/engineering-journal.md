@@ -2225,3 +2225,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-28T13:41] fix(ui): correct z-index stacking context for modal overlay backdrop
 
 - [2025-10-28T15:33] test(checkout): add form input validation test suite for payment details
+
+- [2025-10-28T16:26] fix(cart): clear active cart items upon confirmed order completion
