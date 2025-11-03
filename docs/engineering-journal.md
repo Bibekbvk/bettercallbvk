@@ -2233,3 +2233,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-03T09:34] fix(db): handle null response gracefully when querying empty category
 
 - [2025-11-03T11:12] feat(marketplace): display verified developer badge on trusted vendor products
+
+- [2025-11-03T11:58] feat(admin): add system health and Supabase database latency monitor
