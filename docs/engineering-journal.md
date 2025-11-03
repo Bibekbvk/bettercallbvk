@@ -2235,3 +2235,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-03T11:12] feat(marketplace): display verified developer badge on trusted vendor products
 
 - [2025-11-03T11:58] feat(admin): add system health and Supabase database latency monitor
+
+- [2025-11-03T13:43] chore(lint): enable strict TypeScript linting rules across all route handlers
