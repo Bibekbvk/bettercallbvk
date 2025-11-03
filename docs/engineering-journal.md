@@ -2229,3 +2229,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-10-28T16:26] fix(cart): clear active cart items upon confirmed order completion
 
 - [2025-10-28T18:14] feat(ui): add accessible keyboard focus rings across all interactive elements
+
+- [2025-11-03T09:34] fix(db): handle null response gracefully when querying empty category
