@@ -2247,3 +2247,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-04T13:21] perf(next): enable Turbopack compilation flags in development server
 
 - [2025-11-04T14:17] feat(blog): implement related articles algorithm based on shared tags
+
+- [2025-11-04T15:03] feat(seo): add JSON-LD Product and BreadcrumbList structured data
