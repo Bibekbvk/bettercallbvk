@@ -2259,3 +2259,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-04T19:37] feat(cart): implement promotional coupon discount code validator
 
 - [2025-11-04T20:44] fix(blog): escape angle brackets inside markdown code blocks
+
+- [2025-11-04T22:19] feat(checkout): validate customer phone numbers for Nepal telecom operators
