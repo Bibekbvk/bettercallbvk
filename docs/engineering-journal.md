@@ -2253,3 +2253,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-04T16:33] perf(cache): set immutable Cache-Control headers for static public assets
 
 - [2025-11-04T17:11] test(utils): add unit tests for currency formatter edge cases
+
+- [2025-11-04T18:27] feat(ui): add magnetic cursor hover interaction for CTA buttons
