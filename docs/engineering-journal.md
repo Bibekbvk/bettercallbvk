@@ -2251,3 +2251,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-04T15:03] feat(seo): add JSON-LD Product and BreadcrumbList structured data
 
 - [2025-11-04T16:33] perf(cache): set immutable Cache-Control headers for static public assets
+
+- [2025-11-04T17:11] test(utils): add unit tests for currency formatter edge cases
