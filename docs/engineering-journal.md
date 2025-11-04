@@ -2255,3 +2255,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-04T17:11] test(utils): add unit tests for currency formatter edge cases
 
 - [2025-11-04T18:27] feat(ui): add magnetic cursor hover interaction for CTA buttons
+
+- [2025-11-04T19:37] feat(cart): implement promotional coupon discount code validator
