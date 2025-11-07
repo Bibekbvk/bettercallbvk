@@ -2271,3 +2271,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-07T15:32] fix(styles): fix flex wrap collision on small viewport filter chips
 
 - [2025-11-07T17:20] feat(admin): implement role-based access control (RBAC) guard on admin routes
+
+- [2025-11-07T19:11] feat(ui): add floating back-to-top button with scroll progress circle
