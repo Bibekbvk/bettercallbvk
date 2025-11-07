@@ -2273,3 +2273,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-07T17:20] feat(admin): implement role-based access control (RBAC) guard on admin routes
 
 - [2025-11-07T19:11] feat(ui): add floating back-to-top button with scroll progress circle
+
+- [2025-11-07T20:29] perf(dom): remove unused DOM nodes from hidden mobile navigation
