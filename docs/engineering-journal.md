@@ -2285,3 +2285,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-10T13:31] feat(marketplace): add instant copy share link action with toast notification
 
 - [2025-11-10T14:43] refactor(checkout): transition checkout workflow into typed state machine
+
+- [2025-11-10T15:32] feat(blog): add social sharing buttons for LinkedIn, Twitter, and WhatsApp
