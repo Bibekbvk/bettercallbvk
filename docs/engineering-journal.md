@@ -2277,3 +2277,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-07T20:29] perf(dom): remove unused DOM nodes from hidden mobile navigation
 
 - [2025-11-07T21:52] feat(checkout): scaffold multi-step checkout wizard with progress indicators
+
+- [2025-11-10T11:19] perf(render): wrap expensive marketplace filter logic in React useMemo
