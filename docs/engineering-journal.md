@@ -2291,3 +2291,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-10T16:50] feat(marketplace): add related items recommendation carousel on product detail view
 
 - [2025-11-10T18:40] feat(seo): generate dynamic XML sitemap with lastmod timestamps
+
+- [2025-11-10T19:29] feat(cart): add animated badge counter on navbar shopping cart icon
