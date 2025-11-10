@@ -2289,3 +2289,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-10T15:32] feat(blog): add social sharing buttons for LinkedIn, Twitter, and WhatsApp
 
 - [2025-11-10T16:50] feat(marketplace): add related items recommendation carousel on product detail view
+
+- [2025-11-10T18:40] feat(seo): generate dynamic XML sitemap with lastmod timestamps
