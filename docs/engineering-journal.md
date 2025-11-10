@@ -2283,3 +2283,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-10T12:23] fix(navbar): resolve backdrop-filter blur clipping on mobile Safari iOS
 
 - [2025-11-10T13:31] feat(marketplace): add instant copy share link action with toast notification
+
+- [2025-11-10T14:43] refactor(checkout): transition checkout workflow into typed state machine
