@@ -2305,3 +2305,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-11T14:09] feat(cart): implement persistent shopping cart using browser localStorage
 
 - [2025-11-11T15:33] feat(marketplace): add category filter chips for AI models, templates, and plugins
+
+- [2025-11-11T16:48] feat(profile): add API key generator for developer API integrations
