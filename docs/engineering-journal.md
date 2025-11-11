@@ -2295,3 +2295,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-10T19:29] feat(cart): add animated badge counter on navbar shopping cart icon
 
 - [2025-11-11T09:46] feat(admin): add customer management table with search and pagination
+
+- [2025-11-11T11:09] test(auth): add test cases for session persistence across browser reload
