@@ -2297,3 +2297,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-11T09:46] feat(admin): add customer management table with search and pagination
 
 - [2025-11-11T11:09] test(auth): add test cases for session persistence across browser reload
+
+- [2025-11-11T11:44] test(cart): add unit tests for discount percentage and subtotal math
