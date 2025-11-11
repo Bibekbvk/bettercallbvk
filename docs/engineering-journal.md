@@ -2299,3 +2299,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-11T11:09] test(auth): add test cases for session persistence across browser reload
 
 - [2025-11-11T11:44] test(cart): add unit tests for discount percentage and subtotal math
+
+- [2025-11-11T12:26] feat(seo): configure robots.txt directives and Google verification tag
