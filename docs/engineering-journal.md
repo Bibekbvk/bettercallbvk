@@ -2313,3 +2313,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-11T18:51] feat(marketplace): add category filter chips for AI models, templates, and plugins
 
 - [2025-11-13T10:30] feat(cart): add animated badge counter on navbar shopping cart icon
+
+- [2025-11-13T11:11] feat(admin): implement role-based access control (RBAC) guard on admin routes
