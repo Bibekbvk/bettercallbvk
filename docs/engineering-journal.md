@@ -2311,3 +2311,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-11T18:09] feat(ui): add magnetic cursor hover interaction for CTA buttons
 
 - [2025-11-11T18:51] feat(marketplace): add category filter chips for AI models, templates, and plugins
+
+- [2025-11-13T10:30] feat(cart): add animated badge counter on navbar shopping cart icon
