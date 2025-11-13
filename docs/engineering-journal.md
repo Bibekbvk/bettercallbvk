@@ -2317,3 +2317,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-13T11:11] feat(admin): implement role-based access control (RBAC) guard on admin routes
 
 - [2025-11-13T12:51] fix(images): add blur-up placeholder while hero banner image loads
+
+- [2025-11-13T14:09] feat(blog): add social sharing buttons for LinkedIn, Twitter, and WhatsApp
