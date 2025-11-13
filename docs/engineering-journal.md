@@ -2319,3 +2319,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-13T12:51] fix(images): add blur-up placeholder while hero banner image loads
 
 - [2025-11-13T14:09] feat(blog): add social sharing buttons for LinkedIn, Twitter, and WhatsApp
+
+- [2025-11-13T15:39] feat(blog): implement sticky table of contents with active heading spy
