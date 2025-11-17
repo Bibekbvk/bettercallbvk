@@ -2339,3 +2339,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-17T17:29] feat(admin): export transaction logs and order summary to CSV format
 
 - [2025-11-17T19:03] feat(checkout): integrate Fonepay dynamic QR code generation modal
+
+- [2025-11-17T20:26] fix(blog): escape angle brackets inside markdown code blocks
