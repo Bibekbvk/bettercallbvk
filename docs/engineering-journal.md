@@ -2327,3 +2327,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-17T10:01] feat(checkout): add eSewa wallet direct payment verification handler
 
 - [2025-11-17T10:51] docs(setup): update local environment variables configuration guide
+
+- [2025-11-17T12:16] fix(ui): correct z-index stacking context for modal overlay backdrop
