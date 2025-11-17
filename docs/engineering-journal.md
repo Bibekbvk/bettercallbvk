@@ -2331,3 +2331,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-17T12:16] fix(ui): correct z-index stacking context for modal overlay backdrop
 
 - [2025-11-17T13:29] feat(marketplace): implement real-time product search with keyword debouncing
+
+- [2025-11-17T15:20] fix(seo): enforce lowercase URLs in canonical links to prevent split rank
