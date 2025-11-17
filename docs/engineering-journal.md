@@ -2337,3 +2337,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-17T16:43] perf(bundle): dynamic import Recharts library to reduce initial JS payload
 
 - [2025-11-17T17:29] feat(admin): export transaction logs and order summary to CSV format
+
+- [2025-11-17T19:03] feat(checkout): integrate Fonepay dynamic QR code generation modal
