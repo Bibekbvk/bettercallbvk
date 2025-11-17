@@ -2333,3 +2333,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-17T13:29] feat(marketplace): implement real-time product search with keyword debouncing
 
 - [2025-11-17T15:20] fix(seo): enforce lowercase URLs in canonical links to prevent split rank
+
+- [2025-11-17T16:43] perf(bundle): dynamic import Recharts library to reduce initial JS payload
