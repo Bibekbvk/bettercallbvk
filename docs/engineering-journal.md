@@ -2329,3 +2329,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-17T10:51] docs(setup): update local environment variables configuration guide
 
 - [2025-11-17T12:16] fix(ui): correct z-index stacking context for modal overlay backdrop
+
+- [2025-11-17T13:29] feat(marketplace): implement real-time product search with keyword debouncing
