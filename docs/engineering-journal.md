@@ -2325,3 +2325,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-13T17:34] feat(ui): add accessible keyboard focus rings across all interactive elements
 
 - [2025-11-17T10:01] feat(checkout): add eSewa wallet direct payment verification handler
+
+- [2025-11-17T10:51] docs(setup): update local environment variables configuration guide
