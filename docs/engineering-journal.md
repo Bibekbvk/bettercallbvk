@@ -2343,3 +2343,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-17T20:26] fix(blog): escape angle brackets inside markdown code blocks
 
 - [2025-11-19T10:53] feat(auth): integrate Supabase Auth session listener with React Context
+
+- [2025-11-19T12:15] feat(cart): implement promotional coupon discount code validator
