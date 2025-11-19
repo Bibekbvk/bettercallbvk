@@ -2353,3 +2353,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-19T15:27] feat(auth): add email confirmation redirect handler and session sync route
 
 - [2025-11-19T17:07] feat(seo): add canonical URL tag generator to eliminate duplicate content
+
+- [2025-11-19T17:44] refactor(constants): centralize route URLs and navigation metadata
