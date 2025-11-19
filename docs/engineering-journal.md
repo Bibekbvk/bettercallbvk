@@ -2351,3 +2351,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-19T13:50] feat(profile): implement dark/light theme preference toggle synced to DB
 
 - [2025-11-19T15:27] feat(auth): add email confirmation redirect handler and session sync route
+
+- [2025-11-19T17:07] feat(seo): add canonical URL tag generator to eliminate duplicate content
