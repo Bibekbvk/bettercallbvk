@@ -2347,3 +2347,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-19T12:15] feat(cart): implement promotional coupon discount code validator
 
 - [2025-11-19T13:05] test(cart): add unit tests for discount percentage and subtotal math
+
+- [2025-11-19T13:50] feat(profile): implement dark/light theme preference toggle synced to DB
