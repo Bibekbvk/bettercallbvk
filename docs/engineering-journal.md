@@ -2365,3 +2365,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-20T14:30] feat(marketplace): implement quick-view modal for product specification details
 
 - [2025-11-20T15:54] fix(security): sanitize SVG uploads against embedded cross-site script payloads
+
+- [2025-11-20T17:24] feat(marketplace): add stock availability indicator and low-inventory warning
