@@ -2369,3 +2369,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-20T17:24] feat(marketplace): add stock availability indicator and low-inventory warning
 
 - [2025-11-20T19:12] refactor(components): extract reusable Modal, Dialog, and Backdrop primitives
+
+- [2025-11-20T19:59] feat(ui): implement responsive mobile drawer with backdrop blur
