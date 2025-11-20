@@ -2355,3 +2355,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-19T17:07] feat(seo): add canonical URL tag generator to eliminate duplicate content
 
 - [2025-11-19T17:44] refactor(constants): centralize route URLs and navigation metadata
+
+- [2025-11-20T10:43] refactor(auth): wrap Supabase client initialization in safe singleton pattern
