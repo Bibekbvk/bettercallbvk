@@ -2359,3 +2359,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-20T10:43] refactor(auth): wrap Supabase client initialization in safe singleton pattern
 
 - [2025-11-20T11:53] feat(seo): generate dynamic XML sitemap with lastmod timestamps
+
+- [2025-11-20T12:40] chore(deps): upgrade Next.js and React dependencies to latest security patches
