@@ -2385,3 +2385,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-21T15:19] fix(routing): prevent 404 flash on dynamic route initial pre-render
 
 - [2025-11-21T16:02] fix(auth): fix infinite redirect loop on expired refresh token
+
+- [2025-11-21T17:51] refactor(types): centralize Product, Order, and CartItem TypeScript interfaces
