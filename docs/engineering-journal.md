@@ -2375,3 +2375,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-20T20:42] feat(ui): implement smooth page fade transition with Framer Motion
 
 - [2025-11-20T22:25] feat(marketplace): implement customer reviews and 5-star rating breakdown
+
+- [2025-11-21T11:14] refactor(hooks): create custom useDebounce hook for search input optimization
