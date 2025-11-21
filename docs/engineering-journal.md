@@ -2381,3 +2381,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-21T11:51] feat(seo): implement dynamic OpenGraph and Twitter card metadata generator
 
 - [2025-11-21T13:37] feat(marketplace): support multi-currency display formatting (NPR and USD)
+
+- [2025-11-21T15:19] fix(routing): prevent 404 flash on dynamic route initial pre-render
