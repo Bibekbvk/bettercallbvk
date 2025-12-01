@@ -2389,3 +2389,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-21T17:51] refactor(types): centralize Product, Order, and CartItem TypeScript interfaces
 
 - [2025-12-01T11:06] feat(checkout): validate customer phone numbers for Nepal telecom operators
+
+- [2025-12-01T12:07] fix(checkout): handle network timeout exception during payment webhook call
