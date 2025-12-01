@@ -2405,3 +2405,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-01T19:27] fix(profile): provide fallback initial letter avatar when photo URL is empty
 
 - [2025-12-01T21:15] feat(blog): implement related articles algorithm based on shared tags
+
+- [2025-12-01T22:10] test(auth): add test cases for session persistence across browser reload
