@@ -2391,3 +2391,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-01T11:06] feat(checkout): validate customer phone numbers for Nepal telecom operators
 
 - [2025-12-01T12:07] fix(checkout): handle network timeout exception during payment webhook call
+
+- [2025-12-01T12:57] chore(lint): enable strict TypeScript linting rules across all route handlers
