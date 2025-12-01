@@ -2393,3 +2393,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-01T12:07] fix(checkout): handle network timeout exception during payment webhook call
 
 - [2025-12-01T12:57] chore(lint): enable strict TypeScript linting rules across all route handlers
+
+- [2025-12-01T14:48] perf(fonts): add font-display swap to optimize Google Fonts rendering speed
