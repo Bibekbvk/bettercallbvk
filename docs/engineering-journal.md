@@ -2399,3 +2399,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-01T15:46] feat(admin): implement product inventory manager with modal editor
 
 - [2025-12-01T17:32] refactor(admin): modularize admin charts into standalone presentational components
+
+- [2025-12-01T18:47] feat(seo): optimize title tags and meta descriptions for high CTR
