@@ -2409,3 +2409,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-01T22:10] test(auth): add test cases for session persistence across browser reload
 
 - [2025-12-01T22:25] feat(marketplace): display verified developer badge on trusted vendor products
+
+- [2025-12-01T22:35] feat(ui): integrate Aurora mesh gradient animated background
