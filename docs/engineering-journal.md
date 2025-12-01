@@ -2401,3 +2401,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-01T17:32] refactor(admin): modularize admin charts into standalone presentational components
 
 - [2025-12-01T18:47] feat(seo): optimize title tags and meta descriptions for high CTR
+
+- [2025-12-01T19:27] fix(profile): provide fallback initial letter avatar when photo URL is empty
