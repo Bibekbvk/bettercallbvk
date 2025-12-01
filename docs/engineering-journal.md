@@ -2387,3 +2387,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-11-21T16:02] fix(auth): fix infinite redirect loop on expired refresh token
 
 - [2025-11-21T17:51] refactor(types): centralize Product, Order, and CartItem TypeScript interfaces
+
+- [2025-12-01T11:06] feat(checkout): validate customer phone numbers for Nepal telecom operators
