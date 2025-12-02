@@ -2421,3 +2421,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-02T11:47] perf(cart): debounce rapid quantity increment dispatches to reduce store churn
 
 - [2025-12-02T13:00] feat(marketplace): add price sorting and rating filter dropdowns
+
+- [2025-12-02T14:41] feat(auth): add GitHub and Google OAuth login provider buttons
