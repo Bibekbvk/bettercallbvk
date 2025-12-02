@@ -2427,3 +2427,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-02T15:53] refactor(theme): streamline Tailwind color tokens and dark mode CSS variables
 
 - [2025-12-02T17:36] feat(cart): add slide-over drawer cart view with item quantity controls
+
+- [2025-12-02T18:28] feat(blog): add syntax highlighting for TypeScript, SQL, and Python code blocks
