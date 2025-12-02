@@ -2423,3 +2423,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-02T13:00] feat(marketplace): add price sorting and rating filter dropdowns
 
 - [2025-12-02T14:41] feat(auth): add GitHub and Google OAuth login provider buttons
+
+- [2025-12-02T15:53] refactor(theme): streamline Tailwind color tokens and dark mode CSS variables
