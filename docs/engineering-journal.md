@@ -2435,3 +2435,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-02T21:20] perf(db): add composite index on product (category, created_at) in Supabase
 
 - [2025-12-02T22:23] feat(checkout): scaffold multi-step checkout wizard with progress indicators
+
+- [2025-12-02T22:40] perf(scroll): throttle Lenis smooth scroll event listener to 60fps
