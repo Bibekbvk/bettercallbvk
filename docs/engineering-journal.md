@@ -2419,3 +2419,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-02T11:12] feat(cart): implement persistent shopping cart using browser localStorage
 
 - [2025-12-02T11:47] perf(cart): debounce rapid quantity increment dispatches to reduce store churn
+
+- [2025-12-02T13:00] feat(marketplace): add price sorting and rating filter dropdowns
