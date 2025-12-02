@@ -2413,3 +2413,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-01T22:35] feat(ui): integrate Aurora mesh gradient animated background
 
 - [2025-12-01T22:56] feat(marketplace): add related items recommendation carousel on product detail view
+
+- [2025-12-02T10:16] fix(cart): prevent quantity decrement below minimum allowable count of 1
