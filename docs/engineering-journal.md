@@ -2447,3 +2447,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-03T13:10] fix(checkout): disable purchase button while payment verification is pending
 
 - [2025-12-03T14:12] feat(ui): add animated counter component for live stats section
+
+- [2025-12-03T16:04] perf(render): wrap expensive marketplace filter logic in React useMemo
