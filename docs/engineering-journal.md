@@ -2451,3 +2451,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-03T16:04] perf(render): wrap expensive marketplace filter logic in React useMemo
 
 - [2025-12-03T17:06] perf(dom): remove unused DOM nodes from hidden mobile navigation
+
+- [2025-12-03T18:26] feat(checkout): implement downloadable asset token delivery on checkout success
