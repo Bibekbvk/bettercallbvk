@@ -2439,3 +2439,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-02T22:40] perf(scroll): throttle Lenis smooth scroll event listener to 60fps
 
 - [2025-12-03T10:58] docs(api): document Supabase Row Level Security (RLS) policies
+
+- [2025-12-03T11:38] perf(api): optimize Supabase SQL query to select only required projection columns
