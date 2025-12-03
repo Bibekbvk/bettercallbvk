@@ -2445,3 +2445,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-03T12:17] feat(auth): implement password strength meter on user registration form
 
 - [2025-12-03T13:10] fix(checkout): disable purchase button while payment verification is pending
+
+- [2025-12-03T14:12] feat(ui): add animated counter component for live stats section
