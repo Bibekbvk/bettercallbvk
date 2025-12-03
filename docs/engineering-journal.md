@@ -2441,3 +2441,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-03T10:58] docs(api): document Supabase Row Level Security (RLS) policies
 
 - [2025-12-03T11:38] perf(api): optimize Supabase SQL query to select only required projection columns
+
+- [2025-12-03T12:17] feat(auth): implement password strength meter on user registration form
