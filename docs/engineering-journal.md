@@ -2455,3 +2455,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-03T18:26] feat(checkout): implement downloadable asset token delivery on checkout success
 
 - [2025-12-05T11:03] fix(performance): cancel pending fetch controller on component unmount
+
+- [2025-12-05T12:32] perf(next): enable Turbopack compilation flags in development server
