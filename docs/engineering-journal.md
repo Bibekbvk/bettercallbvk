@@ -2461,3 +2461,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-05T14:17] refactor(utils): move currency, date, and string helpers to shared utils lib
 
 - [2025-12-05T15:25] feat(profile): display user purchased downloads and order history table
+
+- [2025-12-05T16:20] fix(cart): clear active cart items upon confirmed order completion
