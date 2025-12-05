@@ -2463,3 +2463,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-05T15:25] feat(profile): display user purchased downloads and order history table
 
 - [2025-12-05T16:20] fix(cart): clear active cart items upon confirmed order completion
+
+- [2025-12-05T17:53] feat(blog): scaffold engineering blog with category tags and reading time
