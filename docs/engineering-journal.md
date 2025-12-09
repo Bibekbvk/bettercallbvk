@@ -2469,3 +2469,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-05T19:00] feat(marketplace): add instant copy share link action with toast notification
 
 - [2025-12-05T20:29] feat(profile): add API key generator for developer API integrations
+
+- [2025-12-09T10:38] fix(admin): ensure numeric sorting order on product price column
