@@ -2481,3 +2481,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-09T14:52] fix(navbar): resolve backdrop-filter blur clipping on mobile Safari iOS
 
 - [2025-12-09T16:32] refactor(checkout): transition checkout workflow into typed state machine
+
+- [2025-12-09T17:27] feat(ui): add floating back-to-top button with scroll progress circle
