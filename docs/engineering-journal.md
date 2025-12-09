@@ -2475,3 +2475,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-09T11:22] fix(styles): fix flex wrap collision on small viewport filter chips
 
 - [2025-12-09T12:31] feat(ui): add interactive hover tilt effect to marketplace product cards
+
+- [2025-12-09T13:30] perf(cache): set immutable Cache-Control headers for static public assets
