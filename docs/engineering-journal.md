@@ -2477,3 +2477,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-09T12:31] feat(ui): add interactive hover tilt effect to marketplace product cards
 
 - [2025-12-09T13:30] perf(cache): set immutable Cache-Control headers for static public assets
+
+- [2025-12-09T14:52] fix(navbar): resolve backdrop-filter blur clipping on mobile Safari iOS
