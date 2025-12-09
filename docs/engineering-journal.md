@@ -2471,3 +2471,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-05T20:29] feat(profile): add API key generator for developer API integrations
 
 - [2025-12-09T10:38] fix(admin): ensure numeric sorting order on product price column
+
+- [2025-12-09T11:22] fix(styles): fix flex wrap collision on small viewport filter chips
