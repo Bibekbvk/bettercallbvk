@@ -2493,3 +2493,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-10T11:31] fix(auth): sanitize login email input to remove leading and trailing spaces
 
 - [2025-12-10T12:21] feat(ui): implement sound toggle micro-interaction on button click
+
+- [2025-12-10T13:10] feat(admin): add monthly sales breakdown bar chart and trend indicator
