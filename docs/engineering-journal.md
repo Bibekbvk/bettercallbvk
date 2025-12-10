@@ -2491,3 +2491,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-10T10:47] fix(contact): reset form state and show confirmation toast on successful send
 
 - [2025-12-10T11:31] fix(auth): sanitize login email input to remove leading and trailing spaces
+
+- [2025-12-10T12:21] feat(ui): implement sound toggle micro-interaction on button click
