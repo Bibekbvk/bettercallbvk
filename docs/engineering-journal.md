@@ -2489,3 +2489,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-09T19:51] feat(admin): add customer management table with search and pagination
 
 - [2025-12-10T10:47] fix(contact): reset form state and show confirmation toast on successful send
+
+- [2025-12-10T11:31] fix(auth): sanitize login email input to remove leading and trailing spaces
