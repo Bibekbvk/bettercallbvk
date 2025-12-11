@@ -2499,3 +2499,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-10T14:55] feat(admin): add system health and Supabase database latency monitor
 
 - [2025-12-11T10:12] feat(ui): add typewriter headline effect with configurable speed
+
+- [2025-12-11T10:58] feat(profile): allow user avatar upload and emergency contact update
