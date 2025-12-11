@@ -2503,3 +2503,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-11T10:58] feat(profile): allow user avatar upload and emergency contact update
 
 - [2025-12-11T12:15] feat(admin): build executive dashboard with Recharts revenue metrics
+
+- [2025-12-11T13:24] feat(checkout): add automated PDF receipt generation and email dispatch
