@@ -2509,3 +2509,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-11T14:27] feat(seo): add JSON-LD Product and BreadcrumbList structured data
 
 - [2025-12-11T15:03] test(utils): add unit tests for currency formatter edge cases
+
+- [2025-12-11T16:26] docs(architecture): document state management and checkout lifecycle
