@@ -2513,3 +2513,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-11T16:26] docs(architecture): document state management and checkout lifecycle
 
 - [2025-12-11T17:49] fix(db): handle null response gracefully when querying empty category
+
+- [2025-12-11T18:39] docs(deploy): document Firebase Hosting build and deploy checklist
