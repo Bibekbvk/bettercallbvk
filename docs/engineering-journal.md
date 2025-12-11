@@ -2507,3 +2507,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-11T13:24] feat(checkout): add automated PDF receipt generation and email dispatch
 
 - [2025-12-11T14:27] feat(seo): add JSON-LD Product and BreadcrumbList structured data
+
+- [2025-12-11T15:03] test(utils): add unit tests for currency formatter edge cases
