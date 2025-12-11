@@ -2497,3 +2497,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-10T13:10] feat(admin): add monthly sales breakdown bar chart and trend indicator
 
 - [2025-12-10T14:55] feat(admin): add system health and Supabase database latency monitor
+
+- [2025-12-11T10:12] feat(ui): add typewriter headline effect with configurable speed
