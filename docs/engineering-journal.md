@@ -2517,3 +2517,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-11T18:39] docs(deploy): document Firebase Hosting build and deploy checklist
 
 - [2025-12-18T11:03] feat(seo): configure robots.txt directives and Google verification tag
+
+- [2025-12-18T12:53] refactor(auth): wrap Supabase client initialization in safe singleton pattern
