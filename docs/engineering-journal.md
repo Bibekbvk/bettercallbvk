@@ -2525,3 +2525,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-18T15:05] feat(cart): implement persistent shopping cart using browser localStorage
 
 - [2025-12-18T16:34] perf(next): enable Turbopack compilation flags in development server
+
+- [2025-12-18T17:57] feat(marketplace): add instant copy share link action with toast notification
