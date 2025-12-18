@@ -2515,3 +2515,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-11T17:49] fix(db): handle null response gracefully when querying empty category
 
 - [2025-12-11T18:39] docs(deploy): document Firebase Hosting build and deploy checklist
+
+- [2025-12-18T11:03] feat(seo): configure robots.txt directives and Google verification tag
