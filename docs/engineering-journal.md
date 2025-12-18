@@ -2523,3 +2523,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-18T13:45] perf(api): optimize Supabase SQL query to select only required projection columns
 
 - [2025-12-18T15:05] feat(cart): implement persistent shopping cart using browser localStorage
+
+- [2025-12-18T16:34] perf(next): enable Turbopack compilation flags in development server
