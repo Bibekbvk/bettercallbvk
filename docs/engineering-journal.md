@@ -2527,3 +2527,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-18T16:34] perf(next): enable Turbopack compilation flags in development server
 
 - [2025-12-18T17:57] feat(marketplace): add instant copy share link action with toast notification
+
+- [2025-12-19T09:44] docs(architecture): document state management and checkout lifecycle
