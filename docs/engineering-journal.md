@@ -2531,3 +2531,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-19T09:44] docs(architecture): document state management and checkout lifecycle
 
 - [2025-12-19T10:50] fix(auth): fix infinite redirect loop on expired refresh token
+
+- [2025-12-19T11:40] feat(cart): add animated badge counter on navbar shopping cart icon
