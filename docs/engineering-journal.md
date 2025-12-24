@@ -2537,3 +2537,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-19T12:53] feat(marketplace): add stock availability indicator and low-inventory warning
 
 - [2025-12-24T10:03] fix(routing): prevent 404 flash on dynamic route initial pre-render
+
+- [2025-12-24T10:38] docs(setup): update local environment variables configuration guide
