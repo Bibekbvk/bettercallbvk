@@ -2543,3 +2543,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-24T12:33] feat(seo): generate dynamic XML sitemap with lastmod timestamps
 
 - [2025-12-24T13:58] feat(seo): optimize title tags and meta descriptions for high CTR
+
+- [2025-12-24T15:12] fix(checkout): handle network timeout exception during payment webhook call
