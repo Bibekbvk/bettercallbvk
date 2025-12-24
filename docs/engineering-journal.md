@@ -2545,3 +2545,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-24T13:58] feat(seo): optimize title tags and meta descriptions for high CTR
 
 - [2025-12-24T15:12] fix(checkout): handle network timeout exception during payment webhook call
+
+- [2025-12-24T16:52] fix(security): sanitize SVG uploads against embedded cross-site script payloads
