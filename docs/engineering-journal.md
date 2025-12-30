@@ -2547,3 +2547,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-24T15:12] fix(checkout): handle network timeout exception during payment webhook call
 
 - [2025-12-24T16:52] fix(security): sanitize SVG uploads against embedded cross-site script payloads
+
+- [2025-12-30T11:07] perf(cache): set immutable Cache-Control headers for static public assets
