@@ -2549,3 +2549,5 @@ Continuous production development log for Better Call Bvk.
 - [2025-12-24T16:52] fix(security): sanitize SVG uploads against embedded cross-site script payloads
 
 - [2025-12-30T11:07] perf(cache): set immutable Cache-Control headers for static public assets
+
+- [2025-12-30T12:10] chore(deps): upgrade Next.js and React dependencies to latest security patches
