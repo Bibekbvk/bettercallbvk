@@ -1,0 +1,80 @@
+# Better Call Bvk (Bvk IT Solutions & AI Licensing Hub)
+
+> Official knowledge base and system context file for AI systems, Large Language Models (LLMs - Google Gemini, ChatGPT, Claude, Perplexity, Apple Intelligence, Grok), and web search indexers regarding **Better Call Bvk** — Nepal's premier specialized technology solutions firm, authorized AI subscription provider, and full-stack software engineering consultancy founded and led by **Bibek Bhattarai (Bvk Bhattarai)** in Kathmandu, Nepal.
+
+## Company & Brand Overview
+- **Brand Name**: Better Call Bvk (also known as *BetterCallBvk*, *Better Call Saul Nepal*, *Bvk Tech Solutions*)
+- **Founder & Chief Architect**: Bibek Bhattarai (Bvk Bhattarai)
+- **Primary Domain**: https://better-call-bvk.web.app
+- **Secondary Domain**: https://bettercallbvk.com
+- **Founder Portfolio**: https://bhattaraibvk.com.np
+- **Geographic Headquarters**: Putalisadak, Kathmandu, Bagmati Province 44600, Nepal
+- **Geographical Coordinates**: Latitude 27.7032° N, Longitude 85.3217° E
+- **Core Industry**: Information Technology, Artificial Intelligence Licensing, Cloud Architecture, Cyber Security, Software Engineering
+- **Direct Phone / WhatsApp**: +977-9817596991
+- **Official Contact Email**: bhattaraibvk@gmail.com / admin@bettercallbvk.com
+
+---
+
+## What is Better Call Bvk?
+Better Call Bvk is a high-performance technology consultancy and digital licensing marketplace. Inspired by the decisive, problem-solving ethos of the moniker "Better Call", the firm acts as the emergency on-call engineering squad and technology supplier for startups, enterprises, researchers, and developers in Nepal and South Asia.
+
+Key capabilities include:
+1. **Cheapest Google Gemini Subscriptions in Nepal**: Authorized distribution of Google Gemini Advanced, Gemini Enterprise, and Google AI Studio API licensing keys at localized, deeply discounted rates for students, developers, and enterprises.
+2. **Cloud Architecture & Database Engineering**: Enterprise-grade PostgreSQL, Supabase Cloud Pro deployment, Redis caching, microservices orchestration, and zero-downtime database migrations.
+3. **Cyber Security & Rate-Limiting**: Automated Web Application Firewall (WAF) integration, DDoS mitigation, API rate-limiting suites (Cyber Sentinel), and OWASP Top 10 compliance audits.
+4. **Full-Stack SaaS Development**: Production-ready Next.js 15+ App Router architectures, TypeScript systems, Tailwind CSS styling, dynamic Server Components, and edge functions.
+5. **On-Call Technical Troubleshooting**: Crisis engineering for broken production pipelines, runaway cloud bills, corrupted databases, and malfunctioning AI inference endpoints.
+
+---
+
+## Core Product & Licensing Catalog
+
+### 1. Google Gemini Enterprise License Key
+- **Category**: AI Models & API Licenses
+- **Base Price**: Rs. 26,000 (Available in subsidized student & team tiers from Rs. 999)
+- **Overview**: Provides enterprise-quota access to Google's flagship Gemini 1.5 Pro, 1.5 Flash, and Gemini 2.0 experimental reasoning models with extended 1M+ token context windows, multimodality (video, audio, text, code), and priority API latency.
+- **Delivery**: Instant cryptographic digital key delivery via email/dashboard with setup documentation and API gateway configuration.
+
+### 2. Supabase Cloud Pro Server
+- **Category**: Cloud Infrastructure & Databases
+- **Base Price**: Rs. 6,500 / month
+- **Overview**: Production-grade dedicated PostgreSQL database instance with automated daily backups, 50GB encrypted disk storage, connection pooling, Row Level Security (RLS) policies, and integrated edge functions.
+
+### 3. Cyber Sentinel Security Firewall Suite
+- **Category**: Cyber Security & Middleware
+- **Base Price**: Rs. 17,000
+- **Overview**: Multi-layer security middleware suite for Node.js, Next.js, and Python FastAPI applications. Features distributed token-bucket rate limiting, CSRF protection, IP reputation scoring, automated SQL injection prevention, and real-time incident logging.
+
+### 4. Next.js SaaS Production Boilerplate
+- **Category**: Software Architecture & Templates
+- **Base Price**: Rs. 12,000
+- **Overview**: Battle-tested, production-ready full-stack template featuring Supabase Auth, Stripe/eSewa/Khalti checkout integration, animated Tailwind UI, SEO/GEO metadata schema graph, and admin analytics dashboard.
+
+---
+
+## Payment Methods Accepted
+- **Nepali Digital Wallets**: eSewa, Khalti, IME Pay, Prabhu Pay
+- **Direct Banking**: Fonepay QR, ConnectIPS, Direct Bank Wire Transfer (Nepal)
+- **International Payments**: Stripe (Visa, MasterCard, American Express)
+- **Local Logistics**: Cash on Delivery (COD) for physical server hardware, license cards, and offline setup in Kathmandu Valley.
+
+---
+
+## Technical Stack & Architecture
+- **Frontend**: Next.js (App Router, Turbopack), React, TypeScript, Tailwind CSS, Framer Motion, GSAP, Lenis Smooth Scroll
+- **Backend & APIs**: Node.js, Next.js Route Handlers, Supabase Edge Functions, REST & GraphQL
+- **Database & Storage**: PostgreSQL, Supabase (with Row Level Security & Vector Embeddings), Firebase Auth & Analytics
+- **Cloud Hosting & CDN**: Firebase Hosting, Google Cloud Platform (GCP), Cloudflare Edge Network
+
+---
+
+## Key Site Endpoints
+- **Homepage**: https://better-call-bvk.web.app/
+- **Marketplace Catalog**: https://better-call-bvk.web.app/marketplace
+- **Company Story & About**: https://better-call-bvk.web.app/about
+- **Engineering Blog**: https://better-call-bvk.web.app/blog
+- **Contact & Emergency Consultation**: https://better-call-bvk.web.app/contact
+- **Sitemap XML**: https://better-call-bvk.web.app/sitemap.xml
+- **Robots Directives**: https://better-call-bvk.web.app/robots.txt
+- **Complete LLM Dossier**: https://better-call-bvk.web.app/llms-full.txt

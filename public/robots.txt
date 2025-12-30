@@ -1,0 +1,50 @@
+# Robots.txt for Better Call Bvk (https://better-call-bvk.web.app)
+# Designed for Optimal SEO, Googlebot, Bingbot, and Generative AI (GEO) Crawlers
+
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /admin/
+Disallow: /api/checkout
+Disallow: /checkout/success
+
+# Generative Engine Optimization (GEO) - Explicit AI Agent Access
+User-agent: GPTBot
+Allow: /
+Disallow: /admin/
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Canonical Sitemaps & Knowledge Base
+Sitemap: https://better-call-bvk.web.app/sitemap.xml
+
+# LLM & AI Knowledge Base
+# See https://better-call-bvk.web.app/llms.txt for AI assistant context

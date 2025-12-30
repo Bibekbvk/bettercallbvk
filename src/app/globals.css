@@ -1,0 +1,101 @@
+@import "tailwindcss";
+
+:root {
+  /* Styled according to uploaded BVK Pop-Art retro yellow/red/black theme */
+  --background: #0B0B0E;
+  --foreground: #EDEFF5;
+  --card-bg: rgba(22, 22, 30, 0.7);
+  --border-glow: rgba(252, 209, 22, 0.2);
+  
+  /* Primary maps to Bvk Yellow (#FCD116) and Accent to Bvk Red (#D90429) */
+  --primary: 48 98% 53%;
+  --primary-hover: 48 98% 46%;
+  --cyan-accent: 48 98% 53%; /* Maps to BVK Yellow */
+  --purple-accent: 355 96% 47%; /* Maps to BVK Red */
+  --text-muted: 220 10% 70%;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card-bg);
+  --color-cyan: hsl(var(--cyan-accent)); /* Styled as Bvk Yellow */
+  --color-purple: hsl(var(--purple-accent)); /* Styled as Bvk Red */
+  --font-sans: var(--font-inter);
+  --font-display: var(--font-space-grotesk);
+  --font-mono: var(--font-jetbrains-mono);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-inter), sans-serif;
+  overflow-x: hidden;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #0B0B0E;
+}
+::-webkit-scrollbar-thumb {
+  background: #22222E;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #FCD116;
+}
+
+/* Custom Utilities & Animations */
+.glass-panel {
+  background: rgba(22, 22, 30, 0.75);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.glow-card {
+  transition: border 0.3s ease, box-shadow 0.3s ease;
+}
+.glow-card:hover {
+  border-color: rgba(252, 209, 22, 0.5);
+  box-shadow: 0 0 20px rgba(252, 209, 22, 0.15);
+}
+
+.glow-text-cyan {
+  text-shadow: 0 0 10px rgba(252, 209, 22, 0.6);
+}
+
+.glow-text-purple {
+  text-shadow: 0 0 10px rgba(217, 4, 41, 0.6);
+}
+
+/* Typewriter animation */
+.typewriter-cursor {
+  display: inline-block;
+  width: 3px;
+  background-color: currentColor;
+  margin-left: 2px;
+  animation: blink 0.8s infinite;
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+/* Lenis Smooth Scroll resets */
+html.lenis, html.lenis body {
+  height: auto;
+}
+.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+.lenis-smooth [data-lenis-prevent] {
+  overflow: clip;
+}
+.lenis-smooth iframe {
+  pointer-events: none;
+}
